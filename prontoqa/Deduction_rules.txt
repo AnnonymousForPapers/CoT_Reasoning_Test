@@ -1,0 +1,3 @@
+AVAILABLE_DEDUCTION_RULES = ["ModusPonens", "AndIntro", "AndElim", "OrIntro", "OrElim", "ProofByContra", "Composed"]
+
+--deduction-rule
