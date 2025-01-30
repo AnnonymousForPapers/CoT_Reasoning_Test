@@ -1,0 +1,58 @@
+Correct steps: 779
+Total steps: 822
+Correct steps ratio: 0.9476885644768857
+Non-atomic steps ratio: 0.006082725060827251
+Skip steps ratio: 0.0
+Invalid steps ratio: 0.046228710462287104
+Correct and useful steps ratio: 0.6386861313868614
+Unparseable steps ratio: 0.0024330900243309003
+Incorrect steps ratio: 0.046228710462287104
+Perplexity sample mean: nan
+Perplexity sample std dev: nan
+Number of examples: 100
+Number of correct proof: 50
+Proportion of proofs that contain the correct proof: 0.5
+Proportion of proofs that only contain correct, non-atomic, or skip steps: 0.75
+Proportion of correct proofs that contain a "useless branch":          0.0
+Proportion of correct proofs that contain a "useful skip step":        0.0
+Proportion of correct proofs that contain a "useless skip step":       0.0
+Proportion of correct proofs that contain a "useful non-atomic step":  0.02
+Proportion of correct proofs that contain a "useless non-atomic step": 0.0
+Proportion of correct proofs that contain an "invalid step":           0.1
+Proportion of correct proofs that contain a "useless branch" AND "useful non-atomic step": 0.0
+Proportion of correct proofs that contain a "useless branch" AND "useless non-atomic step": 0.0
+Proportion of correct proofs that contain a "useless branch" AND "invalid step": 0.0
+Proportion of correct proofs that contain a "useless branch" AND "useful non-atomic step" AND "invalid step": 0.0
+Proportion of correct proofs with ANY OF THE ABOVE:                    0.16
+Proportion of incorrect proofs that contain a "useless branch":          0.0
+Proportion of incorrect proofs that contain a "useful skip step":        0.0
+Proportion of incorrect proofs that contain a "useless skip step":       0.0
+Proportion of incorrect proofs that contain a "useful non-atomic step":  0.0
+Proportion of incorrect proofs that contain a "useless non-atomic step": 0.0
+Proportion of incorrect proofs that contain an "invalid step":           0.34
+Proportion of incorrect proofs that contain a "useless branch" AND "useful non-atomic step": 0.0
+Proportion of incorrect proofs that contain a "useless branch" AND "useless non-atomic step": 0.0
+Proportion of incorrect proofs that contain a "useless branch" AND "invalid step": 0.0
+Proportion of incorrect proofs that contain a "useless branch" AND "useful non-atomic step" AND "invalid step": 0.0
+Proportion of incorrect proofs with ANY OF THE ABOVE:                    0.36
+
+Proportion of ALL proofs that are strictly correct: 0.47
+Proportion of ALL proofs that would be correct if "skip steps" are considered correct: 0.47
+Proportion of ALL proofs that would be correct if "non-atomic steps" are considered correct: 0.5
+Proportion of ALL proofs that would be correct if both "skip steps" and "non-atomic steps" are considered correct: 0.5
+
+Proportion of correct proofs where the "useless branch" is the first mistake: 0.0
+Proportion of correct proofs where the "useful skip step" is the first mistake: 0.0
+Proportion of correct proofs where the "useless skip step" is the first mistake: 0.0
+Proportion of correct proofs where the "useful non-atomic step" is the first mistake: 0.02
+Proportion of correct proofs where the "useless non-atomic step" is the first mistake: 0.0
+Proportion of correct proofs where the "invalid step" is the first mistake: 0.14
+Proportion of incorrect proofs where the "useless branch" is the first mistake: 0.0
+Proportion of incorrect proofs where the "useful skip step" is the first mistake: 0.0
+Proportion of incorrect proofs where the "useless skip step" is the first mistake: 0.0
+Proportion of incorrect proofs where the "useful non-atomic step" is the first mistake: 0.0
+Proportion of incorrect proofs where the "useless non-atomic step" is the first mistake: 0.0
+Proportion of incorrect proofs where the "invalid step" is the first mistake: 0.36
+incorrect_proof_ids_with_skip_steps: [1, 2, 4, 6, 7, 8, 13, 14, 15, 21, 24, 28, 29, 30, 31, 32, 35, 36, 37, 40, 44, 46, 49, 51, 52, 53, 57, 58, 59, 60, 62, 67, 68, 69, 71, 72, 73, 75, 76, 78, 79, 82, 83, 84, 85, 86, 87, 90, 91, 93, 94, 95, 98]
+incorrect_proof_ids_with_skip_or_non_atomic_steps: [1, 2, 4, 6, 7, 8, 13, 14, 15, 21, 24, 28, 29, 30, 31, 32, 35, 36, 37, 40, 44, 46, 49, 51, 52, 53, 57, 58, 59, 60, 62, 67, 68, 69, 72, 73, 75, 76, 78, 79, 82, 83, 84, 85, 86, 87, 90, 91, 93, 98]
+incorrect_proof_ids_with_skip_or_non_atomic_steps \ incorrect_proof_ids_with_skip_steps: [71, 94, 95]
