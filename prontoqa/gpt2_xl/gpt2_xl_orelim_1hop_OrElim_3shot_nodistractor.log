@@ -1,0 +1,4888 @@
+Q: Lempuses are jompuses. Grimpuses are jompuses. Alex is a lempus or a grimpus. Prove: Alex is a jompus.
+
+A: Assume Alex is a lempus. Lempuses are jompuses. Alex is a jompus.
+
+ Assume Alex is a grimpus. Grimpuses are jompuses. Alex is a jompus.
+
+ Since Alex is a lempus or a grimpus, Alex is a jompus.
+
+
+Q: Every sterpus is a gorpus. Lempuses are gorpuses. Sally is a sterpus or a lempus. Prove: Sally is a gorpus.
+
+A: Assume Sally is a sterpus. Every sterpus is a gorpus. Sally is a gorpus.
+
+ Assume Sally is a lempus. Lempuses are gorpuses. Sally is a gorpus.
+
+ Since Sally is a sterpus or a lempus, Sally is a gorpus.
+
+
+Q: Shumpuses are jompuses. Rompuses are jompuses. Sally is a shumpus or a rompus. Prove: Sally is a jompus.
+
+A: Assume Sally is a shumpus. Shumpuses are jompuses. Sally is a jompus.
+
+ Assume Sally is a rompus. Rompuses are jompuses. Sally is a jompus.
+
+ Since Sally is a shumpus or a rompus, Sally is a jompus.
+
+
+Q: Jompuses are yumpuses. Each impus is a yumpus. Max is a jompus or an impus. Prove: Max is a yumpus.
+
+A:
+
+Predicted answer: Assume Max is a yumpus. Jompuses are yumpuses. Max is a yumpus.
+
+
+ Assume Max is a jompus. Jompuses are yumpuses. Max is a yumpus.
+
+
+
+
+Expected answer: Assume Max is a jompus. Jompuses are yumpuses. Max is a yumpus.
+
+ Assume Max is an impus. Each impus is a yumpus. Max is a yumpus.
+
+ Since Max is a jompus or an impus, Max is a yumpus.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Yumpuses are numpuses. Every shumpus is a numpus. Wren is a yumpus or a shumpus. Prove: Wren is a numpus.
+
+A: Assume Wren is a yumpus. Yumpuses are numpuses. Wren is a numpus.
+
+ Assume Wren is a shumpus. Every shumpus is a numpus. Wren is a numpus.
+
+ Since Wren is a yumpus or a shumpus, Wren is a numpus.
+
+
+Q: Jompuses are lorpuses. Each wumpus is a lorpus. Max is a jompus or a wumpus. Prove: Max is a lorpus.
+
+A: Assume Max is a jompus. Jompuses are lorpuses. Max is a lorpus.
+
+ Assume Max is a wumpus. Each wumpus is a lorpus. Max is a lorpus.
+
+ Since Max is a jompus or a wumpus, Max is a lorpus.
+
+
+Q: Each lempus is a vumpus. Each grimpus is a vumpus. Max is a lempus or a grimpus. Prove: Max is a vumpus.
+
+A: Assume Max is a lempus. Each lempus is a vumpus. Max is a vumpus.
+
+ Assume Max is a grimpus. Each grimpus is a vumpus. Max is a vumpus.
+
+ Since Max is a lempus or a grimpus, Max is a vumpus.
+
+
+Q: Every impus is a wumpus. Every numpus is a wumpus. Polly is an impus or a numpus. Prove: Polly is a wumpus.
+
+A:
+
+Predicted answer: Assume Polly is a wumpus. Every impus is a wumpus. Polly is a wumpus.
+
+
+ Assume Polly is a numpus. Every numpus is a wumpus. Polly is a wumpus.
+
+
+
+
+Expected answer: Assume Polly is an impus. Every impus is a wumpus. Polly is a wumpus.
+
+ Assume Polly is a numpus. Every numpus is a wumpus. Polly is a wumpus.
+
+ Since Polly is an impus or a numpus, Polly is a wumpus.
+n: 2, (beta prior) mean: 0.25, 95% lower bound: 0.008403758659612636, 95% upper bound: 0.7075982261787133, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each shumpus is a zumpus. Yumpuses are zumpuses. Sam is a shumpus or a yumpus. Prove: Sam is a zumpus.
+
+A: Assume Sam is a shumpus. Each shumpus is a zumpus. Sam is a zumpus.
+
+ Assume Sam is a yumpus. Yumpuses are zumpuses. Sam is a zumpus.
+
+ Since Sam is a shumpus or a yumpus, Sam is a zumpus.
+
+
+Q: Rompuses are lempuses. Every numpus is a lempus. Stella is a rompus or a numpus. Prove: Stella is a lempus.
+
+A: Assume Stella is a rompus. Rompuses are lempuses. Stella is a lempus.
+
+ Assume Stella is a numpus. Every numpus is a lempus. Stella is a lempus.
+
+ Since Stella is a rompus or a numpus, Stella is a lempus.
+
+
+Q: Lorpuses are tumpuses. Each impus is a tumpus. Stella is a lorpus or an impus. Prove: Stella is a tumpus.
+
+A: Assume Stella is a lorpus. Lorpuses are tumpuses. Stella is a tumpus.
+
+ Assume Stella is an impus. Each impus is a tumpus. Stella is a tumpus.
+
+ Since Stella is a lorpus or an impus, Stella is a tumpus.
+
+
+Q: Each impus is a shumpus. Gorpuses are shumpuses. Stella is an impus or a gorpus. Prove: Stella is a shumpus.
+
+A:
+
+Predicted answer: Assume Stella is a shumpus. Each impus is a shumpus. Stella is a shumpus.
+
+
+ Assume Stella is a gorpus. Each gorpus is a shumpus. Stella is a shumpus.
+
+
+ Since Stella is a gorpus or a shumpus, Stella is a shumpus.
+
+
+
+
+Expected answer: Assume Stella is an impus. Each impus is a shumpus. Stella is a shumpus.
+
+ Assume Stella is a gorpus. Gorpuses are shumpuses. Stella is a shumpus.
+
+ Since Stella is an impus or a gorpus, Stella is a shumpus.
+n: 3, (beta prior) mean: 0.2, 95% lower bound: 0.006309463209709866, 95% upper bound: 0.6023646356164746, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Sterpuses are gorpuses. Tumpuses are gorpuses. Sally is a sterpus or a tumpus. Prove: Sally is a gorpus.
+
+A: Assume Sally is a sterpus. Sterpuses are gorpuses. Sally is a gorpus.
+
+ Assume Sally is a tumpus. Tumpuses are gorpuses. Sally is a gorpus.
+
+ Since Sally is a sterpus or a tumpus, Sally is a gorpus.
+
+
+Q: Vumpuses are jompuses. Each dumpus is a jompus. Fae is a vumpus or a dumpus. Prove: Fae is a jompus.
+
+A: Assume Fae is a vumpus. Vumpuses are jompuses. Fae is a jompus.
+
+ Assume Fae is a dumpus. Each dumpus is a jompus. Fae is a jompus.
+
+ Since Fae is a vumpus or a dumpus, Fae is a jompus.
+
+
+Q: Dumpuses are impuses. Each vumpus is an impus. Sam is a dumpus or a vumpus. Prove: Sam is an impus.
+
+A: Assume Sam is a dumpus. Dumpuses are impuses. Sam is an impus.
+
+ Assume Sam is a vumpus. Each vumpus is an impus. Sam is an impus.
+
+ Since Sam is a dumpus or a vumpus, Sam is an impus.
+
+
+Q: Dumpuses are shumpuses. Rompuses are shumpuses. Stella is a dumpus or a rompus. Prove: Stella is a shumpus.
+
+A:
+
+Predicted answer: Assume Stella is a shumpus. Dumpuses are shumpuses. Stella is a shumpus.
+
+ Assume Stella is a rompus. Each rompus is a shumpus. Stella is a shumpus.
+
+ Since Stella is a rompus or a rompus, Stella is a shumpus.
+
+
+
+
+Expected answer: Assume Stella is a dumpus. Dumpuses are shumpuses. Stella is a shumpus.
+
+ Assume Stella is a rompus. Rompuses are shumpuses. Stella is a shumpus.
+
+ Since Stella is a dumpus or a rompus, Stella is a shumpus.
+n: 4, (beta prior) mean: 0.16666666666666666, 95% lower bound: 0.0050507633794680575, 95% upper bound: 0.5218237501049814, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Vumpuses are dumpuses. Sterpuses are dumpuses. Sally is a vumpus or a sterpus. Prove: Sally is a dumpus.
+
+A: Assume Sally is a vumpus. Vumpuses are dumpuses. Sally is a dumpus.
+
+ Assume Sally is a sterpus. Sterpuses are dumpuses. Sally is a dumpus.
+
+ Since Sally is a vumpus or a sterpus, Sally is a dumpus.
+
+
+Q: Every brimpus is a dumpus. Shumpuses are dumpuses. Fae is a brimpus or a shumpus. Prove: Fae is a dumpus.
+
+A: Assume Fae is a brimpus. Every brimpus is a dumpus. Fae is a dumpus.
+
+ Assume Fae is a shumpus. Shumpuses are dumpuses. Fae is a dumpus.
+
+ Since Fae is a brimpus or a shumpus, Fae is a dumpus.
+
+
+Q: Every lempus is a rompus. Vumpuses are rompuses. Fae is a lempus or a vumpus. Prove: Fae is a rompus.
+
+A: Assume Fae is a lempus. Every lempus is a rompus. Fae is a rompus.
+
+ Assume Fae is a vumpus. Vumpuses are rompuses. Fae is a rompus.
+
+ Since Fae is a lempus or a vumpus, Fae is a rompus.
+
+
+Q: Shumpuses are numpuses. Each wumpus is a numpus. Stella is a shumpus or a wumpus. Prove: Stella is a numpus.
+
+A:
+
+Predicted answer: Assume Stella is a numpus. Each wumpus is a numpus. Stella is a numpus.
+
+
+ Assume Stella is a wumpus. Shumpuses are numpuses. Stella is a numpus.
+
+
+ Since Stella is a wumpus or a shumpus, Stella is a numpus.
+
+
+
+
+Expected answer: Assume Stella is a shumpus. Shumpuses are numpuses. Stella is a numpus.
+
+ Assume Stella is a wumpus. Each wumpus is a numpus. Stella is a numpus.
+
+ Since Stella is a shumpus or a wumpus, Stella is a numpus.
+n: 5, (beta prior) mean: 0.14285714285714285, 95% lower bound: 0.00421074451448947, 95% upper bound: 0.4592581264399005, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Numpuses are lempuses. Lorpuses are lempuses. Max is a numpus or a lorpus. Prove: Max is a lempus.
+
+A: Assume Max is a numpus. Numpuses are lempuses. Max is a lempus.
+
+ Assume Max is a lorpus. Lorpuses are lempuses. Max is a lempus.
+
+ Since Max is a numpus or a lorpus, Max is a lempus.
+
+
+Q: Sterpuses are rompuses. Shumpuses are rompuses. Stella is a sterpus or a shumpus. Prove: Stella is a rompus.
+
+A: Assume Stella is a sterpus. Sterpuses are rompuses. Stella is a rompus.
+
+ Assume Stella is a shumpus. Shumpuses are rompuses. Stella is a rompus.
+
+ Since Stella is a sterpus or a shumpus, Stella is a rompus.
+
+
+Q: Impuses are lorpuses. Each yumpus is a lorpus. Fae is an impus or a yumpus. Prove: Fae is a lorpus.
+
+A: Assume Fae is an impus. Impuses are lorpuses. Fae is a lorpus.
+
+ Assume Fae is a yumpus. Each yumpus is a lorpus. Fae is a lorpus.
+
+ Since Fae is an impus or a yumpus, Fae is a lorpus.
+
+
+Q: Every vumpus is an impus. Every tumpus is an impus. Wren is a vumpus or a tumpus. Prove: Wren is an impus.
+
+A:
+
+Predicted answer: Assume Wren is a vumpus. Every vumpus is an impus. Wren is a vumpus.
+
+
+ Assume Wren is a tumpus. Every tumpus is an impus. Wren is a tumpus.
+
+
+ Since Wren is an impus or a tumpus, Wren is a vumpus.
+
+
+
+
+Expected answer: Assume Wren is a vumpus. Every vumpus is an impus. Wren is an impus.
+
+ Assume Wren is a tumpus. Every tumpus is an impus. Wren is an impus.
+
+ Since Wren is a vumpus or a tumpus, Wren is an impus.
+n: 6, (beta prior) mean: 0.125, 95% lower bound: 0.0036102968619005833, 95% upper bound: 0.4096163972250034, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each lempus is a grimpus. Each numpus is a grimpus. Sally is a lempus or a numpus. Prove: Sally is a grimpus.
+
+A: Assume Sally is a lempus. Each lempus is a grimpus. Sally is a grimpus.
+
+ Assume Sally is a numpus. Each numpus is a grimpus. Sally is a grimpus.
+
+ Since Sally is a lempus or a numpus, Sally is a grimpus.
+
+
+Q: Each numpus is a grimpus. Every rompus is a grimpus. Wren is a numpus or a rompus. Prove: Wren is a grimpus.
+
+A: Assume Wren is a numpus. Each numpus is a grimpus. Wren is a grimpus.
+
+ Assume Wren is a rompus. Every rompus is a grimpus. Wren is a grimpus.
+
+ Since Wren is a numpus or a rompus, Wren is a grimpus.
+
+
+Q: Each rompus is a yumpus. Every jompus is a yumpus. Stella is a rompus or a jompus. Prove: Stella is a yumpus.
+
+A: Assume Stella is a rompus. Each rompus is a yumpus. Stella is a yumpus.
+
+ Assume Stella is a jompus. Every jompus is a yumpus. Stella is a yumpus.
+
+ Since Stella is a rompus or a jompus, Stella is a yumpus.
+
+
+Q: Dumpuses are brimpuses. Zumpuses are brimpuses. Wren is a dumpus or a zumpus. Prove: Wren is a brimpus.
+
+A:
+
+Predicted answer: Assume Wren is a dumpus. Each dumpus is a brimpus. Wren is a brimpus.
+
+ Assume Wren is a zumpus. Each zumpus is a brimpus. Wren is a brimpus.
+
+ Since Wren is a dumpus or a zumpus, Wren is a brimpus.
+
+
+
+
+Expected answer: Assume Wren is a dumpus. Dumpuses are brimpuses. Wren is a brimpus.
+
+ Assume Wren is a zumpus. Zumpuses are brimpuses. Wren is a brimpus.
+
+ Since Wren is a dumpus or a zumpus, Wren is a brimpus.
+n: 7, (beta prior) mean: 0.1111111111111111, 95% lower bound: 0.0031597235312519063, 95% upper bound: 0.3694166475528192, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Zumpuses are gorpuses. Every numpus is a gorpus. Wren is a zumpus or a numpus. Prove: Wren is a gorpus.
+
+A: Assume Wren is a zumpus. Zumpuses are gorpuses. Wren is a gorpus.
+
+ Assume Wren is a numpus. Every numpus is a gorpus. Wren is a gorpus.
+
+ Since Wren is a zumpus or a numpus, Wren is a gorpus.
+
+
+Q: Every yumpus is a lempus. Tumpuses are lempuses. Sally is a yumpus or a tumpus. Prove: Sally is a lempus.
+
+A: Assume Sally is a yumpus. Every yumpus is a lempus. Sally is a lempus.
+
+ Assume Sally is a tumpus. Tumpuses are lempuses. Sally is a lempus.
+
+ Since Sally is a yumpus or a tumpus, Sally is a lempus.
+
+
+Q: Brimpuses are vumpuses. Jompuses are vumpuses. Polly is a brimpus or a jompus. Prove: Polly is a vumpus.
+
+A: Assume Polly is a brimpus. Brimpuses are vumpuses. Polly is a vumpus.
+
+ Assume Polly is a jompus. Jompuses are vumpuses. Polly is a vumpus.
+
+ Since Polly is a brimpus or a jompus, Polly is a vumpus.
+
+
+Q: Each vumpus is a gorpus. Each dumpus is a gorpus. Stella is a vumpus or a dumpus. Prove: Stella is a gorpus.
+
+A:
+
+Predicted answer: Assume Stella is a gorpus. Each vumpus is a gorpus. Stella is a gorpus.
+
+
+ Assume Stella is a dumpus. Each dumpus is a gorpus. Stella is a gorpus.
+
+
+ Since Stella is a gorpus or a dumpus, Stella is a gorpus.
+
+
+
+
+Expected answer: Assume Stella is a vumpus. Each vumpus is a gorpus. Stella is a gorpus.
+
+ Assume Stella is a dumpus. Each dumpus is a gorpus. Stella is a gorpus.
+
+ Since Stella is a vumpus or a dumpus, Stella is a gorpus.
+n: 8, (beta prior) mean: 0.1, 95% lower bound: 0.0028091367465992146, 95% upper bound: 0.3362671168799428, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every jompus is a dumpus. Each tumpus is a dumpus. Stella is a jompus or a tumpus. Prove: Stella is a dumpus.
+
+A: Assume Stella is a jompus. Every jompus is a dumpus. Stella is a dumpus.
+
+ Assume Stella is a tumpus. Each tumpus is a dumpus. Stella is a dumpus.
+
+ Since Stella is a jompus or a tumpus, Stella is a dumpus.
+
+
+Q: Gorpuses are lorpuses. Yumpuses are lorpuses. Max is a gorpus or a yumpus. Prove: Max is a lorpus.
+
+A: Assume Max is a gorpus. Gorpuses are lorpuses. Max is a lorpus.
+
+ Assume Max is a yumpus. Yumpuses are lorpuses. Max is a lorpus.
+
+ Since Max is a gorpus or a yumpus, Max is a lorpus.
+
+
+Q: Every lorpus is a zumpus. Every sterpus is a zumpus. Sally is a lorpus or a sterpus. Prove: Sally is a zumpus.
+
+A: Assume Sally is a lorpus. Every lorpus is a zumpus. Sally is a zumpus.
+
+ Assume Sally is a sterpus. Every sterpus is a zumpus. Sally is a zumpus.
+
+ Since Sally is a lorpus or a sterpus, Sally is a zumpus.
+
+
+Q: Sterpuses are jompuses. Wumpuses are jompuses. Rex is a sterpus or a wumpus. Prove: Rex is a jompus.
+
+A:
+
+Predicted answer: Assume Rex is a jompus. Sterpuses are jompuses. Rex is a jompus.
+
+
+ Assume Rex is a wumpus. Wumpuses are jompuses. Rex is a jompus.
+
+
+ Since Rex is a wumpus or a jompus, Rex is a jompus.
+
+
+
+
+Expected answer: Assume Rex is a sterpus. Sterpuses are jompuses. Rex is a jompus.
+
+ Assume Rex is a wumpus. Wumpuses are jompuses. Rex is a jompus.
+
+ Since Rex is a sterpus or a wumpus, Rex is a jompus.
+n: 9, (beta prior) mean: 0.09090909090909091, 95% lower bound: 0.0025285785444617848, 95% upper bound: 0.3084971078187608, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each impus is a tumpus. Jompuses are tumpuses. Rex is an impus or a jompus. Prove: Rex is a tumpus.
+
+A: Assume Rex is an impus. Each impus is a tumpus. Rex is a tumpus.
+
+ Assume Rex is a jompus. Jompuses are tumpuses. Rex is a tumpus.
+
+ Since Rex is an impus or a jompus, Rex is a tumpus.
+
+
+Q: Wumpuses are impuses. Every shumpus is an impus. Rex is a wumpus or a shumpus. Prove: Rex is an impus.
+
+A: Assume Rex is a wumpus. Wumpuses are impuses. Rex is an impus.
+
+ Assume Rex is a shumpus. Every shumpus is an impus. Rex is an impus.
+
+ Since Rex is a wumpus or a shumpus, Rex is an impus.
+
+
+Q: Each lempus is a numpus. Each shumpus is a numpus. Wren is a lempus or a shumpus. Prove: Wren is a numpus.
+
+A: Assume Wren is a lempus. Each lempus is a numpus. Wren is a numpus.
+
+ Assume Wren is a shumpus. Each shumpus is a numpus. Wren is a numpus.
+
+ Since Wren is a lempus or a shumpus, Wren is a numpus.
+
+
+Q: Every rompus is a yumpus. Every impus is a yumpus. Max is a rompus or an impus. Prove: Max is a yumpus.
+
+A:
+
+Predicted answer: Assume Max is a yumpus. Every rompus is a yumpus. Max is a yumpus.
+
+ Assume Max is an impus. Every impus is a yumpus. Max is a yumpus.
+
+
+ Assume Max is a rompus. Every rompus is a yumpus. Max is a yumpus.
+
+
+
+
+Expected answer: Assume Max is a rompus. Every rompus is a yumpus. Max is a yumpus.
+
+ Assume Max is an impus. Every impus is a yumpus. Max is a yumpus.
+
+ Since Max is a rompus or an impus, Max is a yumpus.
+n: 10, (beta prior) mean: 0.08333333333333333, 95% lower bound: 0.0022989722138142673, 95% upper bound: 0.2849141529181544, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Vumpuses are jompuses. Each brimpus is a jompus. Sam is a vumpus or a brimpus. Prove: Sam is a jompus.
+
+A: Assume Sam is a vumpus. Vumpuses are jompuses. Sam is a jompus.
+
+ Assume Sam is a brimpus. Each brimpus is a jompus. Sam is a jompus.
+
+ Since Sam is a vumpus or a brimpus, Sam is a jompus.
+
+
+Q: Each dumpus is a sterpus. Every gorpus is a sterpus. Stella is a dumpus or a gorpus. Prove: Stella is a sterpus.
+
+A: Assume Stella is a dumpus. Each dumpus is a sterpus. Stella is a sterpus.
+
+ Assume Stella is a gorpus. Every gorpus is a sterpus. Stella is a sterpus.
+
+ Since Stella is a dumpus or a gorpus, Stella is a sterpus.
+
+
+Q: Every jompus is a yumpus. Every lempus is a yumpus. Max is a jompus or a lempus. Prove: Max is a yumpus.
+
+A: Assume Max is a jompus. Every jompus is a yumpus. Max is a yumpus.
+
+ Assume Max is a lempus. Every lempus is a yumpus. Max is a yumpus.
+
+ Since Max is a jompus or a lempus, Max is a yumpus.
+
+
+Q: Each lorpus is a zumpus. Grimpuses are zumpuses. Max is a lorpus or a grimpus. Prove: Max is a zumpus.
+
+A:
+
+Predicted answer: Assume Max is a zumpus. Each lorpus is a zumpus. Max is a zumpus.
+
+ Assume Max is a grimpus. Each grimpus is a zumpus. Max is a zumpus.
+
+ Since Max is a zumpus or a grimpus, Max is a zumpus.
+
+
+
+
+Expected answer: Assume Max is a lorpus. Each lorpus is a zumpus. Max is a zumpus.
+
+ Assume Max is a grimpus. Grimpuses are zumpuses. Max is a zumpus.
+
+ Since Max is a lorpus or a grimpus, Max is a zumpus.
+n: 11, (beta prior) mean: 0.07692307692307693, 95% lower bound: 0.0021075932318602264, 95% upper bound: 0.26464846939705117, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Jompuses are tumpuses. Each vumpus is a tumpus. Stella is a jompus or a vumpus. Prove: Stella is a tumpus.
+
+A: Assume Stella is a jompus. Jompuses are tumpuses. Stella is a tumpus.
+
+ Assume Stella is a vumpus. Each vumpus is a tumpus. Stella is a tumpus.
+
+ Since Stella is a jompus or a vumpus, Stella is a tumpus.
+
+
+Q: Each tumpus is a yumpus. Wumpuses are yumpuses. Rex is a tumpus or a wumpus. Prove: Rex is a yumpus.
+
+A: Assume Rex is a tumpus. Each tumpus is a yumpus. Rex is a yumpus.
+
+ Assume Rex is a wumpus. Wumpuses are yumpuses. Rex is a yumpus.
+
+ Since Rex is a tumpus or a wumpus, Rex is a yumpus.
+
+
+Q: Jompuses are rompuses. Every dumpus is a rompus. Alex is a jompus or a dumpus. Prove: Alex is a rompus.
+
+A: Assume Alex is a jompus. Jompuses are rompuses. Alex is a rompus.
+
+ Assume Alex is a dumpus. Every dumpus is a rompus. Alex is a rompus.
+
+ Since Alex is a jompus or a dumpus, Alex is a rompus.
+
+
+Q: Every numpus is a gorpus. Wumpuses are gorpuses. Max is a numpus or a wumpus. Prove: Max is a gorpus.
+
+A:
+
+Predicted answer: Assume Max is a gorpus. Every numpus is a gorpus. Max is a gorpus.
+
+
+ Assume Max is a wumpus. Wumpuses are gorpuses. Max is a gorpus.
+
+
+ Since Max is a gorpus or a wumpus, Max is a gorpus.
+
+
+
+
+Expected answer: Assume Max is a numpus. Every numpus is a gorpus. Max is a gorpus.
+
+ Assume Max is a wumpus. Wumpuses are gorpuses. Max is a gorpus.
+
+ Since Max is a numpus or a wumpus, Max is a gorpus.
+n: 12, (beta prior) mean: 0.07142857142857142, 95% lower bound: 0.001945628497346748, 95% upper bound: 0.24705263800047095, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every rompus is a tumpus. Vumpuses are tumpuses. Fae is a rompus or a vumpus. Prove: Fae is a tumpus.
+
+A: Assume Fae is a rompus. Every rompus is a tumpus. Fae is a tumpus.
+
+ Assume Fae is a vumpus. Vumpuses are tumpuses. Fae is a tumpus.
+
+ Since Fae is a rompus or a vumpus, Fae is a tumpus.
+
+
+Q: Tumpuses are numpuses. Each impus is a numpus. Sam is a tumpus or an impus. Prove: Sam is a numpus.
+
+A: Assume Sam is a tumpus. Tumpuses are numpuses. Sam is a numpus.
+
+ Assume Sam is an impus. Each impus is a numpus. Sam is a numpus.
+
+ Since Sam is a tumpus or an impus, Sam is a numpus.
+
+
+Q: Each lempus is a tumpus. Each gorpus is a tumpus. Sam is a lempus or a gorpus. Prove: Sam is a tumpus.
+
+A: Assume Sam is a lempus. Each lempus is a tumpus. Sam is a tumpus.
+
+ Assume Sam is a gorpus. Each gorpus is a tumpus. Sam is a tumpus.
+
+ Since Sam is a lempus or a gorpus, Sam is a tumpus.
+
+
+Q: Impuses are zumpuses. Shumpuses are zumpuses. Rex is an impus or a shumpus. Prove: Rex is a zumpus.
+
+A:
+
+Predicted answer: Assume Rex is a zumpus. Impuses are zumpuses. Shumpuses are zumpuses. Rex is a zumpus.
+
+
+ Assume Rex is a shumpus. Shumpuses are zumpuses. Rex is a zumpus.
+
+
+
+
+Expected answer: Assume Rex is an impus. Impuses are zumpuses. Rex is a zumpus.
+
+ Assume Rex is a shumpus. Shumpuses are zumpuses. Rex is a zumpus.
+
+ Since Rex is an impus or a shumpus, Rex is a zumpus.
+n: 13, (beta prior) mean: 0.06666666666666667, 95% lower bound: 0.0018067806591253865, 95% upper bound: 0.23163576165011648, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each sterpus is an impus. Every jompus is an impus. Polly is a sterpus or a jompus. Prove: Polly is an impus.
+
+A: Assume Polly is a sterpus. Each sterpus is an impus. Polly is an impus.
+
+ Assume Polly is a jompus. Every jompus is an impus. Polly is an impus.
+
+ Since Polly is a sterpus or a jompus, Polly is an impus.
+
+
+Q: Impuses are sterpuses. Dumpuses are sterpuses. Wren is an impus or a dumpus. Prove: Wren is a sterpus.
+
+A: Assume Wren is an impus. Impuses are sterpuses. Wren is a sterpus.
+
+ Assume Wren is a dumpus. Dumpuses are sterpuses. Wren is a sterpus.
+
+ Since Wren is an impus or a dumpus, Wren is a sterpus.
+
+
+Q: Every yumpus is an impus. Every gorpus is an impus. Alex is a yumpus or a gorpus. Prove: Alex is an impus.
+
+A: Assume Alex is a yumpus. Every yumpus is an impus. Alex is an impus.
+
+ Assume Alex is a gorpus. Every gorpus is an impus. Alex is an impus.
+
+ Since Alex is a yumpus or a gorpus, Alex is an impus.
+
+
+Q: Yumpuses are sterpuses. Each shumpus is a sterpus. Rex is a yumpus or a shumpus. Prove: Rex is a sterpus.
+
+A:
+
+Predicted answer: Assume Rex is a yumpus. Yumpuses are sterpuses. Rex is a sterpus.
+
+
+ Assume Rex is a shumpus. Each shumpus is a sterpus. Rex is a sterpus.
+
+
+ Since Rex is a yumpus or a shumpus, Rex is a sterpus.
+
+
+
+
+Expected answer: Assume Rex is a yumpus. Yumpuses are sterpuses. Rex is a sterpus.
+
+ Assume Rex is a shumpus. Each shumpus is a sterpus. Rex is a sterpus.
+
+ Since Rex is a yumpus or a shumpus, Rex is a sterpus.
+n: 14, (beta prior) mean: 0.0625, 95% lower bound: 0.0016864302413527013, 95% upper bound: 0.218019360910534, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Grimpuses are jompuses. Every impus is a jompus. Sally is a grimpus or an impus. Prove: Sally is a jompus.
+
+A: Assume Sally is a grimpus. Grimpuses are jompuses. Sally is a jompus.
+
+ Assume Sally is an impus. Every impus is a jompus. Sally is a jompus.
+
+ Since Sally is a grimpus or an impus, Sally is a jompus.
+
+
+Q: Every lempus is a grimpus. Each shumpus is a grimpus. Alex is a lempus or a shumpus. Prove: Alex is a grimpus.
+
+A: Assume Alex is a lempus. Every lempus is a grimpus. Alex is a grimpus.
+
+ Assume Alex is a shumpus. Each shumpus is a grimpus. Alex is a grimpus.
+
+ Since Alex is a lempus or a shumpus, Alex is a grimpus.
+
+
+Q: Every lempus is a rompus. Each sterpus is a rompus. Max is a lempus or a sterpus. Prove: Max is a rompus.
+
+A: Assume Max is a lempus. Every lempus is a rompus. Max is a rompus.
+
+ Assume Max is a sterpus. Each sterpus is a rompus. Max is a rompus.
+
+ Since Max is a lempus or a sterpus, Max is a rompus.
+
+
+Q: Every shumpus is a dumpus. Sterpuses are dumpuses. Alex is a shumpus or a sterpus. Prove: Alex is a dumpus.
+
+A:
+
+Predicted answer: Assume Alex is a shumpus. Every shumpus is a dumpus. Alex is a dumpus.
+
+ Assume Alex is a sterpus. Each sterpus is a dumpus. Alex is a dumpus.
+
+ Since Alex is a shumpus or a sterpus, Alex is a dumpus.
+
+
+
+
+Expected answer: Assume Alex is a shumpus. Every shumpus is a dumpus. Alex is a dumpus.
+
+ Assume Alex is a sterpus. Sterpuses are dumpuses. Alex is a dumpus.
+
+ Since Alex is a shumpus or a sterpus, Alex is a dumpus.
+n: 15, (beta prior) mean: 0.058823529411764705, 95% lower bound: 0.0015811117227658871, 95% upper bound: 0.2059072142078227, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Zumpuses are lempuses. Brimpuses are lempuses. Wren is a zumpus or a brimpus. Prove: Wren is a lempus.
+
+A: Assume Wren is a zumpus. Zumpuses are lempuses. Wren is a lempus.
+
+ Assume Wren is a brimpus. Brimpuses are lempuses. Wren is a lempus.
+
+ Since Wren is a zumpus or a brimpus, Wren is a lempus.
+
+
+Q: Impuses are vumpuses. Yumpuses are vumpuses. Sally is an impus or a yumpus. Prove: Sally is a vumpus.
+
+A: Assume Sally is an impus. Impuses are vumpuses. Sally is a vumpus.
+
+ Assume Sally is a yumpus. Yumpuses are vumpuses. Sally is a vumpus.
+
+ Since Sally is an impus or a yumpus, Sally is a vumpus.
+
+
+Q: Every vumpus is a tumpus. Each lempus is a tumpus. Rex is a vumpus or a lempus. Prove: Rex is a tumpus.
+
+A: Assume Rex is a vumpus. Every vumpus is a tumpus. Rex is a tumpus.
+
+ Assume Rex is a lempus. Each lempus is a tumpus. Rex is a tumpus.
+
+ Since Rex is a vumpus or a lempus, Rex is a tumpus.
+
+
+Q: Each wumpus is a brimpus. Dumpuses are brimpuses. Sam is a wumpus or a dumpus. Prove: Sam is a brimpus.
+
+A:
+
+Predicted answer: Assume Sam is a brimpus. Each wumpus is a brimpus. Sam is a brimpus.
+
+
+ Assume Sam is a dumpus. Dumpuses are brimpuses. Sam is a dumpus.
+
+
+ Since Sam is a dumpus or a brimpus, Sam is a brimpus.
+
+
+
+
+Expected answer: Assume Sam is a wumpus. Each wumpus is a brimpus. Sam is a brimpus.
+
+ Assume Sam is a dumpus. Dumpuses are brimpuses. Sam is a brimpus.
+
+ Since Sam is a wumpus or a dumpus, Sam is a brimpus.
+n: 16, (beta prior) mean: 0.05555555555555555, 95% lower bound: 0.0014881743912666346, 95% upper bound: 0.19506432296909318, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every impus is a lempus. Each zumpus is a lempus. Sally is an impus or a zumpus. Prove: Sally is a lempus.
+
+A: Assume Sally is an impus. Every impus is a lempus. Sally is a lempus.
+
+ Assume Sally is a zumpus. Each zumpus is a lempus. Sally is a lempus.
+
+ Since Sally is an impus or a zumpus, Sally is a lempus.
+
+
+Q: Each gorpus is a jompus. Every rompus is a jompus. Alex is a gorpus or a rompus. Prove: Alex is a jompus.
+
+A: Assume Alex is a gorpus. Each gorpus is a jompus. Alex is a jompus.
+
+ Assume Alex is a rompus. Every rompus is a jompus. Alex is a jompus.
+
+ Since Alex is a gorpus or a rompus, Alex is a jompus.
+
+
+Q: Rompuses are vumpuses. Grimpuses are vumpuses. Wren is a rompus or a grimpus. Prove: Wren is a vumpus.
+
+A: Assume Wren is a rompus. Rompuses are vumpuses. Wren is a vumpus.
+
+ Assume Wren is a grimpus. Grimpuses are vumpuses. Wren is a vumpus.
+
+ Since Wren is a rompus or a grimpus, Wren is a vumpus.
+
+
+Q: Each impus is a jompus. Numpuses are jompuses. Sally is an impus or a numpus. Prove: Sally is a jompus.
+
+A:
+
+Predicted answer: Assume Sally is a jompus. Every impus is a jompus. Sally is a jompus.
+
+ Assume Sally is a numpus. Numpuses are jompuses. Sally is a jompus.
+
+ Since Sally is a jompus or a numpus, Sally is a jompus.
+
+
+
+
+Expected answer: Assume Sally is an impus. Each impus is a jompus. Sally is a jompus.
+
+ Assume Sally is a numpus. Numpuses are jompuses. Sally is a jompus.
+
+ Since Sally is an impus or a numpus, Sally is a jompus.
+n: 17, (beta prior) mean: 0.05263157894736842, 95% lower bound: 0.0014055561673694222, 95% upper bound: 0.1853019681378522, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each gorpus is a dumpus. Zumpuses are dumpuses. Polly is a gorpus or a zumpus. Prove: Polly is a dumpus.
+
+A: Assume Polly is a gorpus. Each gorpus is a dumpus. Polly is a dumpus.
+
+ Assume Polly is a zumpus. Zumpuses are dumpuses. Polly is a dumpus.
+
+ Since Polly is a gorpus or a zumpus, Polly is a dumpus.
+
+
+Q: Jompuses are impuses. Rompuses are impuses. Sally is a jompus or a rompus. Prove: Sally is an impus.
+
+A: Assume Sally is a jompus. Jompuses are impuses. Sally is an impus.
+
+ Assume Sally is a rompus. Rompuses are impuses. Sally is an impus.
+
+ Since Sally is a jompus or a rompus, Sally is an impus.
+
+
+Q: Numpuses are lorpuses. Grimpuses are lorpuses. Rex is a numpus or a grimpus. Prove: Rex is a lorpus.
+
+A: Assume Rex is a numpus. Numpuses are lorpuses. Rex is a lorpus.
+
+ Assume Rex is a grimpus. Grimpuses are lorpuses. Rex is a lorpus.
+
+ Since Rex is a numpus or a grimpus, Rex is a lorpus.
+
+
+Q: Shumpuses are zumpuses. Each yumpus is a zumpus. Rex is a shumpus or a yumpus. Prove: Rex is a zumpus.
+
+A:
+
+Predicted answer: Assume Rex is a zumpus. Shumpuses are zumpuses. Rex is a zumpus.
+
+
+ Assume Rex is a yumpus. Shumpuses are zumpuses. Rex is a zumpus.
+
+
+
+
+Expected answer: Assume Rex is a shumpus. Shumpuses are zumpuses. Rex is a zumpus.
+
+ Assume Rex is a yumpus. Each yumpus is a zumpus. Rex is a zumpus.
+
+ Since Rex is a shumpus or a yumpus, Rex is a zumpus.
+n: 18, (beta prior) mean: 0.05, 95% lower bound: 0.001331628804179423, 95% upper bound: 0.17646691180696533, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Wumpuses are lempuses. Each rompus is a lempus. Stella is a wumpus or a rompus. Prove: Stella is a lempus.
+
+A: Assume Stella is a wumpus. Wumpuses are lempuses. Stella is a lempus.
+
+ Assume Stella is a rompus. Each rompus is a lempus. Stella is a lempus.
+
+ Since Stella is a wumpus or a rompus, Stella is a lempus.
+
+
+Q: Yumpuses are brimpuses. Every tumpus is a brimpus. Rex is a yumpus or a tumpus. Prove: Rex is a brimpus.
+
+A: Assume Rex is a yumpus. Yumpuses are brimpuses. Rex is a brimpus.
+
+ Assume Rex is a tumpus. Every tumpus is a brimpus. Rex is a brimpus.
+
+ Since Rex is a yumpus or a tumpus, Rex is a brimpus.
+
+
+Q: Numpuses are tumpuses. Yumpuses are tumpuses. Max is a numpus or a yumpus. Prove: Max is a tumpus.
+
+A: Assume Max is a numpus. Numpuses are tumpuses. Max is a tumpus.
+
+ Assume Max is a yumpus. Yumpuses are tumpuses. Max is a tumpus.
+
+ Since Max is a numpus or a yumpus, Max is a tumpus.
+
+
+Q: Each yumpus is a grimpus. Each tumpus is a grimpus. Alex is a yumpus or a tumpus. Prove: Alex is a grimpus.
+
+A:
+
+Predicted answer: Assume Alex is a yumpus. Yumpuses are grimpuses. Alex is a grimpus.
+
+
+ Assume Alex is a tumpus. Every tumpus is a grimpus. Alex is a grimpus.
+
+
+ Since Alex is a yumpus or a tumpus, Alex is a grimpus.
+
+
+
+
+Expected answer: Assume Alex is a yumpus. Each yumpus is a grimpus. Alex is a grimpus.
+
+ Assume Alex is a tumpus. Each tumpus is a grimpus. Alex is a grimpus.
+
+ Since Alex is a yumpus or a tumpus, Alex is a grimpus.
+n: 19, (beta prior) mean: 0.047619047619047616, 95% lower bound: 0.0012650894979498038, 95% upper bound: 0.1684334709830853, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Brimpuses are impuses. Each lempus is an impus. Sally is a brimpus or a lempus. Prove: Sally is an impus.
+
+A: Assume Sally is a brimpus. Brimpuses are impuses. Sally is an impus.
+
+ Assume Sally is a lempus. Each lempus is an impus. Sally is an impus.
+
+ Since Sally is a brimpus or a lempus, Sally is an impus.
+
+
+Q: Vumpuses are shumpuses. Impuses are shumpuses. Fae is a vumpus or an impus. Prove: Fae is a shumpus.
+
+A: Assume Fae is a vumpus. Vumpuses are shumpuses. Fae is a shumpus.
+
+ Assume Fae is an impus. Impuses are shumpuses. Fae is a shumpus.
+
+ Since Fae is a vumpus or an impus, Fae is a shumpus.
+
+
+Q: Brimpuses are vumpuses. Yumpuses are vumpuses. Alex is a brimpus or a yumpus. Prove: Alex is a vumpus.
+
+A: Assume Alex is a brimpus. Brimpuses are vumpuses. Alex is a vumpus.
+
+ Assume Alex is a yumpus. Yumpuses are vumpuses. Alex is a vumpus.
+
+ Since Alex is a brimpus or a yumpus, Alex is a vumpus.
+
+
+Q: Brimpuses are lempuses. Zumpuses are lempuses. Alex is a brimpus or a zumpus. Prove: Alex is a lempus.
+
+A:
+
+Predicted answer: Assume Alex is a brimpus. Brimpuses are lempuses. Alex is a lempus.
+
+ Assume Alex is a zumpus. Zumpuses are lempuses. Alex is a zumpus.
+
+ Since Alex is a brimpus or a zumpus, Alex is a lempus.
+
+
+
+
+Expected answer: Assume Alex is a brimpus. Brimpuses are lempuses. Alex is a lempus.
+
+ Assume Alex is a zumpus. Zumpuses are lempuses. Alex is a lempus.
+
+ Since Alex is a brimpus or a zumpus, Alex is a lempus.
+n: 20, (beta prior) mean: 0.045454545454545456, 95% lower bound: 0.0012048834483635125, 95% upper bound: 0.1610976152190796, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every jompus is a yumpus. Every impus is a yumpus. Fae is a jompus or an impus. Prove: Fae is a yumpus.
+
+A: Assume Fae is a jompus. Every jompus is a yumpus. Fae is a yumpus.
+
+ Assume Fae is an impus. Every impus is a yumpus. Fae is a yumpus.
+
+ Since Fae is a jompus or an impus, Fae is a yumpus.
+
+
+Q: Every lorpus is a grimpus. Zumpuses are grimpuses. Polly is a lorpus or a zumpus. Prove: Polly is a grimpus.
+
+A: Assume Polly is a lorpus. Every lorpus is a grimpus. Polly is a grimpus.
+
+ Assume Polly is a zumpus. Zumpuses are grimpuses. Polly is a grimpus.
+
+ Since Polly is a lorpus or a zumpus, Polly is a grimpus.
+
+
+Q: Wumpuses are brimpuses. Lorpuses are brimpuses. Stella is a wumpus or a lorpus. Prove: Stella is a brimpus.
+
+A: Assume Stella is a wumpus. Wumpuses are brimpuses. Stella is a brimpus.
+
+ Assume Stella is a lorpus. Lorpuses are brimpuses. Stella is a brimpus.
+
+ Since Stella is a wumpus or a lorpus, Stella is a brimpus.
+
+
+Q: Each gorpus is a rompus. Every lempus is a rompus. Sally is a gorpus or a lempus. Prove: Sally is a rompus.
+
+A:
+
+Predicted answer: Assume Sally is a gorpus. Every lempus is a rompus. Sally is a rompus.
+
+
+ Assume Sally is a rompus. Sally is a gorpus.
+
+
+
+
+Expected answer: Assume Sally is a gorpus. Each gorpus is a rompus. Sally is a rompus.
+
+ Assume Sally is a lempus. Every lempus is a rompus. Sally is a rompus.
+
+ Since Sally is a gorpus or a lempus, Sally is a rompus.
+n: 21, (beta prior) mean: 0.043478260869565216, 95% lower bound: 0.0011501475265735751, 95% upper bound: 0.15437251281557457, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Sterpuses are gorpuses. Lempuses are gorpuses. Sally is a sterpus or a lempus. Prove: Sally is a gorpus.
+
+A: Assume Sally is a sterpus. Sterpuses are gorpuses. Sally is a gorpus.
+
+ Assume Sally is a lempus. Lempuses are gorpuses. Sally is a gorpus.
+
+ Since Sally is a sterpus or a lempus, Sally is a gorpus.
+
+
+Q: Yumpuses are wumpuses. Every shumpus is a wumpus. Max is a yumpus or a shumpus. Prove: Max is a wumpus.
+
+A: Assume Max is a yumpus. Yumpuses are wumpuses. Max is a wumpus.
+
+ Assume Max is a shumpus. Every shumpus is a wumpus. Max is a wumpus.
+
+ Since Max is a yumpus or a shumpus, Max is a wumpus.
+
+
+Q: Lempuses are grimpuses. Each dumpus is a grimpus. Wren is a lempus or a dumpus. Prove: Wren is a grimpus.
+
+A: Assume Wren is a lempus. Lempuses are grimpuses. Wren is a grimpus.
+
+ Assume Wren is a dumpus. Each dumpus is a grimpus. Wren is a grimpus.
+
+ Since Wren is a lempus or a dumpus, Wren is a grimpus.
+
+
+Q: Every numpus is a rompus. Every sterpus is a rompus. Sally is a numpus or a sterpus. Prove: Sally is a rompus.
+
+A:
+
+Predicted answer: Assume Sally is a rompus. Every numpus is a rompus. Sally is a rompus.
+
+ Assume Sally is a sterpus. Every sterpus is a rompus. Sally is a rompus.
+
+ Since Sally is a rompus or a sterpus, Sally is a rompus.
+
+
+
+
+Expected answer: Assume Sally is a numpus. Every numpus is a rompus. Sally is a rompus.
+
+ Assume Sally is a sterpus. Every sterpus is a rompus. Sally is a rompus.
+
+ Since Sally is a numpus or a sterpus, Sally is a rompus.
+n: 22, (beta prior) mean: 0.041666666666666664, 95% lower bound: 0.0011001686304414995, 95% upper bound: 0.14818512891522437, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Grimpuses are jompuses. Each brimpus is a jompus. Stella is a grimpus or a brimpus. Prove: Stella is a jompus.
+
+A: Assume Stella is a grimpus. Grimpuses are jompuses. Stella is a jompus.
+
+ Assume Stella is a brimpus. Each brimpus is a jompus. Stella is a jompus.
+
+ Since Stella is a grimpus or a brimpus, Stella is a jompus.
+
+
+Q: Gorpuses are tumpuses. Dumpuses are tumpuses. Alex is a gorpus or a dumpus. Prove: Alex is a tumpus.
+
+A: Assume Alex is a gorpus. Gorpuses are tumpuses. Alex is a tumpus.
+
+ Assume Alex is a dumpus. Dumpuses are tumpuses. Alex is a tumpus.
+
+ Since Alex is a gorpus or a dumpus, Alex is a tumpus.
+
+
+Q: Rompuses are grimpuses. Shumpuses are grimpuses. Rex is a rompus or a shumpus. Prove: Rex is a grimpus.
+
+A: Assume Rex is a rompus. Rompuses are grimpuses. Rex is a grimpus.
+
+ Assume Rex is a shumpus. Shumpuses are grimpuses. Rex is a grimpus.
+
+ Since Rex is a rompus or a shumpus, Rex is a grimpus.
+
+
+Q: Every tumpus is a jompus. Every dumpus is a jompus. Sally is a tumpus or a dumpus. Prove: Sally is a jompus.
+
+A:
+
+Predicted answer: Assume Sally is a jompus. Every tumpus is a jompus. Sally is a jompus.
+
+
+ Assume Sally is a dumpus. Every dumpus is a jompus. Sally is a jompus.
+
+
+ Since Sally is a jompus or a dumpus, Sally is a jompus.
+
+
+
+
+Expected answer: Assume Sally is a tumpus. Every tumpus is a jompus. Sally is a jompus.
+
+ Assume Sally is a dumpus. Every dumpus is a jompus. Sally is a jompus.
+
+ Since Sally is a tumpus or a dumpus, Sally is a jompus.
+n: 23, (beta prior) mean: 0.04, 95% lower bound: 0.0010543524454697472, 95% upper bound: 0.14247359772252563, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every vumpus is a gorpus. Every sterpus is a gorpus. Polly is a vumpus or a sterpus. Prove: Polly is a gorpus.
+
+A: Assume Polly is a vumpus. Every vumpus is a gorpus. Polly is a gorpus.
+
+ Assume Polly is a sterpus. Every sterpus is a gorpus. Polly is a gorpus.
+
+ Since Polly is a vumpus or a sterpus, Polly is a gorpus.
+
+
+Q: Shumpuses are wumpuses. Every impus is a wumpus. Stella is a shumpus or an impus. Prove: Stella is a wumpus.
+
+A: Assume Stella is a shumpus. Shumpuses are wumpuses. Stella is a wumpus.
+
+ Assume Stella is an impus. Every impus is a wumpus. Stella is a wumpus.
+
+ Since Stella is a shumpus or an impus, Stella is a wumpus.
+
+
+Q: Each wumpus is a grimpus. Each zumpus is a grimpus. Rex is a wumpus or a zumpus. Prove: Rex is a grimpus.
+
+A: Assume Rex is a wumpus. Each wumpus is a grimpus. Rex is a grimpus.
+
+ Assume Rex is a zumpus. Each zumpus is a grimpus. Rex is a grimpus.
+
+ Since Rex is a wumpus or a zumpus, Rex is a grimpus.
+
+
+Q: Each impus is a brimpus. Each dumpus is a brimpus. Polly is an impus or a dumpus. Prove: Polly is a brimpus.
+
+A:
+
+Predicted answer: Assume Polly is an impus. Each impus is a brimpus. Polly is an impus.
+
+
+ Assume Polly is a dumpus. Each dumpus is a brimpus. Polly is an impus.
+
+
+
+
+Expected answer: Assume Polly is an impus. Each impus is a brimpus. Polly is a brimpus.
+
+ Assume Polly is a dumpus. Each dumpus is a brimpus. Polly is a brimpus.
+
+ Since Polly is an impus or a dumpus, Polly is a brimpus.
+n: 24, (beta prior) mean: 0.038461538461538464, 95% lower bound: 0.0010121996993108446, 95% upper bound: 0.1371851715307125, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every sterpus is a numpus. Lempuses are numpuses. Fae is a sterpus or a lempus. Prove: Fae is a numpus.
+
+A: Assume Fae is a sterpus. Every sterpus is a numpus. Fae is a numpus.
+
+ Assume Fae is a lempus. Lempuses are numpuses. Fae is a numpus.
+
+ Since Fae is a sterpus or a lempus, Fae is a numpus.
+
+
+Q: Impuses are lempuses. Gorpuses are lempuses. Max is an impus or a gorpus. Prove: Max is a lempus.
+
+A: Assume Max is an impus. Impuses are lempuses. Max is a lempus.
+
+ Assume Max is a gorpus. Gorpuses are lempuses. Max is a lempus.
+
+ Since Max is an impus or a gorpus, Max is a lempus.
+
+
+Q: Lorpuses are yumpuses. Jompuses are yumpuses. Sam is a lorpus or a jompus. Prove: Sam is a yumpus.
+
+A: Assume Sam is a lorpus. Lorpuses are yumpuses. Sam is a yumpus.
+
+ Assume Sam is a jompus. Jompuses are yumpuses. Sam is a yumpus.
+
+ Since Sam is a lorpus or a jompus, Sam is a yumpus.
+
+
+Q: Grimpuses are shumpuses. Every jompus is a shumpus. Max is a grimpus or a jompus. Prove: Max is a shumpus.
+
+A:
+
+Predicted answer: Assume Max is a shumpus. Every jompus is a shumpus. Max is a shumpus.
+
+
+ Assume Max is a grimpus. Grimpuses are shumpuses. Max is a shumpus.
+
+
+ Since Max is a shumpus or a grimpus, Max is a shumpus.
+
+
+
+
+Expected answer: Assume Max is a grimpus. Grimpuses are shumpuses. Max is a shumpus.
+
+ Assume Max is a jompus. Every jompus is a shumpus. Max is a shumpus.
+
+ Since Max is a grimpus or a jompus, Max is a shumpus.
+n: 25, (beta prior) mean: 0.037037037037037035, 95% lower bound: 0.0009732878933350303, 95% upper bound: 0.1322746044977541, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every gorpus is a jompus. Rompuses are jompuses. Fae is a gorpus or a rompus. Prove: Fae is a jompus.
+
+A: Assume Fae is a gorpus. Every gorpus is a jompus. Fae is a jompus.
+
+ Assume Fae is a rompus. Rompuses are jompuses. Fae is a jompus.
+
+ Since Fae is a gorpus or a rompus, Fae is a jompus.
+
+
+Q: Shumpuses are lempuses. Every numpus is a lempus. Polly is a shumpus or a numpus. Prove: Polly is a lempus.
+
+A: Assume Polly is a shumpus. Shumpuses are lempuses. Polly is a lempus.
+
+ Assume Polly is a numpus. Every numpus is a lempus. Polly is a lempus.
+
+ Since Polly is a shumpus or a numpus, Polly is a lempus.
+
+
+Q: Every brimpus is a gorpus. Zumpuses are gorpuses. Sally is a brimpus or a zumpus. Prove: Sally is a gorpus.
+
+A: Assume Sally is a brimpus. Every brimpus is a gorpus. Sally is a gorpus.
+
+ Assume Sally is a zumpus. Zumpuses are gorpuses. Sally is a gorpus.
+
+ Since Sally is a brimpus or a zumpus, Sally is a gorpus.
+
+
+Q: Every grimpus is a gorpus. Each yumpus is a gorpus. Rex is a grimpus or a yumpus. Prove: Rex is a gorpus.
+
+A:
+
+Predicted answer: Assume Rex is a gorpus. Each yumpus is a gorpus. Rex is a gorpus.
+
+
+ Assume Rex is a yumpus. Each yumpus is a gorpus. Rex is a gorpus.
+
+
+
+
+Expected answer: Assume Rex is a grimpus. Every grimpus is a gorpus. Rex is a gorpus.
+
+ Assume Rex is a yumpus. Each yumpus is a gorpus. Rex is a gorpus.
+
+ Since Rex is a grimpus or a yumpus, Rex is a gorpus.
+n: 26, (beta prior) mean: 0.03571428571428571, 95% lower bound: 0.000937257091944707, 95% upper bound: 0.12770286761543234, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Vumpuses are yumpuses. Every jompus is a yumpus. Alex is a vumpus or a jompus. Prove: Alex is a yumpus.
+
+A: Assume Alex is a vumpus. Vumpuses are yumpuses. Alex is a yumpus.
+
+ Assume Alex is a jompus. Every jompus is a yumpus. Alex is a yumpus.
+
+ Since Alex is a vumpus or a jompus, Alex is a yumpus.
+
+
+Q: Every yumpus is a sterpus. Shumpuses are sterpuses. Stella is a yumpus or a shumpus. Prove: Stella is a sterpus.
+
+A: Assume Stella is a yumpus. Every yumpus is a sterpus. Stella is a sterpus.
+
+ Assume Stella is a shumpus. Shumpuses are sterpuses. Stella is a sterpus.
+
+ Since Stella is a yumpus or a shumpus, Stella is a sterpus.
+
+
+Q: Every zumpus is a yumpus. Vumpuses are yumpuses. Sam is a zumpus or a vumpus. Prove: Sam is a yumpus.
+
+A: Assume Sam is a zumpus. Every zumpus is a yumpus. Sam is a yumpus.
+
+ Assume Sam is a vumpus. Vumpuses are yumpuses. Sam is a yumpus.
+
+ Since Sam is a zumpus or a vumpus, Sam is a yumpus.
+
+
+Q: Shumpuses are wumpuses. Every yumpus is a wumpus. Alex is a shumpus or a yumpus. Prove: Alex is a wumpus.
+
+A:
+
+Predicted answer: Assume Alex is a wumpus. Every yumpus is a wumpus. Alex is a wumpus.
+
+
+ Assume Alex is a shumpus. Shumpuses are wumpuses. Alex is a wumpus.
+
+
+ Since Alex is a wumpus or a shumpus, Alex is a wumpus.
+
+
+
+
+Expected answer: Assume Alex is a shumpus. Shumpuses are wumpuses. Alex is a wumpus.
+
+ Assume Alex is a yumpus. Every yumpus is a wumpus. Alex is a wumpus.
+
+ Since Alex is a shumpus or a yumpus, Alex is a wumpus.
+n: 27, (beta prior) mean: 0.034482758620689655, 95% lower bound: 0.0009037987556580578, 95% upper bound: 0.12343611850026381, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each gorpus is a brimpus. Every lorpus is a brimpus. Polly is a gorpus or a lorpus. Prove: Polly is a brimpus.
+
+A: Assume Polly is a gorpus. Each gorpus is a brimpus. Polly is a brimpus.
+
+ Assume Polly is a lorpus. Every lorpus is a brimpus. Polly is a brimpus.
+
+ Since Polly is a gorpus or a lorpus, Polly is a brimpus.
+
+
+Q: Dumpuses are wumpuses. Gorpuses are wumpuses. Stella is a dumpus or a gorpus. Prove: Stella is a wumpus.
+
+A: Assume Stella is a dumpus. Dumpuses are wumpuses. Stella is a wumpus.
+
+ Assume Stella is a gorpus. Gorpuses are wumpuses. Stella is a wumpus.
+
+ Since Stella is a dumpus or a gorpus, Stella is a wumpus.
+
+
+Q: Wumpuses are brimpuses. Every dumpus is a brimpus. Stella is a wumpus or a dumpus. Prove: Stella is a brimpus.
+
+A: Assume Stella is a wumpus. Wumpuses are brimpuses. Stella is a brimpus.
+
+ Assume Stella is a dumpus. Every dumpus is a brimpus. Stella is a brimpus.
+
+ Since Stella is a wumpus or a dumpus, Stella is a brimpus.
+
+
+Q: Each impus is a rompus. Lempuses are rompuses. Sam is an impus or a lempus. Prove: Sam is a rompus.
+
+A:
+
+Predicted answer: Assume Sam is a rompus. Each impus is a rompus. Sam is a rompus.
+
+
+ Assume Sam is a lempus. Lempuses are rompuses. Sam is a rompus.
+
+
+ Since Sam is a lempus or a rompus, Sam is a rompus.
+
+
+
+
+Expected answer: Assume Sam is an impus. Each impus is a rompus. Sam is a rompus.
+
+ Assume Sam is a lempus. Lempuses are rompuses. Sam is a rompus.
+
+ Since Sam is an impus or a lempus, Sam is a rompus.
+n: 28, (beta prior) mean: 0.03333333333333333, 95% lower bound: 0.000872646883579922, 95% upper bound: 0.11944486906950269, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Yumpuses are dumpuses. Every gorpus is a dumpus. Rex is a yumpus or a gorpus. Prove: Rex is a dumpus.
+
+A: Assume Rex is a yumpus. Yumpuses are dumpuses. Rex is a dumpus.
+
+ Assume Rex is a gorpus. Every gorpus is a dumpus. Rex is a dumpus.
+
+ Since Rex is a yumpus or a gorpus, Rex is a dumpus.
+
+
+Q: Tumpuses are brimpuses. Each rompus is a brimpus. Max is a tumpus or a rompus. Prove: Max is a brimpus.
+
+A: Assume Max is a tumpus. Tumpuses are brimpuses. Max is a brimpus.
+
+ Assume Max is a rompus. Each rompus is a brimpus. Max is a brimpus.
+
+ Since Max is a tumpus or a rompus, Max is a brimpus.
+
+
+Q: Every vumpus is a gorpus. Each jompus is a gorpus. Stella is a vumpus or a jompus. Prove: Stella is a gorpus.
+
+A: Assume Stella is a vumpus. Every vumpus is a gorpus. Stella is a gorpus.
+
+ Assume Stella is a jompus. Each jompus is a gorpus. Stella is a gorpus.
+
+ Since Stella is a vumpus or a jompus, Stella is a gorpus.
+
+
+Q: Every dumpus is a lorpus. Every zumpus is a lorpus. Wren is a dumpus or a zumpus. Prove: Wren is a lorpus.
+
+A:
+
+Predicted answer: Assume Wren is a lorpus. Every dumpus is a lorpus. Wren is a lorpus.
+
+
+ Assume Wren is a zumpus. Every zumpus is a lorpus. Wren is a lorpus.
+
+
+ Since Wren is a zumpus or a lorpus, Wren is a lorpus.
+
+
+
+
+Expected answer: Assume Wren is a dumpus. Every dumpus is a lorpus. Wren is a lorpus.
+
+ Assume Wren is a zumpus. Every zumpus is a lorpus. Wren is a lorpus.
+
+ Since Wren is a dumpus or a zumpus, Wren is a lorpus.
+n: 29, (beta prior) mean: 0.03225806451612903, 95% lower bound: 0.0008435709266304788, 95% upper bound: 0.11570330822202779, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Tumpuses are zumpuses. Shumpuses are zumpuses. Polly is a tumpus or a shumpus. Prove: Polly is a zumpus.
+
+A: Assume Polly is a tumpus. Tumpuses are zumpuses. Polly is a zumpus.
+
+ Assume Polly is a shumpus. Shumpuses are zumpuses. Polly is a zumpus.
+
+ Since Polly is a tumpus or a shumpus, Polly is a zumpus.
+
+
+Q: Each brimpus is a numpus. Every yumpus is a numpus. Alex is a brimpus or a yumpus. Prove: Alex is a numpus.
+
+A: Assume Alex is a brimpus. Each brimpus is a numpus. Alex is a numpus.
+
+ Assume Alex is a yumpus. Every yumpus is a numpus. Alex is a numpus.
+
+ Since Alex is a brimpus or a yumpus, Alex is a numpus.
+
+
+Q: Numpuses are vumpuses. Shumpuses are vumpuses. Stella is a numpus or a shumpus. Prove: Stella is a vumpus.
+
+A: Assume Stella is a numpus. Numpuses are vumpuses. Stella is a vumpus.
+
+ Assume Stella is a shumpus. Shumpuses are vumpuses. Stella is a vumpus.
+
+ Since Stella is a numpus or a shumpus, Stella is a vumpus.
+
+
+Q: Jompuses are dumpuses. Every gorpus is a dumpus. Max is a jompus or a gorpus. Prove: Max is a dumpus.
+
+A:
+
+Predicted answer: Assume Max is a dumpus. Jompuses are dumpuses. Max is a dumpus.
+
+
+ Assume Max is a gorpus. Every gorpus is a dumpus. Max is a dumpus.
+
+
+ Since Max is a gorpus or a gorpus, Max is a dumpus.
+
+
+
+
+Expected answer: Assume Max is a jompus. Jompuses are dumpuses. Max is a dumpus.
+
+ Assume Max is a gorpus. Every gorpus is a dumpus. Max is a dumpus.
+
+ Since Max is a jompus or a gorpus, Max is a dumpus.
+n: 30, (beta prior) mean: 0.03125, 95% lower bound: 0.000816370071846613, 95% upper bound: 0.11218874692236996, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Vumpuses are gorpuses. Impuses are gorpuses. Stella is a vumpus or an impus. Prove: Stella is a gorpus.
+
+A: Assume Stella is a vumpus. Vumpuses are gorpuses. Stella is a gorpus.
+
+ Assume Stella is an impus. Impuses are gorpuses. Stella is a gorpus.
+
+ Since Stella is a vumpus or an impus, Stella is a gorpus.
+
+
+Q: Every zumpus is a lorpus. Each jompus is a lorpus. Sally is a zumpus or a jompus. Prove: Sally is a lorpus.
+
+A: Assume Sally is a zumpus. Every zumpus is a lorpus. Sally is a lorpus.
+
+ Assume Sally is a jompus. Each jompus is a lorpus. Sally is a lorpus.
+
+ Since Sally is a zumpus or a jompus, Sally is a lorpus.
+
+
+Q: Numpuses are jompuses. Impuses are jompuses. Max is a numpus or an impus. Prove: Max is a jompus.
+
+A: Assume Max is a numpus. Numpuses are jompuses. Max is a jompus.
+
+ Assume Max is an impus. Impuses are jompuses. Max is a jompus.
+
+ Since Max is a numpus or an impus, Max is a jompus.
+
+
+Q: Impuses are brimpuses. Every jompus is a brimpus. Fae is an impus or a jompus. Prove: Fae is a brimpus.
+
+A:
+
+Predicted answer: Assume Fae is a brimpus. Impuses are brimpuses. Fae is a brimpus.
+
+
+ Assume Fae is a jompus. Every jompus is a brimpus. Fae is a brimpus.
+
+
+ Since Fae is a brimpus or a jompus, Fae is a brimpus.
+
+
+
+
+Expected answer: Assume Fae is an impus. Impuses are brimpuses. Fae is a brimpus.
+
+ Assume Fae is a jompus. Every jompus is a brimpus. Fae is a brimpus.
+
+ Since Fae is an impus or a jompus, Fae is a brimpus.
+n: 31, (beta prior) mean: 0.030303030303030304, 95% lower bound: 0.0007908685979525573, 95% upper bound: 0.10888116067935288, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Yumpuses are grimpuses. Each lorpus is a grimpus. Polly is a yumpus or a lorpus. Prove: Polly is a grimpus.
+
+A: Assume Polly is a yumpus. Yumpuses are grimpuses. Polly is a grimpus.
+
+ Assume Polly is a lorpus. Each lorpus is a grimpus. Polly is a grimpus.
+
+ Since Polly is a yumpus or a lorpus, Polly is a grimpus.
+
+
+Q: Dumpuses are wumpuses. Brimpuses are wumpuses. Fae is a dumpus or a brimpus. Prove: Fae is a wumpus.
+
+A: Assume Fae is a dumpus. Dumpuses are wumpuses. Fae is a wumpus.
+
+ Assume Fae is a brimpus. Brimpuses are wumpuses. Fae is a wumpus.
+
+ Since Fae is a dumpus or a brimpus, Fae is a wumpus.
+
+
+Q: Sterpuses are grimpuses. Yumpuses are grimpuses. Sally is a sterpus or a yumpus. Prove: Sally is a grimpus.
+
+A: Assume Sally is a sterpus. Sterpuses are grimpuses. Sally is a grimpus.
+
+ Assume Sally is a yumpus. Yumpuses are grimpuses. Sally is a grimpus.
+
+ Since Sally is a sterpus or a yumpus, Sally is a grimpus.
+
+
+Q: Impuses are numpuses. Every dumpus is a numpus. Sally is an impus or a dumpus. Prove: Sally is a numpus.
+
+A:
+
+Predicted answer: Assume Sally is an impus. Every dumpus is a numpus. Sally is an impus or a dumpus.
+
+
+ Assume Sally is a dumpus. Every dumpus is a numpus. Sally is an impus or a dumpus.
+
+
+
+
+Expected answer: Assume Sally is an impus. Impuses are numpuses. Sally is a numpus.
+
+ Assume Sally is a dumpus. Every dumpus is a numpus. Sally is a numpus.
+
+ Since Sally is an impus or a dumpus, Sally is a numpus.
+n: 32, (beta prior) mean: 0.029411764705882353, 95% lower bound: 0.0007669120750481087, 95% upper bound: 0.10576281007457927, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every rompus is a grimpus. Every shumpus is a grimpus. Stella is a rompus or a shumpus. Prove: Stella is a grimpus.
+
+A: Assume Stella is a rompus. Every rompus is a grimpus. Stella is a grimpus.
+
+ Assume Stella is a shumpus. Every shumpus is a grimpus. Stella is a grimpus.
+
+ Since Stella is a rompus or a shumpus, Stella is a grimpus.
+
+
+Q: Zumpuses are gorpuses. Each grimpus is a gorpus. Sally is a zumpus or a grimpus. Prove: Sally is a gorpus.
+
+A: Assume Sally is a zumpus. Zumpuses are gorpuses. Sally is a gorpus.
+
+ Assume Sally is a grimpus. Each grimpus is a gorpus. Sally is a gorpus.
+
+ Since Sally is a zumpus or a grimpus, Sally is a gorpus.
+
+
+Q: Each sterpus is a numpus. Lorpuses are numpuses. Fae is a sterpus or a lorpus. Prove: Fae is a numpus.
+
+A: Assume Fae is a sterpus. Each sterpus is a numpus. Fae is a numpus.
+
+ Assume Fae is a lorpus. Lorpuses are numpuses. Fae is a numpus.
+
+ Since Fae is a sterpus or a lorpus, Fae is a numpus.
+
+
+Q: Lorpuses are zumpuses. Wumpuses are zumpuses. Max is a lorpus or a wumpus. Prove: Max is a zumpus.
+
+A:
+
+Predicted answer: Assume Max is a zumpus. Lorpuses are zumpuses. Max is a zumpus.
+
+
+ Assume Max is a wumpus. Wumpuses are zumpuses. Max is a zumpus.
+
+
+ Since Max is a zumpus or a wumpus, Max is a zumpus.
+
+
+
+
+Expected answer: Assume Max is a lorpus. Lorpuses are zumpuses. Max is a zumpus.
+
+ Assume Max is a wumpus. Wumpuses are zumpuses. Max is a zumpus.
+
+ Since Max is a lorpus or a wumpus, Max is a zumpus.
+n: 33, (beta prior) mean: 0.02857142857142857, 95% lower bound: 0.0007443642346902604, 95% upper bound: 0.10281792425901262, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each sterpus is a numpus. Lempuses are numpuses. Sam is a sterpus or a lempus. Prove: Sam is a numpus.
+
+A: Assume Sam is a sterpus. Each sterpus is a numpus. Sam is a numpus.
+
+ Assume Sam is a lempus. Lempuses are numpuses. Sam is a numpus.
+
+ Since Sam is a sterpus or a lempus, Sam is a numpus.
+
+
+Q: Each grimpus is a wumpus. Numpuses are wumpuses. Stella is a grimpus or a numpus. Prove: Stella is a wumpus.
+
+A: Assume Stella is a grimpus. Each grimpus is a wumpus. Stella is a wumpus.
+
+ Assume Stella is a numpus. Numpuses are wumpuses. Stella is a wumpus.
+
+ Since Stella is a grimpus or a numpus, Stella is a wumpus.
+
+
+Q: Grimpuses are brimpuses. Each tumpus is a brimpus. Max is a grimpus or a tumpus. Prove: Max is a brimpus.
+
+A: Assume Max is a grimpus. Grimpuses are brimpuses. Max is a brimpus.
+
+ Assume Max is a tumpus. Each tumpus is a brimpus. Max is a brimpus.
+
+ Since Max is a grimpus or a tumpus, Max is a brimpus.
+
+
+Q: Numpuses are lempuses. Every jompus is a lempus. Stella is a numpus or a jompus. Prove: Stella is a lempus.
+
+A:
+
+Predicted answer: Assume Stella is a lempus. Numpuses are lempuses. Stella is a lempus.
+
+ Assume Stella is a jompus. Each jompus is a lempus. Stella is a lempus.
+
+ Since Stella is a lempus or a jompus, Stella is a lempus.
+
+
+
+
+Expected answer: Assume Stella is a numpus. Numpuses are lempuses. Stella is a lempus.
+
+ Assume Stella is a jompus. Every jompus is a lempus. Stella is a lempus.
+
+ Since Stella is a numpus or a jompus, Stella is a lempus.
+n: 34, (beta prior) mean: 0.027777777777777776, 95% lower bound: 0.0007231043763380947, 95% upper bound: 0.10003243557210503, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Lempuses are lorpuses. Each rompus is a lorpus. Wren is a lempus or a rompus. Prove: Wren is a lorpus.
+
+A: Assume Wren is a lempus. Lempuses are lorpuses. Wren is a lorpus.
+
+ Assume Wren is a rompus. Each rompus is a lorpus. Wren is a lorpus.
+
+ Since Wren is a lempus or a rompus, Wren is a lorpus.
+
+
+Q: Shumpuses are jompuses. Dumpuses are jompuses. Stella is a shumpus or a dumpus. Prove: Stella is a jompus.
+
+A: Assume Stella is a shumpus. Shumpuses are jompuses. Stella is a jompus.
+
+ Assume Stella is a dumpus. Dumpuses are jompuses. Stella is a jompus.
+
+ Since Stella is a shumpus or a dumpus, Stella is a jompus.
+
+
+Q: Tumpuses are zumpuses. Each jompus is a zumpus. Rex is a tumpus or a jompus. Prove: Rex is a zumpus.
+
+A: Assume Rex is a tumpus. Tumpuses are zumpuses. Rex is a zumpus.
+
+ Assume Rex is a jompus. Each jompus is a zumpus. Rex is a zumpus.
+
+ Since Rex is a tumpus or a jompus, Rex is a zumpus.
+
+
+Q: Grimpuses are jompuses. Lempuses are jompuses. Rex is a grimpus or a lempus. Prove: Rex is a jompus.
+
+A:
+
+Predicted answer: Assume Rex is a grimpus. Grimpuses are jompuses. Rex is a jompus.
+
+ Assume Rex is a lempus. Lempuses are jompuses. Rex is a jompus.
+
+ Since Rex is a lempus or a jompus, Rex is a jompus.
+
+
+
+
+Expected answer: Assume Rex is a grimpus. Grimpuses are jompuses. Rex is a jompus.
+
+ Assume Rex is a lempus. Lempuses are jompuses. Rex is a jompus.
+
+ Since Rex is a grimpus or a lempus, Rex is a jompus.
+n: 35, (beta prior) mean: 0.02702702702702703, 95% lower bound: 0.0007030252059047799, 95% upper bound: 0.09739375591449193, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every brimpus is a grimpus. Every sterpus is a grimpus. Polly is a brimpus or a sterpus. Prove: Polly is a grimpus.
+
+A: Assume Polly is a brimpus. Every brimpus is a grimpus. Polly is a grimpus.
+
+ Assume Polly is a sterpus. Every sterpus is a grimpus. Polly is a grimpus.
+
+ Since Polly is a brimpus or a sterpus, Polly is a grimpus.
+
+
+Q: Jompuses are shumpuses. Lempuses are shumpuses. Alex is a jompus or a lempus. Prove: Alex is a shumpus.
+
+A: Assume Alex is a jompus. Jompuses are shumpuses. Alex is a shumpus.
+
+ Assume Alex is a lempus. Lempuses are shumpuses. Alex is a shumpus.
+
+ Since Alex is a jompus or a lempus, Alex is a shumpus.
+
+
+Q: Jompuses are grimpuses. Brimpuses are grimpuses. Alex is a jompus or a brimpus. Prove: Alex is a grimpus.
+
+A: Assume Alex is a jompus. Jompuses are grimpuses. Alex is a grimpus.
+
+ Assume Alex is a brimpus. Brimpuses are grimpuses. Alex is a grimpus.
+
+ Since Alex is a jompus or a brimpus, Alex is a grimpus.
+
+
+Q: Every zumpus is a jompus. Every sterpus is a jompus. Stella is a zumpus or a sterpus. Prove: Stella is a jompus.
+
+A:
+
+Predicted answer: Assume Stella is a jompus. Every zumpus is a jompus. Stella is a jompus.
+
+
+ Assume Stella is a sterpus. Every sterpus is a jompus. Stella is a jompus.
+
+
+ Since Stella is a jompus or a sterpus, Stella is a jompus.
+
+
+
+
+Expected answer: Assume Stella is a zumpus. Every zumpus is a jompus. Stella is a jompus.
+
+ Assume Stella is a sterpus. Every sterpus is a jompus. Stella is a jompus.
+
+ Since Stella is a zumpus or a sterpus, Stella is a jompus.
+n: 36, (beta prior) mean: 0.02631578947368421, 95% lower bound: 0.0006840310246946647, 95% upper bound: 0.09489058741498986, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Gorpuses are zumpuses. Every dumpus is a zumpus. Fae is a gorpus or a dumpus. Prove: Fae is a zumpus.
+
+A: Assume Fae is a gorpus. Gorpuses are zumpuses. Fae is a zumpus.
+
+ Assume Fae is a dumpus. Every dumpus is a zumpus. Fae is a zumpus.
+
+ Since Fae is a gorpus or a dumpus, Fae is a zumpus.
+
+
+Q: Each vumpus is a jompus. Every grimpus is a jompus. Fae is a vumpus or a grimpus. Prove: Fae is a jompus.
+
+A: Assume Fae is a vumpus. Each vumpus is a jompus. Fae is a jompus.
+
+ Assume Fae is a grimpus. Every grimpus is a jompus. Fae is a jompus.
+
+ Since Fae is a vumpus or a grimpus, Fae is a jompus.
+
+
+Q: Lempuses are wumpuses. Each dumpus is a wumpus. Sally is a lempus or a dumpus. Prove: Sally is a wumpus.
+
+A: Assume Sally is a lempus. Lempuses are wumpuses. Sally is a wumpus.
+
+ Assume Sally is a dumpus. Each dumpus is a wumpus. Sally is a wumpus.
+
+ Since Sally is a lempus or a dumpus, Sally is a wumpus.
+
+
+Q: Dumpuses are jompuses. Each tumpus is a jompus. Wren is a dumpus or a tumpus. Prove: Wren is a jompus.
+
+A:
+
+Predicted answer: Assume Wren is a jompus. Dumpuses are jompuses. Wren is a jompus.
+
+
+ Assume Wren is a dumpus. Each dumpus is a jompus. Wren is a jompus.
+
+
+ Since Wren is a jompus or a dumpus, Wren is a jompus.
+
+
+
+
+Expected answer: Assume Wren is a dumpus. Dumpuses are jompuses. Wren is a jompus.
+
+ Assume Wren is a tumpus. Each tumpus is a jompus. Wren is a jompus.
+
+ Since Wren is a dumpus or a tumpus, Wren is a jompus.
+n: 37, (beta prior) mean: 0.02564102564102564, 95% lower bound: 0.0006660362042023656, 95% upper bound: 0.09251276141587828, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each tumpus is a wumpus. Every lempus is a wumpus. Fae is a tumpus or a lempus. Prove: Fae is a wumpus.
+
+A: Assume Fae is a tumpus. Each tumpus is a wumpus. Fae is a wumpus.
+
+ Assume Fae is a lempus. Every lempus is a wumpus. Fae is a wumpus.
+
+ Since Fae is a tumpus or a lempus, Fae is a wumpus.
+
+
+Q: Jompuses are shumpuses. Each brimpus is a shumpus. Fae is a jompus or a brimpus. Prove: Fae is a shumpus.
+
+A: Assume Fae is a jompus. Jompuses are shumpuses. Fae is a shumpus.
+
+ Assume Fae is a brimpus. Each brimpus is a shumpus. Fae is a shumpus.
+
+ Since Fae is a jompus or a brimpus, Fae is a shumpus.
+
+
+Q: Every impus is a wumpus. Shumpuses are wumpuses. Rex is an impus or a shumpus. Prove: Rex is a wumpus.
+
+A: Assume Rex is an impus. Every impus is a wumpus. Rex is a wumpus.
+
+ Assume Rex is a shumpus. Shumpuses are wumpuses. Rex is a wumpus.
+
+ Since Rex is an impus or a shumpus, Rex is a wumpus.
+
+
+Q: Each sterpus is a vumpus. Tumpuses are vumpuses. Fae is a sterpus or a tumpus. Prove: Fae is a vumpus.
+
+A:
+
+Predicted answer: Assume Fae is a vumpus. Each sterpus is a vumpus. Fae is a vumpus.
+
+ Assume Fae is a tumpus. Each tumpus is a vumpus. Fae is a vumpus.
+
+ Since Fae is a vumpus or a tumpus, Fae is a vumpus.
+
+
+
+
+Expected answer: Assume Fae is a sterpus. Each sterpus is a vumpus. Fae is a vumpus.
+
+ Assume Fae is a tumpus. Tumpuses are vumpuses. Fae is a vumpus.
+
+ Since Fae is a sterpus or a tumpus, Fae is a vumpus.
+n: 38, (beta prior) mean: 0.025, 95% lower bound: 0.0006489638954819451, 95% upper bound: 0.0902511009603343, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Gorpuses are numpuses. Every zumpus is a numpus. Max is a gorpus or a zumpus. Prove: Max is a numpus.
+
+A: Assume Max is a gorpus. Gorpuses are numpuses. Max is a numpus.
+
+ Assume Max is a zumpus. Every zumpus is a numpus. Max is a numpus.
+
+ Since Max is a gorpus or a zumpus, Max is a numpus.
+
+
+Q: Every vumpus is a sterpus. Each dumpus is a sterpus. Polly is a vumpus or a dumpus. Prove: Polly is a sterpus.
+
+A: Assume Polly is a vumpus. Every vumpus is a sterpus. Polly is a sterpus.
+
+ Assume Polly is a dumpus. Each dumpus is a sterpus. Polly is a sterpus.
+
+ Since Polly is a vumpus or a dumpus, Polly is a sterpus.
+
+
+Q: Shumpuses are zumpuses. Every yumpus is a zumpus. Sally is a shumpus or a yumpus. Prove: Sally is a zumpus.
+
+A: Assume Sally is a shumpus. Shumpuses are zumpuses. Sally is a zumpus.
+
+ Assume Sally is a yumpus. Every yumpus is a zumpus. Sally is a zumpus.
+
+ Since Sally is a shumpus or a yumpus, Sally is a zumpus.
+
+
+Q: Every lorpus is an impus. Yumpuses are impuses. Sally is a lorpus or a yumpus. Prove: Sally is an impus.
+
+A:
+
+Predicted answer: Assume Sally is an impus. Yumpuses are impuses. Sally is an impus.
+
+
+ Assume Sally is a lorpus. Every lorpus is an impus. Sally is an impus.
+
+
+ Since Sally is an impus or a lorpus, Sally is an impus.
+
+
+
+
+Expected answer: Assume Sally is a lorpus. Every lorpus is an impus. Sally is an impus.
+
+ Assume Sally is a yumpus. Yumpuses are impuses. Sally is an impus.
+
+ Since Sally is a lorpus or a yumpus, Sally is an impus.
+n: 39, (beta prior) mean: 0.024390243902439025, 95% lower bound: 0.0006327449320494191, 95% upper bound: 0.08809730287880237, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each lempus is a grimpus. Each numpus is a grimpus. Sam is a lempus or a numpus. Prove: Sam is a grimpus.
+
+A: Assume Sam is a lempus. Each lempus is a grimpus. Sam is a grimpus.
+
+ Assume Sam is a numpus. Each numpus is a grimpus. Sam is a grimpus.
+
+ Since Sam is a lempus or a numpus, Sam is a grimpus.
+
+
+Q: Impuses are vumpuses. Numpuses are vumpuses. Wren is an impus or a numpus. Prove: Wren is a vumpus.
+
+A: Assume Wren is an impus. Impuses are vumpuses. Wren is a vumpus.
+
+ Assume Wren is a numpus. Numpuses are vumpuses. Wren is a vumpus.
+
+ Since Wren is an impus or a numpus, Wren is a vumpus.
+
+
+Q: Each rompus is a shumpus. Every sterpus is a shumpus. Sam is a rompus or a sterpus. Prove: Sam is a shumpus.
+
+A: Assume Sam is a rompus. Each rompus is a shumpus. Sam is a shumpus.
+
+ Assume Sam is a sterpus. Every sterpus is a shumpus. Sam is a shumpus.
+
+ Since Sam is a rompus or a sterpus, Sam is a shumpus.
+
+
+Q: Lorpuses are rompuses. Gorpuses are rompuses. Wren is a lorpus or a gorpus. Prove: Wren is a rompus.
+
+A:
+
+Predicted answer: Assume Wren is a lorpus. Lorpuses are rompuses. Wren is a lorpus.
+
+ Assume Wren is a gorpus. Gorpuses are rompuses. Wren is a gorpus.
+
+ Since Wren is a lorpus or a gorpus, Wren is a gorpus.
+
+
+
+
+Expected answer: Assume Wren is a lorpus. Lorpuses are rompuses. Wren is a rompus.
+
+ Assume Wren is a gorpus. Gorpuses are rompuses. Wren is a rompus.
+
+ Since Wren is a lorpus or a gorpus, Wren is a rompus.
+n: 40, (beta prior) mean: 0.023809523809523808, 95% lower bound: 0.0006173168932865188, 95% upper bound: 0.08604383629402841, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Impuses are grimpuses. Each lorpus is a grimpus. Max is an impus or a lorpus. Prove: Max is a grimpus.
+
+A: Assume Max is an impus. Impuses are grimpuses. Max is a grimpus.
+
+ Assume Max is a lorpus. Each lorpus is a grimpus. Max is a grimpus.
+
+ Since Max is an impus or a lorpus, Max is a grimpus.
+
+
+Q: Dumpuses are lorpuses. Every grimpus is a lorpus. Sally is a dumpus or a grimpus. Prove: Sally is a lorpus.
+
+A: Assume Sally is a dumpus. Dumpuses are lorpuses. Sally is a lorpus.
+
+ Assume Sally is a grimpus. Every grimpus is a lorpus. Sally is a lorpus.
+
+ Since Sally is a dumpus or a grimpus, Sally is a lorpus.
+
+
+Q: Jompuses are rompuses. Brimpuses are rompuses. Wren is a jompus or a brimpus. Prove: Wren is a rompus.
+
+A: Assume Wren is a jompus. Jompuses are rompuses. Wren is a rompus.
+
+ Assume Wren is a brimpus. Brimpuses are rompuses. Wren is a rompus.
+
+ Since Wren is a jompus or a brimpus, Wren is a rompus.
+
+
+Q: Every tumpus is a grimpus. Every numpus is a grimpus. Sam is a tumpus or a numpus. Prove: Sam is a grimpus.
+
+A:
+
+Predicted answer: Assume Sam is a tumpus. Every tumpus is a grimpus. Sam is a grimpus.
+
+
+ Assume Sam is a numpus. Every numpus is a grimpus. Sam is a grimpus.
+
+
+ Since Sam is a tumpus or a numpus, Sam is a grimpus.
+
+
+
+
+Expected answer: Assume Sam is a tumpus. Every tumpus is a grimpus. Sam is a grimpus.
+
+ Assume Sam is a numpus. Every numpus is a grimpus. Sam is a grimpus.
+
+ Since Sam is a tumpus or a numpus, Sam is a grimpus.
+n: 41, (beta prior) mean: 0.023255813953488372, 95% lower bound: 0.0006026233016035741, 95% upper bound: 0.08408385494035514, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every grimpus is a rompus. Each vumpus is a rompus. Polly is a grimpus or a vumpus. Prove: Polly is a rompus.
+
+A: Assume Polly is a grimpus. Every grimpus is a rompus. Polly is a rompus.
+
+ Assume Polly is a vumpus. Each vumpus is a rompus. Polly is a rompus.
+
+ Since Polly is a grimpus or a vumpus, Polly is a rompus.
+
+
+Q: Each impus is a yumpus. Lempuses are yumpuses. Stella is an impus or a lempus. Prove: Stella is a yumpus.
+
+A: Assume Stella is an impus. Each impus is a yumpus. Stella is a yumpus.
+
+ Assume Stella is a lempus. Lempuses are yumpuses. Stella is a yumpus.
+
+ Since Stella is an impus or a lempus, Stella is a yumpus.
+
+
+Q: Yumpuses are tumpuses. Sterpuses are tumpuses. Sam is a yumpus or a sterpus. Prove: Sam is a tumpus.
+
+A: Assume Sam is a yumpus. Yumpuses are tumpuses. Sam is a tumpus.
+
+ Assume Sam is a sterpus. Sterpuses are tumpuses. Sam is a tumpus.
+
+ Since Sam is a yumpus or a sterpus, Sam is a tumpus.
+
+
+Q: Lempuses are lorpuses. Each dumpus is a lorpus. Sam is a lempus or a dumpus. Prove: Sam is a lorpus.
+
+A:
+
+Predicted answer: Assume Sam is a lorpus. Lempuses are lorpuses. Sam is a lorpus.
+
+
+ Assume Sam is a dumpus. Each dumpus is a lorpus. Sam is a lorpus.
+
+
+
+
+Expected answer: Assume Sam is a lempus. Lempuses are lorpuses. Sam is a lorpus.
+
+ Assume Sam is a dumpus. Each dumpus is a lorpus. Sam is a lorpus.
+
+ Since Sam is a lempus or a dumpus, Sam is a lorpus.
+n: 42, (beta prior) mean: 0.022727272727272728, 95% lower bound: 0.0005886129315931823, 95% upper bound: 0.08221112115413848, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every gorpus is a tumpus. Lorpuses are tumpuses. Sam is a gorpus or a lorpus. Prove: Sam is a tumpus.
+
+A: Assume Sam is a gorpus. Every gorpus is a tumpus. Sam is a tumpus.
+
+ Assume Sam is a lorpus. Lorpuses are tumpuses. Sam is a tumpus.
+
+ Since Sam is a gorpus or a lorpus, Sam is a tumpus.
+
+
+Q: Jompuses are vumpuses. Every numpus is a vumpus. Sam is a jompus or a numpus. Prove: Sam is a vumpus.
+
+A: Assume Sam is a jompus. Jompuses are vumpuses. Sam is a vumpus.
+
+ Assume Sam is a numpus. Every numpus is a vumpus. Sam is a vumpus.
+
+ Since Sam is a jompus or a numpus, Sam is a vumpus.
+
+
+Q: Each numpus is a grimpus. Tumpuses are grimpuses. Polly is a numpus or a tumpus. Prove: Polly is a grimpus.
+
+A: Assume Polly is a numpus. Each numpus is a grimpus. Polly is a grimpus.
+
+ Assume Polly is a tumpus. Tumpuses are grimpuses. Polly is a grimpus.
+
+ Since Polly is a numpus or a tumpus, Polly is a grimpus.
+
+
+Q: Each rompus is a vumpus. Numpuses are vumpuses. Stella is a rompus or a numpus. Prove: Stella is a vumpus.
+
+A:
+
+Predicted answer: Assume Stella is a vumpus. Each rompus is a vumpus. Stella is a vumpus.
+
+
+ Assume Stella is a numpus. Each numpus is a vumpus. Stella is a vumpus.
+
+
+ Since Stella is a vumpus or a numpus, Stella is a vumpus.
+
+
+
+
+Expected answer: Assume Stella is a rompus. Each rompus is a vumpus. Stella is a vumpus.
+
+ Assume Stella is a numpus. Numpuses are vumpuses. Stella is a vumpus.
+
+ Since Stella is a rompus or a numpus, Stella is a vumpus.
+n: 43, (beta prior) mean: 0.022222222222222223, 95% lower bound: 0.0005752392133630829, 95% upper bound: 0.08041993976357587, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Vumpuses are numpuses. Every wumpus is a numpus. Rex is a vumpus or a wumpus. Prove: Rex is a numpus.
+
+A: Assume Rex is a vumpus. Vumpuses are numpuses. Rex is a numpus.
+
+ Assume Rex is a wumpus. Every wumpus is a numpus. Rex is a numpus.
+
+ Since Rex is a vumpus or a wumpus, Rex is a numpus.
+
+
+Q: Each vumpus is a gorpus. Zumpuses are gorpuses. Stella is a vumpus or a zumpus. Prove: Stella is a gorpus.
+
+A: Assume Stella is a vumpus. Each vumpus is a gorpus. Stella is a gorpus.
+
+ Assume Stella is a zumpus. Zumpuses are gorpuses. Stella is a gorpus.
+
+ Since Stella is a vumpus or a zumpus, Stella is a gorpus.
+
+
+Q: Every numpus is a lorpus. Zumpuses are lorpuses. Max is a numpus or a zumpus. Prove: Max is a lorpus.
+
+A: Assume Max is a numpus. Every numpus is a lorpus. Max is a lorpus.
+
+ Assume Max is a zumpus. Zumpuses are lorpuses. Max is a lorpus.
+
+ Since Max is a numpus or a zumpus, Max is a lorpus.
+
+
+Q: Each shumpus is a rompus. Every numpus is a rompus. Rex is a shumpus or a numpus. Prove: Rex is a rompus.
+
+A:
+
+Predicted answer: Assume Rex is a rompus. Each shumpus is a rompus. Rex is a rompus.
+
+
+ Assume Rex is a shumpus. Every shumpus is a rompus. Rex is a rompus.
+
+
+
+
+Expected answer: Assume Rex is a shumpus. Each shumpus is a rompus. Rex is a rompus.
+
+ Assume Rex is a numpus. Every numpus is a rompus. Rex is a rompus.
+
+ Since Rex is a shumpus or a numpus, Rex is a rompus.
+n: 44, (beta prior) mean: 0.021739130434782608, 95% lower bound: 0.0005624597154022577, 95% upper bound: 0.07870510040684303, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Sterpuses are brimpuses. Every rompus is a brimpus. Wren is a sterpus or a rompus. Prove: Wren is a brimpus.
+
+A: Assume Wren is a sterpus. Sterpuses are brimpuses. Wren is a brimpus.
+
+ Assume Wren is a rompus. Every rompus is a brimpus. Wren is a brimpus.
+
+ Since Wren is a sterpus or a rompus, Wren is a brimpus.
+
+
+Q: Each dumpus is a rompus. Vumpuses are rompuses. Rex is a dumpus or a vumpus. Prove: Rex is a rompus.
+
+A: Assume Rex is a dumpus. Each dumpus is a rompus. Rex is a rompus.
+
+ Assume Rex is a vumpus. Vumpuses are rompuses. Rex is a rompus.
+
+ Since Rex is a dumpus or a vumpus, Rex is a rompus.
+
+
+Q: Each shumpus is a numpus. Wumpuses are numpuses. Stella is a shumpus or a wumpus. Prove: Stella is a numpus.
+
+A: Assume Stella is a shumpus. Each shumpus is a numpus. Stella is a numpus.
+
+ Assume Stella is a wumpus. Wumpuses are numpuses. Stella is a numpus.
+
+ Since Stella is a shumpus or a wumpus, Stella is a numpus.
+
+
+Q: Each numpus is a vumpus. Every tumpus is a vumpus. Sally is a numpus or a tumpus. Prove: Sally is a vumpus.
+
+A:
+
+Predicted answer: Assume Sally is a vumpus. Every numpus is a vumpus. Sally is a vumpus.
+
+
+ Assume Sally is a tumpus. Every tumpus is a vumpus. Sally is a vumpus.
+
+
+ Since Sally is a tumpus or a vumpus, Sally is a vumpus.
+
+
+
+
+Expected answer: Assume Sally is a numpus. Each numpus is a vumpus. Sally is a vumpus.
+
+ Assume Sally is a tumpus. Every tumpus is a vumpus. Sally is a vumpus.
+
+ Since Sally is a numpus or a tumpus, Sally is a vumpus.
+n: 45, (beta prior) mean: 0.02127659574468085, 95% lower bound: 0.0005502356948807102, 95% upper bound: 0.07706182705190072, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Impuses are shumpuses. Brimpuses are shumpuses. Stella is an impus or a brimpus. Prove: Stella is a shumpus.
+
+A: Assume Stella is an impus. Impuses are shumpuses. Stella is a shumpus.
+
+ Assume Stella is a brimpus. Brimpuses are shumpuses. Stella is a shumpus.
+
+ Since Stella is an impus or a brimpus, Stella is a shumpus.
+
+
+Q: Dumpuses are wumpuses. Lorpuses are wumpuses. Sally is a dumpus or a lorpus. Prove: Sally is a wumpus.
+
+A: Assume Sally is a dumpus. Dumpuses are wumpuses. Sally is a wumpus.
+
+ Assume Sally is a lorpus. Lorpuses are wumpuses. Sally is a wumpus.
+
+ Since Sally is a dumpus or a lorpus, Sally is a wumpus.
+
+
+Q: Dumpuses are brimpuses. Zumpuses are brimpuses. Stella is a dumpus or a zumpus. Prove: Stella is a brimpus.
+
+A: Assume Stella is a dumpus. Dumpuses are brimpuses. Stella is a brimpus.
+
+ Assume Stella is a zumpus. Zumpuses are brimpuses. Stella is a brimpus.
+
+ Since Stella is a dumpus or a zumpus, Stella is a brimpus.
+
+
+Q: Every brimpus is a numpus. Zumpuses are numpuses. Max is a brimpus or a zumpus. Prove: Max is a numpus.
+
+A:
+
+Predicted answer: Assume Max is a numpus. Brimpuses are numpuses. Max is a numpus.
+
+
+ Assume Max is a zumpus. Zumpuses are numpuses. Max is a numpus.
+
+
+ Since Max is a numpus or a zumpus, Max is a numpus.
+
+
+
+
+Expected answer: Assume Max is a brimpus. Every brimpus is a numpus. Max is a numpus.
+
+ Assume Max is a zumpus. Zumpuses are numpuses. Max is a numpus.
+
+ Since Max is a brimpus or a zumpus, Max is a numpus.
+n: 46, (beta prior) mean: 0.020833333333333332, 95% lower bound: 0.0005385317053423145, 95% upper bound: 0.07548573369105858, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Tumpuses are wumpuses. Vumpuses are wumpuses. Fae is a tumpus or a vumpus. Prove: Fae is a wumpus.
+
+A: Assume Fae is a tumpus. Tumpuses are wumpuses. Fae is a wumpus.
+
+ Assume Fae is a vumpus. Vumpuses are wumpuses. Fae is a wumpus.
+
+ Since Fae is a tumpus or a vumpus, Fae is a wumpus.
+
+
+Q: Gorpuses are jompuses. Zumpuses are jompuses. Alex is a gorpus or a zumpus. Prove: Alex is a jompus.
+
+A: Assume Alex is a gorpus. Gorpuses are jompuses. Alex is a jompus.
+
+ Assume Alex is a zumpus. Zumpuses are jompuses. Alex is a jompus.
+
+ Since Alex is a gorpus or a zumpus, Alex is a jompus.
+
+
+Q: Sterpuses are shumpuses. Every dumpus is a shumpus. Polly is a sterpus or a dumpus. Prove: Polly is a shumpus.
+
+A: Assume Polly is a sterpus. Sterpuses are shumpuses. Polly is a shumpus.
+
+ Assume Polly is a dumpus. Every dumpus is a shumpus. Polly is a shumpus.
+
+ Since Polly is a sterpus or a dumpus, Polly is a shumpus.
+
+
+Q: Each zumpus is an impus. Yumpuses are impuses. Polly is a zumpus or a yumpus. Prove: Polly is an impus.
+
+A:
+
+Predicted answer: Assume Polly is an impus. Zumpuses are impuses. Polly is an impus.
+
+
+ Assume Polly is a yumpus. Yumpuses are impuses. Polly is an impus.
+
+
+
+
+Expected answer: Assume Polly is a zumpus. Each zumpus is an impus. Polly is an impus.
+
+ Assume Polly is a yumpus. Yumpuses are impuses. Polly is an impus.
+
+ Since Polly is a zumpus or a yumpus, Polly is an impus.
+n: 47, (beta prior) mean: 0.02040816326530612, 95% lower bound: 0.0005273152534231199, 95% upper bound: 0.0739727853472802, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Impuses are shumpuses. Lorpuses are shumpuses. Stella is an impus or a lorpus. Prove: Stella is a shumpus.
+
+A: Assume Stella is an impus. Impuses are shumpuses. Stella is a shumpus.
+
+ Assume Stella is a lorpus. Lorpuses are shumpuses. Stella is a shumpus.
+
+ Since Stella is an impus or a lorpus, Stella is a shumpus.
+
+
+Q: Zumpuses are dumpuses. Vumpuses are dumpuses. Wren is a zumpus or a vumpus. Prove: Wren is a dumpus.
+
+A: Assume Wren is a zumpus. Zumpuses are dumpuses. Wren is a dumpus.
+
+ Assume Wren is a vumpus. Vumpuses are dumpuses. Wren is a dumpus.
+
+ Since Wren is a zumpus or a vumpus, Wren is a dumpus.
+
+
+Q: Every vumpus is a yumpus. Every gorpus is a yumpus. Alex is a vumpus or a gorpus. Prove: Alex is a yumpus.
+
+A: Assume Alex is a vumpus. Every vumpus is a yumpus. Alex is a yumpus.
+
+ Assume Alex is a gorpus. Every gorpus is a yumpus. Alex is a yumpus.
+
+ Since Alex is a vumpus or a gorpus, Alex is a yumpus.
+
+
+Q: Each tumpus is a lempus. Every impus is a lempus. Rex is a tumpus or an impus. Prove: Rex is a lempus.
+
+A:
+
+Predicted answer: Assume Rex is a lempus. Each tumpus is a lempus. Rex is a lempus.
+
+
+ Assume Rex is an impus. Each impus is a lempus. Rex is a lempus.
+
+
+ Since Rex is an impus or a lempus, Rex is a lempus.
+
+
+
+
+Expected answer: Assume Rex is a tumpus. Each tumpus is a lempus. Rex is a lempus.
+
+ Assume Rex is an impus. Every impus is a lempus. Rex is a lempus.
+
+ Since Rex is a tumpus or an impus, Rex is a lempus.
+n: 48, (beta prior) mean: 0.02, 95% lower bound: 0.0005165564975932862, 95% upper bound: 0.07251926366427738, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every lempus is a zumpus. Rompuses are zumpuses. Stella is a lempus or a rompus. Prove: Stella is a zumpus.
+
+A: Assume Stella is a lempus. Every lempus is a zumpus. Stella is a zumpus.
+
+ Assume Stella is a rompus. Rompuses are zumpuses. Stella is a zumpus.
+
+ Since Stella is a lempus or a rompus, Stella is a zumpus.
+
+
+Q: Each impus is a zumpus. Vumpuses are zumpuses. Fae is an impus or a vumpus. Prove: Fae is a zumpus.
+
+A: Assume Fae is an impus. Each impus is a zumpus. Fae is a zumpus.
+
+ Assume Fae is a vumpus. Vumpuses are zumpuses. Fae is a zumpus.
+
+ Since Fae is an impus or a vumpus, Fae is a zumpus.
+
+
+Q: Each shumpus is a yumpus. Every lempus is a yumpus. Polly is a shumpus or a lempus. Prove: Polly is a yumpus.
+
+A: Assume Polly is a shumpus. Each shumpus is a yumpus. Polly is a yumpus.
+
+ Assume Polly is a lempus. Every lempus is a yumpus. Polly is a yumpus.
+
+ Since Polly is a shumpus or a lempus, Polly is a yumpus.
+
+
+Q: Each wumpus is a sterpus. Vumpuses are sterpuses. Wren is a wumpus or a vumpus. Prove: Wren is a sterpus.
+
+A:
+
+Predicted answer: Assume Wren is a sterpus. Each wumpus is a sterpus. Wren is a sterpus.
+
+
+ Assume Wren is a vumpus. Vumpuses are sterpuses. Wren is a sterpus.
+
+
+ Since Wren is a sterpus or a vumpus, Wren is a sterpus.
+
+
+
+
+Expected answer: Assume Wren is a wumpus. Each wumpus is a sterpus. Wren is a sterpus.
+
+ Assume Wren is a vumpus. Vumpuses are sterpuses. Wren is a sterpus.
+
+ Since Wren is a wumpus or a vumpus, Wren is a sterpus.
+n: 49, (beta prior) mean: 0.0196078431372549, 95% lower bound: 0.0005062279830408291, 95% upper bound: 0.07112173646419764, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Lempuses are lorpuses. Jompuses are lorpuses. Sam is a lempus or a jompus. Prove: Sam is a lorpus.
+
+A: Assume Sam is a lempus. Lempuses are lorpuses. Sam is a lorpus.
+
+ Assume Sam is a jompus. Jompuses are lorpuses. Sam is a lorpus.
+
+ Since Sam is a lempus or a jompus, Sam is a lorpus.
+
+
+Q: Dumpuses are lempuses. Brimpuses are lempuses. Sally is a dumpus or a brimpus. Prove: Sally is a lempus.
+
+A: Assume Sally is a dumpus. Dumpuses are lempuses. Sally is a lempus.
+
+ Assume Sally is a brimpus. Brimpuses are lempuses. Sally is a lempus.
+
+ Since Sally is a dumpus or a brimpus, Sally is a lempus.
+
+
+Q: Every dumpus is a yumpus. Lorpuses are yumpuses. Alex is a dumpus or a lorpus. Prove: Alex is a yumpus.
+
+A: Assume Alex is a dumpus. Every dumpus is a yumpus. Alex is a yumpus.
+
+ Assume Alex is a lorpus. Lorpuses are yumpuses. Alex is a yumpus.
+
+ Since Alex is a dumpus or a lorpus, Alex is a yumpus.
+
+
+Q: Gorpuses are lempuses. Brimpuses are lempuses. Fae is a gorpus or a brimpus. Prove: Fae is a lempus.
+
+A:
+
+Predicted answer: Assume Fae is a gorpus. Gorpuses are lempuses. Fae is a gorpus.
+
+
+ Assume Fae is a brimpus. Brimpuses are lempuses. Fae is a gorpus.
+
+
+ Since Fae is a gorpus or a brimpus, Fae is a lempus.
+
+
+
+
+Expected answer: Assume Fae is a gorpus. Gorpuses are lempuses. Fae is a lempus.
+
+ Assume Fae is a brimpus. Brimpuses are lempuses. Fae is a lempus.
+
+ Since Fae is a gorpus or a brimpus, Fae is a lempus.
+n: 50, (beta prior) mean: 0.019230769230769232, 95% lower bound: 0.000496304407737771, 95% upper bound: 0.06977703074953864, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every zumpus is a wumpus. Lempuses are wumpuses. Fae is a zumpus or a lempus. Prove: Fae is a wumpus.
+
+A: Assume Fae is a zumpus. Every zumpus is a wumpus. Fae is a wumpus.
+
+ Assume Fae is a lempus. Lempuses are wumpuses. Fae is a wumpus.
+
+ Since Fae is a zumpus or a lempus, Fae is a wumpus.
+
+
+Q: Grimpuses are gorpuses. Tumpuses are gorpuses. Max is a grimpus or a tumpus. Prove: Max is a gorpus.
+
+A: Assume Max is a grimpus. Grimpuses are gorpuses. Max is a gorpus.
+
+ Assume Max is a tumpus. Tumpuses are gorpuses. Max is a gorpus.
+
+ Since Max is a grimpus or a tumpus, Max is a gorpus.
+
+
+Q: Each grimpus is a dumpus. Wumpuses are dumpuses. Fae is a grimpus or a wumpus. Prove: Fae is a dumpus.
+
+A: Assume Fae is a grimpus. Each grimpus is a dumpus. Fae is a dumpus.
+
+ Assume Fae is a wumpus. Wumpuses are dumpuses. Fae is a dumpus.
+
+ Since Fae is a grimpus or a wumpus, Fae is a dumpus.
+
+
+Q: Lempuses are sterpuses. Dumpuses are sterpuses. Sally is a lempus or a dumpus. Prove: Sally is a sterpus.
+
+A:
+
+Predicted answer: Assume Sally is a lempus. Lempuses are sterpuses. Sally is a sterpus.
+
+ Assume Sally is a dumpus. Dumpuses are sterpuses. Sally is a sterpus.
+
+ Since Sally is a lempus or a dumpus, Sally is a sterpus.
+
+
+
+
+Expected answer: Assume Sally is a lempus. Lempuses are sterpuses. Sally is a sterpus.
+
+ Assume Sally is a dumpus. Dumpuses are sterpuses. Sally is a sterpus.
+
+ Since Sally is a lempus or a dumpus, Sally is a sterpus.
+n: 51, (beta prior) mean: 0.018867924528301886, 95% lower bound: 0.000486762415492083, 95% upper bound: 0.06848220870331956, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every brimpus is a vumpus. Each numpus is a vumpus. Rex is a brimpus or a numpus. Prove: Rex is a vumpus.
+
+A: Assume Rex is a brimpus. Every brimpus is a vumpus. Rex is a vumpus.
+
+ Assume Rex is a numpus. Each numpus is a vumpus. Rex is a vumpus.
+
+ Since Rex is a brimpus or a numpus, Rex is a vumpus.
+
+
+Q: Vumpuses are zumpuses. Each wumpus is a zumpus. Sam is a vumpus or a wumpus. Prove: Sam is a zumpus.
+
+A: Assume Sam is a vumpus. Vumpuses are zumpuses. Sam is a zumpus.
+
+ Assume Sam is a wumpus. Each wumpus is a zumpus. Sam is a zumpus.
+
+ Since Sam is a vumpus or a wumpus, Sam is a zumpus.
+
+
+Q: Each grimpus is a vumpus. Tumpuses are vumpuses. Wren is a grimpus or a tumpus. Prove: Wren is a vumpus.
+
+A: Assume Wren is a grimpus. Each grimpus is a vumpus. Wren is a vumpus.
+
+ Assume Wren is a tumpus. Tumpuses are vumpuses. Wren is a vumpus.
+
+ Since Wren is a grimpus or a tumpus, Wren is a vumpus.
+
+
+Q: Zumpuses are impuses. Lorpuses are impuses. Rex is a zumpus or a lorpus. Prove: Rex is an impus.
+
+A:
+
+Predicted answer: Assume Rex is an impus. Zumpuses are impuses. Rex is an impus.
+
+
+ Assume Rex is a lorpus. Lorpuses are impuses. Rex is an impus.
+
+
+
+
+Expected answer: Assume Rex is a zumpus. Zumpuses are impuses. Rex is an impus.
+
+ Assume Rex is a lorpus. Lorpuses are impuses. Rex is an impus.
+
+ Since Rex is a zumpus or a lorpus, Rex is an impus.
+n: 52, (beta prior) mean: 0.018518518518518517, 95% lower bound: 0.00047758041242211286, 95% upper bound: 0.06723454630630114, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Lempuses are grimpuses. Tumpuses are grimpuses. Wren is a lempus or a tumpus. Prove: Wren is a grimpus.
+
+A: Assume Wren is a lempus. Lempuses are grimpuses. Wren is a grimpus.
+
+ Assume Wren is a tumpus. Tumpuses are grimpuses. Wren is a grimpus.
+
+ Since Wren is a lempus or a tumpus, Wren is a grimpus.
+
+
+Q: Shumpuses are yumpuses. Tumpuses are yumpuses. Fae is a shumpus or a tumpus. Prove: Fae is a yumpus.
+
+A: Assume Fae is a shumpus. Shumpuses are yumpuses. Fae is a yumpus.
+
+ Assume Fae is a tumpus. Tumpuses are yumpuses. Fae is a yumpus.
+
+ Since Fae is a shumpus or a tumpus, Fae is a yumpus.
+
+
+Q: Each tumpus is a zumpus. Numpuses are zumpuses. Stella is a tumpus or a numpus. Prove: Stella is a zumpus.
+
+A: Assume Stella is a tumpus. Each tumpus is a zumpus. Stella is a zumpus.
+
+ Assume Stella is a numpus. Numpuses are zumpuses. Stella is a zumpus.
+
+ Since Stella is a tumpus or a numpus, Stella is a zumpus.
+
+
+Q: Every grimpus is a brimpus. Jompuses are brimpuses. Wren is a grimpus or a jompus. Prove: Wren is a brimpus.
+
+A:
+
+Predicted answer: Assume Wren is a brimpus. Every grimpus is a brimpus. Wren is a brimpus.
+
+
+ Assume Wren is a jompus. Jompuses are brimpuses. Wren is a brimpus.
+
+
+ Since Wren is a jompus or a jompus, Wren is a brimpus.
+
+
+
+
+Expected answer: Assume Wren is a grimpus. Every grimpus is a brimpus. Wren is a brimpus.
+
+ Assume Wren is a jompus. Jompuses are brimpuses. Wren is a brimpus.
+
+ Since Wren is a grimpus or a jompus, Wren is a brimpus.
+n: 53, (beta prior) mean: 0.01818181818181818, 95% lower bound: 0.0004687384038179604, 95% upper bound: 0.06603151424442182, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Yumpuses are shumpuses. Vumpuses are shumpuses. Max is a yumpus or a vumpus. Prove: Max is a shumpus.
+
+A: Assume Max is a yumpus. Yumpuses are shumpuses. Max is a shumpus.
+
+ Assume Max is a vumpus. Vumpuses are shumpuses. Max is a shumpus.
+
+ Since Max is a yumpus or a vumpus, Max is a shumpus.
+
+
+Q: Every shumpus is a lempus. Grimpuses are lempuses. Rex is a shumpus or a grimpus. Prove: Rex is a lempus.
+
+A: Assume Rex is a shumpus. Every shumpus is a lempus. Rex is a lempus.
+
+ Assume Rex is a grimpus. Grimpuses are lempuses. Rex is a lempus.
+
+ Since Rex is a shumpus or a grimpus, Rex is a lempus.
+
+
+Q: Every sterpus is a vumpus. Impuses are vumpuses. Wren is a sterpus or an impus. Prove: Wren is a vumpus.
+
+A: Assume Wren is a sterpus. Every sterpus is a vumpus. Wren is a vumpus.
+
+ Assume Wren is an impus. Impuses are vumpuses. Wren is a vumpus.
+
+ Since Wren is a sterpus or an impus, Wren is a vumpus.
+
+
+Q: Every numpus is a brimpus. Tumpuses are brimpuses. Sam is a numpus or a tumpus. Prove: Sam is a brimpus.
+
+A:
+
+Predicted answer: Assume Sam is a brimpus. Every numpus is a brimpus. Sam is a brimpus.
+
+
+ Assume Sam is a tumpus. Tumpuses are brimpuses. Sam is a tumpus.
+
+
+ Since Sam is a tumpus or a brimpus, Sam is a brimpus.
+
+
+
+
+Expected answer: Assume Sam is a numpus. Every numpus is a brimpus. Sam is a brimpus.
+
+ Assume Sam is a tumpus. Tumpuses are brimpuses. Sam is a brimpus.
+
+ Since Sam is a numpus or a tumpus, Sam is a brimpus.
+n: 54, (beta prior) mean: 0.017857142857142856, 95% lower bound: 0.0004602178487956972, 95% upper bound: 0.06487076082542459, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each jompus is an impus. Lorpuses are impuses. Rex is a jompus or a lorpus. Prove: Rex is an impus.
+
+A: Assume Rex is a jompus. Each jompus is an impus. Rex is an impus.
+
+ Assume Rex is a lorpus. Lorpuses are impuses. Rex is an impus.
+
+ Since Rex is a jompus or a lorpus, Rex is an impus.
+
+
+Q: Wumpuses are lorpuses. Each zumpus is a lorpus. Sally is a wumpus or a zumpus. Prove: Sally is a lorpus.
+
+A: Assume Sally is a wumpus. Wumpuses are lorpuses. Sally is a lorpus.
+
+ Assume Sally is a zumpus. Each zumpus is a lorpus. Sally is a lorpus.
+
+ Since Sally is a wumpus or a zumpus, Sally is a lorpus.
+
+
+Q: Shumpuses are dumpuses. Each numpus is a dumpus. Wren is a shumpus or a numpus. Prove: Wren is a dumpus.
+
+A: Assume Wren is a shumpus. Shumpuses are dumpuses. Wren is a dumpus.
+
+ Assume Wren is a numpus. Each numpus is a dumpus. Wren is a dumpus.
+
+ Since Wren is a shumpus or a numpus, Wren is a dumpus.
+
+
+Q: Every sterpus is a lempus. Each tumpus is a lempus. Polly is a sterpus or a tumpus. Prove: Polly is a lempus.
+
+A:
+
+Predicted answer: Assume Polly is a lempus. Every sterpus is a lempus. Polly is a lempus.
+
+
+ Assume Polly is a tumpus. Each tumpus is a lempus. Polly is a lempus.
+
+
+ Since Polly is a tumpus or a lempus, Polly is a lempus.
+
+
+
+
+Expected answer: Assume Polly is a sterpus. Every sterpus is a lempus. Polly is a lempus.
+
+ Assume Polly is a tumpus. Each tumpus is a lempus. Polly is a lempus.
+
+ Since Polly is a sterpus or a tumpus, Polly is a lempus.
+n: 55, (beta prior) mean: 0.017543859649122806, 95% lower bound: 0.00045200153052082546, 95% upper bound: 0.06375009666236217, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Dumpuses are zumpuses. Every lorpus is a zumpus. Max is a dumpus or a lorpus. Prove: Max is a zumpus.
+
+A: Assume Max is a dumpus. Dumpuses are zumpuses. Max is a zumpus.
+
+ Assume Max is a lorpus. Every lorpus is a zumpus. Max is a zumpus.
+
+ Since Max is a dumpus or a lorpus, Max is a zumpus.
+
+
+Q: Gorpuses are yumpuses. Each shumpus is a yumpus. Polly is a gorpus or a shumpus. Prove: Polly is a yumpus.
+
+A: Assume Polly is a gorpus. Gorpuses are yumpuses. Polly is a yumpus.
+
+ Assume Polly is a shumpus. Each shumpus is a yumpus. Polly is a yumpus.
+
+ Since Polly is a gorpus or a shumpus, Polly is a yumpus.
+
+
+Q: Every zumpus is an impus. Every yumpus is an impus. Sally is a zumpus or a yumpus. Prove: Sally is an impus.
+
+A: Assume Sally is a zumpus. Every zumpus is an impus. Sally is an impus.
+
+ Assume Sally is a yumpus. Every yumpus is an impus. Sally is an impus.
+
+ Since Sally is a zumpus or a yumpus, Sally is an impus.
+
+
+Q: Every grimpus is a lempus. Each zumpus is a lempus. Polly is a grimpus or a zumpus. Prove: Polly is a lempus.
+
+A:
+
+Predicted answer: Assume Polly is a grimpus. Every grimpus is a lempus. Polly is a lempus.
+
+
+ Assume Polly is a zumpus. Every zumpus is a lempus. Polly is a lempus.
+
+
+ Since Polly is a grimpus or a zumpus, Polly is a lempus.
+
+
+
+
+Expected answer: Assume Polly is a grimpus. Every grimpus is a lempus. Polly is a lempus.
+
+ Assume Polly is a zumpus. Each zumpus is a lempus. Polly is a lempus.
+
+ Since Polly is a grimpus or a zumpus, Polly is a lempus.
+n: 56, (beta prior) mean: 0.017241379310344827, 95% lower bound: 0.00044407344008939235, 95% upper bound: 0.06266748091448493, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Rompuses are yumpuses. Every vumpus is a yumpus. Polly is a rompus or a vumpus. Prove: Polly is a yumpus.
+
+A: Assume Polly is a rompus. Rompuses are yumpuses. Polly is a yumpus.
+
+ Assume Polly is a vumpus. Every vumpus is a yumpus. Polly is a yumpus.
+
+ Since Polly is a rompus or a vumpus, Polly is a yumpus.
+
+
+Q: Every vumpus is a sterpus. Every zumpus is a sterpus. Alex is a vumpus or a zumpus. Prove: Alex is a sterpus.
+
+A: Assume Alex is a vumpus. Every vumpus is a sterpus. Alex is a sterpus.
+
+ Assume Alex is a zumpus. Every zumpus is a sterpus. Alex is a sterpus.
+
+ Since Alex is a vumpus or a zumpus, Alex is a sterpus.
+
+
+Q: Each brimpus is a shumpus. Jompuses are shumpuses. Rex is a brimpus or a jompus. Prove: Rex is a shumpus.
+
+A: Assume Rex is a brimpus. Each brimpus is a shumpus. Rex is a shumpus.
+
+ Assume Rex is a jompus. Jompuses are shumpuses. Rex is a shumpus.
+
+ Since Rex is a brimpus or a jompus, Rex is a shumpus.
+
+
+Q: Each impus is a vumpus. Every rompus is a vumpus. Max is an impus or a rompus. Prove: Max is a vumpus.
+
+A:
+
+Predicted answer: Assume Max is a vumpus. Each impus is a vumpus. Max is a vumpus.
+
+
+ Assume Max is a rompus. Each rompus is a vumpus. Max is a vumpus.
+
+
+ Since Max is a rompus or a vumpus, Max is a vumpus.
+
+
+
+
+Expected answer: Assume Max is an impus. Each impus is a vumpus. Max is a vumpus.
+
+ Assume Max is a rompus. Every rompus is a vumpus. Max is a vumpus.
+
+ Since Max is an impus or a rompus, Max is a vumpus.
+n: 57, (beta prior) mean: 0.01694915254237288, 95% lower bound: 0.0004364186724187789, 95% upper bound: 0.061621008903919826, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Numpuses are brimpuses. Lempuses are brimpuses. Alex is a numpus or a lempus. Prove: Alex is a brimpus.
+
+A: Assume Alex is a numpus. Numpuses are brimpuses. Alex is a brimpus.
+
+ Assume Alex is a lempus. Lempuses are brimpuses. Alex is a brimpus.
+
+ Since Alex is a numpus or a lempus, Alex is a brimpus.
+
+
+Q: Numpuses are sterpuses. Each rompus is a sterpus. Max is a numpus or a rompus. Prove: Max is a sterpus.
+
+A: Assume Max is a numpus. Numpuses are sterpuses. Max is a sterpus.
+
+ Assume Max is a rompus. Each rompus is a sterpus. Max is a sterpus.
+
+ Since Max is a numpus or a rompus, Max is a sterpus.
+
+
+Q: Each gorpus is a rompus. Each impus is a rompus. Alex is a gorpus or an impus. Prove: Alex is a rompus.
+
+A: Assume Alex is a gorpus. Each gorpus is a rompus. Alex is a rompus.
+
+ Assume Alex is an impus. Each impus is a rompus. Alex is a rompus.
+
+ Since Alex is a gorpus or an impus, Alex is a rompus.
+
+
+Q: Jompuses are numpuses. Wumpuses are numpuses. Rex is a jompus or a wumpus. Prove: Rex is a numpus.
+
+A:
+
+Predicted answer: Assume Rex is a numpus. Jompuses are numpuses. Rex is a numpus.
+
+ Assume Rex is a wumpus. Each wumpus is a numpus. Rex is a numpus.
+
+ Since Rex is a wumpus or a wumpus, Rex is a numpus.
+
+
+
+
+Expected answer: Assume Rex is a jompus. Jompuses are numpuses. Rex is a numpus.
+
+ Assume Rex is a wumpus. Wumpuses are numpuses. Rex is a numpus.
+
+ Since Rex is a jompus or a wumpus, Rex is a numpus.
+n: 58, (beta prior) mean: 0.016666666666666666, 95% lower bound: 0.0004290233327235946, 95% upper bound: 0.060608900950339835, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every impus is a brimpus. Every lempus is a brimpus. Wren is an impus or a lempus. Prove: Wren is a brimpus.
+
+A: Assume Wren is an impus. Every impus is a brimpus. Wren is a brimpus.
+
+ Assume Wren is a lempus. Every lempus is a brimpus. Wren is a brimpus.
+
+ Since Wren is an impus or a lempus, Wren is a brimpus.
+
+
+Q: Brimpuses are shumpuses. Each lorpus is a shumpus. Sally is a brimpus or a lorpus. Prove: Sally is a shumpus.
+
+A: Assume Sally is a brimpus. Brimpuses are shumpuses. Sally is a shumpus.
+
+ Assume Sally is a lorpus. Each lorpus is a shumpus. Sally is a shumpus.
+
+ Since Sally is a brimpus or a lorpus, Sally is a shumpus.
+
+
+Q: Every yumpus is a tumpus. Shumpuses are tumpuses. Sally is a yumpus or a shumpus. Prove: Sally is a tumpus.
+
+A: Assume Sally is a yumpus. Every yumpus is a tumpus. Sally is a tumpus.
+
+ Assume Sally is a shumpus. Shumpuses are tumpuses. Sally is a tumpus.
+
+ Since Sally is a yumpus or a shumpus, Sally is a tumpus.
+
+
+Q: Every dumpus is a tumpus. Each zumpus is a tumpus. Max is a dumpus or a zumpus. Prove: Max is a tumpus.
+
+A:
+
+Predicted answer: Assume Max is a tumpus. Every dumpus is a tumpus. Max is a tumpus.
+
+
+ Assume Max is a zumpus. Every zumpus is a tumpus. Max is a tumpus.
+
+
+ Since Max is a zumpus or a dumpus, Max is a tumpus.
+
+
+
+
+Expected answer: Assume Max is a dumpus. Every dumpus is a tumpus. Max is a tumpus.
+
+ Assume Max is a zumpus. Each zumpus is a tumpus. Max is a tumpus.
+
+ Since Max is a dumpus or a zumpus, Max is a tumpus.
+n: 59, (beta prior) mean: 0.01639344262295082, 95% lower bound: 0.00042187445234200883, 95% upper bound: 0.059629492286166916, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every jompus is a wumpus. Shumpuses are wumpuses. Fae is a jompus or a shumpus. Prove: Fae is a wumpus.
+
+A: Assume Fae is a jompus. Every jompus is a wumpus. Fae is a wumpus.
+
+ Assume Fae is a shumpus. Shumpuses are wumpuses. Fae is a wumpus.
+
+ Since Fae is a jompus or a shumpus, Fae is a wumpus.
+
+
+Q: Every shumpus is a vumpus. Dumpuses are vumpuses. Alex is a shumpus or a dumpus. Prove: Alex is a vumpus.
+
+A: Assume Alex is a shumpus. Every shumpus is a vumpus. Alex is a vumpus.
+
+ Assume Alex is a dumpus. Dumpuses are vumpuses. Alex is a vumpus.
+
+ Since Alex is a shumpus or a dumpus, Alex is a vumpus.
+
+
+Q: Shumpuses are grimpuses. Gorpuses are grimpuses. Max is a shumpus or a gorpus. Prove: Max is a grimpus.
+
+A: Assume Max is a shumpus. Shumpuses are grimpuses. Max is a grimpus.
+
+ Assume Max is a gorpus. Gorpuses are grimpuses. Max is a grimpus.
+
+ Since Max is a shumpus or a gorpus, Max is a grimpus.
+
+
+Q: Each impus is a jompus. Gorpuses are jompuses. Wren is an impus or a gorpus. Prove: Wren is a jompus.
+
+A:
+
+Predicted answer: Assume Wren is a jompus. Each impus is a jompus. Wren is a jompus.
+
+
+ Assume Wren is a gorpus. Gorpuses are jompuses. Wren is a jompus.
+
+
+ Since Wren is a jompus or a gorpus, Wren is a jompus.
+
+
+
+
+Expected answer: Assume Wren is an impus. Each impus is a jompus. Wren is a jompus.
+
+ Assume Wren is a gorpus. Gorpuses are jompuses. Wren is a jompus.
+
+ Since Wren is an impus or a gorpus, Wren is a jompus.
+n: 60, (beta prior) mean: 0.016129032258064516, 95% lower bound: 0.00041495991283974033, 95% upper bound: 0.05868122393229261, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Grimpuses are jompuses. Impuses are jompuses. Max is a grimpus or an impus. Prove: Max is a jompus.
+
+A: Assume Max is a grimpus. Grimpuses are jompuses. Max is a jompus.
+
+ Assume Max is an impus. Impuses are jompuses. Max is a jompus.
+
+ Since Max is a grimpus or an impus, Max is a jompus.
+
+
+Q: Every impus is a jompus. Wumpuses are jompuses. Polly is an impus or a wumpus. Prove: Polly is a jompus.
+
+A: Assume Polly is an impus. Every impus is a jompus. Polly is a jompus.
+
+ Assume Polly is a wumpus. Wumpuses are jompuses. Polly is a jompus.
+
+ Since Polly is an impus or a wumpus, Polly is a jompus.
+
+
+Q: Each shumpus is an impus. Lempuses are impuses. Rex is a shumpus or a lempus. Prove: Rex is an impus.
+
+A: Assume Rex is a shumpus. Each shumpus is an impus. Rex is an impus.
+
+ Assume Rex is a lempus. Lempuses are impuses. Rex is an impus.
+
+ Since Rex is a shumpus or a lempus, Rex is an impus.
+
+
+Q: Each sterpus is a jompus. Each grimpus is a jompus. Max is a sterpus or a grimpus. Prove: Max is a jompus.
+
+A:
+
+Predicted answer: Assume Max is a jompus. Each sterpus is a jompus. Max is a jompus.
+
+
+ Assume Max is a grimpus. Grimpuses are jompuses. Max is a jompus.
+
+
+ Since Max is a grimpus or an impus, Max is a jompus.
+
+
+
+
+Expected answer: Assume Max is a sterpus. Each sterpus is a jompus. Max is a jompus.
+
+ Assume Max is a grimpus. Each grimpus is a jompus. Max is a jompus.
+
+ Since Max is a sterpus or a grimpus, Max is a jompus.
+n: 61, (beta prior) mean: 0.015873015873015872, 95% lower bound: 0.00040826837745732233, 95% upper bound: 0.05776263442929093, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each numpus is a dumpus. Shumpuses are dumpuses. Wren is a numpus or a shumpus. Prove: Wren is a dumpus.
+
+A: Assume Wren is a numpus. Each numpus is a dumpus. Wren is a dumpus.
+
+ Assume Wren is a shumpus. Shumpuses are dumpuses. Wren is a dumpus.
+
+ Since Wren is a numpus or a shumpus, Wren is a dumpus.
+
+
+Q: Each yumpus is a gorpus. Every wumpus is a gorpus. Wren is a yumpus or a wumpus. Prove: Wren is a gorpus.
+
+A: Assume Wren is a yumpus. Each yumpus is a gorpus. Wren is a gorpus.
+
+ Assume Wren is a wumpus. Every wumpus is a gorpus. Wren is a gorpus.
+
+ Since Wren is a yumpus or a wumpus, Wren is a gorpus.
+
+
+Q: Each gorpus is a dumpus. Wumpuses are dumpuses. Stella is a gorpus or a wumpus. Prove: Stella is a dumpus.
+
+A: Assume Stella is a gorpus. Each gorpus is a dumpus. Stella is a dumpus.
+
+ Assume Stella is a wumpus. Wumpuses are dumpuses. Stella is a dumpus.
+
+ Since Stella is a gorpus or a wumpus, Stella is a dumpus.
+
+
+Q: Each lorpus is a vumpus. Each wumpus is a vumpus. Sally is a lorpus or a wumpus. Prove: Sally is a vumpus.
+
+A:
+
+Predicted answer: Assume Sally is a lorpus. Each lorpus is a vumpus. Sally is a vumpus.
+
+ Assume Sally is a wumpus. Wumpuses are vumpuses. Sally is a vumpus.
+
+ Since Sally is a lorpus or a wumpus, Sally is a vumpus.
+
+
+
+
+Expected answer: Assume Sally is a lorpus. Each lorpus is a vumpus. Sally is a vumpus.
+
+ Assume Sally is a wumpus. Each wumpus is a vumpus. Sally is a vumpus.
+
+ Since Sally is a lorpus or a wumpus, Sally is a vumpus.
+n: 62, (beta prior) mean: 0.015625, 95% lower bound: 0.00040178922908488707, 95% upper bound: 0.05687235233201624, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every grimpus is a wumpus. Every shumpus is a wumpus. Max is a grimpus or a shumpus. Prove: Max is a wumpus.
+
+A: Assume Max is a grimpus. Every grimpus is a wumpus. Max is a wumpus.
+
+ Assume Max is a shumpus. Every shumpus is a wumpus. Max is a wumpus.
+
+ Since Max is a grimpus or a shumpus, Max is a wumpus.
+
+
+Q: Impuses are numpuses. Every lorpus is a numpus. Sally is an impus or a lorpus. Prove: Sally is a numpus.
+
+A: Assume Sally is an impus. Impuses are numpuses. Sally is a numpus.
+
+ Assume Sally is a lorpus. Every lorpus is a numpus. Sally is a numpus.
+
+ Since Sally is an impus or a lorpus, Sally is a numpus.
+
+
+Q: Lempuses are tumpuses. Every brimpus is a tumpus. Polly is a lempus or a brimpus. Prove: Polly is a tumpus.
+
+A: Assume Polly is a lempus. Lempuses are tumpuses. Polly is a tumpus.
+
+ Assume Polly is a brimpus. Every brimpus is a tumpus. Polly is a tumpus.
+
+ Since Polly is a lempus or a brimpus, Polly is a tumpus.
+
+
+Q: Every vumpus is a jompus. Each grimpus is a jompus. Polly is a vumpus or a grimpus. Prove: Polly is a jompus.
+
+A:
+
+Predicted answer: Assume Polly is a jompus. Every vumpus is a jompus. Polly is a jompus.
+
+
+ Assume Polly is a grimpus. Every grimpus is a jompus. Polly is a jompus.
+
+
+
+
+Expected answer: Assume Polly is a vumpus. Every vumpus is a jompus. Polly is a jompus.
+
+ Assume Polly is a grimpus. Each grimpus is a jompus. Polly is a jompus.
+
+ Since Polly is a vumpus or a grimpus, Polly is a jompus.
+n: 63, (beta prior) mean: 0.015384615384615385, 95% lower bound: 0.00039551251405066395, 95% upper bound: 0.05600908938663656, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each dumpus is a vumpus. Each jompus is a vumpus. Stella is a dumpus or a jompus. Prove: Stella is a vumpus.
+
+A: Assume Stella is a dumpus. Each dumpus is a vumpus. Stella is a vumpus.
+
+ Assume Stella is a jompus. Each jompus is a vumpus. Stella is a vumpus.
+
+ Since Stella is a dumpus or a jompus, Stella is a vumpus.
+
+
+Q: Numpuses are rompuses. Each yumpus is a rompus. Sam is a numpus or a yumpus. Prove: Sam is a rompus.
+
+A: Assume Sam is a numpus. Numpuses are rompuses. Sam is a rompus.
+
+ Assume Sam is a yumpus. Each yumpus is a rompus. Sam is a rompus.
+
+ Since Sam is a numpus or a yumpus, Sam is a rompus.
+
+
+Q: Lorpuses are shumpuses. Each rompus is a shumpus. Wren is a lorpus or a rompus. Prove: Wren is a shumpus.
+
+A: Assume Wren is a lorpus. Lorpuses are shumpuses. Wren is a shumpus.
+
+ Assume Wren is a rompus. Each rompus is a shumpus. Wren is a shumpus.
+
+ Since Wren is a lorpus or a rompus, Wren is a shumpus.
+
+
+Q: Each wumpus is a tumpus. Every sterpus is a tumpus. Sam is a wumpus or a sterpus. Prove: Sam is a tumpus.
+
+A:
+
+Predicted answer: Assume Sam is a wumpus. Each wumpus is a tumpus. Sam is a tumpus.
+
+
+ Assume Sam is a sterpus. Each sterpus is a tumpus. Sam is a tumpus.
+
+
+ Since Sam is a sterpus or a wumpus, Sam is a tumpus.
+
+
+
+
+Expected answer: Assume Sam is a wumpus. Each wumpus is a tumpus. Sam is a tumpus.
+
+ Assume Sam is a sterpus. Every sterpus is a tumpus. Sam is a tumpus.
+
+ Since Sam is a wumpus or a sterpus, Sam is a tumpus.
+n: 64, (beta prior) mean: 0.015151515151515152, 95% lower bound: 0.0003894288910972206, 95% upper bound: 0.055171634318813376, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Jompuses are vumpuses. Each sterpus is a vumpus. Rex is a jompus or a sterpus. Prove: Rex is a vumpus.
+
+A: Assume Rex is a jompus. Jompuses are vumpuses. Rex is a vumpus.
+
+ Assume Rex is a sterpus. Each sterpus is a vumpus. Rex is a vumpus.
+
+ Since Rex is a jompus or a sterpus, Rex is a vumpus.
+
+
+Q: Wumpuses are numpuses. Each tumpus is a numpus. Stella is a wumpus or a tumpus. Prove: Stella is a numpus.
+
+A: Assume Stella is a wumpus. Wumpuses are numpuses. Stella is a numpus.
+
+ Assume Stella is a tumpus. Each tumpus is a numpus. Stella is a numpus.
+
+ Since Stella is a wumpus or a tumpus, Stella is a numpus.
+
+
+Q: Each impus is a gorpus. Numpuses are gorpuses. Fae is an impus or a numpus. Prove: Fae is a gorpus.
+
+A: Assume Fae is an impus. Each impus is a gorpus. Fae is a gorpus.
+
+ Assume Fae is a numpus. Numpuses are gorpuses. Fae is a gorpus.
+
+ Since Fae is an impus or a numpus, Fae is a gorpus.
+
+
+Q: Yumpuses are gorpuses. Lempuses are gorpuses. Alex is a yumpus or a lempus. Prove: Alex is a gorpus.
+
+A:
+
+Predicted answer: Assume Alex is a gorpus. Lempuses are gorpuses. Alex is a gorpus.
+
+ Assume Alex is a lempus. Lempuses are gorpuses. Alex is a gorpus.
+
+ Since Alex is a lempus or a gorpus, Alex is a gorpus.
+
+
+
+
+Expected answer: Assume Alex is a yumpus. Yumpuses are gorpuses. Alex is a gorpus.
+
+ Assume Alex is a lempus. Lempuses are gorpuses. Alex is a gorpus.
+
+ Since Alex is a yumpus or a lempus, Alex is a gorpus.
+n: 65, (beta prior) mean: 0.014925373134328358, 95% lower bound: 0.00038352958499533773, 95% upper bound: 0.054358847170121974, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Grimpuses are lorpuses. Each lempus is a lorpus. Wren is a grimpus or a lempus. Prove: Wren is a lorpus.
+
+A: Assume Wren is a grimpus. Grimpuses are lorpuses. Wren is a lorpus.
+
+ Assume Wren is a lempus. Each lempus is a lorpus. Wren is a lorpus.
+
+ Since Wren is a grimpus or a lempus, Wren is a lorpus.
+
+
+Q: Jompuses are rompuses. Lorpuses are rompuses. Alex is a jompus or a lorpus. Prove: Alex is a rompus.
+
+A: Assume Alex is a jompus. Jompuses are rompuses. Alex is a rompus.
+
+ Assume Alex is a lorpus. Lorpuses are rompuses. Alex is a rompus.
+
+ Since Alex is a jompus or a lorpus, Alex is a rompus.
+
+
+Q: Every zumpus is a wumpus. Every rompus is a wumpus. Polly is a zumpus or a rompus. Prove: Polly is a wumpus.
+
+A: Assume Polly is a zumpus. Every zumpus is a wumpus. Polly is a wumpus.
+
+ Assume Polly is a rompus. Every rompus is a wumpus. Polly is a wumpus.
+
+ Since Polly is a zumpus or a rompus, Polly is a wumpus.
+
+
+Q: Vumpuses are impuses. Every wumpus is an impus. Alex is a vumpus or a wumpus. Prove: Alex is an impus.
+
+A:
+
+Predicted answer: Assume Alex is an impus. Vumpuses are impuses. Alex is an impus.
+
+
+ Assume Alex is a wumpus. Vumpuses are impuses. Alex is an impus.
+
+
+ Since Alex is an impus or a wumpus, Alex is an impus.
+
+
+
+
+Expected answer: Assume Alex is a vumpus. Vumpuses are impuses. Alex is an impus.
+
+ Assume Alex is a wumpus. Every wumpus is an impus. Alex is an impus.
+
+ Since Alex is a vumpus or a wumpus, Alex is an impus.
+n: 66, (beta prior) mean: 0.014705882352941176, 95% lower bound: 0.00037780634431108036, 95% upper bound: 0.053569654127096765, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Shumpuses are impuses. Each zumpus is an impus. Sam is a shumpus or a zumpus. Prove: Sam is an impus.
+
+A: Assume Sam is a shumpus. Shumpuses are impuses. Sam is an impus.
+
+ Assume Sam is a zumpus. Each zumpus is an impus. Sam is an impus.
+
+ Since Sam is a shumpus or a zumpus, Sam is an impus.
+
+
+Q: Every brimpus is a dumpus. Numpuses are dumpuses. Rex is a brimpus or a numpus. Prove: Rex is a dumpus.
+
+A: Assume Rex is a brimpus. Every brimpus is a dumpus. Rex is a dumpus.
+
+ Assume Rex is a numpus. Numpuses are dumpuses. Rex is a dumpus.
+
+ Since Rex is a brimpus or a numpus, Rex is a dumpus.
+
+
+Q: Jompuses are grimpuses. Each zumpus is a grimpus. Max is a jompus or a zumpus. Prove: Max is a grimpus.
+
+A: Assume Max is a jompus. Jompuses are grimpuses. Max is a grimpus.
+
+ Assume Max is a zumpus. Each zumpus is a grimpus. Max is a grimpus.
+
+ Since Max is a jompus or a zumpus, Max is a grimpus.
+
+
+Q: Every gorpus is a rompus. Every lorpus is a rompus. Fae is a gorpus or a lorpus. Prove: Fae is a rompus.
+
+A:
+
+Predicted answer: Assume Fae is a rompus. Every gorpus is a rompus. Fae is a rompus.
+
+ Assume Fae is a lorpus. Every lorpus is a lorpus. Fae is a lorpus.
+
+ Since Fae is a lorpus or a gorpus, Fae is a lorpus.
+
+
+
+
+Expected answer: Assume Fae is a gorpus. Every gorpus is a rompus. Fae is a rompus.
+
+ Assume Fae is a lorpus. Every lorpus is a rompus. Fae is a rompus.
+
+ Since Fae is a gorpus or a lorpus, Fae is a rompus.
+n: 67, (beta prior) mean: 0.014492753623188406, 95% lower bound: 0.00037225140289861013, 95% upper bound: 0.05280304279363979, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Vumpuses are sterpuses. Every lempus is a sterpus. Polly is a vumpus or a lempus. Prove: Polly is a sterpus.
+
+A: Assume Polly is a vumpus. Vumpuses are sterpuses. Polly is a sterpus.
+
+ Assume Polly is a lempus. Every lempus is a sterpus. Polly is a sterpus.
+
+ Since Polly is a vumpus or a lempus, Polly is a sterpus.
+
+
+Q: Jompuses are rompuses. Lempuses are rompuses. Fae is a jompus or a lempus. Prove: Fae is a rompus.
+
+A: Assume Fae is a jompus. Jompuses are rompuses. Fae is a rompus.
+
+ Assume Fae is a lempus. Lempuses are rompuses. Fae is a rompus.
+
+ Since Fae is a jompus or a lempus, Fae is a rompus.
+
+
+Q: Dumpuses are shumpuses. Grimpuses are shumpuses. Max is a dumpus or a grimpus. Prove: Max is a shumpus.
+
+A: Assume Max is a dumpus. Dumpuses are shumpuses. Max is a shumpus.
+
+ Assume Max is a grimpus. Grimpuses are shumpuses. Max is a shumpus.
+
+ Since Max is a dumpus or a grimpus, Max is a shumpus.
+
+
+Q: Tumpuses are numpuses. Jompuses are numpuses. Stella is a tumpus or a jompus. Prove: Stella is a numpus.
+
+A:
+
+Predicted answer: Assume Stella is a numpus. Tumpuses are numpuses. Stella is a numpus.
+
+
+ Assume Stella is a jompus. Jompuses are numpuses. Stella is a numpus.
+
+
+ Since Stella is a jompus or a jompus, Stella is a numpus.
+
+
+
+
+Expected answer: Assume Stella is a tumpus. Tumpuses are numpuses. Stella is a numpus.
+
+ Assume Stella is a jompus. Jompuses are numpuses. Stella is a numpus.
+
+ Since Stella is a tumpus or a jompus, Stella is a numpus.
+n: 68, (beta prior) mean: 0.014285714285714285, 95% lower bound: 0.00036685744474083384, 95% upper bound: 0.05205805786307967, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every numpus is a zumpus. Every wumpus is a zumpus. Stella is a numpus or a wumpus. Prove: Stella is a zumpus.
+
+A: Assume Stella is a numpus. Every numpus is a zumpus. Stella is a zumpus.
+
+ Assume Stella is a wumpus. Every wumpus is a zumpus. Stella is a zumpus.
+
+ Since Stella is a numpus or a wumpus, Stella is a zumpus.
+
+
+Q: Grimpuses are sterpuses. Tumpuses are sterpuses. Stella is a grimpus or a tumpus. Prove: Stella is a sterpus.
+
+A: Assume Stella is a grimpus. Grimpuses are sterpuses. Stella is a sterpus.
+
+ Assume Stella is a tumpus. Tumpuses are sterpuses. Stella is a sterpus.
+
+ Since Stella is a grimpus or a tumpus, Stella is a sterpus.
+
+
+Q: Dumpuses are lempuses. Wumpuses are lempuses. Wren is a dumpus or a wumpus. Prove: Wren is a lempus.
+
+A: Assume Wren is a dumpus. Dumpuses are lempuses. Wren is a lempus.
+
+ Assume Wren is a wumpus. Wumpuses are lempuses. Wren is a lempus.
+
+ Since Wren is a dumpus or a wumpus, Wren is a lempus.
+
+
+Q: Every yumpus is a rompus. Each grimpus is a rompus. Sally is a yumpus or a grimpus. Prove: Sally is a rompus.
+
+A:
+
+Predicted answer: Assume Sally is a rompus. Grimpuses are rompuses. Sally is a rompus.
+
+ Assume Sally is a wumpus. Grimpuses are rompuses. Sally is a rompus.
+
+ Since Sally is a rompus or a wumpus, Sally is a rompus.
+
+
+
+
+Expected answer: Assume Sally is a yumpus. Every yumpus is a rompus. Sally is a rompus.
+
+ Assume Sally is a grimpus. Each grimpus is a rompus. Sally is a rompus.
+
+ Since Sally is a yumpus or a grimpus, Sally is a rompus.
+n: 69, (beta prior) mean: 0.014084507042253521, 95% lower bound: 0.00036161757180316575, 95% upper bound: 0.05133379715102374, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every numpus is a yumpus. Each sterpus is a yumpus. Stella is a numpus or a sterpus. Prove: Stella is a yumpus.
+
+A: Assume Stella is a numpus. Every numpus is a yumpus. Stella is a yumpus.
+
+ Assume Stella is a sterpus. Each sterpus is a yumpus. Stella is a yumpus.
+
+ Since Stella is a numpus or a sterpus, Stella is a yumpus.
+
+
+Q: Every brimpus is a grimpus. Tumpuses are grimpuses. Stella is a brimpus or a tumpus. Prove: Stella is a grimpus.
+
+A: Assume Stella is a brimpus. Every brimpus is a grimpus. Stella is a grimpus.
+
+ Assume Stella is a tumpus. Tumpuses are grimpuses. Stella is a grimpus.
+
+ Since Stella is a brimpus or a tumpus, Stella is a grimpus.
+
+
+Q: Jompuses are yumpuses. Every wumpus is a yumpus. Alex is a jompus or a wumpus. Prove: Alex is a yumpus.
+
+A: Assume Alex is a jompus. Jompuses are yumpuses. Alex is a yumpus.
+
+ Assume Alex is a wumpus. Every wumpus is a yumpus. Alex is a yumpus.
+
+ Since Alex is a jompus or a wumpus, Alex is a yumpus.
+
+
+Q: Lempuses are jompuses. Every yumpus is a jompus. Alex is a lempus or a yumpus. Prove: Alex is a jompus.
+
+A:
+
+Predicted answer: Assume Alex is a jompus. Lempuses are jompuses. Alex is a jompus.
+
+ Assume Alex is a lempus. Lempuses are jompuses. Alex is a jompus.
+
+ Since Alex is a jompus or a lempus, Alex is a jompus.
+
+
+
+
+Expected answer: Assume Alex is a lempus. Lempuses are jompuses. Alex is a jompus.
+
+ Assume Alex is a yumpus. Every yumpus is a jompus. Alex is a jompus.
+
+ Since Alex is a lempus or a yumpus, Alex is a jompus.
+n: 70, (beta prior) mean: 0.013888888888888888, 95% lower bound: 0.0003565252746033891, 95% upper bound: 0.050629407954403696, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every rompus is a tumpus. Every impus is a tumpus. Stella is a rompus or an impus. Prove: Stella is a tumpus.
+
+A: Assume Stella is a rompus. Every rompus is a tumpus. Stella is a tumpus.
+
+ Assume Stella is an impus. Every impus is a tumpus. Stella is a tumpus.
+
+ Since Stella is a rompus or an impus, Stella is a tumpus.
+
+
+Q: Grimpuses are tumpuses. Each rompus is a tumpus. Stella is a grimpus or a rompus. Prove: Stella is a tumpus.
+
+A: Assume Stella is a grimpus. Grimpuses are tumpuses. Stella is a tumpus.
+
+ Assume Stella is a rompus. Each rompus is a tumpus. Stella is a tumpus.
+
+ Since Stella is a grimpus or a rompus, Stella is a tumpus.
+
+
+Q: Each wumpus is a vumpus. Shumpuses are vumpuses. Max is a wumpus or a shumpus. Prove: Max is a vumpus.
+
+A: Assume Max is a wumpus. Each wumpus is a vumpus. Max is a vumpus.
+
+ Assume Max is a shumpus. Shumpuses are vumpuses. Max is a vumpus.
+
+ Since Max is a wumpus or a shumpus, Max is a vumpus.
+
+
+Q: Each brimpus is a gorpus. Every shumpus is a gorpus. Polly is a brimpus or a shumpus. Prove: Polly is a gorpus.
+
+A:
+
+Predicted answer: Assume Polly is a gorpus. Each brimpus is a gorpus. Polly is a gorpus.
+
+
+ Assume Polly is a shumpus. Shumpuses are gorpuses. Polly is a gorpus.
+
+
+ Since Polly is a gorpus or a shumpus, Polly is a gorpus.
+
+
+
+
+Expected answer: Assume Polly is a brimpus. Each brimpus is a gorpus. Polly is a gorpus.
+
+ Assume Polly is a shumpus. Every shumpus is a gorpus. Polly is a gorpus.
+
+ Since Polly is a brimpus or a shumpus, Polly is a gorpus.
+n: 71, (beta prior) mean: 0.0136986301369863, 95% lower bound: 0.0003515744052335976, 95% upper bound: 0.049944083705854674, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each lorpus is a vumpus. Zumpuses are vumpuses. Max is a lorpus or a zumpus. Prove: Max is a vumpus.
+
+A: Assume Max is a lorpus. Each lorpus is a vumpus. Max is a vumpus.
+
+ Assume Max is a zumpus. Zumpuses are vumpuses. Max is a vumpus.
+
+ Since Max is a lorpus or a zumpus, Max is a vumpus.
+
+
+Q: Each impus is a rompus. Gorpuses are rompuses. Wren is an impus or a gorpus. Prove: Wren is a rompus.
+
+A: Assume Wren is an impus. Each impus is a rompus. Wren is a rompus.
+
+ Assume Wren is a gorpus. Gorpuses are rompuses. Wren is a rompus.
+
+ Since Wren is an impus or a gorpus, Wren is a rompus.
+
+
+Q: Each rompus is a lempus. Shumpuses are lempuses. Wren is a rompus or a shumpus. Prove: Wren is a lempus.
+
+A: Assume Wren is a rompus. Each rompus is a lempus. Wren is a lempus.
+
+ Assume Wren is a shumpus. Shumpuses are lempuses. Wren is a lempus.
+
+ Since Wren is a rompus or a shumpus, Wren is a lempus.
+
+
+Q: Lempuses are dumpuses. Every numpus is a dumpus. Sam is a lempus or a numpus. Prove: Sam is a dumpus.
+
+A:
+
+Predicted answer: Assume Sam is a numpus. Lempuses are dumpuses. Sam is a numpus.
+
+ Assume Sam is a lempus. Lempuses are dumpuses. Sam is a numpus.
+
+ Since Sam is a numpus or a lempus, Sam is a numpus.
+
+
+
+
+Expected answer: Assume Sam is a lempus. Lempuses are dumpuses. Sam is a dumpus.
+
+ Assume Sam is a numpus. Every numpus is a dumpus. Sam is a dumpus.
+
+ Since Sam is a lempus or a numpus, Sam is a dumpus.
+n: 72, (beta prior) mean: 0.013513513513513514, 95% lower bound: 0.00034675915259912694, 95% upper bound: 0.04927706089585928, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every numpus is a grimpus. Every brimpus is a grimpus. Sally is a numpus or a brimpus. Prove: Sally is a grimpus.
+
+A: Assume Sally is a numpus. Every numpus is a grimpus. Sally is a grimpus.
+
+ Assume Sally is a brimpus. Every brimpus is a grimpus. Sally is a grimpus.
+
+ Since Sally is a numpus or a brimpus, Sally is a grimpus.
+
+
+Q: Lempuses are shumpuses. Jompuses are shumpuses. Fae is a lempus or a jompus. Prove: Fae is a shumpus.
+
+A: Assume Fae is a lempus. Lempuses are shumpuses. Fae is a shumpus.
+
+ Assume Fae is a jompus. Jompuses are shumpuses. Fae is a shumpus.
+
+ Since Fae is a lempus or a jompus, Fae is a shumpus.
+
+
+Q: Every sterpus is a brimpus. Every grimpus is a brimpus. Fae is a sterpus or a grimpus. Prove: Fae is a brimpus.
+
+A: Assume Fae is a sterpus. Every sterpus is a brimpus. Fae is a brimpus.
+
+ Assume Fae is a grimpus. Every grimpus is a brimpus. Fae is a brimpus.
+
+ Since Fae is a sterpus or a grimpus, Fae is a brimpus.
+
+
+Q: Every rompus is a sterpus. Each numpus is a sterpus. Fae is a rompus or a numpus. Prove: Fae is a sterpus.
+
+A:
+
+Predicted answer: Assume Fae is a rompus. Every rompus is a sterpus. Fae is a sterpus.
+
+ Assume Fae is a numpus. Every numpus is a sterpus. Fae is a sterpus.
+
+ Since Fae is a rompus or a numpus, Fae is a sterpus.
+
+
+
+
+Expected answer: Assume Fae is a rompus. Every rompus is a sterpus. Fae is a sterpus.
+
+ Assume Fae is a numpus. Each numpus is a sterpus. Fae is a sterpus.
+
+ Since Fae is a rompus or a numpus, Fae is a sterpus.
+n: 73, (beta prior) mean: 0.013333333333333334, 95% lower bound: 0.0003420740196647972, 95% upper bound: 0.04862761623798952, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every vumpus is a lempus. Each brimpus is a lempus. Rex is a vumpus or a brimpus. Prove: Rex is a lempus.
+
+A: Assume Rex is a vumpus. Every vumpus is a lempus. Rex is a lempus.
+
+ Assume Rex is a brimpus. Each brimpus is a lempus. Rex is a lempus.
+
+ Since Rex is a vumpus or a brimpus, Rex is a lempus.
+
+
+Q: Every shumpus is a grimpus. Each wumpus is a grimpus. Stella is a shumpus or a wumpus. Prove: Stella is a grimpus.
+
+A: Assume Stella is a shumpus. Every shumpus is a grimpus. Stella is a grimpus.
+
+ Assume Stella is a wumpus. Each wumpus is a grimpus. Stella is a grimpus.
+
+ Since Stella is a shumpus or a wumpus, Stella is a grimpus.
+
+
+Q: Each zumpus is a lorpus. Each numpus is a lorpus. Polly is a zumpus or a numpus. Prove: Polly is a lorpus.
+
+A: Assume Polly is a zumpus. Each zumpus is a lorpus. Polly is a lorpus.
+
+ Assume Polly is a numpus. Each numpus is a lorpus. Polly is a lorpus.
+
+ Since Polly is a zumpus or a numpus, Polly is a lorpus.
+
+
+Q: Dumpuses are sterpuses. Shumpuses are sterpuses. Polly is a dumpus or a shumpus. Prove: Polly is a sterpus.
+
+A:
+
+Predicted answer: Assume Polly is a shumpus. Dumpuses are sterpuses. Shumpuses are sterpuses. Polly is a dumpus or a shumpus.
+
+
+ Assume Polly is a dumpus. Dumpuses are sterpuses. Shumpuses are sterpuses. Polly is a dumpus or a shumpus.
+
+
+
+
+Expected answer: Assume Polly is a dumpus. Dumpuses are sterpuses. Polly is a sterpus.
+
+ Assume Polly is a shumpus. Shumpuses are sterpuses. Polly is a sterpus.
+
+ Since Polly is a dumpus or a shumpus, Polly is a sterpus.
+n: 74, (beta prior) mean: 0.013157894736842105, 95% lower bound: 0.00033751380252114845, 95% upper bound: 0.047995064055142256, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each brimpus is a dumpus. Each vumpus is a dumpus. Stella is a brimpus or a vumpus. Prove: Stella is a dumpus.
+
+A: Assume Stella is a brimpus. Each brimpus is a dumpus. Stella is a dumpus.
+
+ Assume Stella is a vumpus. Each vumpus is a dumpus. Stella is a dumpus.
+
+ Since Stella is a brimpus or a vumpus, Stella is a dumpus.
+
+
+Q: Every vumpus is a yumpus. Every brimpus is a yumpus. Alex is a vumpus or a brimpus. Prove: Alex is a yumpus.
+
+A: Assume Alex is a vumpus. Every vumpus is a yumpus. Alex is a yumpus.
+
+ Assume Alex is a brimpus. Every brimpus is a yumpus. Alex is a yumpus.
+
+ Since Alex is a vumpus or a brimpus, Alex is a yumpus.
+
+
+Q: Every vumpus is a grimpus. Jompuses are grimpuses. Fae is a vumpus or a jompus. Prove: Fae is a grimpus.
+
+A: Assume Fae is a vumpus. Every vumpus is a grimpus. Fae is a grimpus.
+
+ Assume Fae is a jompus. Jompuses are grimpuses. Fae is a grimpus.
+
+ Since Fae is a vumpus or a jompus, Fae is a grimpus.
+
+
+Q: Each wumpus is a jompus. Every dumpus is a jompus. Max is a wumpus or a dumpus. Prove: Max is a jompus.
+
+A:
+
+Predicted answer: Assume Max is a jompus. Each wumpus is a jompus. Max is a jompus.
+
+
+ Assume Max is a dumpus. Each dumpus is a jompus. Max is a jompus.
+
+
+ Since Max is a dumpus or a jompus, Max is a jompus.
+
+
+
+
+Expected answer: Assume Max is a wumpus. Each wumpus is a jompus. Max is a jompus.
+
+ Assume Max is a dumpus. Every dumpus is a jompus. Max is a jompus.
+
+ Since Max is a wumpus or a dumpus, Max is a jompus.
+n: 75, (beta prior) mean: 0.012987012987012988, 95% lower bound: 0.0003330735711030665, 95% upper bound: 0.047378753866930745, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every wumpus is a vumpus. Jompuses are vumpuses. Rex is a wumpus or a jompus. Prove: Rex is a vumpus.
+
+A: Assume Rex is a wumpus. Every wumpus is a vumpus. Rex is a vumpus.
+
+ Assume Rex is a jompus. Jompuses are vumpuses. Rex is a vumpus.
+
+ Since Rex is a wumpus or a jompus, Rex is a vumpus.
+
+
+Q: Every rompus is a grimpus. Vumpuses are grimpuses. Sam is a rompus or a vumpus. Prove: Sam is a grimpus.
+
+A: Assume Sam is a rompus. Every rompus is a grimpus. Sam is a grimpus.
+
+ Assume Sam is a vumpus. Vumpuses are grimpuses. Sam is a grimpus.
+
+ Since Sam is a rompus or a vumpus, Sam is a grimpus.
+
+
+Q: Rompuses are vumpuses. Each wumpus is a vumpus. Fae is a rompus or a wumpus. Prove: Fae is a vumpus.
+
+A: Assume Fae is a rompus. Rompuses are vumpuses. Fae is a vumpus.
+
+ Assume Fae is a wumpus. Each wumpus is a vumpus. Fae is a vumpus.
+
+ Since Fae is a rompus or a wumpus, Fae is a vumpus.
+
+
+Q: Every rompus is a brimpus. Shumpuses are brimpuses. Alex is a rompus or a shumpus. Prove: Alex is a brimpus.
+
+A:
+
+Predicted answer: Assume Alex is a rompus. Every rompus is a brimpus. Alex is a brimpus.
+
+
+ Assume Alex is a vumpus. Vumpuses are brimpuses. Alex is a brimpus.
+
+
+ Since Alex is a rompus or a vumpus, Alex is a brimpus.
+
+
+
+
+Expected answer: Assume Alex is a rompus. Every rompus is a brimpus. Alex is a brimpus.
+
+ Assume Alex is a shumpus. Shumpuses are brimpuses. Alex is a brimpus.
+
+ Since Alex is a rompus or a shumpus, Alex is a brimpus.
+n: 76, (beta prior) mean: 0.01282051282051282, 95% lower bound: 0.0003287486514106065, 95% upper bound: 0.046778068160404106, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Lempuses are jompuses. Every vumpus is a jompus. Sam is a lempus or a vumpus. Prove: Sam is a jompus.
+
+A: Assume Sam is a lempus. Lempuses are jompuses. Sam is a jompus.
+
+ Assume Sam is a vumpus. Every vumpus is a jompus. Sam is a jompus.
+
+ Since Sam is a lempus or a vumpus, Sam is a jompus.
+
+
+Q: Each vumpus is a lempus. Lorpuses are lempuses. Rex is a vumpus or a lorpus. Prove: Rex is a lempus.
+
+A: Assume Rex is a vumpus. Each vumpus is a lempus. Rex is a lempus.
+
+ Assume Rex is a lorpus. Lorpuses are lempuses. Rex is a lempus.
+
+ Since Rex is a vumpus or a lorpus, Rex is a lempus.
+
+
+Q: Each brimpus is a zumpus. Each shumpus is a zumpus. Stella is a brimpus or a shumpus. Prove: Stella is a zumpus.
+
+A: Assume Stella is a brimpus. Each brimpus is a zumpus. Stella is a zumpus.
+
+ Assume Stella is a shumpus. Each shumpus is a zumpus. Stella is a zumpus.
+
+ Since Stella is a brimpus or a shumpus, Stella is a zumpus.
+
+
+Q: Each tumpus is a rompus. Impuses are rompuses. Max is a tumpus or an impus. Prove: Max is a rompus.
+
+A:
+
+Predicted answer: Assume Max is a rompus. Each tumpus is a rompus. Max is a rompus.
+
+ Assume Max is an impus. Each impus is a rompus. Max is a rompus.
+
+
+ Assume Max is a rompus. Each rompus is a rompus. Max is a rompus.
+
+
+
+
+Expected answer: Assume Max is a tumpus. Each tumpus is a rompus. Max is a rompus.
+
+ Assume Max is an impus. Impuses are rompuses. Max is a rompus.
+
+ Since Max is a tumpus or an impus, Max is a rompus.
+n: 77, (beta prior) mean: 0.012658227848101266, 95% lower bound: 0.0003245346090972235, 95% upper bound: 0.04619242032804872, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every grimpus is a dumpus. Each jompus is a dumpus. Fae is a grimpus or a jompus. Prove: Fae is a dumpus.
+
+A: Assume Fae is a grimpus. Every grimpus is a dumpus. Fae is a dumpus.
+
+ Assume Fae is a jompus. Each jompus is a dumpus. Fae is a dumpus.
+
+ Since Fae is a grimpus or a jompus, Fae is a dumpus.
+
+
+Q: Every zumpus is a jompus. Wumpuses are jompuses. Wren is a zumpus or a wumpus. Prove: Wren is a jompus.
+
+A: Assume Wren is a zumpus. Every zumpus is a jompus. Wren is a jompus.
+
+ Assume Wren is a wumpus. Wumpuses are jompuses. Wren is a jompus.
+
+ Since Wren is a zumpus or a wumpus, Wren is a jompus.
+
+
+Q: Every impus is a lempus. Gorpuses are lempuses. Sally is an impus or a gorpus. Prove: Sally is a lempus.
+
+A: Assume Sally is an impus. Every impus is a lempus. Sally is a lempus.
+
+ Assume Sally is a gorpus. Gorpuses are lempuses. Sally is a lempus.
+
+ Since Sally is an impus or a gorpus, Sally is a lempus.
+
+
+Q: Every vumpus is a rompus. Impuses are rompuses. Max is a vumpus or an impus. Prove: Max is a rompus.
+
+A:
+
+Predicted answer: Assume Max is a rompus. Every vumpus is a rompus. Max is a rompus.
+
+ Assume Max is an impus. Every impus is a rompus. Max is a rompus.
+
+
+
+
+Expected answer: Assume Max is a vumpus. Every vumpus is a rompus. Max is a rompus.
+
+ Assume Max is an impus. Impuses are rompuses. Max is a rompus.
+
+ Since Max is a vumpus or an impus, Max is a rompus.
+n: 78, (beta prior) mean: 0.0125, 95% lower bound: 0.0003204272343042667, 95% upper bound: 0.045621252758611106, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Gorpuses are sterpuses. Impuses are sterpuses. Max is a gorpus or an impus. Prove: Max is a sterpus.
+
+A: Assume Max is a gorpus. Gorpuses are sterpuses. Max is a sterpus.
+
+ Assume Max is an impus. Impuses are sterpuses. Max is a sterpus.
+
+ Since Max is a gorpus or an impus, Max is a sterpus.
+
+
+Q: Every jompus is a shumpus. Every gorpus is a shumpus. Stella is a jompus or a gorpus. Prove: Stella is a shumpus.
+
+A: Assume Stella is a jompus. Every jompus is a shumpus. Stella is a shumpus.
+
+ Assume Stella is a gorpus. Every gorpus is a shumpus. Stella is a shumpus.
+
+ Since Stella is a jompus or a gorpus, Stella is a shumpus.
+
+
+Q: Every numpus is a lorpus. Each vumpus is a lorpus. Polly is a numpus or a vumpus. Prove: Polly is a lorpus.
+
+A: Assume Polly is a numpus. Every numpus is a lorpus. Polly is a lorpus.
+
+ Assume Polly is a vumpus. Each vumpus is a lorpus. Polly is a lorpus.
+
+ Since Polly is a numpus or a vumpus, Polly is a lorpus.
+
+
+Q: Grimpuses are brimpuses. Each zumpus is a brimpus. Stella is a grimpus or a zumpus. Prove: Stella is a brimpus.
+
+A:
+
+Predicted answer: Assume Stella is a brimpus. Grimpuses are brimpuses. Stella is a brimpus.
+
+
+ Assume Stella is a zumpus. Grimpuses are brimpuses. Stella is a brimpus.
+
+
+ Since Stella is a zumpus or a brimpus, Stella is a brimpus.
+
+
+
+
+Expected answer: Assume Stella is a grimpus. Grimpuses are brimpuses. Stella is a brimpus.
+
+ Assume Stella is a zumpus. Each zumpus is a brimpus. Stella is a brimpus.
+
+ Since Stella is a grimpus or a zumpus, Stella is a brimpus.
+n: 79, (beta prior) mean: 0.012345679012345678, 95% lower bound: 0.00031642252763270626, 95% upper bound: 0.045064035067692285, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Zumpuses are impuses. Tumpuses are impuses. Fae is a zumpus or a tumpus. Prove: Fae is an impus.
+
+A: Assume Fae is a zumpus. Zumpuses are impuses. Fae is an impus.
+
+ Assume Fae is a tumpus. Tumpuses are impuses. Fae is an impus.
+
+ Since Fae is a zumpus or a tumpus, Fae is an impus.
+
+
+Q: Jompuses are zumpuses. Every rompus is a zumpus. Stella is a jompus or a rompus. Prove: Stella is a zumpus.
+
+A: Assume Stella is a jompus. Jompuses are zumpuses. Stella is a zumpus.
+
+ Assume Stella is a rompus. Every rompus is a zumpus. Stella is a zumpus.
+
+ Since Stella is a jompus or a rompus, Stella is a zumpus.
+
+
+Q: Gorpuses are zumpuses. Each jompus is a zumpus. Rex is a gorpus or a jompus. Prove: Rex is a zumpus.
+
+A: Assume Rex is a gorpus. Gorpuses are zumpuses. Rex is a zumpus.
+
+ Assume Rex is a jompus. Each jompus is a zumpus. Rex is a zumpus.
+
+ Since Rex is a gorpus or a jompus, Rex is a zumpus.
+
+
+Q: Each lempus is a sterpus. Each yumpus is a sterpus. Rex is a lempus or a yumpus. Prove: Rex is a sterpus.
+
+A:
+
+Predicted answer: Assume Rex is a lempus. Each lempus is a sterpus. Rex is a sterpus.
+
+ Assume Rex is a yumpus. Each yumpus is a sterpus. Rex is a sterpus.
+
+ Since Rex is a yumpus or a sterpus, Rex is a sterpus.
+
+
+
+
+Expected answer: Assume Rex is a lempus. Each lempus is a sterpus. Rex is a sterpus.
+
+ Assume Rex is a yumpus. Each yumpus is a sterpus. Rex is a sterpus.
+
+ Since Rex is a lempus or a yumpus, Rex is a sterpus.
+n: 80, (beta prior) mean: 0.012195121951219513, 95% lower bound: 0.00031251668715382954, 95% upper bound: 0.044520262456321735, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Zumpuses are jompuses. Numpuses are jompuses. Alex is a zumpus or a numpus. Prove: Alex is a jompus.
+
+A: Assume Alex is a zumpus. Zumpuses are jompuses. Alex is a jompus.
+
+ Assume Alex is a numpus. Numpuses are jompuses. Alex is a jompus.
+
+ Since Alex is a zumpus or a numpus, Alex is a jompus.
+
+
+Q: Every numpus is a tumpus. Each brimpus is a tumpus. Polly is a numpus or a brimpus. Prove: Polly is a tumpus.
+
+A: Assume Polly is a numpus. Every numpus is a tumpus. Polly is a tumpus.
+
+ Assume Polly is a brimpus. Each brimpus is a tumpus. Polly is a tumpus.
+
+ Since Polly is a numpus or a brimpus, Polly is a tumpus.
+
+
+Q: Every lorpus is a shumpus. Gorpuses are shumpuses. Alex is a lorpus or a gorpus. Prove: Alex is a shumpus.
+
+A: Assume Alex is a lorpus. Every lorpus is a shumpus. Alex is a shumpus.
+
+ Assume Alex is a gorpus. Gorpuses are shumpuses. Alex is a shumpus.
+
+ Since Alex is a lorpus or a gorpus, Alex is a shumpus.
+
+
+Q: Brimpuses are zumpuses. Numpuses are zumpuses. Rex is a brimpus or a numpus. Prove: Rex is a zumpus.
+
+A:
+
+Predicted answer: Assume Rex is a zumpus. Brimpuses are zumpuses. Rex is a zumpus.
+
+
+ Assume Rex is a numpus. Numpuses are zumpuses. Rex is a zumpus.
+
+
+ Since Rex is a numpus or a brimpus, Rex is a zumpus.
+
+
+
+
+Expected answer: Assume Rex is a brimpus. Brimpuses are zumpuses. Rex is a zumpus.
+
+ Assume Rex is a numpus. Numpuses are zumpuses. Rex is a zumpus.
+
+ Since Rex is a brimpus or a numpus, Rex is a zumpus.
+n: 81, (beta prior) mean: 0.012048192771084338, 95% lower bound: 0.0003087060963702275, 95% upper bound: 0.04398945418684236, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every wumpus is an impus. Each rompus is an impus. Sam is a wumpus or a rompus. Prove: Sam is an impus.
+
+A: Assume Sam is a wumpus. Every wumpus is an impus. Sam is an impus.
+
+ Assume Sam is a rompus. Each rompus is an impus. Sam is an impus.
+
+ Since Sam is a wumpus or a rompus, Sam is an impus.
+
+
+Q: Every impus is a lempus. Every brimpus is a lempus. Max is an impus or a brimpus. Prove: Max is a lempus.
+
+A: Assume Max is an impus. Every impus is a lempus. Max is a lempus.
+
+ Assume Max is a brimpus. Every brimpus is a lempus. Max is a lempus.
+
+ Since Max is an impus or a brimpus, Max is a lempus.
+
+
+Q: Dumpuses are sterpuses. Yumpuses are sterpuses. Sam is a dumpus or a yumpus. Prove: Sam is a sterpus.
+
+A: Assume Sam is a dumpus. Dumpuses are sterpuses. Sam is a sterpus.
+
+ Assume Sam is a yumpus. Yumpuses are sterpuses. Sam is a sterpus.
+
+ Since Sam is a dumpus or a yumpus, Sam is a sterpus.
+
+
+Q: Each brimpus is an impus. Every shumpus is an impus. Sam is a brimpus or a shumpus. Prove: Sam is an impus.
+
+A:
+
+Predicted answer: Assume Sam is a brimpus. Each brimpus is an impus. Sam is an impus.
+
+ Assume Sam is a shumpus. Each shumpus is an impus. Sam is an impus.
+
+ Since Sam is a brimpus or a shumpus, Sam is an impus.
+
+
+
+
+Expected answer: Assume Sam is a brimpus. Each brimpus is an impus. Sam is an impus.
+
+ Assume Sam is a shumpus. Every shumpus is an impus. Sam is an impus.
+
+ Since Sam is a brimpus or a shumpus, Sam is an impus.
+n: 82, (beta prior) mean: 0.011904761904761904, 95% lower bound: 0.0003049873130469377, 95% upper bound: 0.0434711521664418, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Gorpuses are sterpuses. Wumpuses are sterpuses. Fae is a gorpus or a wumpus. Prove: Fae is a sterpus.
+
+A: Assume Fae is a gorpus. Gorpuses are sterpuses. Fae is a sterpus.
+
+ Assume Fae is a wumpus. Wumpuses are sterpuses. Fae is a sterpus.
+
+ Since Fae is a gorpus or a wumpus, Fae is a sterpus.
+
+
+Q: Lempuses are sterpuses. Lorpuses are sterpuses. Max is a lempus or a lorpus. Prove: Max is a sterpus.
+
+A: Assume Max is a lempus. Lempuses are sterpuses. Max is a sterpus.
+
+ Assume Max is a lorpus. Lorpuses are sterpuses. Max is a sterpus.
+
+ Since Max is a lempus or a lorpus, Max is a sterpus.
+
+
+Q: Every zumpus is a dumpus. Sterpuses are dumpuses. Stella is a zumpus or a sterpus. Prove: Stella is a dumpus.
+
+A: Assume Stella is a zumpus. Every zumpus is a dumpus. Stella is a dumpus.
+
+ Assume Stella is a sterpus. Sterpuses are dumpuses. Stella is a dumpus.
+
+ Since Stella is a zumpus or a sterpus, Stella is a dumpus.
+
+
+Q: Every jompus is a brimpus. Every yumpus is a brimpus. Max is a jompus or a yumpus. Prove: Max is a brimpus.
+
+A:
+
+Predicted answer: Assume Max is a jompus. Every jompus is a brimpus. Max is a brimpus.
+
+
+ Assume Max is a yumpus. Every yumpus is a brimpus. Max is a brimpus.
+
+
+ Since Max is a yumpus or a brimpus, Max is a brimpus.
+
+
+
+
+Expected answer: Assume Max is a jompus. Every jompus is a brimpus. Max is a brimpus.
+
+ Assume Max is a yumpus. Every yumpus is a brimpus. Max is a brimpus.
+
+ Since Max is a jompus or a yumpus, Max is a brimpus.
+n: 83, (beta prior) mean: 0.011764705882352941, 95% lower bound: 0.0003013570588402435, 95% upper bound: 0.04296491962956506, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Zumpuses are lorpuses. Jompuses are lorpuses. Rex is a zumpus or a jompus. Prove: Rex is a lorpus.
+
+A: Assume Rex is a zumpus. Zumpuses are lorpuses. Rex is a lorpus.
+
+ Assume Rex is a jompus. Jompuses are lorpuses. Rex is a lorpus.
+
+ Since Rex is a zumpus or a jompus, Rex is a lorpus.
+
+
+Q: Each grimpus is a brimpus. Each vumpus is a brimpus. Wren is a grimpus or a vumpus. Prove: Wren is a brimpus.
+
+A: Assume Wren is a grimpus. Each grimpus is a brimpus. Wren is a brimpus.
+
+ Assume Wren is a vumpus. Each vumpus is a brimpus. Wren is a brimpus.
+
+ Since Wren is a grimpus or a vumpus, Wren is a brimpus.
+
+
+Q: Each lorpus is a vumpus. Every shumpus is a vumpus. Alex is a lorpus or a shumpus. Prove: Alex is a vumpus.
+
+A: Assume Alex is a lorpus. Each lorpus is a vumpus. Alex is a vumpus.
+
+ Assume Alex is a shumpus. Every shumpus is a vumpus. Alex is a vumpus.
+
+ Since Alex is a lorpus or a shumpus, Alex is a vumpus.
+
+
+Q: Each wumpus is a tumpus. Every dumpus is a tumpus. Fae is a wumpus or a dumpus. Prove: Fae is a tumpus.
+
+A:
+
+Predicted answer: Assume Fae is a wumpus. Each wumpus is a tumpus. Fae is a wumpus.
+
+ Assume Fae is a dumpus. Each dumpus is a tumpus. Fae is a dumpus.
+
+ Since Fae is a wumpus or a dumpus, Fae is a tumpus.
+
+
+
+
+Expected answer: Assume Fae is a wumpus. Each wumpus is a tumpus. Fae is a tumpus.
+
+ Assume Fae is a dumpus. Every dumpus is a tumpus. Fae is a tumpus.
+
+ Since Fae is a wumpus or a dumpus, Fae is a tumpus.
+n: 84, (beta prior) mean: 0.011627906976744186, 95% lower bound: 0.0002978122096584482, 95% upper bound: 0.04247033991124916, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every jompus is a shumpus. Zumpuses are shumpuses. Sam is a jompus or a zumpus. Prove: Sam is a shumpus.
+
+A: Assume Sam is a jompus. Every jompus is a shumpus. Sam is a shumpus.
+
+ Assume Sam is a zumpus. Zumpuses are shumpuses. Sam is a shumpus.
+
+ Since Sam is a jompus or a zumpus, Sam is a shumpus.
+
+
+Q: Numpuses are yumpuses. Tumpuses are yumpuses. Sam is a numpus or a tumpus. Prove: Sam is a yumpus.
+
+A: Assume Sam is a numpus. Numpuses are yumpuses. Sam is a yumpus.
+
+ Assume Sam is a tumpus. Tumpuses are yumpuses. Sam is a yumpus.
+
+ Since Sam is a numpus or a tumpus, Sam is a yumpus.
+
+
+Q: Each dumpus is a gorpus. Impuses are gorpuses. Sam is a dumpus or an impus. Prove: Sam is a gorpus.
+
+A: Assume Sam is a dumpus. Each dumpus is a gorpus. Sam is a gorpus.
+
+ Assume Sam is an impus. Impuses are gorpuses. Sam is a gorpus.
+
+ Since Sam is a dumpus or an impus, Sam is a gorpus.
+
+
+Q: Each gorpus is a vumpus. Every shumpus is a vumpus. Sam is a gorpus or a shumpus. Prove: Sam is a vumpus.
+
+A:
+
+Predicted answer: Assume Sam is a vumpus. Every gorpus is a vumpus. Sam is a vumpus.
+
+ Assume Sam is a shumpus. Every shumpus is a vumpus. Sam is a vumpus.
+
+ Since Sam is a vumpus or a shumpus, Sam is a vumpus.
+
+
+
+
+Expected answer: Assume Sam is a gorpus. Each gorpus is a vumpus. Sam is a vumpus.
+
+ Assume Sam is a shumpus. Every shumpus is a vumpus. Sam is a vumpus.
+
+ Since Sam is a gorpus or a shumpus, Sam is a vumpus.
+n: 85, (beta prior) mean: 0.011494252873563218, 95% lower bound: 0.0002943497866950549, 95% upper bound: 0.04198701530414447, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Impuses are jompuses. Sterpuses are jompuses. Polly is an impus or a sterpus. Prove: Polly is a jompus.
+
+A: Assume Polly is an impus. Impuses are jompuses. Polly is a jompus.
+
+ Assume Polly is a sterpus. Sterpuses are jompuses. Polly is a jompus.
+
+ Since Polly is an impus or a sterpus, Polly is a jompus.
+
+
+Q: Each brimpus is a lorpus. Each sterpus is a lorpus. Polly is a brimpus or a sterpus. Prove: Polly is a lorpus.
+
+A: Assume Polly is a brimpus. Each brimpus is a lorpus. Polly is a lorpus.
+
+ Assume Polly is a sterpus. Each sterpus is a lorpus. Polly is a lorpus.
+
+ Since Polly is a brimpus or a sterpus, Polly is a lorpus.
+
+
+Q: Each lorpus is a jompus. Dumpuses are jompuses. Rex is a lorpus or a dumpus. Prove: Rex is a jompus.
+
+A: Assume Rex is a lorpus. Each lorpus is a jompus. Rex is a jompus.
+
+ Assume Rex is a dumpus. Dumpuses are jompuses. Rex is a jompus.
+
+ Since Rex is a lorpus or a dumpus, Rex is a jompus.
+
+
+Q: Every grimpus is a brimpus. Gorpuses are brimpuses. Sally is a grimpus or a gorpus. Prove: Sally is a brimpus.
+
+A:
+
+Predicted answer: Assume Sally is a grimpus. Every grimpus is a brimpus. Sally is a brimpus.
+
+
+ Assume Sally is a gorpus. Gorpuses are brimpuses. Sally is a gorpus.
+
+
+ Since Sally is a gorpus or a gorpus, Sally is a gorpus.
+
+
+
+
+Expected answer: Assume Sally is a grimpus. Every grimpus is a brimpus. Sally is a brimpus.
+
+ Assume Sally is a gorpus. Gorpuses are brimpuses. Sally is a brimpus.
+
+ Since Sally is a grimpus or a gorpus, Sally is a brimpus.
+n: 86, (beta prior) mean: 0.011363636363636364, 95% lower bound: 0.00029096694808025735, 95% upper bound: 0.041514565992637815, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Numpuses are lorpuses. Yumpuses are lorpuses. Polly is a numpus or a yumpus. Prove: Polly is a lorpus.
+
+A: Assume Polly is a numpus. Numpuses are lorpuses. Polly is a lorpus.
+
+ Assume Polly is a yumpus. Yumpuses are lorpuses. Polly is a lorpus.
+
+ Since Polly is a numpus or a yumpus, Polly is a lorpus.
+
+
+Q: Each vumpus is a tumpus. Every impus is a tumpus. Sam is a vumpus or an impus. Prove: Sam is a tumpus.
+
+A: Assume Sam is a vumpus. Each vumpus is a tumpus. Sam is a tumpus.
+
+ Assume Sam is an impus. Every impus is a tumpus. Sam is a tumpus.
+
+ Since Sam is a vumpus or an impus, Sam is a tumpus.
+
+
+Q: Rompuses are grimpuses. Every lorpus is a grimpus. Polly is a rompus or a lorpus. Prove: Polly is a grimpus.
+
+A: Assume Polly is a rompus. Rompuses are grimpuses. Polly is a grimpus.
+
+ Assume Polly is a lorpus. Every lorpus is a grimpus. Polly is a grimpus.
+
+ Since Polly is a rompus or a lorpus, Polly is a grimpus.
+
+
+Q: Gorpuses are impuses. Wumpuses are impuses. Sam is a gorpus or a wumpus. Prove: Sam is an impus.
+
+A:
+
+Predicted answer: Assume Sam is an impus. Gorpuses are impuses. Sam is an impus.
+
+
+ Assume Sam is a gorpus. Gorpuses are impuses. Sam is an impus.
+
+
+
+
+Expected answer: Assume Sam is a gorpus. Gorpuses are impuses. Sam is an impus.
+
+ Assume Sam is a wumpus. Wumpuses are impuses. Sam is an impus.
+
+ Since Sam is a gorpus or a wumpus, Sam is an impus.
+n: 87, (beta prior) mean: 0.011235955056179775, 95% lower bound: 0.0002876609811015656, 95% upper bound: 0.04105262905807801, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Zumpuses are impuses. Every shumpus is an impus. Rex is a zumpus or a shumpus. Prove: Rex is an impus.
+
+A: Assume Rex is a zumpus. Zumpuses are impuses. Rex is an impus.
+
+ Assume Rex is a shumpus. Every shumpus is an impus. Rex is an impus.
+
+ Since Rex is a zumpus or a shumpus, Rex is an impus.
+
+
+Q: Brimpuses are gorpuses. Numpuses are gorpuses. Sam is a brimpus or a numpus. Prove: Sam is a gorpus.
+
+A: Assume Sam is a brimpus. Brimpuses are gorpuses. Sam is a gorpus.
+
+ Assume Sam is a numpus. Numpuses are gorpuses. Sam is a gorpus.
+
+ Since Sam is a brimpus or a numpus, Sam is a gorpus.
+
+
+Q: Grimpuses are lempuses. Each zumpus is a lempus. Alex is a grimpus or a zumpus. Prove: Alex is a lempus.
+
+A: Assume Alex is a grimpus. Grimpuses are lempuses. Alex is a lempus.
+
+ Assume Alex is a zumpus. Each zumpus is a lempus. Alex is a lempus.
+
+ Since Alex is a grimpus or a zumpus, Alex is a lempus.
+
+
+Q: Sterpuses are rompuses. Brimpuses are rompuses. Max is a sterpus or a brimpus. Prove: Max is a rompus.
+
+A:
+
+Predicted answer: Assume Max is a rompus. Sterpuses are rompuses. Max is a rompus.
+
+ Assume Max is a zumpus. Each zumpus is a rompus. Max is a rompus.
+
+ Since Max is a zumpus or a rompus, Max is a rompus.
+
+
+
+
+Expected answer: Assume Max is a sterpus. Sterpuses are rompuses. Max is a rompus.
+
+ Assume Max is a brimpus. Brimpuses are rompuses. Max is a rompus.
+
+ Since Max is a sterpus or a brimpus, Max is a rompus.
+n: 88, (beta prior) mean: 0.011111111111111112, 95% lower bound: 0.0002844292949488092, 95% upper bound: 0.04060085754963182, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each grimpus is a jompus. Brimpuses are jompuses. Wren is a grimpus or a brimpus. Prove: Wren is a jompus.
+
+A: Assume Wren is a grimpus. Each grimpus is a jompus. Wren is a jompus.
+
+ Assume Wren is a brimpus. Brimpuses are jompuses. Wren is a jompus.
+
+ Since Wren is a grimpus or a brimpus, Wren is a jompus.
+
+
+Q: Lorpuses are brimpuses. Wumpuses are brimpuses. Stella is a lorpus or a wumpus. Prove: Stella is a brimpus.
+
+A: Assume Stella is a lorpus. Lorpuses are brimpuses. Stella is a brimpus.
+
+ Assume Stella is a wumpus. Wumpuses are brimpuses. Stella is a brimpus.
+
+ Since Stella is a lorpus or a wumpus, Stella is a brimpus.
+
+
+Q: Each numpus is a shumpus. Lorpuses are shumpuses. Max is a numpus or a lorpus. Prove: Max is a shumpus.
+
+A: Assume Max is a numpus. Each numpus is a shumpus. Max is a shumpus.
+
+ Assume Max is a lorpus. Lorpuses are shumpuses. Max is a shumpus.
+
+ Since Max is a numpus or a lorpus, Max is a shumpus.
+
+
+Q: Wumpuses are brimpuses. Every vumpus is a brimpus. Wren is a wumpus or a vumpus. Prove: Wren is a brimpus.
+
+A:
+
+Predicted answer: Assume Wren is a wumpus. Wumpuses are brimpuses. Wren is a wumpus.
+
+ Assume Wren is a vumpus. Wumpuses are brimpuses. Wren is a wumpus.
+
+ Since Wren is a wumpus or a vumpus, Wren is a brimpus.
+
+
+
+
+Expected answer: Assume Wren is a wumpus. Wumpuses are brimpuses. Wren is a brimpus.
+
+ Assume Wren is a vumpus. Every vumpus is a brimpus. Wren is a brimpus.
+
+ Since Wren is a wumpus or a vumpus, Wren is a brimpus.
+n: 89, (beta prior) mean: 0.01098901098901099, 95% lower bound: 0.0002812694139427387, 95% upper bound: 0.040158919615774634, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Brimpuses are zumpuses. Each numpus is a zumpus. Rex is a brimpus or a numpus. Prove: Rex is a zumpus.
+
+A: Assume Rex is a brimpus. Brimpuses are zumpuses. Rex is a zumpus.
+
+ Assume Rex is a numpus. Each numpus is a zumpus. Rex is a zumpus.
+
+ Since Rex is a brimpus or a numpus, Rex is a zumpus.
+
+
+Q: Each grimpus is a rompus. Every numpus is a rompus. Fae is a grimpus or a numpus. Prove: Fae is a rompus.
+
+A: Assume Fae is a grimpus. Each grimpus is a rompus. Fae is a rompus.
+
+ Assume Fae is a numpus. Every numpus is a rompus. Fae is a rompus.
+
+ Since Fae is a grimpus or a numpus, Fae is a rompus.
+
+
+Q: Every sterpus is a numpus. Grimpuses are numpuses. Polly is a sterpus or a grimpus. Prove: Polly is a numpus.
+
+A: Assume Polly is a sterpus. Every sterpus is a numpus. Polly is a numpus.
+
+ Assume Polly is a grimpus. Grimpuses are numpuses. Polly is a numpus.
+
+ Since Polly is a sterpus or a grimpus, Polly is a numpus.
+
+
+Q: Every dumpus is a brimpus. Shumpuses are brimpuses. Stella is a dumpus or a shumpus. Prove: Stella is a brimpus.
+
+A:
+
+Predicted answer: Assume Stella is a brimpus. Each dumpus is a brimpus. Stella is a brimpus.
+
+
+ Assume Stella is a numpus. Each numpus is a brimpus. Stella is a brimpus.
+
+
+ Since Stella is a brimpus or a numpus, Stella is a brimpus.
+
+
+
+
+Expected answer: Assume Stella is a dumpus. Every dumpus is a brimpus. Stella is a brimpus.
+
+ Assume Stella is a shumpus. Shumpuses are brimpuses. Stella is a brimpus.
+
+ Since Stella is a dumpus or a shumpus, Stella is a brimpus.
+n: 90, (beta prior) mean: 0.010869565217391304, 95% lower bound: 0.0002781789712100313, 95% upper bound: 0.039726497691849584, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every jompus is an impus. Every shumpus is an impus. Sam is a jompus or a shumpus. Prove: Sam is an impus.
+
+A: Assume Sam is a jompus. Every jompus is an impus. Sam is an impus.
+
+ Assume Sam is a shumpus. Every shumpus is an impus. Sam is an impus.
+
+ Since Sam is a jompus or a shumpus, Sam is an impus.
+
+
+Q: Each grimpus is a shumpus. Every tumpus is a shumpus. Max is a grimpus or a tumpus. Prove: Max is a shumpus.
+
+A: Assume Max is a grimpus. Each grimpus is a shumpus. Max is a shumpus.
+
+ Assume Max is a tumpus. Every tumpus is a shumpus. Max is a shumpus.
+
+ Since Max is a grimpus or a tumpus, Max is a shumpus.
+
+
+Q: Sterpuses are tumpuses. Each yumpus is a tumpus. Wren is a sterpus or a yumpus. Prove: Wren is a tumpus.
+
+A: Assume Wren is a sterpus. Sterpuses are tumpuses. Wren is a tumpus.
+
+ Assume Wren is a yumpus. Each yumpus is a tumpus. Wren is a tumpus.
+
+ Since Wren is a sterpus or a yumpus, Wren is a tumpus.
+
+
+Q: Brimpuses are lempuses. Each gorpus is a lempus. Polly is a brimpus or a gorpus. Prove: Polly is a lempus.
+
+A:
+
+Predicted answer: Assume Polly is a brimpus. Brimpuses are lempuses. Polly is a brimpus or a gorpus.
+
+
+ Assume Polly is a gorpus. Each gorpus is a lempus. Polly is a brimpus or a gorpus.
+
+
+ Since Polly is a brimpus or a gorpus, Polly is a lempus.
+
+
+
+
+Expected answer: Assume Polly is a brimpus. Brimpuses are lempuses. Polly is a lempus.
+
+ Assume Polly is a gorpus. Each gorpus is a lempus. Polly is a lempus.
+
+ Since Polly is a brimpus or a gorpus, Polly is a lempus.
+n: 91, (beta prior) mean: 0.010752688172043012, 95% lower bound: 0.0002751557027707387, 95% upper bound: 0.039303287739518036, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every numpus is a lempus. Gorpuses are lempuses. Max is a numpus or a gorpus. Prove: Max is a lempus.
+
+A: Assume Max is a numpus. Every numpus is a lempus. Max is a lempus.
+
+ Assume Max is a gorpus. Gorpuses are lempuses. Max is a lempus.
+
+ Since Max is a numpus or a gorpus, Max is a lempus.
+
+
+Q: Zumpuses are numpuses. Brimpuses are numpuses. Stella is a zumpus or a brimpus. Prove: Stella is a numpus.
+
+A: Assume Stella is a zumpus. Zumpuses are numpuses. Stella is a numpus.
+
+ Assume Stella is a brimpus. Brimpuses are numpuses. Stella is a numpus.
+
+ Since Stella is a zumpus or a brimpus, Stella is a numpus.
+
+
+Q: Each rompus is a shumpus. Each vumpus is a shumpus. Fae is a rompus or a vumpus. Prove: Fae is a shumpus.
+
+A: Assume Fae is a rompus. Each rompus is a shumpus. Fae is a shumpus.
+
+ Assume Fae is a vumpus. Each vumpus is a shumpus. Fae is a shumpus.
+
+ Since Fae is a rompus or a vumpus, Fae is a shumpus.
+
+
+Q: Wumpuses are lorpuses. Each lempus is a lorpus. Fae is a wumpus or a lempus. Prove: Fae is a lorpus.
+
+A:
+
+Predicted answer: Assume Fae is a lorpus. Wumpuses are lorpuses. Fae is a lorpus.
+
+ Assume Fae is a lempus. Wumpuses are lorpuses. Fae is a lorpus.
+
+ Since Fae is a lorpus or a lempus, Fae is a lorpus.
+
+
+
+
+Expected answer: Assume Fae is a wumpus. Wumpuses are lorpuses. Fae is a lorpus.
+
+ Assume Fae is a lempus. Each lempus is a lorpus. Fae is a lorpus.
+
+ Since Fae is a wumpus or a lempus, Fae is a lorpus.
+n: 92, (beta prior) mean: 0.010638297872340425, 95% lower bound: 0.00027219744200713874, 95% upper bound: 0.0388889985342758, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each lorpus is a grimpus. Each jompus is a grimpus. Sam is a lorpus or a jompus. Prove: Sam is a grimpus.
+
+A: Assume Sam is a lorpus. Each lorpus is a grimpus. Sam is a grimpus.
+
+ Assume Sam is a jompus. Each jompus is a grimpus. Sam is a grimpus.
+
+ Since Sam is a lorpus or a jompus, Sam is a grimpus.
+
+
+Q: Every brimpus is a numpus. Each impus is a numpus. Fae is a brimpus or an impus. Prove: Fae is a numpus.
+
+A: Assume Fae is a brimpus. Every brimpus is a numpus. Fae is a numpus.
+
+ Assume Fae is an impus. Each impus is a numpus. Fae is a numpus.
+
+ Since Fae is a brimpus or an impus, Fae is a numpus.
+
+
+Q: Each numpus is an impus. Every sterpus is an impus. Polly is a numpus or a sterpus. Prove: Polly is an impus.
+
+A: Assume Polly is a numpus. Each numpus is an impus. Polly is an impus.
+
+ Assume Polly is a sterpus. Every sterpus is an impus. Polly is an impus.
+
+ Since Polly is a numpus or a sterpus, Polly is an impus.
+
+
+Q: Every gorpus is a jompus. Grimpuses are jompuses. Sally is a gorpus or a grimpus. Prove: Sally is a jompus.
+
+A:
+
+Predicted answer: Assume Sally is a gorpus. Every gorpus is a jompus. Grimpuses are jompuses. Sally is a gorpus or a grimpus.
+
+
+ Assume Sally is a grimpus. Every grimpus is a jompus. Grimpuses are jompuses. Sally is a gorpus or a grimpus.
+
+
+ Since Sally is a gorpus or a grimpus, Sally is a jompus.
+
+
+
+
+Expected answer: Assume Sally is a gorpus. Every gorpus is a jompus. Sally is a jompus.
+
+ Assume Sally is a grimpus. Grimpuses are jompuses. Sally is a jompus.
+
+ Since Sally is a gorpus or a grimpus, Sally is a jompus.
+n: 93, (beta prior) mean: 0.010526315789473684, 95% lower bound: 0.00026930211448559046, 95% upper bound: 0.03848335099752879, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each rompus is a tumpus. Jompuses are tumpuses. Polly is a rompus or a jompus. Prove: Polly is a tumpus.
+
+A: Assume Polly is a rompus. Each rompus is a tumpus. Polly is a tumpus.
+
+ Assume Polly is a jompus. Jompuses are tumpuses. Polly is a tumpus.
+
+ Since Polly is a rompus or a jompus, Polly is a tumpus.
+
+
+Q: Tumpuses are shumpuses. Every sterpus is a shumpus. Rex is a tumpus or a sterpus. Prove: Rex is a shumpus.
+
+A: Assume Rex is a tumpus. Tumpuses are shumpuses. Rex is a shumpus.
+
+ Assume Rex is a sterpus. Every sterpus is a shumpus. Rex is a shumpus.
+
+ Since Rex is a tumpus or a sterpus, Rex is a shumpus.
+
+
+Q: Each sterpus is a tumpus. Brimpuses are tumpuses. Rex is a sterpus or a brimpus. Prove: Rex is a tumpus.
+
+A: Assume Rex is a sterpus. Each sterpus is a tumpus. Rex is a tumpus.
+
+ Assume Rex is a brimpus. Brimpuses are tumpuses. Rex is a tumpus.
+
+ Since Rex is a sterpus or a brimpus, Rex is a tumpus.
+
+
+Q: Every rompus is a lorpus. Yumpuses are lorpuses. Polly is a rompus or a yumpus. Prove: Polly is a lorpus.
+
+A:
+
+Predicted answer: Assume Polly is a lorpus. Every rompus is a lorpus. Polly is a lorpus.
+
+
+ Assume Polly is a yumpus. Yumpuses are lorpuses. Polly is a lorpus.
+
+
+
+
+Expected answer: Assume Polly is a rompus. Every rompus is a lorpus. Polly is a lorpus.
+
+ Assume Polly is a yumpus. Yumpuses are lorpuses. Polly is a lorpus.
+
+ Since Polly is a rompus or a yumpus, Polly is a lorpus.
+n: 94, (beta prior) mean: 0.010416666666666666, 95% lower bound: 0.00026646773310538775, 95% upper bound: 0.03808607757001057, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every gorpus is a grimpus. Each yumpus is a grimpus. Fae is a gorpus or a yumpus. Prove: Fae is a grimpus.
+
+A: Assume Fae is a gorpus. Every gorpus is a grimpus. Fae is a grimpus.
+
+ Assume Fae is a yumpus. Each yumpus is a grimpus. Fae is a grimpus.
+
+ Since Fae is a gorpus or a yumpus, Fae is a grimpus.
+
+
+Q: Every zumpus is a jompus. Numpuses are jompuses. Sam is a zumpus or a numpus. Prove: Sam is a jompus.
+
+A: Assume Sam is a zumpus. Every zumpus is a jompus. Sam is a jompus.
+
+ Assume Sam is a numpus. Numpuses are jompuses. Sam is a jompus.
+
+ Since Sam is a zumpus or a numpus, Sam is a jompus.
+
+
+Q: Each wumpus is a zumpus. Numpuses are zumpuses. Wren is a wumpus or a numpus. Prove: Wren is a zumpus.
+
+A: Assume Wren is a wumpus. Each wumpus is a zumpus. Wren is a zumpus.
+
+ Assume Wren is a numpus. Numpuses are zumpuses. Wren is a zumpus.
+
+ Since Wren is a wumpus or a numpus, Wren is a zumpus.
+
+
+Q: Vumpuses are lorpuses. Each lempus is a lorpus. Alex is a vumpus or a lempus. Prove: Alex is a lorpus.
+
+A:
+
+Predicted answer: Assume Alex is a lorpus. Each lempus is a lorpus. Alex is a lorpus.
+
+ Assume Alex is a numpus. Numpuses are lorpuses. Alex is a lorpus.
+
+ Since Alex is a lorpus or a numpus, Alex is a lorpus.
+
+
+
+
+Expected answer: Assume Alex is a vumpus. Vumpuses are lorpuses. Alex is a lorpus.
+
+ Assume Alex is a lempus. Each lempus is a lorpus. Alex is a lorpus.
+
+ Since Alex is a vumpus or a lempus, Alex is a lorpus.
+n: 95, (beta prior) mean: 0.010309278350515464, 95% lower bound: 0.00026369239355076825, 95% upper bound: 0.03769692162358756, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Zumpuses are lorpuses. Brimpuses are lorpuses. Sally is a zumpus or a brimpus. Prove: Sally is a lorpus.
+
+A: Assume Sally is a zumpus. Zumpuses are lorpuses. Sally is a lorpus.
+
+ Assume Sally is a brimpus. Brimpuses are lorpuses. Sally is a lorpus.
+
+ Since Sally is a zumpus or a brimpus, Sally is a lorpus.
+
+
+Q: Each brimpus is a lempus. Every yumpus is a lempus. Sam is a brimpus or a yumpus. Prove: Sam is a lempus.
+
+A: Assume Sam is a brimpus. Each brimpus is a lempus. Sam is a lempus.
+
+ Assume Sam is a yumpus. Every yumpus is a lempus. Sam is a lempus.
+
+ Since Sam is a brimpus or a yumpus, Sam is a lempus.
+
+
+Q: Each dumpus is a sterpus. Each numpus is a sterpus. Alex is a dumpus or a numpus. Prove: Alex is a sterpus.
+
+A: Assume Alex is a dumpus. Each dumpus is a sterpus. Alex is a sterpus.
+
+ Assume Alex is a numpus. Each numpus is a sterpus. Alex is a sterpus.
+
+ Since Alex is a dumpus or a numpus, Alex is a sterpus.
+
+
+Q: Every yumpus is a tumpus. Each lempus is a tumpus. Wren is a yumpus or a lempus. Prove: Wren is a tumpus.
+
+A:
+
+Predicted answer: Assume Wren is a yumpus. Every yumpus is a tumpus. Wren is a tumpus.
+
+
+ Assume Wren is a lempus. Every lempus is a tumpus. Wren is a tumpus.
+
+
+ Since Wren is a yumpus or a lempus, Wren is a tumpus.
+
+
+
+
+Expected answer: Assume Wren is a yumpus. Every yumpus is a tumpus. Wren is a tumpus.
+
+ Assume Wren is a lempus. Each lempus is a tumpus. Wren is a tumpus.
+
+ Since Wren is a yumpus or a lempus, Wren is a tumpus.
+n: 96, (beta prior) mean: 0.01020408163265306, 95% lower bound: 0.0002609742700242055, 95% upper bound: 0.03731563690873607, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each numpus is a yumpus. Each tumpus is a yumpus. Stella is a numpus or a tumpus. Prove: Stella is a yumpus.
+
+A: Assume Stella is a numpus. Each numpus is a yumpus. Stella is a yumpus.
+
+ Assume Stella is a tumpus. Each tumpus is a yumpus. Stella is a yumpus.
+
+ Since Stella is a numpus or a tumpus, Stella is a yumpus.
+
+
+Q: Gorpuses are tumpuses. Rompuses are tumpuses. Sam is a gorpus or a rompus. Prove: Sam is a tumpus.
+
+A: Assume Sam is a gorpus. Gorpuses are tumpuses. Sam is a tumpus.
+
+ Assume Sam is a rompus. Rompuses are tumpuses. Sam is a tumpus.
+
+ Since Sam is a gorpus or a rompus, Sam is a tumpus.
+
+
+Q: Rompuses are wumpuses. Every grimpus is a wumpus. Stella is a rompus or a grimpus. Prove: Stella is a wumpus.
+
+A: Assume Stella is a rompus. Rompuses are wumpuses. Stella is a wumpus.
+
+ Assume Stella is a grimpus. Every grimpus is a wumpus. Stella is a wumpus.
+
+ Since Stella is a rompus or a grimpus, Stella is a wumpus.
+
+
+Q: Zumpuses are wumpuses. Rompuses are wumpuses. Sally is a zumpus or a rompus. Prove: Sally is a wumpus.
+
+A:
+
+Predicted answer: Assume Sally is a zumpus. Zumpuses are wumpuses. Sally is a wumpus.
+
+ Assume Sally is a rompus. Zumpuses are wumpuses. Sally is a wumpus.
+
+ Since Sally is a zumpus or a rompus, Sally is a wumpus.
+
+
+
+
+Expected answer: Assume Sally is a zumpus. Zumpuses are wumpuses. Sally is a wumpus.
+
+ Assume Sally is a rompus. Rompuses are wumpuses. Sally is a wumpus.
+
+ Since Sally is a zumpus or a rompus, Sally is a wumpus.
+n: 97, (beta prior) mean: 0.010101010101010102, 95% lower bound: 0.000258311611240894, 95% upper bound: 0.03694198703519287, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Lempuses are vumpuses. Each gorpus is a vumpus. Wren is a lempus or a gorpus. Prove: Wren is a vumpus.
+
+A: Assume Wren is a lempus. Lempuses are vumpuses. Wren is a vumpus.
+
+ Assume Wren is a gorpus. Each gorpus is a vumpus. Wren is a vumpus.
+
+ Since Wren is a lempus or a gorpus, Wren is a vumpus.
+
+
+Q: Sterpuses are dumpuses. Impuses are dumpuses. Polly is a sterpus or an impus. Prove: Polly is a dumpus.
+
+A: Assume Polly is a sterpus. Sterpuses are dumpuses. Polly is a dumpus.
+
+ Assume Polly is an impus. Impuses are dumpuses. Polly is a dumpus.
+
+ Since Polly is a sterpus or an impus, Polly is a dumpus.
+
+
+Q: Each grimpus is a yumpus. Every shumpus is a yumpus. Polly is a grimpus or a shumpus. Prove: Polly is a yumpus.
+
+A: Assume Polly is a grimpus. Each grimpus is a yumpus. Polly is a yumpus.
+
+ Assume Polly is a shumpus. Every shumpus is a yumpus. Polly is a yumpus.
+
+ Since Polly is a grimpus or a shumpus, Polly is a yumpus.
+
+
+Q: Every vumpus is a brimpus. Sterpuses are brimpuses. Sally is a vumpus or a sterpus. Prove: Sally is a brimpus.
+
+A:
+
+Predicted answer: Assume Sally is a vumpus. Sterpuses are brimpuses. Sally is a brimpus.
+
+
+ Assume Sally is a sterpus. Sterpuses are brimpuses. Sally is a brimpus.
+
+
+ Since Sally is a vumpus or a sterpus, Sally is a brimpus.
+
+
+
+
+Expected answer: Assume Sally is a vumpus. Every vumpus is a brimpus. Sally is a brimpus.
+
+ Assume Sally is a sterpus. Sterpuses are brimpuses. Sally is a brimpus.
+
+ Since Sally is a vumpus or a sterpus, Sally is a brimpus.
+n: 98, (beta prior) mean: 0.01, 95% lower bound: 0.00025570273666596153, 95% upper bound: 0.03657574498347894, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every gorpus is a lempus. Every grimpus is a lempus. Alex is a gorpus or a grimpus. Prove: Alex is a lempus.
+
+A: Assume Alex is a gorpus. Every gorpus is a lempus. Alex is a lempus.
+
+ Assume Alex is a grimpus. Every grimpus is a lempus. Alex is a lempus.
+
+ Since Alex is a gorpus or a grimpus, Alex is a lempus.
+
+
+Q: Yumpuses are gorpuses. Zumpuses are gorpuses. Rex is a yumpus or a zumpus. Prove: Rex is a gorpus.
+
+A: Assume Rex is a yumpus. Yumpuses are gorpuses. Rex is a gorpus.
+
+ Assume Rex is a zumpus. Zumpuses are gorpuses. Rex is a gorpus.
+
+ Since Rex is a yumpus or a zumpus, Rex is a gorpus.
+
+
+Q: Wumpuses are gorpuses. Each lempus is a gorpus. Sally is a wumpus or a lempus. Prove: Sally is a gorpus.
+
+A: Assume Sally is a wumpus. Wumpuses are gorpuses. Sally is a gorpus.
+
+ Assume Sally is a lempus. Each lempus is a gorpus. Sally is a gorpus.
+
+ Since Sally is a wumpus or a lempus, Sally is a gorpus.
+
+
+Q: Every zumpus is a yumpus. Grimpuses are yumpuses. Wren is a zumpus or a grimpus. Prove: Wren is a yumpus.
+
+A:
+
+Predicted answer: Assume Wren is a yumpus. Zumpuses are yumpuses. Wren is a yumpus.
+
+ Assume Wren is a grimpus. Zumpuses are yumpuses. Wren is a yumpus.
+
+ Since Wren is a yumpus or a grimpus, Wren is a yumpus.
+
+
+
+
+Expected answer: Assume Wren is a zumpus. Every zumpus is a yumpus. Wren is a yumpus.
+
+ Assume Wren is a grimpus. Grimpuses are yumpuses. Wren is a yumpus.
+
+ Since Wren is a zumpus or a grimpus, Wren is a yumpus.
+n: 99, (beta prior) mean: 0.009900990099009901, 95% lower bound: 0.00025314603297742064, 95% upper bound: 0.03621669264517641, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every impus is a gorpus. Yumpuses are gorpuses. Alex is an impus or a yumpus. Prove: Alex is a gorpus.
+
+A: Assume Alex is an impus. Every impus is a gorpus. Alex is a gorpus.
+
+ Assume Alex is a yumpus. Yumpuses are gorpuses. Alex is a gorpus.
+
+ Since Alex is an impus or a yumpus, Alex is a gorpus.
+
+
+Q: Every yumpus is a wumpus. Jompuses are wumpuses. Alex is a yumpus or a jompus. Prove: Alex is a wumpus.
+
+A: Assume Alex is a yumpus. Every yumpus is a wumpus. Alex is a wumpus.
+
+ Assume Alex is a jompus. Jompuses are wumpuses. Alex is a wumpus.
+
+ Since Alex is a yumpus or a jompus, Alex is a wumpus.
+
+
+Q: Gorpuses are grimpuses. Every lorpus is a grimpus. Sally is a gorpus or a lorpus. Prove: Sally is a grimpus.
+
+A: Assume Sally is a gorpus. Gorpuses are grimpuses. Sally is a grimpus.
+
+ Assume Sally is a lorpus. Every lorpus is a grimpus. Sally is a grimpus.
+
+ Since Sally is a gorpus or a lorpus, Sally is a grimpus.
+
+
+Q: Lempuses are yumpuses. Dumpuses are yumpuses. Max is a lempus or a dumpus. Prove: Max is a yumpus.
+
+A:
+
+Predicted answer: Assume Max is a yumpus. Lempuses are yumpuses. Max is a yumpus.
+
+ Assume Max is a dumpus. Dumpuses are yumpuses. Max is a dumpus.
+
+
+ Assume Max is a lempus. Every lempus is a yumpus. Max is a lempus.
+
+
+ Since Max is a lempus or a dumpus, Max is a yumpus.
+
+
+
+
+Expected answer: Assume Max is a lempus. Lempuses are yumpuses. Max is a yumpus.
+
+ Assume Max is a dumpus. Dumpuses are yumpuses. Max is a yumpus.
+
+ Since Max is a lempus or a dumpus, Max is a yumpus.
+n: 100, (beta prior) mean: 0.00980392156862745, 95% lower bound: 0.0002506399507392151, 95% upper bound: 0.03586462039000372, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+

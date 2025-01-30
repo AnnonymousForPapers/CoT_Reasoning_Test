@@ -1,0 +1,2 @@
+There were errors during semantic parsing for file OpenELM-1_1B_orelim_1hop_OrElim_nodistractor.log:
+  Error parsing ['Impus', 'are', 'zumpuses']: Unable to parse sentence ['Impus', 'are', 'zumpuses']
