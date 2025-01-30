@@ -1,0 +1,43 @@
+Correct steps: 300
+Total steps: 300
+Correct steps ratio: 1.0
+Non-atomic steps ratio: 0.0
+Skip steps ratio: 0.0
+Invalid steps ratio: 0.0
+Correct and useful steps ratio: 1.0
+Unparseable steps ratio: 0.0
+Incorrect steps ratio: 0.0
+Perplexity sample mean: nan
+Perplexity sample std dev: nan
+Number of examples: 100
+Number of correct proof: 100
+Proportion of proofs that contain the correct proof: 1.0
+Proportion of proofs that only contain correct, non-atomic, or skip steps: 1.0
+Proportion of correct proofs that contain a "useless branch":          0.0
+Proportion of correct proofs that contain a "useful skip step":        0.0
+Proportion of correct proofs that contain a "useless skip step":       0.0
+Proportion of correct proofs that contain a "useful non-atomic step":  0.0
+Proportion of correct proofs that contain a "useless non-atomic step": 0.0
+Proportion of correct proofs that contain an "invalid step":           0.0
+Proportion of correct proofs that contain a "useless branch" AND "useful non-atomic step": 0.0
+Proportion of correct proofs that contain a "useless branch" AND "useless non-atomic step": 0.0
+Proportion of correct proofs that contain a "useless branch" AND "invalid step": 0.0
+Proportion of correct proofs that contain a "useless branch" AND "useful non-atomic step" AND "invalid step": 0.0
+Proportion of correct proofs with ANY OF THE ABOVE:                    0.0
+(there are no incorrect proofs)
+
+Proportion of ALL proofs that are strictly correct: 1.0
+Proportion of ALL proofs that would be correct if "skip steps" are considered correct: 1.0
+Proportion of ALL proofs that would be correct if "non-atomic steps" are considered correct: 1.0
+Proportion of ALL proofs that would be correct if both "skip steps" and "non-atomic steps" are considered correct: 1.0
+
+Proportion of correct proofs where the "useless branch" is the first mistake: 0.0
+Proportion of correct proofs where the "useful skip step" is the first mistake: 0.0
+Proportion of correct proofs where the "useless skip step" is the first mistake: 0.0
+Proportion of correct proofs where the "useful non-atomic step" is the first mistake: 0.0
+Proportion of correct proofs where the "useless non-atomic step" is the first mistake: 0.0
+Proportion of correct proofs where the "invalid step" is the first mistake: 0.0
+(there are no incorrect proofs)
+incorrect_proof_ids_with_skip_steps: []
+incorrect_proof_ids_with_skip_or_non_atomic_steps: []
+incorrect_proof_ids_with_skip_or_non_atomic_steps \ incorrect_proof_ids_with_skip_steps: []
