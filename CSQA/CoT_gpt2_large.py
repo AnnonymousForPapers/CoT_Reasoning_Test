@@ -17,19 +17,6 @@ input_ids = tokenizer("Gravity is", return_tensors="pt").to("cuda").input_ids
 outputs = model.generate(input_ids)
 print(tokenizer.batch_decode(outputs)[0])
 
-# model_name = "google/gemma-2-9b-it"
-# print("\n" + "Model name: " + model_name + "\n")
-
-# access_token = "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"
-
-# tokenizer = AutoTokenizer.from_pretrained(model_name, device_map="auto", token=access_token)
-# model = AutoModelForCausalLM.from_pretrained(
-#     model_name,
-#     device_map="auto",
-#     torch_dtype=torch.bfloat16,
-#     token=access_token
-# )
-
 end_time = time.time()
 print(f"Model loading time: {end_time - start_time:.2f} seconds")
 
