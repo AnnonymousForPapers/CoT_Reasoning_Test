@@ -1,0 +1,21 @@
+`GPT2SdpaAttention` is used but `torch.nn.functional.scaled_dot_product_attention` does not support `output_attentions=True` or `head_mask`. Falling back to the manual attention implementation, but specifying the manual implementation will be required from Transformers version v5.0.0 onwards. This warning can be removed using the argument `attn_implementation="eager"` when loading the model.
+/home/ych22001/LLM/Reasoning_ability/prontoqa/Attention_analysis/gpt2_MP1_wrong_out_tokens_plot.py:134: RuntimeWarning: invalid value encountered in divide
+  B2 = B/B_col_sum
+
+Model name: gpt2
+
+Q: Every impus is not floral. Alex is an impus. Prove: Alex is not floral.
+A: Alex is an impus. Every impus is not floral. Alex is not floral.
+
+Q: Every jompus is not loud. Rex is a jompus. Prove: Rex is not loud.
+A: Rex is a jompus. Every jompus is not loud. Rex is not loud.
+
+Q: Each tumpus is not liquid. Rex is a tumpus. Prove: Rex is not liquid.
+A: Rex is a tumpus. Each tumpus is not liquid. Rex is not liquid.
+
+Q: Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+A: Wren is a sterpus. Sterpuses are transparent. Wren is
+Number of layers: 
+12
+Number of heads: 
+12

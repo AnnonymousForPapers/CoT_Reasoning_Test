@@ -1,0 +1,98 @@
+-----LLM output start-----
+
+<bos>Q: Every impus is not floral. Alex is an impus. Prove: Alex is not floral.
+A: Alex is an impus. Every impus is not floral. Alex is not floral.
+
+Q: Every jompus is not loud. Rex is a jompus. Prove: Rex is not loud.
+A: Rex is a jompus. Every jompus is not loud. Rex is not loud.
+
+Q: Each tumpus is not liquid. Rex is a tumpus. Prove: Rex is not liquid.
+A: Rex is a tumpus. Each tumpus is not liquid. Rex is not liquid.
+
+Q: Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+A: Wren is a sterpus. Sterpuses are transparent. Wren is transparent.
+
+Q: Every jompus is a jompus. Prove: Every jompus is a jompus.
+A: Every jompus is a jompus.
+
+Q: Every impus is not floral. Prove: Every impus is not floral.
+A: Every impus is not floral.
+
+Q: Every tumpus is not liquid. Prove: Every tumpus is not liquid.
+A: Every tumpus is not liquid.
+
+Q: Every sterpus is transparent. Prove: Every sterpus is transparent.
+A: Every sterpus is transparent.
+
+Q: Every jompus is a jompus. Prove: Every jompus is a jompus.
+A: Every jompus is a jompus.
+
+Q: Every impus is not floral. Prove: Every impus is not floral.
+A: Every impus is not floral.
+
+Q: Every tumpus is not liquid. Prove: Every tumpus is not liquid.
+A: Every tumpus is not liquid.
+
+Q: Every sterpus is transparent. Prove: Every sterpus is transparent
+
+-----LLM output end-----
+
+
+Outputs: 
+tensor([[     2, 235368, 235292,   7205,   1015,    553,    603,    780,  17097,
+         235265,   7303,    603,    671,   1015,    553, 235265,  67725, 235292,
+           7303,    603,    780,  17097, 235265,    108, 235280, 235292,   7303,
+            603,    671,   1015,    553, 235265,   7205,   1015,    553,    603,
+            780,  17097, 235265,   7303,    603,    780,  17097, 235265,    109,
+         235368, 235292,   7205,    678,    537,  13591,    603,    780,  16129,
+         235265,  44461,    603,    476,    678,    537,  13591, 235265,  67725,
+         235292,  44461,    603,    780,  16129, 235265,    108, 235280, 235292,
+          44461,    603,    476,    678,    537,  13591, 235265,   7205,    678,
+            537,  13591,    603,    780,  16129, 235265,  44461,    603,    780,
+          16129, 235265,    109, 235368, 235292,   9573,    474,   2109,    553,
+            603,    780,  10177, 235265,  44461,    603,    476,    474,   2109,
+            553, 235265,  67725, 235292,  44461,    603,    780,  10177, 235265,
+            108, 235280, 235292,  44461,    603,    476,    474,   2109,    553,
+         235265,   9573,    474,   2109,    553,    603,    780,  10177, 235265,
+          44461,    603,    780,  10177, 235265,    109, 235368, 235292,  20418,
+         235263,   4453,    708,  17741, 235265, 122510,    603,    476,   9796,
+          13591, 235265,  67725, 235292, 122510,    603,  17741, 235265,    108,
+         235280, 235292, 122510,    603,    476,   9796,  13591, 235265,  20418,
+         235263,   4453,    708,  17741, 235265, 122510,    603,  17741, 235265,
+            109, 235368, 235292,   7205,    678,    537,  13591,    603,    476,
+            678,    537,  13591, 235265,  67725, 235292,   7205,    678,    537,
+          13591,    603,    476,    678,    537,  13591, 235265,    108, 235280,
+         235292,   7205,    678,    537,  13591,    603,    476,    678,    537,
+          13591, 235265,    109, 235368, 235292,   7205,   1015,    553,    603,
+            780,  17097, 235265,  67725, 235292,   7205,   1015,    553,    603,
+            780,  17097, 235265,    108, 235280, 235292,   7205,   1015,    553,
+            603,    780,  17097, 235265,    109, 235368, 235292,   7205,    474,
+           2109,    553,    603,    780,  10177, 235265,  67725, 235292,   7205,
+            474,   2109,    553,    603,    780,  10177, 235265,    108, 235280,
+         235292,   7205,    474,   2109,    553,    603,    780,  10177, 235265,
+            109, 235368, 235292,   7205,   9796,  13591,    603,  17741, 235265,
+          67725, 235292,   7205,   9796,  13591,    603,  17741, 235265,    108,
+         235280, 235292,   7205,   9796,  13591,    603,  17741, 235265,    109,
+         235368, 235292,   7205,    678,    537,  13591,    603,    476,    678,
+            537,  13591, 235265,  67725, 235292,   7205,    678,    537,  13591,
+            603,    476,    678,    537,  13591, 235265,    108, 235280, 235292,
+           7205,    678,    537,  13591,    603,    476,    678,    537,  13591,
+         235265,    109, 235368, 235292,   7205,   1015,    553,    603,    780,
+          17097, 235265,  67725, 235292,   7205,   1015,    553,    603,    780,
+          17097, 235265,    108, 235280, 235292,   7205,   1015,    553,    603,
+            780,  17097, 235265,    109, 235368, 235292,   7205,    474,   2109,
+            553,    603,    780,  10177, 235265,  67725, 235292,   7205,    474,
+           2109,    553,    603,    780,  10177, 235265,    108, 235280, 235292,
+           7205,    474,   2109,    553,    603,    780,  10177, 235265,    109,
+         235368, 235292,   7205,   9796,  13591,    603,  17741, 235265,  67725,
+         235292,   7205,   9796,  13591,    603,  17741]], device='cuda:0')
+Output tokens: 
+['<bos>', 'Q', ':', '▁Every', '▁imp', 'us', '▁is', '▁not', '▁floral', '.', '▁Alex', '▁is', '▁an', '▁imp', 'us', '.', '▁Prove', ':', '▁Alex', '▁is', '▁not', '▁floral', '.', '\n', 'A', ':', '▁Alex', '▁is', '▁an', '▁imp', 'us', '.', '▁Every', '▁imp', 'us', '▁is', '▁not', '▁floral', '.', '▁Alex', '▁is', '▁not', '▁floral', '.', '\n\n', 'Q', ':', '▁Every', '▁j', 'om', 'pus', '▁is', '▁not', '▁loud', '.', '▁Rex', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁Prove', ':', '▁Rex', '▁is', '▁not', '▁loud', '.', '\n', 'A', ':', '▁Rex', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁Every', '▁j', 'om', 'pus', '▁is', '▁not', '▁loud', '.', '▁Rex', '▁is', '▁not', '▁loud', '.', '\n\n', 'Q', ':', '▁Each', '▁t', 'ump', 'us', '▁is', '▁not', '▁liquid', '.', '▁Rex', '▁is', '▁a', '▁t', 'ump', 'us', '.', '▁Prove', ':', '▁Rex', '▁is', '▁not', '▁liquid', '.', '\n', 'A', ':', '▁Rex', '▁is', '▁a', '▁t', 'ump', 'us', '.', '▁Each', '▁t', 'ump', 'us', '▁is', '▁not', '▁liquid', '.', '▁Rex', '▁is', '▁not', '▁liquid', '.', '\n\n', 'Q', ':', '▁Ster', 'p', 'uses', '▁are', '▁transparent', '.', '▁Wren', '▁is', '▁a', '▁ster', 'pus', '.', '▁Prove', ':', '▁Wren', '▁is', '▁transparent', '.', '\n', 'A', ':', '▁Wren', '▁is', '▁a', '▁ster', 'pus', '.', '▁Ster', 'p', 'uses', '▁are', '▁transparent', '.', '▁Wren', '▁is', '▁transparent', '.', '\n\n', 'Q', ':', '▁Every', '▁j', 'om', 'pus', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁Prove', ':', '▁Every', '▁j', 'om', 'pus', '▁is', '▁a', '▁j', 'om', 'pus', '.', '\n', 'A', ':', '▁Every', '▁j', 'om', 'pus', '▁is', '▁a', '▁j', 'om', 'pus', '.', '\n\n', 'Q', ':', '▁Every', '▁imp', 'us', '▁is', '▁not', '▁floral', '.', '▁Prove', ':', '▁Every', '▁imp', 'us', '▁is', '▁not', '▁floral', '.', '\n', 'A', ':', '▁Every', '▁imp', 'us', '▁is', '▁not', '▁floral', '.', '\n\n', 'Q', ':', '▁Every', '▁t', 'ump', 'us', '▁is', '▁not', '▁liquid', '.', '▁Prove', ':', '▁Every', '▁t', 'ump', 'us', '▁is', '▁not', '▁liquid', '.', '\n', 'A', ':', '▁Every', '▁t', 'ump', 'us', '▁is', '▁not', '▁liquid', '.', '\n\n', 'Q', ':', '▁Every', '▁ster', 'pus', '▁is', '▁transparent', '.', '▁Prove', ':', '▁Every', '▁ster', 'pus', '▁is', '▁transparent', '.', '\n', 'A', ':', '▁Every', '▁ster', 'pus', '▁is', '▁transparent', '.', '\n\n', 'Q', ':', '▁Every', '▁j', 'om', 'pus', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁Prove', ':', '▁Every', '▁j', 'om', 'pus', '▁is', '▁a', '▁j', 'om', 'pus', '.', '\n', 'A', ':', '▁Every', '▁j', 'om', 'pus', '▁is', '▁a', '▁j', 'om', 'pus', '.', '\n\n', 'Q', ':', '▁Every', '▁imp', 'us', '▁is', '▁not', '▁floral', '.', '▁Prove', ':', '▁Every', '▁imp', 'us', '▁is', '▁not', '▁floral', '.', '\n', 'A', ':', '▁Every', '▁imp', 'us', '▁is', '▁not', '▁floral', '.', '\n\n', 'Q', ':', '▁Every', '▁t', 'ump', 'us', '▁is', '▁not', '▁liquid', '.', '▁Prove', ':', '▁Every', '▁t', 'ump', 'us', '▁is', '▁not', '▁liquid', '.', '\n', 'A', ':', '▁Every', '▁t', 'ump', 'us', '▁is', '▁not', '▁liquid', '.', '\n\n', 'Q', ':', '▁Every', '▁ster', 'pus', '▁is', '▁transparent', '.', '▁Prove', ':', '▁Every', '▁ster', 'pus', '▁is', '▁transparent']
+
+Predicted answer: Wren is a sterpus. Sterpuses are transparent. Wren is transparent.
+
+
+
+Expected answer: Wren is a sterpus. Sterpuses are transparent. Wren is transparent.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0

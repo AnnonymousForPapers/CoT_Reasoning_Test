@@ -1,0 +1,23 @@
+
+Model name: google/gemma-2-9b-it
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:06<00:20,  6.75s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:13<00:13,  6.74s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:21<00:07,  7.16s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  6.45s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:26<00:00,  6.62s/it]
+Gemma2Model is using Gemma2SdpaAttention, but `torch.nn.functional.scaled_dot_product_attention` does not support `output_attentions=True`. Falling back to the manual attention implementation, but specifying the manual implementation will be required from Transformers version v5.0.0 onwards. This warning can be removed using the argument `attn_implementation="eager"` when loading the model.
+/home/ych22001/LLM/Reasoning_ability/prontoqa/Attention_analysis/gemma2_9b_it_MP1_correct_out_tokens_plot.py:140: RuntimeWarning: invalid value encountered in divide
+  B2 = B/B_col_sum
+Q: Every impus is not floral. Alex is an impus. Prove: Alex is not floral.
+A: Alex is an impus. Every impus is not floral. Alex is not floral.
+
+Q: Every jompus is not loud. Rex is a jompus. Prove: Rex is not loud.
+A: Rex is a jompus. Every jompus is not loud. Rex is not loud.
+
+Q: Each tumpus is not liquid. Rex is a tumpus. Prove: Rex is not liquid.
+A: Rex is a tumpus. Each tumpus is not liquid. Rex is not liquid.
+
+Q: Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+A: Wren is a sterpus. Sterpuses are transparent. Wren is
+Number of layers: 
+42
+Number of heads: 
+16
+/usr/bin/xdg-open: line 862: x-www-browser: command not found

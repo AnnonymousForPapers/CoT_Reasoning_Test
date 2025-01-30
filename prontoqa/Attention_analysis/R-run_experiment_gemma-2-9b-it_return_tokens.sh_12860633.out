@@ -1,0 +1,777 @@
+
+Model name: google/gemma-2-9b-it
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:11<00:35, 11.75s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:21<00:21, 10.50s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:32<00:10, 10.84s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:42<00:00, 10.49s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:42<00:00, 10.65s/it]
+WARNING: Could not extend ontology due to insufficient property families.
+WARNING: Could not extend ontology due to insufficient property families.
+WARNING: Could not extend ontology due to insufficient property families.
+Q: Every impus is not floral. Alex is an impus. Prove: Alex is not floral.
+A: Alex is an impus. Every impus is not floral. Alex is not floral.
+
+Q: Every jompus is not loud. Rex is a jompus. Prove: Rex is not loud.
+A: Rex is a jompus. Every jompus is not loud. Rex is not loud.
+
+Q: Each tumpus is not liquid. Rex is a tumpus. Prove: Rex is not liquid.
+A: Rex is a tumpus. Each tumpus is not liquid. Rex is not liquid.
+
+Q: Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+A:
+
+Context length:164
+
+
+
+
+-----LLM output start-----
+
+<bos>Q: Every impus is not floral. Alex is an impus. Prove: Alex is not floral.
+A: Alex is an impus. Every impus is not floral. Alex is not floral.
+
+Q: Every jompus is not loud. Rex is a jompus. Prove: Rex is not loud.
+A: Rex is a jompus. Every jompus is not loud. Rex is not loud.
+
+Q: Each tumpus is not liquid. Rex is a tumpus. Prove: Rex is not liquid.
+A: Rex is a tumpus. Each tumpus is not liquid. Rex is not liquid.
+
+Q: Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+A: Wren is a sterpus. Sterpuses are transparent. Wren is transparent.
+
+**Explanation:**
+
+These are examples of **deductive reasoning**.  
+
+* **Premise 1:** A general statement about a category (e.g., "Every impus is not floral").
+* **Premise 2:** A statement that something belongs to that category (e.g., "Alex is an impus").
+* **Conclusion:** A statement that logically follows from the premises (e.g., "Alex is not floral").
+
+
+The conclusion is guaranteed to be true if the premises are true. 
+<end_of_turn><eos>
+
+-----LLM output end-----
+
+
+Outputs: 
+tensor([[     2, 235368, 235292,   7205,   1015,    553,    603,    780,  17097,
+         235265,   7303,    603,    671,   1015,    553, 235265,  67725, 235292,
+           7303,    603,    780,  17097, 235265,    108, 235280, 235292,   7303,
+            603,    671,   1015,    553, 235265,   7205,   1015,    553,    603,
+            780,  17097, 235265,   7303,    603,    780,  17097, 235265,    109,
+         235368, 235292,   7205,    678,    537,  13591,    603,    780,  16129,
+         235265,  44461,    603,    476,    678,    537,  13591, 235265,  67725,
+         235292,  44461,    603,    780,  16129, 235265,    108, 235280, 235292,
+          44461,    603,    476,    678,    537,  13591, 235265,   7205,    678,
+            537,  13591,    603,    780,  16129, 235265,  44461,    603,    780,
+          16129, 235265,    109, 235368, 235292,   9573,    474,   2109,    553,
+            603,    780,  10177, 235265,  44461,    603,    476,    474,   2109,
+            553, 235265,  67725, 235292,  44461,    603,    780,  10177, 235265,
+            108, 235280, 235292,  44461,    603,    476,    474,   2109,    553,
+         235265,   9573,    474,   2109,    553,    603,    780,  10177, 235265,
+          44461,    603,    780,  10177, 235265,    109, 235368, 235292,  20418,
+         235263,   4453,    708,  17741, 235265, 122510,    603,    476,   9796,
+          13591, 235265,  67725, 235292, 122510,    603,  17741, 235265,    108,
+         235280, 235292, 122510,    603,    476,   9796,  13591, 235265,  20418,
+         235263,   4453,    708,  17741, 235265, 122510,    603,  17741, 235265,
+            109,    688,  32729,  66058,    109,   8652,    708,   8944,    576,
+           5231, 149244,   2759,  32346, 168428,    139,    109, 235287,   5231,
+         216451, 235248, 235274,  66058,    586,   3311,   6218,   1105,    476,
+           9701,    591, 235249, 235265, 235264,   1173,    664,   9112,   1015,
+            553,    603,    780,  17097,   4527,    108, 235287,   5231, 216451,
+         235248, 235284,  66058,    586,   6218,    674,   2775,  17239,    577,
+            674,   9701,    591, 235249, 235265, 235264,   1173,    664,  12323,
+            603,    671,   1015,    553,   4527,    108, 235287,   5231,   6580,
+          66058,    586,   6218,    674,  89968,   6397,    774,    573,  26576,
+            591, 235249, 235265, 235264,   1173,    664,  12323,    603,    780,
+          17097,   4527,    110,    651,  13856,    603,  26608,    577,    614,
+           1382,   1013,    573,  26576,    708,   1382, 235265, 235248,    108,
+            107,      1]], device='cuda:0')
+Output tokens: 
+['<bos>', 'Q', ':', '▁Every', '▁imp', 'us', '▁is', '▁not', '▁floral', '.', '▁Alex', '▁is', '▁an', '▁imp', 'us', '.', '▁Prove', ':', '▁Alex', '▁is', '▁not', '▁floral', '.', '\n', 'A', ':', '▁Alex', '▁is', '▁an', '▁imp', 'us', '.', '▁Every', '▁imp', 'us', '▁is', '▁not', '▁floral', '.', '▁Alex', '▁is', '▁not', '▁floral', '.', '\n\n', 'Q', ':', '▁Every', '▁j', 'om', 'pus', '▁is', '▁not', '▁loud', '.', '▁Rex', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁Prove', ':', '▁Rex', '▁is', '▁not', '▁loud', '.', '\n', 'A', ':', '▁Rex', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁Every', '▁j', 'om', 'pus', '▁is', '▁not', '▁loud', '.', '▁Rex', '▁is', '▁not', '▁loud', '.', '\n\n', 'Q', ':', '▁Each', '▁t', 'ump', 'us', '▁is', '▁not', '▁liquid', '.', '▁Rex', '▁is', '▁a', '▁t', 'ump', 'us', '.', '▁Prove', ':', '▁Rex', '▁is', '▁not', '▁liquid', '.', '\n', 'A', ':', '▁Rex', '▁is', '▁a', '▁t', 'ump', 'us', '.', '▁Each', '▁t', 'ump', 'us', '▁is', '▁not', '▁liquid', '.', '▁Rex', '▁is', '▁not', '▁liquid', '.', '\n\n', 'Q', ':', '▁Ster', 'p', 'uses', '▁are', '▁transparent', '.', '▁Wren', '▁is', '▁a', '▁ster', 'pus', '.', '▁Prove', ':', '▁Wren', '▁is', '▁transparent', '.', '\n', 'A', ':', '▁Wren', '▁is', '▁a', '▁ster', 'pus', '.', '▁Ster', 'p', 'uses', '▁are', '▁transparent', '.', '▁Wren', '▁is', '▁transparent', '.', '\n\n', '**', 'Explanation', ':**', '\n\n', 'These', '▁are', '▁examples', '▁of', '▁**', 'dedu', 'ctive', '▁reasoning', '**.', '▁▁', '\n\n', '*', '▁**', 'Premise', '▁', '1', ':**', '▁A', '▁general', '▁statement', '▁about', '▁a', '▁category', '▁(', 'e', '.', 'g', '.,', '▁"', 'Every', '▁imp', 'us', '▁is', '▁not', '▁floral', '").', '\n', '*', '▁**', 'Premise', '▁', '2', ':**', '▁A', '▁statement', '▁that', '▁something', '▁belongs', '▁to', '▁that', '▁category', '▁(', 'e', '.', 'g', '.,', '▁"', 'Alex', '▁is', '▁an', '▁imp', 'us', '").', '\n', '*', '▁**', 'Conclusion', ':**', '▁A', '▁statement', '▁that', '▁logically', '▁follows', '▁from', '▁the', '▁premises', '▁(', 'e', '.', 'g', '.,', '▁"', 'Alex', '▁is', '▁not', '▁floral', '").', '\n\n\n', 'The', '▁conclusion', '▁is', '▁guaranteed', '▁to', '▁be', '▁true', '▁if', '▁the', '▁premises', '▁are', '▁true', '.', '▁', '\n', '<end_of_turn>', '<eos>']
+
+Predicted answer: Wren is a sterpus. Sterpuses are transparent. Wren is transparent.
+
+**Explanation:**
+
+These are examples of **deductive reasoning**.  
+
+* **Premise 1:** A general statement about a category (e.g., "Every impus is not floral").
+* **Premise 2:** A statement that something belongs to that category (e.g., "Alex is an impus").
+* **Conclusion:** A statement that logically follows from the premises (e.g., "Alex is not floral").
+
+
+The conclusion is guaranteed to be true if the premises are true. 
+<end_of_turn><eos>
+
+Expected answer: Wren is a sterpus. Sterpuses are transparent. Wren is transparent.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+
+Model name: google/gemma-2-9b-it
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:10<00:32, 10.78s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:20<00:20, 10.06s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:31<00:10, 10.69s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:41<00:00, 10.22s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:41<00:00, 10.32s/it]
+Q:  Alex is earthy. Alex is an impus. Prove: Alex is an earthy impus.
+A: Alex is an impus. Alex is earthy. Alex is an earthy impus.
+
+Q:  Alex is a numpus. Alex is hot. Prove: Alex is a hot numpus.
+A: Alex is a numpus. Alex is hot. Alex is a hot numpus.
+
+Q:  Rex is a lempus. Rex is brown. Prove: Rex is a brown lempus.
+A: Rex is a lempus. Rex is brown. Rex is a brown lempus.
+
+Q:  Polly is a yumpus. Polly is opaque. Prove: Polly is an opaque yumpus.
+A:
+
+Context length:161
+
+
+
+
+-----LLM output start-----
+
+<bos>Q:  Alex is earthy. Alex is an impus. Prove: Alex is an earthy impus.
+A: Alex is an impus. Alex is earthy. Alex is an earthy impus.
+
+Q:  Alex is a numpus. Alex is hot. Prove: Alex is a hot numpus.
+A: Alex is a numpus. Alex is hot. Alex is a hot numpus.
+
+Q:  Rex is a lempus. Rex is brown. Prove: Rex is a brown lempus.
+A: Rex is a lempus. Rex is brown. Rex is a brown lempus.
+
+Q:  Polly is a yumpus. Polly is opaque. Prove: Polly is an opaque yumpus.
+A: Polly is a yumpus. Polly is opaque. Polly is an opaque yumpus.
+
+
+**Explanation:**
+
+These are simple syllogisms demonstrating a basic form of deductive reasoning. 
+
+* **Premise 1:**  States a fact about Alex (or Rex, Polly).
+* **Premise 2:** States another fact about Alex (or Rex, Polly).
+* **Conclusion:**  Deduces a new fact based on the two premises.
+
+Since the premises are assumed to be true, the conclusion logically follows. 
+
+
+Let me know if you'd like to try some more complex examples!<end_of_turn>
+<eos>
+
+-----LLM output end-----
+
+
+Outputs: 
+tensor([[     2, 235368, 235292,    139,  12323,    603, 132461, 235265,   7303,
+            603,    671,   1015,    553, 235265,  67725, 235292,   7303,    603,
+            671, 132461,   1015,    553, 235265,    108, 235280, 235292,   7303,
+            603,    671,   1015,    553, 235265,   7303,    603, 132461, 235265,
+           7303,    603,    671, 132461,   1015,    553, 235265,    109, 235368,
+         235292,    139,  12323,    603,    476,    552,   2109,    553, 235265,
+           7303,    603,   5342, 235265,  67725, 235292,   7303,    603,    476,
+           5342,    552,   2109,    553, 235265,    108, 235280, 235292,   7303,
+            603,    476,    552,   2109,    553, 235265,   7303,    603,   5342,
+         235265,   7303,    603,    476,   5342,    552,   2109,    553, 235265,
+            109, 235368, 235292,    139,  56392,    603,    476, 222689,    553,
+         235265,  44461,    603,   8426, 235265,  67725, 235292,  44461,    603,
+            476,   8426, 222689,    553, 235265,    108, 235280, 235292,  44461,
+            603,    476, 222689,    553, 235265,  44461,    603,   8426, 235265,
+          44461,    603,    476,   8426, 222689,    553, 235265,    109, 235368,
+         235292,    139, 183715,    603,    476,    597,   2109,    553, 235265,
+          89038,    603,  71857, 235265,  67725, 235292,  89038,    603,    671,
+          71857,    597,   2109,    553, 235265,    108, 235280, 235292,  89038,
+            603,    476,    597,   2109,    553, 235265,  89038,    603,  71857,
+         235265,  89038,    603,    671,  71857,    597,   2109,    553, 235265,
+            110,    688,  32729,  66058,    109,   8652,    708,   3890,   2345,
+         174826,  10430,  56786,    476,   6859,   1736,    576,  25087,   2759,
+          32346, 235265, 235248,    109, 235287,   5231, 216451, 235248, 235274,
+          66058,    139,  31058,    476,   2252,   1105,   7303,    591,    483,
+          44461, 235269,  89038,    846,    108, 235287,   5231, 216451, 235248,
+         235284,  66058,   3858,   2550,   2252,   1105,   7303,    591,    483,
+          44461, 235269,  89038,    846,    108, 235287,   5231,   6580,  66058,
+            139, 154005,    915,    476,    888,   2252,   3482,    611,    573,
+           1378,  26576, 235265,    109,  12496,    573,  26576,    708,  15815,
+            577,    614,   1382, 235269,    573,  13856,  89968,   6397, 235265,
+         235248,    110,   5331,    682,   1230,   1013,    692, 235303, 235258,
+           1154,    577,   3418,   1009,    978,   5766,   8944, 235341,    107,
+            108,      1]], device='cuda:0')
+Output tokens: 
+['<bos>', 'Q', ':', '▁▁', 'Alex', '▁is', '▁earthy', '.', '▁Alex', '▁is', '▁an', '▁imp', 'us', '.', '▁Prove', ':', '▁Alex', '▁is', '▁an', '▁earthy', '▁imp', 'us', '.', '\n', 'A', ':', '▁Alex', '▁is', '▁an', '▁imp', 'us', '.', '▁Alex', '▁is', '▁earthy', '.', '▁Alex', '▁is', '▁an', '▁earthy', '▁imp', 'us', '.', '\n\n', 'Q', ':', '▁▁', 'Alex', '▁is', '▁a', '▁n', 'ump', 'us', '.', '▁Alex', '▁is', '▁hot', '.', '▁Prove', ':', '▁Alex', '▁is', '▁a', '▁hot', '▁n', 'ump', 'us', '.', '\n', 'A', ':', '▁Alex', '▁is', '▁a', '▁n', 'ump', 'us', '.', '▁Alex', '▁is', '▁hot', '.', '▁Alex', '▁is', '▁a', '▁hot', '▁n', 'ump', 'us', '.', '\n\n', 'Q', ':', '▁▁', 'Rex', '▁is', '▁a', '▁lemp', 'us', '.', '▁Rex', '▁is', '▁brown', '.', '▁Prove', ':', '▁Rex', '▁is', '▁a', '▁brown', '▁lemp', 'us', '.', '\n', 'A', ':', '▁Rex', '▁is', '▁a', '▁lemp', 'us', '.', '▁Rex', '▁is', '▁brown', '.', '▁Rex', '▁is', '▁a', '▁brown', '▁lemp', 'us', '.', '\n\n', 'Q', ':', '▁▁', 'Polly', '▁is', '▁a', '▁y', 'ump', 'us', '.', '▁Polly', '▁is', '▁opaque', '.', '▁Prove', ':', '▁Polly', '▁is', '▁an', '▁opaque', '▁y', 'ump', 'us', '.', '\n', 'A', ':', '▁Polly', '▁is', '▁a', '▁y', 'ump', 'us', '.', '▁Polly', '▁is', '▁opaque', '.', '▁Polly', '▁is', '▁an', '▁opaque', '▁y', 'ump', 'us', '.', '\n\n\n', '**', 'Explanation', ':**', '\n\n', 'These', '▁are', '▁simple', '▁sy', 'llog', 'isms', '▁demonstrating', '▁a', '▁basic', '▁form', '▁of', '▁dedu', 'ctive', '▁reasoning', '.', '▁', '\n\n', '*', '▁**', 'Premise', '▁', '1', ':**', '▁▁', 'States', '▁a', '▁fact', '▁about', '▁Alex', '▁(', 'or', '▁Rex', ',', '▁Polly', ').', '\n', '*', '▁**', 'Premise', '▁', '2', ':**', '▁States', '▁another', '▁fact', '▁about', '▁Alex', '▁(', 'or', '▁Rex', ',', '▁Polly', ').', '\n', '*', '▁**', 'Conclusion', ':**', '▁▁', 'Dedu', 'ces', '▁a', '▁new', '▁fact', '▁based', '▁on', '▁the', '▁two', '▁premises', '.', '\n\n', 'Since', '▁the', '▁premises', '▁are', '▁assumed', '▁to', '▁be', '▁true', ',', '▁the', '▁conclusion', '▁logically', '▁follows', '.', '▁', '\n\n\n', 'Let', '▁me', '▁know', '▁if', '▁you', "'", 'd', '▁like', '▁to', '▁try', '▁some', '▁more', '▁complex', '▁examples', '!', '<end_of_turn>', '\n', '<eos>']
+
+Predicted answer: Polly is a yumpus. Polly is opaque. Polly is an opaque yumpus.
+
+
+**Explanation:**
+
+These are simple syllogisms demonstrating a basic form of deductive reasoning. 
+
+* **Premise 1:**  States a fact about Alex (or Rex, Polly).
+* **Premise 2:** States another fact about Alex (or Rex, Polly).
+* **Conclusion:**  Deduces a new fact based on the two premises.
+
+Since the premises are assumed to be true, the conclusion logically follows. 
+
+
+Let me know if you'd like to try some more complex examples!<end_of_turn>
+<eos>
+
+Expected answer: Polly is a yumpus. Polly is opaque. Polly is an opaque yumpus.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+
+Model name: google/gemma-2-9b-it
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:10<00:32, 10.76s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:20<00:20, 10.15s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:31<00:10, 10.71s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:41<00:00, 10.35s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:41<00:00, 10.41s/it]
+WARNING: Could not extend ontology due to insufficient property families.
+Q:  Max is a hot impus. Prove: Max is an impus.
+A: Max is a hot impus. Max is an impus.
+
+Q:  Fae is a large tumpus. Prove: Fae is a tumpus.
+A: Fae is a large tumpus. Fae is a tumpus.
+
+Q:  Fae is a windy wumpus. Prove: Fae is a wumpus.
+A: Fae is a windy wumpus. Fae is a wumpus.
+
+Q:  Wren is a spicy tumpus. Prove: Wren is a tumpus.
+A:
+
+Context length:146
+
+
+
+
+-----LLM output start-----
+
+<bos>Q:  Max is a hot impus. Prove: Max is an impus.
+A: Max is a hot impus. Max is an impus.
+
+Q:  Fae is a large tumpus. Prove: Fae is a tumpus.
+A: Fae is a large tumpus. Fae is a tumpus.
+
+Q:  Fae is a windy wumpus. Prove: Fae is a wumpus.
+A: Fae is a windy wumpus. Fae is a wumpus.
+
+Q:  Wren is a spicy tumpus. Prove: Wren is a tumpus.
+A: Wren is a spicy tumpus. Wren is a tumpus.
+
+**Explanation:**
+
+These examples demonstrate a basic logical principle:
+
+* **If a statement includes a term followed by a descriptor, the term itself is true.**
+
+In each case, the statement asserts that the subject (Max, Fae, Wren) is a combination of a term and a descriptor.  The descriptor doesn't change the fact that the subject is the term. 
+
+
+Let me know if you'd like to explore more complex logical examples!<end_of_turn>
+<eos>
+
+-----LLM output end-----
+
+
+Outputs: 
+tensor([[     2, 235368, 235292,    139,   5524,    603,    476,   5342,   1015,
+            553, 235265,  67725, 235292,   7278,    603,    671,   1015,    553,
+         235265,    108, 235280, 235292,   7278,    603,    476,   5342,   1015,
+            553, 235265,   7278,    603,    671,   1015,    553, 235265,    109,
+         235368, 235292,    139, 235311,   7299,    603,    476,   2910,    474,
+           2109,    553, 235265,  67725, 235292,    633,   7299,    603,    476,
+            474,   2109,    553, 235265,    108, 235280, 235292,    633,   7299,
+            603,    476,   2910,    474,   2109,    553, 235265,    633,   7299,
+            603,    476,    474,   2109,    553, 235265,    109, 235368, 235292,
+            139, 235311,   7299,    603,    476,  88296,    513,   2109,    553,
+         235265,  67725, 235292,    633,   7299,    603,    476,    513,   2109,
+            553, 235265,    108, 235280, 235292,    633,   7299,    603,    476,
+          88296,    513,   2109,    553, 235265,    633,   7299,    603,    476,
+            513,   2109,    553, 235265,    109, 235368, 235292,    139, 235325,
+           1135,    603,    476,  44669,    474,   2109,    553, 235265,  67725,
+         235292, 122510,    603,    476,    474,   2109,    553, 235265,    108,
+         235280, 235292, 122510,    603,    476,  44669,    474,   2109,    553,
+         235265, 122510,    603,    476,    474,   2109,    553, 235265,    109,
+            688,  32729,  66058,    109,   8652,   8944,  22101,    476,   6859,
+          24742,  12854, 235292,    109, 235287,   5231,   2495,    476,   6218,
+           6566,    476,   5168,   7599,    731,    476,  54545, 235269,    573,
+           5168,   5344,    603,   1382, 116742,    109,    886,   1853,   2270,
+         235269,    573,   6218,  77071,    674,    573,   5091,    591,   5524,
+         235269,    633,   7299, 235269, 122510, 235275,    603,    476,  11137,
+            576,    476,   5168,    578,    476,  54545, 235265,    139,    651,
+          54545,   4098, 235303, 235251,   2669,    573,   2252,    674,    573,
+           5091,    603,    573,   5168, 235265, 235248,    110,   5331,    682,
+           1230,   1013,    692, 235303, 235258,   1154,    577,  15370,    978,
+           5766,  24742,   8944, 235341,    107,    108,      1]],
+       device='cuda:0')
+Output tokens: 
+['<bos>', 'Q', ':', '▁▁', 'Max', '▁is', '▁a', '▁hot', '▁imp', 'us', '.', '▁Prove', ':', '▁Max', '▁is', '▁an', '▁imp', 'us', '.', '\n', 'A', ':', '▁Max', '▁is', '▁a', '▁hot', '▁imp', 'us', '.', '▁Max', '▁is', '▁an', '▁imp', 'us', '.', '\n\n', 'Q', ':', '▁▁', 'F', 'ae', '▁is', '▁a', '▁large', '▁t', 'ump', 'us', '.', '▁Prove', ':', '▁F', 'ae', '▁is', '▁a', '▁t', 'ump', 'us', '.', '\n', 'A', ':', '▁F', 'ae', '▁is', '▁a', '▁large', '▁t', 'ump', 'us', '.', '▁F', 'ae', '▁is', '▁a', '▁t', 'ump', 'us', '.', '\n\n', 'Q', ':', '▁▁', 'F', 'ae', '▁is', '▁a', '▁windy', '▁w', 'ump', 'us', '.', '▁Prove', ':', '▁F', 'ae', '▁is', '▁a', '▁w', 'ump', 'us', '.', '\n', 'A', ':', '▁F', 'ae', '▁is', '▁a', '▁windy', '▁w', 'ump', 'us', '.', '▁F', 'ae', '▁is', '▁a', '▁w', 'ump', 'us', '.', '\n\n', 'Q', ':', '▁▁', 'W', 'ren', '▁is', '▁a', '▁spicy', '▁t', 'ump', 'us', '.', '▁Prove', ':', '▁Wren', '▁is', '▁a', '▁t', 'ump', 'us', '.', '\n', 'A', ':', '▁Wren', '▁is', '▁a', '▁spicy', '▁t', 'ump', 'us', '.', '▁Wren', '▁is', '▁a', '▁t', 'ump', 'us', '.', '\n\n', '**', 'Explanation', ':**', '\n\n', 'These', '▁examples', '▁demonstrate', '▁a', '▁basic', '▁logical', '▁principle', ':', '\n\n', '*', '▁**', 'If', '▁a', '▁statement', '▁includes', '▁a', '▁term', '▁followed', '▁by', '▁a', '▁descriptor', ',', '▁the', '▁term', '▁itself', '▁is', '▁true', '.**', '\n\n', 'In', '▁each', '▁case', ',', '▁the', '▁statement', '▁asserts', '▁that', '▁the', '▁subject', '▁(', 'Max', ',', '▁F', 'ae', ',', '▁Wren', ')', '▁is', '▁a', '▁combination', '▁of', '▁a', '▁term', '▁and', '▁a', '▁descriptor', '.', '▁▁', 'The', '▁descriptor', '▁doesn', "'", 't', '▁change', '▁the', '▁fact', '▁that', '▁the', '▁subject', '▁is', '▁the', '▁term', '.', '▁', '\n\n\n', 'Let', '▁me', '▁know', '▁if', '▁you', "'", 'd', '▁like', '▁to', '▁explore', '▁more', '▁complex', '▁logical', '▁examples', '!', '<end_of_turn>', '\n', '<eos>']
+
+Predicted answer: Wren is a spicy tumpus. Wren is a tumpus.
+
+**Explanation:**
+
+These examples demonstrate a basic logical principle:
+
+* **If a statement includes a term followed by a descriptor, the term itself is true.**
+
+In each case, the statement asserts that the subject (Max, Fae, Wren) is a combination of a term and a descriptor.  The descriptor doesn't change the fact that the subject is the term. 
+
+
+Let me know if you'd like to explore more complex logical examples!<end_of_turn>
+<eos>
+
+Expected answer: Wren is a spicy tumpus. Wren is a tumpus.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+
+Model name: google/gemma-2-9b-it
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:10<00:31, 10.59s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:20<00:20, 10.08s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:31<00:10, 10.78s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:41<00:00, 10.26s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:41<00:00, 10.35s/it]
+Q:  Alex is an impus. Prove: Alex is earthy or an impus.
+A: Alex is an impus. Alex is earthy or an impus.
+
+Q:  Alex is a numpus. Prove: Alex is floral or a numpus.
+A: Alex is a numpus. Alex is floral or a numpus.
+
+Q:  Rex is a lempus. Prove: Rex is brown or a lempus.
+A: Rex is a lempus. Rex is brown or a lempus.
+
+Q:  Fae is a wumpus. Prove: Fae is opaque or a wumpus.
+A:
+
+Context length:142
+
+
+
+
+-----LLM output start-----
+
+<bos>Q:  Alex is an impus. Prove: Alex is earthy or an impus.
+A: Alex is an impus. Alex is earthy or an impus.
+
+Q:  Alex is a numpus. Prove: Alex is floral or a numpus.
+A: Alex is a numpus. Alex is floral or a numpus.
+
+Q:  Rex is a lempus. Prove: Rex is brown or a lempus.
+A: Rex is a lempus. Rex is brown or a lempus.
+
+Q:  Fae is a wumpus. Prove: Fae is opaque or a wumpus.
+A: Fae is a wumpus. Fae is opaque or a wumpus.
+
+**Explanation:**
+
+These are examples of tautologies. A tautology is a statement that is always true, regardless of the truth values of its components. 
+
+In each case, the statement is structured as:
+
+* **Subject is a category.** (e.g., Alex is a numpus)
+* **Therefore, Subject is either a characteristic or the category.** (e.g., Alex is floral or a numpus)
+
+Since the subject is already defined as belonging to the category, the statement is always true. It doesn't matter if the characteristic is true or false; the overall statement holds. 
+
+
+Let me know if you'd like to explore more examples or different types of logical statements!<end_of_turn>
+<eos>
+
+-----LLM output end-----
+
+
+Outputs: 
+tensor([[     2, 235368, 235292,    139,  12323,    603,    671,   1015,    553,
+         235265,  67725, 235292,   7303,    603, 132461,    689,    671,   1015,
+            553, 235265,    108, 235280, 235292,   7303,    603,    671,   1015,
+            553, 235265,   7303,    603, 132461,    689,    671,   1015,    553,
+         235265,    109, 235368, 235292,    139,  12323,    603,    476,    552,
+           2109,    553, 235265,  67725, 235292,   7303,    603,  17097,    689,
+            476,    552,   2109,    553, 235265,    108, 235280, 235292,   7303,
+            603,    476,    552,   2109,    553, 235265,   7303,    603,  17097,
+            689,    476,    552,   2109,    553, 235265,    109, 235368, 235292,
+            139,  56392,    603,    476, 222689,    553, 235265,  67725, 235292,
+          44461,    603,   8426,    689,    476, 222689,    553, 235265,    108,
+         235280, 235292,  44461,    603,    476, 222689,    553, 235265,  44461,
+            603,   8426,    689,    476, 222689,    553, 235265,    109, 235368,
+         235292,    139, 235311,   7299,    603,    476,    513,   2109,    553,
+         235265,  67725, 235292,    633,   7299,    603,  71857,    689,    476,
+            513,   2109,    553, 235265,    108, 235280, 235292,    633,   7299,
+            603,    476,    513,   2109,    553, 235265,    633,   7299,    603,
+          71857,    689,    476,    513,   2109,    553, 235265,    109,    688,
+          32729,  66058,    109,   8652,    708,   8944,    576, 210804,  46762,
+         235265,    586, 210804,   1955,    603,    476,   6218,    674,    603,
+           2593,   1382, 235269,  20853,    576,    573,   7873,   4035,    576,
+           1277,   8832, 235265, 235248,    109,    886,   1853,   2270, 235269,
+            573,   6218,    603,  40856,    685, 235292,    109, 235287,   5231,
+          16369,    603,    476,   9701, 116742,    591, 235249, 235265, 235264,
+           1173,   7303,    603,    476,    552,   2109,    553, 235275,    108,
+         235287,   5231,  24160, 235269,  28437,    603,   3906,    476,  17930,
+            689,    573,   9701, 116742,    591, 235249, 235265, 235264,   1173,
+           7303,    603,  17097,    689,    476,    552,   2109,    553, 235275,
+            109,  12496,    573,   5091,    603,   3303,   6908,    685,  27317,
+            577,    573,   9701, 235269,    573,   6218,    603,   2593,   1382,
+         235265,   1165,   4098, 235303, 235251,   4391,   1013,    573,  17930,
+            603,   1382,    689,   1566, 235289,    573,   8691,   6218,  12723,
+         235265, 235248,    110,   5331,    682,   1230,   1013,    692, 235303,
+         235258,   1154,    577,  15370,    978,   8944,    689,   2167,   5088,
+            576,  24742,  13620, 235341,    107,    108,      1]],
+       device='cuda:0')
+Output tokens: 
+['<bos>', 'Q', ':', '▁▁', 'Alex', '▁is', '▁an', '▁imp', 'us', '.', '▁Prove', ':', '▁Alex', '▁is', '▁earthy', '▁or', '▁an', '▁imp', 'us', '.', '\n', 'A', ':', '▁Alex', '▁is', '▁an', '▁imp', 'us', '.', '▁Alex', '▁is', '▁earthy', '▁or', '▁an', '▁imp', 'us', '.', '\n\n', 'Q', ':', '▁▁', 'Alex', '▁is', '▁a', '▁n', 'ump', 'us', '.', '▁Prove', ':', '▁Alex', '▁is', '▁floral', '▁or', '▁a', '▁n', 'ump', 'us', '.', '\n', 'A', ':', '▁Alex', '▁is', '▁a', '▁n', 'ump', 'us', '.', '▁Alex', '▁is', '▁floral', '▁or', '▁a', '▁n', 'ump', 'us', '.', '\n\n', 'Q', ':', '▁▁', 'Rex', '▁is', '▁a', '▁lemp', 'us', '.', '▁Prove', ':', '▁Rex', '▁is', '▁brown', '▁or', '▁a', '▁lemp', 'us', '.', '\n', 'A', ':', '▁Rex', '▁is', '▁a', '▁lemp', 'us', '.', '▁Rex', '▁is', '▁brown', '▁or', '▁a', '▁lemp', 'us', '.', '\n\n', 'Q', ':', '▁▁', 'F', 'ae', '▁is', '▁a', '▁w', 'ump', 'us', '.', '▁Prove', ':', '▁F', 'ae', '▁is', '▁opaque', '▁or', '▁a', '▁w', 'ump', 'us', '.', '\n', 'A', ':', '▁F', 'ae', '▁is', '▁a', '▁w', 'ump', 'us', '.', '▁F', 'ae', '▁is', '▁opaque', '▁or', '▁a', '▁w', 'ump', 'us', '.', '\n\n', '**', 'Explanation', ':**', '\n\n', 'These', '▁are', '▁examples', '▁of', '▁tauto', 'logies', '.', '▁A', '▁tauto', 'logy', '▁is', '▁a', '▁statement', '▁that', '▁is', '▁always', '▁true', ',', '▁regardless', '▁of', '▁the', '▁truth', '▁values', '▁of', '▁its', '▁components', '.', '▁', '\n\n', 'In', '▁each', '▁case', ',', '▁the', '▁statement', '▁is', '▁structured', '▁as', ':', '\n\n', '*', '▁**', 'Subject', '▁is', '▁a', '▁category', '.**', '▁(', 'e', '.', 'g', '.,', '▁Alex', '▁is', '▁a', '▁n', 'ump', 'us', ')', '\n', '*', '▁**', 'Therefore', ',', '▁Subject', '▁is', '▁either', '▁a', '▁characteristic', '▁or', '▁the', '▁category', '.**', '▁(', 'e', '.', 'g', '.,', '▁Alex', '▁is', '▁floral', '▁or', '▁a', '▁n', 'ump', 'us', ')', '\n\n', 'Since', '▁the', '▁subject', '▁is', '▁already', '▁defined', '▁as', '▁belonging', '▁to', '▁the', '▁category', ',', '▁the', '▁statement', '▁is', '▁always', '▁true', '.', '▁It', '▁doesn', "'", 't', '▁matter', '▁if', '▁the', '▁characteristic', '▁is', '▁true', '▁or', '▁false', ';', '▁the', '▁overall', '▁statement', '▁holds', '.', '▁', '\n\n\n', 'Let', '▁me', '▁know', '▁if', '▁you', "'", 'd', '▁like', '▁to', '▁explore', '▁more', '▁examples', '▁or', '▁different', '▁types', '▁of', '▁logical', '▁statements', '!', '<end_of_turn>', '\n', '<eos>']
+
+Predicted answer: Fae is a wumpus. Fae is opaque or a wumpus.
+
+**Explanation:**
+
+These are examples of tautologies. A tautology is a statement that is always true, regardless of the truth values of its components. 
+
+In each case, the statement is structured as:
+
+* **Subject is a category.** (e.g., Alex is a numpus)
+* **Therefore, Subject is either a characteristic or the category.** (e.g., Alex is floral or a numpus)
+
+Since the subject is already defined as belonging to the category, the statement is always true. It doesn't matter if the characteristic is true or false; the overall statement holds. 
+
+
+Let me know if you'd like to explore more examples or different types of logical statements!<end_of_turn>
+<eos>
+
+Expected answer: Fae is a wumpus. Fae is opaque or a wumpus.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+
+Model name: google/gemma-2-9b-it
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:11<00:33, 11.33s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:20<00:20, 10.12s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:31<00:10, 10.44s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:41<00:00, 10.15s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:41<00:00, 10.28s/it]
+Q: Lempuses are jompuses. Grimpuses are jompuses. Alex is a lempus or a grimpus. Prove: Alex is a jompus.
+
+A: Assume Alex is a lempus. Lempuses are jompuses. Alex is a jompus.
+
+ Assume Alex is a grimpus. Grimpuses are jompuses. Alex is a jompus.
+
+ Since Alex is a lempus or a grimpus, Alex is a jompus.
+
+
+Q: Every sterpus is a gorpus. Lempuses are gorpuses. Sally is a sterpus or a lempus. Prove: Sally is a gorpus.
+
+A: Assume Sally is a sterpus. Every sterpus is a gorpus. Sally is a gorpus.
+
+ Assume Sally is a lempus. Lempuses are gorpuses. Sally is a gorpus.
+
+ Since Sally is a sterpus or a lempus, Sally is a gorpus.
+
+
+Q: Shumpuses are jompuses. Rompuses are jompuses. Sally is a shumpus or a rompus. Prove: Sally is a jompus.
+
+A: Assume Sally is a shumpus. Shumpuses are jompuses. Sally is a jompus.
+
+ Assume Sally is a rompus. Rompuses are jompuses. Sally is a jompus.
+
+ Since Sally is a shumpus or a rompus, Sally is a jompus.
+
+
+Q: Jompuses are yumpuses. Each impus is a yumpus. Max is a jompus or an impus. Prove: Max is a yumpus.
+
+A:
+
+Context length:360
+
+
+
+
+-----LLM output start-----
+
+<bos>Q: Lempuses are jompuses. Grimpuses are jompuses. Alex is a lempus or a grimpus. Prove: Alex is a jompus.
+
+A: Assume Alex is a lempus. Lempuses are jompuses. Alex is a jompus.
+
+ Assume Alex is a grimpus. Grimpuses are jompuses. Alex is a jompus.
+
+ Since Alex is a lempus or a grimpus, Alex is a jompus.
+
+
+Q: Every sterpus is a gorpus. Lempuses are gorpuses. Sally is a sterpus or a lempus. Prove: Sally is a gorpus.
+
+A: Assume Sally is a sterpus. Every sterpus is a gorpus. Sally is a gorpus.
+
+ Assume Sally is a lempus. Lempuses are gorpuses. Sally is a gorpus.
+
+ Since Sally is a sterpus or a lempus, Sally is a gorpus.
+
+
+Q: Shumpuses are jompuses. Rompuses are jompuses. Sally is a shumpus or a rompus. Prove: Sally is a jompus.
+
+A: Assume Sally is a shumpus. Shumpuses are jompuses. Sally is a jompus.
+
+ Assume Sally is a rompus. Rompuses are jompuses. Sally is a jompus.
+
+ Since Sally is a shumpus or a rompus, Sally is a jompus.
+
+
+Q: Jompuses are yumpuses. Each impus is a yumpus. Max is a jompus or an impus. Prove: Max is a yumpus.
+
+A: Assume Max is a jompus. Jompuses are yumpuses. Max is a yumpus.
+
+ Assume Max is an impus. Each impus is a yumpus. Max is a yumpus.
+
+ Since Max is a jompus or an impus, Max is a yumpus.
+
+
+<end_of_turn><eos>
+
+-----LLM output end-----
+
+
+Outputs: 
+tensor([[     2, 235368, 235292,    629,   2643,   4453,    708,    678,  39029,
+           4453, 235265,  11517,    701,   4453,    708,    678,  39029,   4453,
+         235265,   7303,    603,    476, 222689,    553,    689,    476,   8704,
+            701,    553, 235265,  67725, 235292,   7303,    603,    476,    678,
+            537,  13591, 235265,    109, 235280, 235292,  59795,   7303,    603,
+            476, 222689,    553, 235265,    629,   2643,   4453,    708,    678,
+          39029,   4453, 235265,   7303,    603,    476,    678,    537,  13591,
+         235265,    109,  59795,   7303,    603,    476,   8704,    701,    553,
+         235265,  11517,    701,   4453,    708,    678,  39029,   4453, 235265,
+           7303,    603,    476,    678,    537,  13591, 235265,    109,   8533,
+           7303,    603,    476, 222689,    553,    689,    476,   8704,    701,
+            553, 235269,   7303,    603,    476,    678,    537,  13591, 235265,
+            110, 235368, 235292,   7205,   9796,  13591,    603,    476,  28459,
+          13591, 235265,    629,   2643,   4453,    708,  28459, 235263,   4453,
+         235265,  47239,    603,    476,   9796,  13591,    689,    476, 222689,
+            553, 235265,  67725, 235292,  47239,    603,    476,  28459,  13591,
+         235265,    109, 235280, 235292,  59795,  47239,    603,    476,   9796,
+          13591, 235265,   7205,   9796,  13591,    603,    476,  28459,  13591,
+         235265,  47239,    603,    476,  28459,  13591, 235265,    109,  59795,
+          47239,    603,    476, 222689,    553, 235265,    629,   2643,   4453,
+            708,  28459, 235263,   4453, 235265,  47239,    603,    476,  28459,
+          13591, 235265,    109,   8533,  47239,    603,    476,   9796,  13591,
+            689,    476, 222689,    553, 235269,  47239,    603,    476,  28459,
+          13591, 235265,    110, 235368, 235292,   2555,   2109,   4453,    708,
+            678,  39029,   4453, 235265,  10766, 235263,   4453,    708,    678,
+          39029,   4453, 235265,  47239,    603,    476,    943,   2109,    553,
+            689,    476,   6889,  13591, 235265,  67725, 235292,  47239,    603,
+            476,    678,    537,  13591, 235265,    109, 235280, 235292,  59795,
+          47239,    603,    476,    943,   2109,    553, 235265,   2555,   2109,
+           4453,    708,    678,  39029,   4453, 235265,  47239,    603,    476,
+            678,    537,  13591, 235265,    109,  59795,  47239,    603,    476,
+           6889,  13591, 235265,  10766, 235263,   4453,    708,    678,  39029,
+           4453, 235265,  47239,    603,    476,    678,    537,  13591, 235265,
+            109,   8533,  47239,    603,    476,    943,   2109,    553,    689,
+            476,   6889,  13591, 235269,  47239,    603,    476,    678,    537,
+          13591, 235265,    110, 235368, 235292,    713,  39029,   4453,    708,
+            597,   2109,   4453, 235265,   9573,   1015,    553,    603,    476,
+            597,   2109,    553, 235265,   7278,    603,    476,    678,    537,
+          13591,    689,    671,   1015,    553, 235265,  67725, 235292,   7278,
+            603,    476,    597,   2109,    553, 235265,    109, 235280, 235292,
+          59795,   7278,    603,    476,    678,    537,  13591, 235265,    713,
+          39029,   4453,    708,    597,   2109,   4453, 235265,   7278,    603,
+            476,    597,   2109,    553, 235265,    109,  59795,   7278,    603,
+            671,   1015,    553, 235265,   9573,   1015,    553,    603,    476,
+            597,   2109,    553, 235265,   7278,    603,    476,    597,   2109,
+            553, 235265,    109,   8533,   7278,    603,    476,    678,    537,
+          13591,    689,    671,   1015,    553, 235269,   7278,    603,    476,
+            597,   2109,    553, 235265,    110,    107,      1]],
+       device='cuda:0')
+Output tokens: 
+['<bos>', 'Q', ':', '▁L', 'emp', 'uses', '▁are', '▁j', 'omp', 'uses', '.', '▁Gri', 'mp', 'uses', '▁are', '▁j', 'omp', 'uses', '.', '▁Alex', '▁is', '▁a', '▁lemp', 'us', '▁or', '▁a', '▁gri', 'mp', 'us', '.', '▁Prove', ':', '▁Alex', '▁is', '▁a', '▁j', 'om', 'pus', '.', '\n\n', 'A', ':', '▁Assume', '▁Alex', '▁is', '▁a', '▁lemp', 'us', '.', '▁L', 'emp', 'uses', '▁are', '▁j', 'omp', 'uses', '.', '▁Alex', '▁is', '▁a', '▁j', 'om', 'pus', '.', '\n\n', '▁Assume', '▁Alex', '▁is', '▁a', '▁gri', 'mp', 'us', '.', '▁Gri', 'mp', 'uses', '▁are', '▁j', 'omp', 'uses', '.', '▁Alex', '▁is', '▁a', '▁j', 'om', 'pus', '.', '\n\n', '▁Since', '▁Alex', '▁is', '▁a', '▁lemp', 'us', '▁or', '▁a', '▁gri', 'mp', 'us', ',', '▁Alex', '▁is', '▁a', '▁j', 'om', 'pus', '.', '\n\n\n', 'Q', ':', '▁Every', '▁ster', 'pus', '▁is', '▁a', '▁gor', 'pus', '.', '▁L', 'emp', 'uses', '▁are', '▁gor', 'p', 'uses', '.', '▁Sally', '▁is', '▁a', '▁ster', 'pus', '▁or', '▁a', '▁lemp', 'us', '.', '▁Prove', ':', '▁Sally', '▁is', '▁a', '▁gor', 'pus', '.', '\n\n', 'A', ':', '▁Assume', '▁Sally', '▁is', '▁a', '▁ster', 'pus', '.', '▁Every', '▁ster', 'pus', '▁is', '▁a', '▁gor', 'pus', '.', '▁Sally', '▁is', '▁a', '▁gor', 'pus', '.', '\n\n', '▁Assume', '▁Sally', '▁is', '▁a', '▁lemp', 'us', '.', '▁L', 'emp', 'uses', '▁are', '▁gor', 'p', 'uses', '.', '▁Sally', '▁is', '▁a', '▁gor', 'pus', '.', '\n\n', '▁Since', '▁Sally', '▁is', '▁a', '▁ster', 'pus', '▁or', '▁a', '▁lemp', 'us', ',', '▁Sally', '▁is', '▁a', '▁gor', 'pus', '.', '\n\n\n', 'Q', ':', '▁Sh', 'ump', 'uses', '▁are', '▁j', 'omp', 'uses', '.', '▁Rom', 'p', 'uses', '▁are', '▁j', 'omp', 'uses', '.', '▁Sally', '▁is', '▁a', '▁sh', 'ump', 'us', '▁or', '▁a', '▁rom', 'pus', '.', '▁Prove', ':', '▁Sally', '▁is', '▁a', '▁j', 'om', 'pus', '.', '\n\n', 'A', ':', '▁Assume', '▁Sally', '▁is', '▁a', '▁sh', 'ump', 'us', '.', '▁Sh', 'ump', 'uses', '▁are', '▁j', 'omp', 'uses', '.', '▁Sally', '▁is', '▁a', '▁j', 'om', 'pus', '.', '\n\n', '▁Assume', '▁Sally', '▁is', '▁a', '▁rom', 'pus', '.', '▁Rom', 'p', 'uses', '▁are', '▁j', 'omp', 'uses', '.', '▁Sally', '▁is', '▁a', '▁j', 'om', 'pus', '.', '\n\n', '▁Since', '▁Sally', '▁is', '▁a', '▁sh', 'ump', 'us', '▁or', '▁a', '▁rom', 'pus', ',', '▁Sally', '▁is', '▁a', '▁j', 'om', 'pus', '.', '\n\n\n', 'Q', ':', '▁J', 'omp', 'uses', '▁are', '▁y', 'ump', 'uses', '.', '▁Each', '▁imp', 'us', '▁is', '▁a', '▁y', 'ump', 'us', '.', '▁Max', '▁is', '▁a', '▁j', 'om', 'pus', '▁or', '▁an', '▁imp', 'us', '.', '▁Prove', ':', '▁Max', '▁is', '▁a', '▁y', 'ump', 'us', '.', '\n\n', 'A', ':', '▁Assume', '▁Max', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁J', 'omp', 'uses', '▁are', '▁y', 'ump', 'uses', '.', '▁Max', '▁is', '▁a', '▁y', 'ump', 'us', '.', '\n\n', '▁Assume', '▁Max', '▁is', '▁an', '▁imp', 'us', '.', '▁Each', '▁imp', 'us', '▁is', '▁a', '▁y', 'ump', 'us', '.', '▁Max', '▁is', '▁a', '▁y', 'ump', 'us', '.', '\n\n', '▁Since', '▁Max', '▁is', '▁a', '▁j', 'om', 'pus', '▁or', '▁an', '▁imp', 'us', ',', '▁Max', '▁is', '▁a', '▁y', 'ump', 'us', '.', '\n\n\n', '<end_of_turn>', '<eos>']
+
+Predicted answer: Assume Max is a jompus. Jompuses are yumpuses. Max is a yumpus.
+
+ Assume Max is an impus. Each impus is a yumpus. Max is a yumpus.
+
+ Since Max is a jompus or an impus, Max is a yumpus.
+
+
+<end_of_turn><eos>
+
+Expected answer: Assume Max is a jompus. Jompuses are yumpuses. Max is a yumpus.
+
+ Assume Max is an impus. Each impus is a yumpus. Max is a yumpus.
+
+ Since Max is a jompus or an impus, Max is a yumpus.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+
+Model name: google/gemma-2-9b-it
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:10<00:32, 10.70s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:19<00:19,  9.85s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:30<00:10, 10.27s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:40<00:00, 10.00s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:40<00:00, 10.08s/it]
+Q: Everything that is a lempus or a grimpus is a jompus. Alex is not a jompus. Prove: Alex is not a grimpus and Alex is not a lempus.
+
+A: Assume Alex is a grimpus. Alex is a lempus or a grimpus. Everything that is a lempus or a grimpus is a jompus. Alex is a jompus. This contradicts with Alex is not a jompus. Alex is not a grimpus.
+
+ Assume Alex is a lempus. Alex is a lempus or a grimpus. Everything that is a lempus or a grimpus is a jompus. Alex is a jompus. This contradicts with Alex is not a jompus. Alex is not a lempus.
+
+ Alex is not a grimpus and Alex is not a lempus.
+
+
+Q: Everything that is a sterpus or a lempus is a gorpus. Sally is not a gorpus. Prove: Sally is not a lempus and Sally is not a sterpus.
+
+A: Assume Sally is a lempus. Sally is a sterpus or a lempus. Everything that is a sterpus or a lempus is a gorpus. Sally is a gorpus. This contradicts with Sally is not a gorpus. Sally is not a lempus.
+
+ Assume Sally is a sterpus. Sally is a sterpus or a lempus. Everything that is a sterpus or a lempus is a gorpus. Sally is a gorpus. This contradicts with Sally is not a gorpus. Sally is not a sterpus.
+
+ Sally is not a lempus and Sally is not a sterpus.
+
+
+Q: Everything that is a shumpus or a rompus is a jompus. Sally is not a jompus. Prove: Sally is not a rompus and Sally is not a shumpus.
+
+A: Assume Sally is a rompus. Sally is a shumpus or a rompus. Everything that is a shumpus or a rompus is a jompus. Sally is a jompus. This contradicts with Sally is not a jompus. Sally is not a rompus.
+
+ Assume Sally is a shumpus. Sally is a shumpus or a rompus. Everything that is a shumpus or a rompus is a jompus. Sally is a jompus. This contradicts with Sally is not a jompus. Sally is not a shumpus.
+
+ Sally is not a rompus and Sally is not a shumpus.
+
+
+Q: Everything that is a jompus or an impus is a yumpus. Max is not a yumpus. Prove: Max is not an impus and Max is not a jompus.
+
+A:
+
+Context length:592
+
+
+
+
+-----LLM output start-----
+
+<bos>Q: Everything that is a lempus or a grimpus is a jompus. Alex is not a jompus. Prove: Alex is not a grimpus and Alex is not a lempus.
+
+A: Assume Alex is a grimpus. Alex is a lempus or a grimpus. Everything that is a lempus or a grimpus is a jompus. Alex is a jompus. This contradicts with Alex is not a jompus. Alex is not a grimpus.
+
+ Assume Alex is a lempus. Alex is a lempus or a grimpus. Everything that is a lempus or a grimpus is a jompus. Alex is a jompus. This contradicts with Alex is not a jompus. Alex is not a lempus.
+
+ Alex is not a grimpus and Alex is not a lempus.
+
+
+Q: Everything that is a sterpus or a lempus is a gorpus. Sally is not a gorpus. Prove: Sally is not a lempus and Sally is not a sterpus.
+
+A: Assume Sally is a lempus. Sally is a sterpus or a lempus. Everything that is a sterpus or a lempus is a gorpus. Sally is a gorpus. This contradicts with Sally is not a gorpus. Sally is not a lempus.
+
+ Assume Sally is a sterpus. Sally is a sterpus or a lempus. Everything that is a sterpus or a lempus is a gorpus. Sally is a gorpus. This contradicts with Sally is not a gorpus. Sally is not a sterpus.
+
+ Sally is not a lempus and Sally is not a sterpus.
+
+
+Q: Everything that is a shumpus or a rompus is a jompus. Sally is not a jompus. Prove: Sally is not a rompus and Sally is not a shumpus.
+
+A: Assume Sally is a rompus. Sally is a shumpus or a rompus. Everything that is a shumpus or a rompus is a jompus. Sally is a jompus. This contradicts with Sally is not a jompus. Sally is not a rompus.
+
+ Assume Sally is a shumpus. Sally is a shumpus or a rompus. Everything that is a shumpus or a rompus is a jompus. Sally is a jompus. This contradicts with Sally is not a jompus. Sally is not a shumpus.
+
+ Sally is not a rompus and Sally is not a shumpus.
+
+
+Q: Everything that is a jompus or an impus is a yumpus. Max is not a yumpus. Prove: Max is not an impus and Max is not a jompus.
+
+A: Assume Max is an impus. Max is a jompus or an impus. Everything that is a jompus or an impus is a yumpus. Max is a yumpus. This contradicts with Max is not a yumpus. Max is not an impus.
+
+ Assume Max is a jompus. Max is a jompus or an impus. Everything that is a jompus or an impus is a yumpus. Max is a yumpus. This contradicts with Max is not a yumpus. Max is not a jompus.
+
+ Max is not an impus and Max is not a jompus.
+
+
+
+<end_of_turn><eos>
+
+-----LLM output end-----
+
+
+Outputs: 
+tensor([[     2, 235368, 235292,  23177,    674,    603,    476, 222689,    553,
+            689,    476,   8704,    701,    553,    603,    476,    678,    537,
+          13591, 235265,   7303,    603,    780,    476,    678,    537,  13591,
+         235265,  67725, 235292,   7303,    603,    780,    476,   8704,    701,
+            553,    578,   7303,    603,    780,    476, 222689,    553, 235265,
+            109, 235280, 235292,  59795,   7303,    603,    476,   8704,    701,
+            553, 235265,   7303,    603,    476, 222689,    553,    689,    476,
+           8704,    701,    553, 235265,  23177,    674,    603,    476, 222689,
+            553,    689,    476,   8704,    701,    553,    603,    476,    678,
+            537,  13591, 235265,   7303,    603,    476,    678,    537,  13591,
+         235265,   1417, 142771,    675,   7303,    603,    780,    476,    678,
+            537,  13591, 235265,   7303,    603,    780,    476,   8704,    701,
+            553, 235265,    109,  59795,   7303,    603,    476, 222689,    553,
+         235265,   7303,    603,    476, 222689,    553,    689,    476,   8704,
+            701,    553, 235265,  23177,    674,    603,    476, 222689,    553,
+            689,    476,   8704,    701,    553,    603,    476,    678,    537,
+          13591, 235265,   7303,    603,    476,    678,    537,  13591, 235265,
+           1417, 142771,    675,   7303,    603,    780,    476,    678,    537,
+          13591, 235265,   7303,    603,    780,    476, 222689,    553, 235265,
+            109,   7303,    603,    780,    476,   8704,    701,    553,    578,
+           7303,    603,    780,    476, 222689,    553, 235265,    110, 235368,
+         235292,  23177,    674,    603,    476,   9796,  13591,    689,    476,
+         222689,    553,    603,    476,  28459,  13591, 235265,  47239,    603,
+            780,    476,  28459,  13591, 235265,  67725, 235292,  47239,    603,
+            780,    476, 222689,    553,    578,  47239,    603,    780,    476,
+           9796,  13591, 235265,    109, 235280, 235292,  59795,  47239,    603,
+            476, 222689,    553, 235265,  47239,    603,    476,   9796,  13591,
+            689,    476, 222689,    553, 235265,  23177,    674,    603,    476,
+           9796,  13591,    689,    476, 222689,    553,    603,    476,  28459,
+          13591, 235265,  47239,    603,    476,  28459,  13591, 235265,   1417,
+         142771,    675,  47239,    603,    780,    476,  28459,  13591, 235265,
+          47239,    603,    780,    476, 222689,    553, 235265,    109,  59795,
+          47239,    603,    476,   9796,  13591, 235265,  47239,    603,    476,
+           9796,  13591,    689,    476, 222689,    553, 235265,  23177,    674,
+            603,    476,   9796,  13591,    689,    476, 222689,    553,    603,
+            476,  28459,  13591, 235265,  47239,    603,    476,  28459,  13591,
+         235265,   1417, 142771,    675,  47239,    603,    780,    476,  28459,
+          13591, 235265,  47239,    603,    780,    476,   9796,  13591, 235265,
+            109,  47239,    603,    780,    476, 222689,    553,    578,  47239,
+            603,    780,    476,   9796,  13591, 235265,    110, 235368, 235292,
+          23177,    674,    603,    476,    943,   2109,    553,    689,    476,
+           6889,  13591,    603,    476,    678,    537,  13591, 235265,  47239,
+            603,    780,    476,    678,    537,  13591, 235265,  67725, 235292,
+          47239,    603,    780,    476,   6889,  13591,    578,  47239,    603,
+            780,    476,    943,   2109,    553, 235265,    109, 235280, 235292,
+          59795,  47239,    603,    476,   6889,  13591, 235265,  47239,    603,
+            476,    943,   2109,    553,    689,    476,   6889,  13591, 235265,
+          23177,    674,    603,    476,    943,   2109,    553,    689,    476,
+           6889,  13591,    603,    476,    678,    537,  13591, 235265,  47239,
+            603,    476,    678,    537,  13591, 235265,   1417, 142771,    675,
+          47239,    603,    780,    476,    678,    537,  13591, 235265,  47239,
+            603,    780,    476,   6889,  13591, 235265,    109,  59795,  47239,
+            603,    476,    943,   2109,    553, 235265,  47239,    603,    476,
+            943,   2109,    553,    689,    476,   6889,  13591, 235265,  23177,
+            674,    603,    476,    943,   2109,    553,    689,    476,   6889,
+          13591,    603,    476,    678,    537,  13591, 235265,  47239,    603,
+            476,    678,    537,  13591, 235265,   1417, 142771,    675,  47239,
+            603,    780,    476,    678,    537,  13591, 235265,  47239,    603,
+            780,    476,    943,   2109,    553, 235265,    109,  47239,    603,
+            780,    476,   6889,  13591,    578,  47239,    603,    780,    476,
+            943,   2109,    553, 235265,    110, 235368, 235292,  23177,    674,
+            603,    476,    678,    537,  13591,    689,    671,   1015,    553,
+            603,    476,    597,   2109,    553, 235265,   7278,    603,    780,
+            476,    597,   2109,    553, 235265,  67725, 235292,   7278,    603,
+            780,    671,   1015,    553,    578,   7278,    603,    780,    476,
+            678,    537,  13591, 235265,    109, 235280, 235292,  59795,   7278,
+            603,    671,   1015,    553, 235265,   7278,    603,    476,    678,
+            537,  13591,    689,    671,   1015,    553, 235265,  23177,    674,
+            603,    476,    678,    537,  13591,    689,    671,   1015,    553,
+            603,    476,    597,   2109,    553, 235265,   7278,    603,    476,
+            597,   2109,    553, 235265,   1417, 142771,    675,   7278,    603,
+            780,    476,    597,   2109,    553, 235265,   7278,    603,    780,
+            671,   1015,    553, 235265,    109,  59795,   7278,    603,    476,
+            678,    537,  13591, 235265,   7278,    603,    476,    678,    537,
+          13591,    689,    671,   1015,    553, 235265,  23177,    674,    603,
+            476,    678,    537,  13591,    689,    671,   1015,    553,    603,
+            476,    597,   2109,    553, 235265,   7278,    603,    476,    597,
+           2109,    553, 235265,   1417, 142771,    675,   7278,    603,    780,
+            476,    597,   2109,    553, 235265,   7278,    603,    780,    476,
+            678,    537,  13591, 235265,    109,   7278,    603,    780,    671,
+           1015,    553,    578,   7278,    603,    780,    476,    678,    537,
+          13591, 235265,    111,    107,      1]], device='cuda:0')
+Output tokens: 
+['<bos>', 'Q', ':', '▁Everything', '▁that', '▁is', '▁a', '▁lemp', 'us', '▁or', '▁a', '▁gri', 'mp', 'us', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁Alex', '▁is', '▁not', '▁a', '▁j', 'om', 'pus', '.', '▁Prove', ':', '▁Alex', '▁is', '▁not', '▁a', '▁gri', 'mp', 'us', '▁and', '▁Alex', '▁is', '▁not', '▁a', '▁lemp', 'us', '.', '\n\n', 'A', ':', '▁Assume', '▁Alex', '▁is', '▁a', '▁gri', 'mp', 'us', '.', '▁Alex', '▁is', '▁a', '▁lemp', 'us', '▁or', '▁a', '▁gri', 'mp', 'us', '.', '▁Everything', '▁that', '▁is', '▁a', '▁lemp', 'us', '▁or', '▁a', '▁gri', 'mp', 'us', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁Alex', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁This', '▁contradicts', '▁with', '▁Alex', '▁is', '▁not', '▁a', '▁j', 'om', 'pus', '.', '▁Alex', '▁is', '▁not', '▁a', '▁gri', 'mp', 'us', '.', '\n\n', '▁Assume', '▁Alex', '▁is', '▁a', '▁lemp', 'us', '.', '▁Alex', '▁is', '▁a', '▁lemp', 'us', '▁or', '▁a', '▁gri', 'mp', 'us', '.', '▁Everything', '▁that', '▁is', '▁a', '▁lemp', 'us', '▁or', '▁a', '▁gri', 'mp', 'us', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁Alex', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁This', '▁contradicts', '▁with', '▁Alex', '▁is', '▁not', '▁a', '▁j', 'om', 'pus', '.', '▁Alex', '▁is', '▁not', '▁a', '▁lemp', 'us', '.', '\n\n', '▁Alex', '▁is', '▁not', '▁a', '▁gri', 'mp', 'us', '▁and', '▁Alex', '▁is', '▁not', '▁a', '▁lemp', 'us', '.', '\n\n\n', 'Q', ':', '▁Everything', '▁that', '▁is', '▁a', '▁ster', 'pus', '▁or', '▁a', '▁lemp', 'us', '▁is', '▁a', '▁gor', 'pus', '.', '▁Sally', '▁is', '▁not', '▁a', '▁gor', 'pus', '.', '▁Prove', ':', '▁Sally', '▁is', '▁not', '▁a', '▁lemp', 'us', '▁and', '▁Sally', '▁is', '▁not', '▁a', '▁ster', 'pus', '.', '\n\n', 'A', ':', '▁Assume', '▁Sally', '▁is', '▁a', '▁lemp', 'us', '.', '▁Sally', '▁is', '▁a', '▁ster', 'pus', '▁or', '▁a', '▁lemp', 'us', '.', '▁Everything', '▁that', '▁is', '▁a', '▁ster', 'pus', '▁or', '▁a', '▁lemp', 'us', '▁is', '▁a', '▁gor', 'pus', '.', '▁Sally', '▁is', '▁a', '▁gor', 'pus', '.', '▁This', '▁contradicts', '▁with', '▁Sally', '▁is', '▁not', '▁a', '▁gor', 'pus', '.', '▁Sally', '▁is', '▁not', '▁a', '▁lemp', 'us', '.', '\n\n', '▁Assume', '▁Sally', '▁is', '▁a', '▁ster', 'pus', '.', '▁Sally', '▁is', '▁a', '▁ster', 'pus', '▁or', '▁a', '▁lemp', 'us', '.', '▁Everything', '▁that', '▁is', '▁a', '▁ster', 'pus', '▁or', '▁a', '▁lemp', 'us', '▁is', '▁a', '▁gor', 'pus', '.', '▁Sally', '▁is', '▁a', '▁gor', 'pus', '.', '▁This', '▁contradicts', '▁with', '▁Sally', '▁is', '▁not', '▁a', '▁gor', 'pus', '.', '▁Sally', '▁is', '▁not', '▁a', '▁ster', 'pus', '.', '\n\n', '▁Sally', '▁is', '▁not', '▁a', '▁lemp', 'us', '▁and', '▁Sally', '▁is', '▁not', '▁a', '▁ster', 'pus', '.', '\n\n\n', 'Q', ':', '▁Everything', '▁that', '▁is', '▁a', '▁sh', 'ump', 'us', '▁or', '▁a', '▁rom', 'pus', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁Sally', '▁is', '▁not', '▁a', '▁j', 'om', 'pus', '.', '▁Prove', ':', '▁Sally', '▁is', '▁not', '▁a', '▁rom', 'pus', '▁and', '▁Sally', '▁is', '▁not', '▁a', '▁sh', 'ump', 'us', '.', '\n\n', 'A', ':', '▁Assume', '▁Sally', '▁is', '▁a', '▁rom', 'pus', '.', '▁Sally', '▁is', '▁a', '▁sh', 'ump', 'us', '▁or', '▁a', '▁rom', 'pus', '.', '▁Everything', '▁that', '▁is', '▁a', '▁sh', 'ump', 'us', '▁or', '▁a', '▁rom', 'pus', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁Sally', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁This', '▁contradicts', '▁with', '▁Sally', '▁is', '▁not', '▁a', '▁j', 'om', 'pus', '.', '▁Sally', '▁is', '▁not', '▁a', '▁rom', 'pus', '.', '\n\n', '▁Assume', '▁Sally', '▁is', '▁a', '▁sh', 'ump', 'us', '.', '▁Sally', '▁is', '▁a', '▁sh', 'ump', 'us', '▁or', '▁a', '▁rom', 'pus', '.', '▁Everything', '▁that', '▁is', '▁a', '▁sh', 'ump', 'us', '▁or', '▁a', '▁rom', 'pus', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁Sally', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁This', '▁contradicts', '▁with', '▁Sally', '▁is', '▁not', '▁a', '▁j', 'om', 'pus', '.', '▁Sally', '▁is', '▁not', '▁a', '▁sh', 'ump', 'us', '.', '\n\n', '▁Sally', '▁is', '▁not', '▁a', '▁rom', 'pus', '▁and', '▁Sally', '▁is', '▁not', '▁a', '▁sh', 'ump', 'us', '.', '\n\n\n', 'Q', ':', '▁Everything', '▁that', '▁is', '▁a', '▁j', 'om', 'pus', '▁or', '▁an', '▁imp', 'us', '▁is', '▁a', '▁y', 'ump', 'us', '.', '▁Max', '▁is', '▁not', '▁a', '▁y', 'ump', 'us', '.', '▁Prove', ':', '▁Max', '▁is', '▁not', '▁an', '▁imp', 'us', '▁and', '▁Max', '▁is', '▁not', '▁a', '▁j', 'om', 'pus', '.', '\n\n', 'A', ':', '▁Assume', '▁Max', '▁is', '▁an', '▁imp', 'us', '.', '▁Max', '▁is', '▁a', '▁j', 'om', 'pus', '▁or', '▁an', '▁imp', 'us', '.', '▁Everything', '▁that', '▁is', '▁a', '▁j', 'om', 'pus', '▁or', '▁an', '▁imp', 'us', '▁is', '▁a', '▁y', 'ump', 'us', '.', '▁Max', '▁is', '▁a', '▁y', 'ump', 'us', '.', '▁This', '▁contradicts', '▁with', '▁Max', '▁is', '▁not', '▁a', '▁y', 'ump', 'us', '.', '▁Max', '▁is', '▁not', '▁an', '▁imp', 'us', '.', '\n\n', '▁Assume', '▁Max', '▁is', '▁a', '▁j', 'om', 'pus', '.', '▁Max', '▁is', '▁a', '▁j', 'om', 'pus', '▁or', '▁an', '▁imp', 'us', '.', '▁Everything', '▁that', '▁is', '▁a', '▁j', 'om', 'pus', '▁or', '▁an', '▁imp', 'us', '▁is', '▁a', '▁y', 'ump', 'us', '.', '▁Max', '▁is', '▁a', '▁y', 'ump', 'us', '.', '▁This', '▁contradicts', '▁with', '▁Max', '▁is', '▁not', '▁a', '▁y', 'ump', 'us', '.', '▁Max', '▁is', '▁not', '▁a', '▁j', 'om', 'pus', '.', '\n\n', '▁Max', '▁is', '▁not', '▁an', '▁imp', 'us', '▁and', '▁Max', '▁is', '▁not', '▁a', '▁j', 'om', 'pus', '.', '\n\n\n\n', '<end_of_turn>', '<eos>']
+
+Predicted answer: Assume Max is an impus. Max is a jompus or an impus. Everything that is a jompus or an impus is a yumpus. Max is a yumpus. This contradicts with Max is not a yumpus. Max is not an impus.
+
+ Assume Max is a jompus. Max is a jompus or an impus. Everything that is a jompus or an impus is a yumpus. Max is a yumpus. This contradicts with Max is not a yumpus. Max is not a jompus.
+
+ Max is not an impus and Max is not a jompus.
+
+
+
+<end_of_turn><eos>
+
+Expected answer: Assume Max is an impus. Max is a jompus or an impus. Everything that is a jompus or an impus is a yumpus. Max is a yumpus. This contradicts with Max is not a yumpus. Max is not an impus.
+
+ Assume Max is a jompus. Max is a jompus or an impus. Everything that is a jompus or an impus is a yumpus. Max is a yumpus. This contradicts with Max is not a yumpus. Max is not a jompus.
+
+ Max is not an impus and Max is not a jompus.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+

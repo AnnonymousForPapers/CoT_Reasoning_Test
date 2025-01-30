@@ -1,0 +1,599 @@
+
+Model name: google/gemma-2-9b-it
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:09<00:28,  9.44s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:17<00:16,  8.46s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:26<00:08,  8.68s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:35<00:00,  9.10s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:35<00:00,  8.97s/it]
+Gemma2Model is using Gemma2SdpaAttention, but `torch.nn.functional.scaled_dot_product_attention` does not support `output_attentions=True`. Falling back to the manual attention implementation, but specifying the manual implementation will be required from Transformers version v5.0.0 onwards. This warning can be removed using the argument `attn_implementation="eager"` when loading the model.
+WARNING: Could not extend ontology due to insufficient property families.
+WARNING: Could not extend ontology due to insufficient property families.
+WARNING: Could not extend ontology due to insufficient property families.
+Q: Every impus is not floral. Alex is an impus. Prove: Alex is not floral.
+A: Alex is an impus. Every impus is not floral. Alex is not floral.
+
+Q: Every jompus is not loud. Rex is a jompus. Prove: Rex is not loud.
+A: Rex is a jompus. Every jompus is not loud. Rex is not loud.
+
+Q: Each tumpus is not liquid. Rex is a tumpus. Prove: Rex is not liquid.
+A: Rex is a tumpus. Each tumpus is not liquid. Rex is not liquid.
+
+Q: Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+A:
+
+Context length:164
+
+
+
+
+-----LLM output start-----
+
+<bos>Q: Every impus is not floral. Alex is an impus. Prove: Alex is not floral.
+A: Alex is an impus. Every impus is not floral. Alex is not floral.
+
+Q: Every jompus is not loud. Rex is a jompus. Prove: Rex is not loud.
+A: Rex is a jompus. Every jompus is not loud. Rex is not loud.
+
+Q: Each tumpus is not liquid. Rex is a tumpus. Prove: Rex is not liquid.
+A: Rex is a tumpus. Each tumpus is not liquid. Rex is not liquid.
+
+Q: Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+A: Wren is a sterpus. Sterpuses are transparent. Wren is transparent.
+
+Q: Every jompus is a jompus. Prove: Every jompus is a jompus.
+A: Every jompus is a jompus.
+
+Q: Every impus is not floral. Prove: Every impus is not floral.
+A: Every impus is not floral.
+
+Q: Every tumpus is not liquid. Prove: Every tumpus is not liquid.
+A: Every tumpus is not liquid.
+
+Q: Every sterpus is transparent. Prove: Every sterpus is transparent.
+A: Every sterpus is transparent.
+
+Q: Every jompus is a jompus. Prove: Every jompus is a jompus.
+A: Every jompus is a jompus.
+
+Q: Every impus is not floral. Prove: Every impus is not floral.
+A: Every impus is not floral.
+
+Q: Every tumpus is not liquid. Prove: Every tumpus is not liquid.
+A: Every tumpus is not liquid.
+
+Q: Every sterpus is transparent. Prove: Every sterpus is transparent
+
+-----LLM output end-----
+
+
+Number of layers: 
+42
+Number of heads: 
+16
+
+Predicted answer: Wren is a sterpus. Sterpuses are transparent. Wren is transparent.
+
+
+
+Expected answer: Wren is a sterpus. Sterpuses are transparent. Wren is transparent.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+
+Model name: google/gemma-2-9b-it
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:09<00:29,  9.85s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:17<00:17,  8.60s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:27<00:09,  9.43s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:37<00:00,  9.36s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:37<00:00,  9.31s/it]
+Gemma2Model is using Gemma2SdpaAttention, but `torch.nn.functional.scaled_dot_product_attention` does not support `output_attentions=True`. Falling back to the manual attention implementation, but specifying the manual implementation will be required from Transformers version v5.0.0 onwards. This warning can be removed using the argument `attn_implementation="eager"` when loading the model.
+Q:  Alex is earthy. Alex is an impus. Prove: Alex is an earthy impus.
+A: Alex is an impus. Alex is earthy. Alex is an earthy impus.
+
+Q:  Alex is a numpus. Alex is hot. Prove: Alex is a hot numpus.
+A: Alex is a numpus. Alex is hot. Alex is a hot numpus.
+
+Q:  Rex is a lempus. Rex is brown. Prove: Rex is a brown lempus.
+A: Rex is a lempus. Rex is brown. Rex is a brown lempus.
+
+Q:  Polly is a yumpus. Polly is opaque. Prove: Polly is an opaque yumpus.
+A:
+
+Context length:161
+
+
+
+
+-----LLM output start-----
+
+<bos>Q:  Alex is earthy. Alex is an impus. Prove: Alex is an earthy impus.
+A: Alex is an impus. Alex is earthy. Alex is an earthy impus.
+
+Q:  Alex is a numpus. Alex is hot. Prove: Alex is a hot numpus.
+A: Alex is a numpus. Alex is hot. Alex is a hot numpus.
+
+Q:  Rex is a lempus. Rex is brown. Prove: Rex is a brown lempus.
+A: Rex is a lempus. Rex is brown. Rex is a brown lempus.
+
+Q:  Polly is a yumpus. Polly is opaque. Prove: Polly is an opaque yumpus.
+A: Polly is a yumpus. Polly is opaque. Polly is an opaque yumpus.
+
+Q:  A is a yumpus. Prove:  A is a yumpus.
+A:  A is a yumpus.
+
+Q:  A is a yumpus. Prove:  A is a yumpus.
+A:  A is a yumpus.
+
+Q:  A is a yumpus. Prove:  A is a yumpus.
+A:  A is a yumpus.
+
+Q:  A is a yumpus. Prove:  A is a yumpus.
+A:  A is a yumpus.
+
+Q:  A is a yumpus. Prove:  A is a yumpus.
+A:  A is a yumpus.
+
+Q:  A is a yumpus. Prove:  A is a yumpus.
+A:  A is a yumpus.
+
+Q:  A is a yumpus. Prove:  A is a yumpus.
+A:  A is a yumpus.
+
+Q:  A is a yumpus. Prove:
+
+-----LLM output end-----
+
+
+Number of layers: 
+42
+Number of heads: 
+16
+
+Predicted answer: Polly is a yumpus. Polly is opaque. Polly is an opaque yumpus.
+
+
+
+Expected answer: Polly is a yumpus. Polly is opaque. Polly is an opaque yumpus.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+
+Model name: google/gemma-2-9b-it
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:09<00:27,  9.25s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.16s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:25<00:08,  8.69s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:34<00:00,  8.48s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:34<00:00,  8.53s/it]
+Gemma2Model is using Gemma2SdpaAttention, but `torch.nn.functional.scaled_dot_product_attention` does not support `output_attentions=True`. Falling back to the manual attention implementation, but specifying the manual implementation will be required from Transformers version v5.0.0 onwards. This warning can be removed using the argument `attn_implementation="eager"` when loading the model.
+WARNING: Could not extend ontology due to insufficient property families.
+Q:  Max is a hot impus. Prove: Max is an impus.
+A: Max is a hot impus. Max is an impus.
+
+Q:  Fae is a large tumpus. Prove: Fae is a tumpus.
+A: Fae is a large tumpus. Fae is a tumpus.
+
+Q:  Fae is a windy wumpus. Prove: Fae is a wumpus.
+A: Fae is a windy wumpus. Fae is a wumpus.
+
+Q:  Wren is a spicy tumpus. Prove: Wren is a tumpus.
+A:
+
+Context length:146
+
+
+
+
+-----LLM output start-----
+
+<bos>Q:  Max is a hot impus. Prove: Max is an impus.
+A: Max is a hot impus. Max is an impus.
+
+Q:  Fae is a large tumpus. Prove: Fae is a tumpus.
+A: Fae is a large tumpus. Fae is a tumpus.
+
+Q:  Fae is a windy wumpus. Prove: Fae is a wumpus.
+A: Fae is a windy wumpus. Fae is a wumpus.
+
+Q:  Wren is a spicy tumpus. Prove: Wren is a tumpus.
+A: Wren is a spicy tumpus. Wren is a tumpus.
+
+Q:  Max is a hot impus. Prove: Max is hot.
+A: Max is a hot impus.  Max is hot.
+
+Q:  Fae is a large tumpus. Prove: Fae is large.
+A: Fae is a large tumpus. Fae is large.
+
+Q:  Wren is a spicy tumpus. Prove: Wren is spicy.
+A: Wren is a spicy tumpus. Wren is spicy.
+
+Q:  Max is a hot impus. Prove: impus is a hot.
+A:  Max is a hot impus.  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+-----LLM output end-----
+
+
+Number of layers: 
+42
+Number of heads: 
+16
+
+Predicted answer: Wren is a spicy tumpus. Wren is a tumpus.
+
+
+
+Expected answer: Wren is a spicy tumpus. Wren is a tumpus.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+
+Model name: google/gemma-2-9b-it
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:08<00:26,  8.96s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.07s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:25<00:08,  8.46s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:33<00:00,  8.41s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:33<00:00,  8.42s/it]
+Gemma2Model is using Gemma2SdpaAttention, but `torch.nn.functional.scaled_dot_product_attention` does not support `output_attentions=True`. Falling back to the manual attention implementation, but specifying the manual implementation will be required from Transformers version v5.0.0 onwards. This warning can be removed using the argument `attn_implementation="eager"` when loading the model.
+Q:  Alex is an impus. Prove: Alex is earthy or an impus.
+A: Alex is an impus. Alex is earthy or an impus.
+
+Q:  Alex is a numpus. Prove: Alex is floral or a numpus.
+A: Alex is a numpus. Alex is floral or a numpus.
+
+Q:  Rex is a lempus. Prove: Rex is brown or a lempus.
+A: Rex is a lempus. Rex is brown or a lempus.
+
+Q:  Fae is a wumpus. Prove: Fae is opaque or a wumpus.
+A:
+
+Context length:142
+
+
+
+
+-----LLM output start-----
+
+<bos>Q:  Alex is an impus. Prove: Alex is earthy or an impus.
+A: Alex is an impus. Alex is earthy or an impus.
+
+Q:  Alex is a numpus. Prove: Alex is floral or a numpus.
+A: Alex is a numpus. Alex is floral or a numpus.
+
+Q:  Rex is a lempus. Prove: Rex is brown or a lempus.
+A: Rex is a lempus. Rex is brown or a lempus.
+
+Q:  Fae is a wumpus. Prove: Fae is opaque or a wumpus.
+A: Fae is a wumpus. Fae is opaque or a wumpus.
+
+Q:  A is a wumpus. Prove:  A is a wumpus or a wumpus.
+A:  A is a wumpus.  A is a wumpus or a wumpus.
+
+Q:  A is a wumpus. Prove:  A is a wumpus or a numpus.
+A:  A is a wumpus.  A is a wumpus or a numpus.
+
+Q:  A is a wumpus. Prove:  A is a wumpus or a lempus.
+A:  A is a wumpus.  A is a wumpus or a lempus.
+
+Q:  A is a wumpus. Prove:  A is a wumpus or a impus.
+A:  A is a wumpus.  A is a wumpus or a impus.
+
+Q:  A is a wumpus. Prove:  A is a wumpus or a floral.
+A:  A is a wumpus.  A is a wumpus
+
+-----LLM output end-----
+
+
+Number of layers: 
+42
+Number of heads: 
+16
+
+Predicted answer: Fae is a wumpus. Fae is opaque or a wumpus.
+
+
+
+Expected answer: Fae is a wumpus. Fae is opaque or a wumpus.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+
+Model name: google/gemma-2-9b-it
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:09<00:27,  9.08s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:17<00:16,  8.40s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:27<00:09,  9.17s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:35<00:00,  8.90s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:35<00:00,  8.89s/it]
+Gemma2Model is using Gemma2SdpaAttention, but `torch.nn.functional.scaled_dot_product_attention` does not support `output_attentions=True`. Falling back to the manual attention implementation, but specifying the manual implementation will be required from Transformers version v5.0.0 onwards. This warning can be removed using the argument `attn_implementation="eager"` when loading the model.
+Q: Lempuses are jompuses. Grimpuses are jompuses. Alex is a lempus or a grimpus. Prove: Alex is a jompus.
+
+A: Assume Alex is a lempus. Lempuses are jompuses. Alex is a jompus.
+
+ Assume Alex is a grimpus. Grimpuses are jompuses. Alex is a jompus.
+
+ Since Alex is a lempus or a grimpus, Alex is a jompus.
+
+
+Q: Every sterpus is a gorpus. Lempuses are gorpuses. Sally is a sterpus or a lempus. Prove: Sally is a gorpus.
+
+A: Assume Sally is a sterpus. Every sterpus is a gorpus. Sally is a gorpus.
+
+ Assume Sally is a lempus. Lempuses are gorpuses. Sally is a gorpus.
+
+ Since Sally is a sterpus or a lempus, Sally is a gorpus.
+
+
+Q: Shumpuses are jompuses. Rompuses are jompuses. Sally is a shumpus or a rompus. Prove: Sally is a jompus.
+
+A: Assume Sally is a shumpus. Shumpuses are jompuses. Sally is a jompus.
+
+ Assume Sally is a rompus. Rompuses are jompuses. Sally is a jompus.
+
+ Since Sally is a shumpus or a rompus, Sally is a jompus.
+
+
+Q: Jompuses are yumpuses. Each impus is a yumpus. Max is a jompus or an impus. Prove: Max is a yumpus.
+
+A:
+
+Context length:360
+
+
+
+
+-----LLM output start-----
+
+<bos>Q: Lempuses are jompuses. Grimpuses are jompuses. Alex is a lempus or a grimpus. Prove: Alex is a jompus.
+
+A: Assume Alex is a lempus. Lempuses are jompuses. Alex is a jompus.
+
+ Assume Alex is a grimpus. Grimpuses are jompuses. Alex is a jompus.
+
+ Since Alex is a lempus or a grimpus, Alex is a jompus.
+
+
+Q: Every sterpus is a gorpus. Lempuses are gorpuses. Sally is a sterpus or a lempus. Prove: Sally is a gorpus.
+
+A: Assume Sally is a sterpus. Every sterpus is a gorpus. Sally is a gorpus.
+
+ Assume Sally is a lempus. Lempuses are gorpuses. Sally is a gorpus.
+
+ Since Sally is a sterpus or a lempus, Sally is a gorpus.
+
+
+Q: Shumpuses are jompuses. Rompuses are jompuses. Sally is a shumpus or a rompus. Prove: Sally is a jompus.
+
+A: Assume Sally is a shumpus. Shumpuses are jompuses. Sally is a jompus.
+
+ Assume Sally is a rompus. Rompuses are jompuses. Sally is a jompus.
+
+ Since Sally is a shumpus or a rompus, Sally is a jompus.
+
+
+Q: Jompuses are yumpuses. Each impus is a yumpus. Max is a jompus or an impus. Prove: Max is a yumpus.
+
+A: Assume Max is a jompus. Jompuses are yumpuses. Max is a yumpus.
+
+ Assume Max is an impus. Each impus is a yumpus. Max is a yumpus.
+
+ Since Max is a jompus or an impus, Max is a yumpus.
+
+
+Q: Every sterpus is a gorpus. Lempuses are gorpuses. Sally is a sterpus or a lempus. Prove: Sally is a gorpus.
+
+A: Assume Sally is a sterpus. Every sterpus is a gorpus. Sally is a gorpus.
+
+ Assume Sally is a lempus. Lempuses are gorpuses. Sally is a gorpus.
+
+ Since Sally is a sterpus or a lempus, Sally is a gorpus.
+
+
+Q: Every sterpus is a gorpus. Lempuses are gorpuses. Sally is a sterpus or a lempus. Prove: Sally is a gorpus.
+
+A: Assume Sally is a sterpus. Every sterpus is a gorpus. Sally is a gorpus.
+
+ Assume Sally is a lempus. Lempuses are gorpuses. Sally is a gorpus.
+
+ Since Sally is a
+
+-----LLM output end-----
+
+
+Number of layers: 
+42
+Number of heads: 
+16
+
+Predicted answer: Assume Max is a jompus. Jompuses are yumpuses. Max is a yumpus.
+
+ Assume Max is an impus. Each impus is a yumpus. Max is a yumpus.
+
+ Since Max is a jompus or an impus, Max is a yumpus.
+
+
+
+
+Expected answer: Assume Max is a jompus. Jompuses are yumpuses. Max is a yumpus.
+
+ Assume Max is an impus. Each impus is a yumpus. Max is a yumpus.
+
+ Since Max is a jompus or an impus, Max is a yumpus.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+
+Model name: google/gemma-2-9b-it
+
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:09<00:27,  9.18s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:16<00:16,  8.17s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:25<00:08,  8.66s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:33<00:00,  8.27s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:33<00:00,  8.39s/it]
+Gemma2Model is using Gemma2SdpaAttention, but `torch.nn.functional.scaled_dot_product_attention` does not support `output_attentions=True`. Falling back to the manual attention implementation, but specifying the manual implementation will be required from Transformers version v5.0.0 onwards. This warning can be removed using the argument `attn_implementation="eager"` when loading the model.
+Q: Everything that is a lempus or a grimpus is a jompus. Alex is not a jompus. Prove: Alex is not a grimpus and Alex is not a lempus.
+
+A: Assume Alex is a grimpus. Alex is a lempus or a grimpus. Everything that is a lempus or a grimpus is a jompus. Alex is a jompus. This contradicts with Alex is not a jompus. Alex is not a grimpus.
+
+ Assume Alex is a lempus. Alex is a lempus or a grimpus. Everything that is a lempus or a grimpus is a jompus. Alex is a jompus. This contradicts with Alex is not a jompus. Alex is not a lempus.
+
+ Alex is not a grimpus and Alex is not a lempus.
+
+
+Q: Everything that is a sterpus or a lempus is a gorpus. Sally is not a gorpus. Prove: Sally is not a lempus and Sally is not a sterpus.
+
+A: Assume Sally is a lempus. Sally is a sterpus or a lempus. Everything that is a sterpus or a lempus is a gorpus. Sally is a gorpus. This contradicts with Sally is not a gorpus. Sally is not a lempus.
+
+ Assume Sally is a sterpus. Sally is a sterpus or a lempus. Everything that is a sterpus or a lempus is a gorpus. Sally is a gorpus. This contradicts with Sally is not a gorpus. Sally is not a sterpus.
+
+ Sally is not a lempus and Sally is not a sterpus.
+
+
+Q: Everything that is a shumpus or a rompus is a jompus. Sally is not a jompus. Prove: Sally is not a rompus and Sally is not a shumpus.
+
+A: Assume Sally is a rompus. Sally is a shumpus or a rompus. Everything that is a shumpus or a rompus is a jompus. Sally is a jompus. This contradicts with Sally is not a jompus. Sally is not a rompus.
+
+ Assume Sally is a shumpus. Sally is a shumpus or a rompus. Everything that is a shumpus or a rompus is a jompus. Sally is a jompus. This contradicts with Sally is not a jompus. Sally is not a shumpus.
+
+ Sally is not a rompus and Sally is not a shumpus.
+
+
+Q: Everything that is a jompus or an impus is a yumpus. Max is not a yumpus. Prove: Max is not an impus and Max is not a jompus.
+
+A:
+
+Context length:592
+
+
+
+
+-----LLM output start-----
+
+<bos>Q: Everything that is a lempus or a grimpus is a jompus. Alex is not a jompus. Prove: Alex is not a grimpus and Alex is not a lempus.
+
+A: Assume Alex is a grimpus. Alex is a lempus or a grimpus. Everything that is a lempus or a grimpus is a jompus. Alex is a jompus. This contradicts with Alex is not a jompus. Alex is not a grimpus.
+
+ Assume Alex is a lempus. Alex is a lempus or a grimpus. Everything that is a lempus or a grimpus is a jompus. Alex is a jompus. This contradicts with Alex is not a jompus. Alex is not a lempus.
+
+ Alex is not a grimpus and Alex is not a lempus.
+
+
+Q: Everything that is a sterpus or a lempus is a gorpus. Sally is not a gorpus. Prove: Sally is not a lempus and Sally is not a sterpus.
+
+A: Assume Sally is a lempus. Sally is a sterpus or a lempus. Everything that is a sterpus or a lempus is a gorpus. Sally is a gorpus. This contradicts with Sally is not a gorpus. Sally is not a lempus.
+
+ Assume Sally is a sterpus. Sally is a sterpus or a lempus. Everything that is a sterpus or a lempus is a gorpus. Sally is a gorpus. This contradicts with Sally is not a gorpus. Sally is not a sterpus.
+
+ Sally is not a lempus and Sally is not a sterpus.
+
+
+Q: Everything that is a shumpus or a rompus is a jompus. Sally is not a jompus. Prove: Sally is not a rompus and Sally is not a shumpus.
+
+A: Assume Sally is a rompus. Sally is a shumpus or a rompus. Everything that is a shumpus or a rompus is a jompus. Sally is a jompus. This contradicts with Sally is not a jompus. Sally is not a rompus.
+
+ Assume Sally is a shumpus. Sally is a shumpus or a rompus. Everything that is a shumpus or a rompus is a jompus. Sally is a jompus. This contradicts with Sally is not a jompus. Sally is not a shumpus.
+
+ Sally is not a rompus and Sally is not a shumpus.
+
+
+Q: Everything that is a jompus or an impus is a yumpus. Max is not a yumpus. Prove: Max is not an impus and Max is not a jompus.
+
+A: Assume Max is an impus. Max is a jompus or an impus. Everything that is a jompus or an impus is a yumpus. Max is a yumpus. This contradicts with Max is not a yumpus. Max is not an impus.
+
+ Assume Max is a jompus. Max is a jompus or an impus. Everything that is a jompus or an impus is a yumpus. Max is a yumpus. This contradicts with Max is not a yumpus. Max is not a jompus.
+
+ Max is not an impus and Max is not a jompus.
+
+
+Q: Everything that is a gorpus or a sterpus is a jompus. Prove:
+
+A: This is an
+
+A: This is an
+
+A: This is an
+
+A: This is an
+
+A: This is an
+
+A: This is an
+
+A: This is an
+
+A: This is an
+
+A: This is an
+
+A: This is an
+
+A: This is an
+
+A: This is an
+
+A: This is an
+
+A: This is an
+
+A: This is an
+
+A: This is an
+
+-----LLM output end-----
+
+
+Number of layers: 
+42
+Number of heads: 
+16
+
+Predicted answer: Assume Max is an impus. Max is a jompus or an impus. Everything that is a jompus or an impus is a yumpus. Max is a yumpus. This contradicts with Max is not a yumpus. Max is not an impus.
+
+ Assume Max is a jompus. Max is a jompus or an impus. Everything that is a jompus or an impus is a yumpus. Max is a yumpus. This contradicts with Max is not a yumpus. Max is not a jompus.
+
+ Max is not an impus and Max is not a jompus.
+
+
+
+
+Expected answer: Assume Max is an impus. Max is a jompus or an impus. Everything that is a jompus or an impus is a yumpus. Max is a yumpus. This contradicts with Max is not a yumpus. Max is not an impus.
+
+ Assume Max is a jompus. Max is a jompus or an impus. Everything that is a jompus or an impus is a yumpus. Max is a yumpus. This contradicts with Max is not a yumpus. Max is not a jompus.
+
+ Max is not an impus and Max is not a jompus.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+

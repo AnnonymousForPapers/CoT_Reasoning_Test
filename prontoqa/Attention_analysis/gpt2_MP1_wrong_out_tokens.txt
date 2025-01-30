@@ -1,0 +1,96 @@
+-----LLM output start-----
+
+Q: Every impus is not floral. Alex is an impus. Prove: Alex is not floral.
+A: Alex is an impus. Every impus is not floral. Alex is not floral.
+
+Q: Every jompus is not loud. Rex is a jompus. Prove: Rex is not loud.
+A: Rex is a jompus. Every jompus is not loud. Rex is not loud.
+
+Q: Each tumpus is not liquid. Rex is a tumpus. Prove: Rex is not liquid.
+A: Rex is a tumpus. Each tumpus is not liquid. Rex is not liquid.
+
+Q: Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a
+
+-----LLM output end-----
+
+
+Outputs: 
+tensor([[   48,    25,  3887,   848,   385,   318,   407, 38838,    13,  4422,
+           318,   281,   848,   385,    13,  1041,   303,    25,  4422,   318,
+           407, 38838,    13,   198,    32,    25,  4422,   318,   281,   848,
+           385,    13,  3887,   848,   385,   318,   407, 38838,    13,  4422,
+           318,   407, 38838,    13,   198,   198,    48,    25,  3887,   474,
+          3361,   385,   318,   407,  7812,    13, 17853,   318,   257,   474,
+          3361,   385,    13,  1041,   303,    25, 17853,   318,   407,  7812,
+            13,   198,    32,    25, 17853,   318,   257,   474,  3361,   385,
+            13,  3887,   474,  3361,   385,   318,   407,  7812,    13, 17853,
+           318,   407,  7812,    13,   198,   198,    48,    25,  5501,   256,
+           931,   385,   318,   407,  8122,    13, 17853,   318,   257,   256,
+           931,   385,    13,  1041,   303,    25, 17853,   318,   407,  8122,
+            13,   198,    32,    25, 17853,   318,   257,   256,   931,   385,
+            13,  5501,   256,   931,   385,   318,   407,  8122,    13, 17853,
+           318,   407,  8122,    13,   198,   198,    48,    25, 18949,    79,
+          2664,   389, 13245,    13,   370,   918,   318,   257, 12504,    79,
+           385,    13,  1041,   303,    25,   370,   918,   318, 13245,    13,
+           198,    32,    25,   370,   918,   318,   257, 12504,    79,   385,
+            13, 18949,    79,  2664,   389, 13245,    13,   370,   918,   318,
+           257, 12504,    79,   385,    13,  1041,   303,    25,   370,   918,
+           318, 13245,    13,   198,   198,    32,    25,   370,   918,   318,
+           257, 12504,    79,   385,    13, 18949,    79,  2664,   389, 13245,
+            13,   370,   918,   318,   257, 12504,    79,   385,    13,  1041,
+           303,    25,   370,   918,   318, 13245,    13,   198,   198,    32,
+            25,   370,   918,   318,   257, 12504,    79,   385,    13, 18949,
+            79,  2664,   389, 13245,    13,   370,   918,   318,   257, 12504,
+            79,   385,    13,  1041,   303,    25,   370,   918,   318, 13245,
+            13,   198,   198,    32,    25,   370,   918,   318,   257, 12504,
+            79,   385,    13, 18949,    79,  2664,   389, 13245,    13,   370,
+           918,   318,   257, 12504,    79,   385,    13,  1041,   303,    25,
+           370,   918,   318, 13245,    13,   198,   198,    32,    25,   370,
+           918,   318,   257, 12504,    79,   385,    13, 18949,    79,  2664,
+           389, 13245,    13,   370,   918,   318,   257, 12504,    79,   385,
+            13,  1041,   303,    25,   370,   918,   318, 13245,    13,   198,
+           198,    32,    25,   370,   918,   318,   257, 12504,    79,   385,
+            13, 18949,    79,  2664,   389, 13245,    13,   370,   918,   318,
+           257, 12504,    79,   385,    13,  1041,   303,    25,   370,   918,
+           318, 13245,    13,   198,   198,    32,    25,   370,   918,   318,
+           257, 12504,    79,   385,    13, 18949,    79,  2664,   389, 13245,
+            13,   370,   918,   318,   257, 12504,    79,   385,    13,  1041,
+           303,    25,   370,   918,   318, 13245,    13,   198,   198,    32,
+            25,   370,   918,   318,   257, 12504,    79,   385,    13, 18949,
+            79,  2664,   389, 13245,    13,   370,   918,   318,   257]],
+       device='cuda:0')
+Output tokens: 
+['Q', ':', 'ĠEvery', 'Ġimp', 'us', 'Ġis', 'Ġnot', 'Ġfloral', '.', 'ĠAlex', 'Ġis', 'Ġan', 'Ġimp', 'us', '.', 'ĠPro', 've', ':', 'ĠAlex', 'Ġis', 'Ġnot', 'Ġfloral', '.', 'Ċ', 'A', ':', 'ĠAlex', 'Ġis', 'Ġan', 'Ġimp', 'us', '.', 'ĠEvery', 'Ġimp', 'us', 'Ġis', 'Ġnot', 'Ġfloral', '.', 'ĠAlex', 'Ġis', 'Ġnot', 'Ġfloral', '.', 'Ċ', 'Ċ', 'Q', ':', 'ĠEvery', 'Ġj', 'omp', 'us', 'Ġis', 'Ġnot', 'Ġloud', '.', 'ĠRex', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠPro', 've', ':', 'ĠRex', 'Ġis', 'Ġnot', 'Ġloud', '.', 'Ċ', 'A', ':', 'ĠRex', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠEvery', 'Ġj', 'omp', 'us', 'Ġis', 'Ġnot', 'Ġloud', '.', 'ĠRex', 'Ġis', 'Ġnot', 'Ġloud', '.', 'Ċ', 'Ċ', 'Q', ':', 'ĠEach', 'Ġt', 'ump', 'us', 'Ġis', 'Ġnot', 'Ġliquid', '.', 'ĠRex', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠRex', 'Ġis', 'Ġnot', 'Ġliquid', '.', 'Ċ', 'A', ':', 'ĠRex', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'ĠEach', 'Ġt', 'ump', 'us', 'Ġis', 'Ġnot', 'Ġliquid', '.', 'ĠRex', 'Ġis', 'Ġnot', 'Ġliquid', '.', 'Ċ', 'Ċ', 'Q', ':', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġtransparent', '.', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġtransparent', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġtransparent', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġtransparent', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġtransparent', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġtransparent', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġtransparent', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġtransparent', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa']
+
+Predicted answer: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a
+
+Expected answer: Wren is a sterpus. Sterpuses are transparent. Wren is transparent.

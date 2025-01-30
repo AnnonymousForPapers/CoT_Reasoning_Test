@@ -1,0 +1,873 @@
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token.As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+
+Model name: gpt2
+
+WARNING: Could not extend ontology due to insufficient property families.
+WARNING: Could not extend ontology due to insufficient property families.
+WARNING: Could not extend ontology due to insufficient property families.
+Q: Every impus is not floral. Alex is an impus. Prove: Alex is not floral.
+A: Alex is an impus. Every impus is not floral. Alex is not floral.
+
+Q: Every jompus is not loud. Rex is a jompus. Prove: Rex is not loud.
+A: Rex is a jompus. Every jompus is not loud. Rex is not loud.
+
+Q: Each tumpus is not liquid. Rex is a tumpus. Prove: Rex is not liquid.
+A: Rex is a tumpus. Each tumpus is not liquid. Rex is not liquid.
+
+Q: Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+A:
+
+Context length:173
+
+
+
+
+-----LLM output start-----
+
+Q: Every impus is not floral. Alex is an impus. Prove: Alex is not floral.
+A: Alex is an impus. Every impus is not floral. Alex is not floral.
+
+Q: Every jompus is not loud. Rex is a jompus. Prove: Rex is not loud.
+A: Rex is a jompus. Every jompus is not loud. Rex is not loud.
+
+Q: Each tumpus is not liquid. Rex is a tumpus. Prove: Rex is not liquid.
+A: Rex is a tumpus. Each tumpus is not liquid. Rex is not liquid.
+
+Q: Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a
+
+-----LLM output end-----
+
+
+Outputs: 
+tensor([[   48,    25,  3887,   848,   385,   318,   407, 38838,    13,  4422,
+           318,   281,   848,   385,    13,  1041,   303,    25,  4422,   318,
+           407, 38838,    13,   198,    32,    25,  4422,   318,   281,   848,
+           385,    13,  3887,   848,   385,   318,   407, 38838,    13,  4422,
+           318,   407, 38838,    13,   198,   198,    48,    25,  3887,   474,
+          3361,   385,   318,   407,  7812,    13, 17853,   318,   257,   474,
+          3361,   385,    13,  1041,   303,    25, 17853,   318,   407,  7812,
+            13,   198,    32,    25, 17853,   318,   257,   474,  3361,   385,
+            13,  3887,   474,  3361,   385,   318,   407,  7812,    13, 17853,
+           318,   407,  7812,    13,   198,   198,    48,    25,  5501,   256,
+           931,   385,   318,   407,  8122,    13, 17853,   318,   257,   256,
+           931,   385,    13,  1041,   303,    25, 17853,   318,   407,  8122,
+            13,   198,    32,    25, 17853,   318,   257,   256,   931,   385,
+            13,  5501,   256,   931,   385,   318,   407,  8122,    13, 17853,
+           318,   407,  8122,    13,   198,   198,    48,    25, 18949,    79,
+          2664,   389, 13245,    13,   370,   918,   318,   257, 12504,    79,
+           385,    13,  1041,   303,    25,   370,   918,   318, 13245,    13,
+           198,    32,    25,   370,   918,   318,   257, 12504,    79,   385,
+            13, 18949,    79,  2664,   389, 13245,    13,   370,   918,   318,
+           257, 12504,    79,   385,    13,  1041,   303,    25,   370,   918,
+           318, 13245,    13,   198,   198,    32,    25,   370,   918,   318,
+           257, 12504,    79,   385,    13, 18949,    79,  2664,   389, 13245,
+            13,   370,   918,   318,   257, 12504,    79,   385,    13,  1041,
+           303,    25,   370,   918,   318, 13245,    13,   198,   198,    32,
+            25,   370,   918,   318,   257, 12504,    79,   385,    13, 18949,
+            79,  2664,   389, 13245,    13,   370,   918,   318,   257, 12504,
+            79,   385,    13,  1041,   303,    25,   370,   918,   318, 13245,
+            13,   198,   198,    32,    25,   370,   918,   318,   257, 12504,
+            79,   385,    13, 18949,    79,  2664,   389, 13245,    13,   370,
+           918,   318,   257, 12504,    79,   385,    13,  1041,   303,    25,
+           370,   918,   318, 13245,    13,   198,   198,    32,    25,   370,
+           918,   318,   257, 12504,    79,   385,    13, 18949,    79,  2664,
+           389, 13245,    13,   370,   918,   318,   257, 12504,    79,   385,
+            13,  1041,   303,    25,   370,   918,   318, 13245,    13,   198,
+           198,    32,    25,   370,   918,   318,   257, 12504,    79,   385,
+            13, 18949,    79,  2664,   389, 13245,    13,   370,   918,   318,
+           257, 12504,    79,   385,    13,  1041,   303,    25,   370,   918,
+           318, 13245,    13,   198,   198,    32,    25,   370,   918,   318,
+           257, 12504,    79,   385,    13, 18949,    79,  2664,   389, 13245,
+            13,   370,   918,   318,   257, 12504,    79,   385,    13,  1041,
+           303,    25,   370,   918,   318, 13245,    13,   198,   198,    32,
+            25,   370,   918,   318,   257, 12504,    79,   385,    13, 18949,
+            79,  2664,   389, 13245,    13,   370,   918,   318,   257]],
+       device='cuda:0')
+Output tokens: 
+['Q', ':', 'ĠEvery', 'Ġimp', 'us', 'Ġis', 'Ġnot', 'Ġfloral', '.', 'ĠAlex', 'Ġis', 'Ġan', 'Ġimp', 'us', '.', 'ĠPro', 've', ':', 'ĠAlex', 'Ġis', 'Ġnot', 'Ġfloral', '.', 'Ċ', 'A', ':', 'ĠAlex', 'Ġis', 'Ġan', 'Ġimp', 'us', '.', 'ĠEvery', 'Ġimp', 'us', 'Ġis', 'Ġnot', 'Ġfloral', '.', 'ĠAlex', 'Ġis', 'Ġnot', 'Ġfloral', '.', 'Ċ', 'Ċ', 'Q', ':', 'ĠEvery', 'Ġj', 'omp', 'us', 'Ġis', 'Ġnot', 'Ġloud', '.', 'ĠRex', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠPro', 've', ':', 'ĠRex', 'Ġis', 'Ġnot', 'Ġloud', '.', 'Ċ', 'A', ':', 'ĠRex', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠEvery', 'Ġj', 'omp', 'us', 'Ġis', 'Ġnot', 'Ġloud', '.', 'ĠRex', 'Ġis', 'Ġnot', 'Ġloud', '.', 'Ċ', 'Ċ', 'Q', ':', 'ĠEach', 'Ġt', 'ump', 'us', 'Ġis', 'Ġnot', 'Ġliquid', '.', 'ĠRex', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠRex', 'Ġis', 'Ġnot', 'Ġliquid', '.', 'Ċ', 'A', ':', 'ĠRex', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'ĠEach', 'Ġt', 'ump', 'us', 'Ġis', 'Ġnot', 'Ġliquid', '.', 'ĠRex', 'Ġis', 'Ġnot', 'Ġliquid', '.', 'Ċ', 'Ċ', 'Q', ':', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġtransparent', '.', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġtransparent', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġtransparent', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġtransparent', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġtransparent', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġtransparent', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġtransparent', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġtransparent', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠSter', 'p', 'uses', 'Ġare', 'Ġtransparent', '.', 'ĠW', 'ren', 'Ġis', 'Ġa']
+
+Predicted answer: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a sterpus. Prove: Wren is transparent.
+
+A: Wren is a sterpus. Sterpuses are transparent. Wren is a
+
+Expected answer: Wren is a sterpus. Sterpuses are transparent. Wren is transparent.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token.As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+
+Model name: gpt2
+
+Q:  Alex is earthy. Alex is an impus. Prove: Alex is an earthy impus.
+A: Alex is an impus. Alex is earthy. Alex is an earthy impus.
+
+Q:  Alex is a numpus. Alex is hot. Prove: Alex is a hot numpus.
+A: Alex is a numpus. Alex is hot. Alex is a hot numpus.
+
+Q:  Rex is a lempus. Rex is brown. Prove: Rex is a brown lempus.
+A: Rex is a lempus. Rex is brown. Rex is a brown lempus.
+
+Q:  Polly is a yumpus. Polly is opaque. Prove: Polly is an opaque yumpus.
+A:
+
+Context length:175
+
+
+
+
+-----LLM output start-----
+
+Q:  Alex is earthy. Alex is an impus. Prove: Alex is an earthy impus.
+A: Alex is an impus. Alex is earthy. Alex is an earthy impus.
+
+Q:  Alex is a numpus. Alex is hot. Prove: Alex is a hot numpus.
+A: Alex is a numpus. Alex is hot. Alex is a hot numpus.
+
+Q:  Rex is a lempus. Rex is brown. Prove: Rex is a brown lempus.
+A: Rex is a lempus. Rex is brown. Rex is a brown lempus.
+
+Q:  Polly is a yumpus. Polly is opaque. Prove: Polly is an opaque yumpus.
+A: Polly is an opaque yumpus. Polly is opaque. Polly is opaque.
+
+Q:  Rex is a lepis. Rex is brown. Prove: Rex is a brown lepis.
+
+A: Rex is a brown lepis. Rex is brown. Rex is brown.
+
+Q:  Rex is a lepis. Rex is brown. Prove: Rex is a brown lepis.
+
+A: Rex is a brown lepis. Rex is brown. Rex is brown.
+
+Q:  Rex is a lepis. Rex is brown. Prove: Rex is a brown lepis.
+
+A: Rex is a brown lepis. Rex is brown. Rex is brown.
+
+Q:  Rex is a lepis. Rex is brown. Prove: Rex is a brown lepis.
+
+A: Rex is a brown lepis. Rex is brown. Rex is brown.
+
+Q:  Rex is a lepis. Rex is brown. Prove: Rex is a brown lepis.
+
+A: Rex is a brown lepis. Rex is brown. Rex is brown.
+
+Q: 
+
+-----LLM output end-----
+
+
+Outputs: 
+tensor([[   48,    25,   220,  4422,   318,  4534,    88,    13,  4422,   318,
+           281,   848,   385,    13,  1041,   303,    25,  4422,   318,   281,
+          4534,    88,   848,   385,    13,   198,    32,    25,  4422,   318,
+           281,   848,   385,    13,  4422,   318,  4534,    88,    13,  4422,
+           318,   281,  4534,    88,   848,   385,    13,   198,   198,    48,
+            25,   220,  4422,   318,   257,   299,   931,   385,    13,  4422,
+           318,  3024,    13,  1041,   303,    25,  4422,   318,   257,  3024,
+           299,   931,   385,    13,   198,    32,    25,  4422,   318,   257,
+           299,   931,   385,    13,  4422,   318,  3024,    13,  4422,   318,
+           257,  3024,   299,   931,   385,    13,   198,   198,    48,    25,
+           220, 17853,   318,   257,   443,  3149,   385,    13, 17853,   318,
+          7586,    13,  1041,   303,    25, 17853,   318,   257,  7586,   443,
+          3149,   385,    13,   198,    32,    25, 17853,   318,   257,   443,
+          3149,   385,    13, 17853,   318,  7586,    13, 17853,   318,   257,
+          7586,   443,  3149,   385,    13,   198,   198,    48,    25,   220,
+         36898,   318,   257,   331,   931,   385,    13, 36898,   318, 32191,
+            13,  1041,   303,    25, 36898,   318,   281, 32191,   331,   931,
+           385,    13,   198,    32,    25, 36898,   318,   281, 32191,   331,
+           931,   385,    13, 36898,   318, 32191,    13, 36898,   318, 32191,
+            13,   198,   198,    48,    25,   220, 17853,   318,   257,   443,
+            79,   271,    13, 17853,   318,  7586,    13,  1041,   303,    25,
+         17853,   318,   257,  7586,   443,    79,   271,    13,   198,   198,
+            32,    25, 17853,   318,   257,  7586,   443,    79,   271,    13,
+         17853,   318,  7586,    13, 17853,   318,  7586,    13,   198,   198,
+            48,    25,   220, 17853,   318,   257,   443,    79,   271,    13,
+         17853,   318,  7586,    13,  1041,   303,    25, 17853,   318,   257,
+          7586,   443,    79,   271,    13,   198,   198,    32,    25, 17853,
+           318,   257,  7586,   443,    79,   271,    13, 17853,   318,  7586,
+            13, 17853,   318,  7586,    13,   198,   198,    48,    25,   220,
+         17853,   318,   257,   443,    79,   271,    13, 17853,   318,  7586,
+            13,  1041,   303,    25, 17853,   318,   257,  7586,   443,    79,
+           271,    13,   198,   198,    32,    25, 17853,   318,   257,  7586,
+           443,    79,   271,    13, 17853,   318,  7586,    13, 17853,   318,
+          7586,    13,   198,   198,    48,    25,   220, 17853,   318,   257,
+           443,    79,   271,    13, 17853,   318,  7586,    13,  1041,   303,
+            25, 17853,   318,   257,  7586,   443,    79,   271,    13,   198,
+           198,    32,    25, 17853,   318,   257,  7586,   443,    79,   271,
+            13, 17853,   318,  7586,    13, 17853,   318,  7586,    13,   198,
+           198,    48,    25,   220, 17853,   318,   257,   443,    79,   271,
+            13, 17853,   318,  7586,    13,  1041,   303,    25, 17853,   318,
+           257,  7586,   443,    79,   271,    13,   198,   198,    32,    25,
+         17853,   318,   257,  7586,   443,    79,   271,    13, 17853,   318,
+          7586,    13, 17853,   318,  7586,    13,   198,   198,    48,    25,
+           220]], device='cuda:0')
+Output tokens: 
+['Q', ':', 'Ġ', 'ĠAlex', 'Ġis', 'Ġearth', 'y', '.', 'ĠAlex', 'Ġis', 'Ġan', 'Ġimp', 'us', '.', 'ĠPro', 've', ':', 'ĠAlex', 'Ġis', 'Ġan', 'Ġearth', 'y', 'Ġimp', 'us', '.', 'Ċ', 'A', ':', 'ĠAlex', 'Ġis', 'Ġan', 'Ġimp', 'us', '.', 'ĠAlex', 'Ġis', 'Ġearth', 'y', '.', 'ĠAlex', 'Ġis', 'Ġan', 'Ġearth', 'y', 'Ġimp', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠAlex', 'Ġis', 'Ġa', 'Ġn', 'ump', 'us', '.', 'ĠAlex', 'Ġis', 'Ġhot', '.', 'ĠPro', 've', ':', 'ĠAlex', 'Ġis', 'Ġa', 'Ġhot', 'Ġn', 'ump', 'us', '.', 'Ċ', 'A', ':', 'ĠAlex', 'Ġis', 'Ġa', 'Ġn', 'ump', 'us', '.', 'ĠAlex', 'Ġis', 'Ġhot', '.', 'ĠAlex', 'Ġis', 'Ġa', 'Ġhot', 'Ġn', 'ump', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠRex', 'Ġis', 'Ġa', 'Ġle', 'mp', 'us', '.', 'ĠRex', 'Ġis', 'Ġbrown', '.', 'ĠPro', 've', ':', 'ĠRex', 'Ġis', 'Ġa', 'Ġbrown', 'Ġle', 'mp', 'us', '.', 'Ċ', 'A', ':', 'ĠRex', 'Ġis', 'Ġa', 'Ġle', 'mp', 'us', '.', 'ĠRex', 'Ġis', 'Ġbrown', '.', 'ĠRex', 'Ġis', 'Ġa', 'Ġbrown', 'Ġle', 'mp', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠPolly', 'Ġis', 'Ġa', 'Ġy', 'ump', 'us', '.', 'ĠPolly', 'Ġis', 'Ġopaque', '.', 'ĠPro', 've', ':', 'ĠPolly', 'Ġis', 'Ġan', 'Ġopaque', 'Ġy', 'ump', 'us', '.', 'Ċ', 'A', ':', 'ĠPolly', 'Ġis', 'Ġan', 'Ġopaque', 'Ġy', 'ump', 'us', '.', 'ĠPolly', 'Ġis', 'Ġopaque', '.', 'ĠPolly', 'Ġis', 'Ġopaque', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠRex', 'Ġis', 'Ġa', 'Ġle', 'p', 'is', '.', 'ĠRex', 'Ġis', 'Ġbrown', '.', 'ĠPro', 've', ':', 'ĠRex', 'Ġis', 'Ġa', 'Ġbrown', 'Ġle', 'p', 'is', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠRex', 'Ġis', 'Ġa', 'Ġbrown', 'Ġle', 'p', 'is', '.', 'ĠRex', 'Ġis', 'Ġbrown', '.', 'ĠRex', 'Ġis', 'Ġbrown', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠRex', 'Ġis', 'Ġa', 'Ġle', 'p', 'is', '.', 'ĠRex', 'Ġis', 'Ġbrown', '.', 'ĠPro', 've', ':', 'ĠRex', 'Ġis', 'Ġa', 'Ġbrown', 'Ġle', 'p', 'is', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠRex', 'Ġis', 'Ġa', 'Ġbrown', 'Ġle', 'p', 'is', '.', 'ĠRex', 'Ġis', 'Ġbrown', '.', 'ĠRex', 'Ġis', 'Ġbrown', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠRex', 'Ġis', 'Ġa', 'Ġle', 'p', 'is', '.', 'ĠRex', 'Ġis', 'Ġbrown', '.', 'ĠPro', 've', ':', 'ĠRex', 'Ġis', 'Ġa', 'Ġbrown', 'Ġle', 'p', 'is', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠRex', 'Ġis', 'Ġa', 'Ġbrown', 'Ġle', 'p', 'is', '.', 'ĠRex', 'Ġis', 'Ġbrown', '.', 'ĠRex', 'Ġis', 'Ġbrown', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠRex', 'Ġis', 'Ġa', 'Ġle', 'p', 'is', '.', 'ĠRex', 'Ġis', 'Ġbrown', '.', 'ĠPro', 've', ':', 'ĠRex', 'Ġis', 'Ġa', 'Ġbrown', 'Ġle', 'p', 'is', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠRex', 'Ġis', 'Ġa', 'Ġbrown', 'Ġle', 'p', 'is', '.', 'ĠRex', 'Ġis', 'Ġbrown', '.', 'ĠRex', 'Ġis', 'Ġbrown', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠRex', 'Ġis', 'Ġa', 'Ġle', 'p', 'is', '.', 'ĠRex', 'Ġis', 'Ġbrown', '.', 'ĠPro', 've', ':', 'ĠRex', 'Ġis', 'Ġa', 'Ġbrown', 'Ġle', 'p', 'is', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠRex', 'Ġis', 'Ġa', 'Ġbrown', 'Ġle', 'p', 'is', '.', 'ĠRex', 'Ġis', 'Ġbrown', '.', 'ĠRex', 'Ġis', 'Ġbrown', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ']
+
+Predicted answer: Polly is an opaque yumpus. Polly is opaque. Polly is opaque.
+
+
+
+Expected answer: Polly is a yumpus. Polly is opaque. Polly is an opaque yumpus.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token.As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+
+Model name: gpt2
+
+WARNING: Could not extend ontology due to insufficient property families.
+Q:  Max is a hot impus. Prove: Max is an impus.
+A: Max is a hot impus. Max is an impus.
+
+Q:  Fae is a large tumpus. Prove: Fae is a tumpus.
+A: Fae is a large tumpus. Fae is a tumpus.
+
+Q:  Fae is a windy wumpus. Prove: Fae is a wumpus.
+A: Fae is a windy wumpus. Fae is a wumpus.
+
+Q:  Wren is a spicy tumpus. Prove: Wren is a tumpus.
+A:
+
+Context length:155
+
+
+
+
+-----LLM output start-----
+
+Q:  Max is a hot impus. Prove: Max is an impus.
+A: Max is a hot impus. Max is an impus.
+
+Q:  Fae is a large tumpus. Prove: Fae is a tumpus.
+A: Fae is a large tumpus. Fae is a tumpus.
+
+Q:  Fae is a windy wumpus. Prove: Fae is a wumpus.
+A: Fae is a windy wumpus. Fae is a wumpus.
+
+Q:  Wren is a spicy tumpus. Prove: Wren is a tumpus.
+A: Wren is a spicy tumpus. Wren is a tumpus.
+
+Q:  Wren is a spicy tumpus. Prove: Wren is a tumpus.
+
+A: Wren is a spicy tumpus. Wren is a tumpus.
+
+Q:  Wren is a spicy tumpus. Prove: Wren is a tumpus.
+
+A: Wren is a spicy tumpus. Wren is a tumpus.
+
+Q:  Wren is a spicy tumpus. Prove: Wren is a tumpus.
+
+A: Wren is a spicy tumpus. Wren is a tumpus.
+
+Q:  Wren is a spicy tumpus. Prove: Wren is a tumpus.
+
+A: Wren is a spicy tumpus. Wren is a tumpus.
+
+Q:  Wren is a spicy tumpus. Prove: Wren is a tumpus.
+
+A: Wren is a spicy tumpus. Wren is a tumpus.
+
+Q:  Wren is a
+
+-----LLM output end-----
+
+
+Outputs: 
+tensor([[   48,    25,   220,  5436,   318,   257,  3024,   848,   385,    13,
+          1041,   303,    25,  5436,   318,   281,   848,   385,    13,   198,
+            32,    25,  5436,   318,   257,  3024,   848,   385,    13,  5436,
+           318,   281,   848,   385,    13,   198,   198,    48,    25,   220,
+           376,  3609,   318,   257,  1588,   256,   931,   385,    13,  1041,
+           303,    25,   376,  3609,   318,   257,   256,   931,   385,    13,
+           198,    32,    25,   376,  3609,   318,   257,  1588,   256,   931,
+           385,    13,   376,  3609,   318,   257,   256,   931,   385,    13,
+           198,   198,    48,    25,   220,   376,  3609,   318,   257,  2344,
+            88,   266,   931,   385,    13,  1041,   303,    25,   376,  3609,
+           318,   257,   266,   931,   385,    13,   198,    32,    25,   376,
+          3609,   318,   257,  2344,    88,   266,   931,   385,    13,   376,
+          3609,   318,   257,   266,   931,   385,    13,   198,   198,    48,
+            25,   220,   370,   918,   318,   257, 26880,   256,   931,   385,
+            13,  1041,   303,    25,   370,   918,   318,   257,   256,   931,
+           385,    13,   198,    32,    25,   370,   918,   318,   257, 26880,
+           256,   931,   385,    13,   370,   918,   318,   257,   256,   931,
+           385,    13,   198,   198,    48,    25,   220,   370,   918,   318,
+           257, 26880,   256,   931,   385,    13,  1041,   303,    25,   370,
+           918,   318,   257,   256,   931,   385,    13,   198,   198,    32,
+            25,   370,   918,   318,   257, 26880,   256,   931,   385,    13,
+           370,   918,   318,   257,   256,   931,   385,    13,   198,   198,
+            48,    25,   220,   370,   918,   318,   257, 26880,   256,   931,
+           385,    13,  1041,   303,    25,   370,   918,   318,   257,   256,
+           931,   385,    13,   198,   198,    32,    25,   370,   918,   318,
+           257, 26880,   256,   931,   385,    13,   370,   918,   318,   257,
+           256,   931,   385,    13,   198,   198,    48,    25,   220,   370,
+           918,   318,   257, 26880,   256,   931,   385,    13,  1041,   303,
+            25,   370,   918,   318,   257,   256,   931,   385,    13,   198,
+           198,    32,    25,   370,   918,   318,   257, 26880,   256,   931,
+           385,    13,   370,   918,   318,   257,   256,   931,   385,    13,
+           198,   198,    48,    25,   220,   370,   918,   318,   257, 26880,
+           256,   931,   385,    13,  1041,   303,    25,   370,   918,   318,
+           257,   256,   931,   385,    13,   198,   198,    32,    25,   370,
+           918,   318,   257, 26880,   256,   931,   385,    13,   370,   918,
+           318,   257,   256,   931,   385,    13,   198,   198,    48,    25,
+           220,   370,   918,   318,   257, 26880,   256,   931,   385,    13,
+          1041,   303,    25,   370,   918,   318,   257,   256,   931,   385,
+            13,   198,   198,    32,    25,   370,   918,   318,   257, 26880,
+           256,   931,   385,    13,   370,   918,   318,   257,   256,   931,
+           385,    13,   198,   198,    48,    25,   220,   370,   918,   318,
+           257]], device='cuda:0')
+Output tokens: 
+['Q', ':', 'Ġ', 'ĠMax', 'Ġis', 'Ġa', 'Ġhot', 'Ġimp', 'us', '.', 'ĠPro', 've', ':', 'ĠMax', 'Ġis', 'Ġan', 'Ġimp', 'us', '.', 'Ċ', 'A', ':', 'ĠMax', 'Ġis', 'Ġa', 'Ġhot', 'Ġimp', 'us', '.', 'ĠMax', 'Ġis', 'Ġan', 'Ġimp', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠF', 'ae', 'Ġis', 'Ġa', 'Ġlarge', 'Ġt', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠF', 'ae', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'Ċ', 'A', ':', 'ĠF', 'ae', 'Ġis', 'Ġa', 'Ġlarge', 'Ġt', 'ump', 'us', '.', 'ĠF', 'ae', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠF', 'ae', 'Ġis', 'Ġa', 'Ġwind', 'y', 'Ġw', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠF', 'ae', 'Ġis', 'Ġa', 'Ġw', 'ump', 'us', '.', 'Ċ', 'A', ':', 'ĠF', 'ae', 'Ġis', 'Ġa', 'Ġwind', 'y', 'Ġw', 'ump', 'us', '.', 'ĠF', 'ae', 'Ġis', 'Ġa', 'Ġw', 'ump', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġspicy', 'Ġt', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġspicy', 'Ġt', 'ump', 'us', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġspicy', 'Ġt', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġspicy', 'Ġt', 'ump', 'us', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġspicy', 'Ġt', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġspicy', 'Ġt', 'ump', 'us', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġspicy', 'Ġt', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġspicy', 'Ġt', 'ump', 'us', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġspicy', 'Ġt', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġspicy', 'Ġt', 'ump', 'us', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġspicy', 'Ġt', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġspicy', 'Ġt', 'ump', 'us', '.', 'ĠW', 'ren', 'Ġis', 'Ġa', 'Ġt', 'ump', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠW', 'ren', 'Ġis', 'Ġa']
+
+Predicted answer: Wren is a spicy tumpus. Wren is a tumpus.
+
+
+
+Expected answer: Wren is a spicy tumpus. Wren is a tumpus.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token.As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+
+Model name: gpt2
+
+Q:  Alex is an impus. Prove: Alex is earthy or an impus.
+A: Alex is an impus. Alex is earthy or an impus.
+
+Q:  Alex is a numpus. Prove: Alex is floral or a numpus.
+A: Alex is a numpus. Alex is floral or a numpus.
+
+Q:  Rex is a lempus. Prove: Rex is brown or a lempus.
+A: Rex is a lempus. Rex is brown or a lempus.
+
+Q:  Fae is a wumpus. Prove: Fae is opaque or a wumpus.
+A:
+
+Context length:154
+
+
+
+
+-----LLM output start-----
+
+Q:  Alex is an impus. Prove: Alex is earthy or an impus.
+A: Alex is an impus. Alex is earthy or an impus.
+
+Q:  Alex is a numpus. Prove: Alex is floral or a numpus.
+A: Alex is a numpus. Alex is floral or a numpus.
+
+Q:  Rex is a lempus. Prove: Rex is brown or a lempus.
+A: Rex is a lempus. Rex is brown or a lempus.
+
+Q:  Fae is a wumpus. Prove: Fae is opaque or a wumpus.
+A: Fae is opaque or a wumpus. Fae is opaque or a wumpus.
+
+Q:  Rex is a wumpus. Prove: Rex is brown or a wumpus.
+
+A: Rex is brown or a wumpus. Rex is brown or a wumpus.
+
+Q:  Rex is a wumpus. Prove: Rex is brown or a wumpus.
+
+A: Rex is brown or a wumpus. Rex is brown or a wumpus.
+
+Q:  Rex is a wumpus. Prove: Rex is brown or a wumpus.
+
+A: Rex is brown or a wumpus. Rex is brown or a wumpus.
+
+Q:  Rex is a wumpus. Prove: Rex is brown or a wumpus.
+
+A: Rex is brown or a wumpus. Rex is brown or a wumpus.
+
+Q:  Rex is a wumpus. Prove: Rex is brown or a wumpus.
+
+A: Rex is brown or a wumpus. Rex is brown or a wumpus.
+
+Q:  Rex
+
+-----LLM output end-----
+
+
+Outputs: 
+tensor([[   48,    25,   220,  4422,   318,   281,   848,   385,    13,  1041,
+           303,    25,  4422,   318,  4534,    88,   393,   281,   848,   385,
+            13,   198,    32,    25,  4422,   318,   281,   848,   385,    13,
+          4422,   318,  4534,    88,   393,   281,   848,   385,    13,   198,
+           198,    48,    25,   220,  4422,   318,   257,   299,   931,   385,
+            13,  1041,   303,    25,  4422,   318, 38838,   393,   257,   299,
+           931,   385,    13,   198,    32,    25,  4422,   318,   257,   299,
+           931,   385,    13,  4422,   318, 38838,   393,   257,   299,   931,
+           385,    13,   198,   198,    48,    25,   220, 17853,   318,   257,
+           443,  3149,   385,    13,  1041,   303,    25, 17853,   318,  7586,
+           393,   257,   443,  3149,   385,    13,   198,    32,    25, 17853,
+           318,   257,   443,  3149,   385,    13, 17853,   318,  7586,   393,
+           257,   443,  3149,   385,    13,   198,   198,    48,    25,   220,
+           376,  3609,   318,   257,   266,   931,   385,    13,  1041,   303,
+            25,   376,  3609,   318, 32191,   393,   257,   266,   931,   385,
+            13,   198,    32,    25,   376,  3609,   318, 32191,   393,   257,
+           266,   931,   385,    13,   376,  3609,   318, 32191,   393,   257,
+           266,   931,   385,    13,   198,   198,    48,    25,   220, 17853,
+           318,   257,   266,   931,   385,    13,  1041,   303,    25, 17853,
+           318,  7586,   393,   257,   266,   931,   385,    13,   198,   198,
+            32,    25, 17853,   318,  7586,   393,   257,   266,   931,   385,
+            13, 17853,   318,  7586,   393,   257,   266,   931,   385,    13,
+           198,   198,    48,    25,   220, 17853,   318,   257,   266,   931,
+           385,    13,  1041,   303,    25, 17853,   318,  7586,   393,   257,
+           266,   931,   385,    13,   198,   198,    32,    25, 17853,   318,
+          7586,   393,   257,   266,   931,   385,    13, 17853,   318,  7586,
+           393,   257,   266,   931,   385,    13,   198,   198,    48,    25,
+           220, 17853,   318,   257,   266,   931,   385,    13,  1041,   303,
+            25, 17853,   318,  7586,   393,   257,   266,   931,   385,    13,
+           198,   198,    32,    25, 17853,   318,  7586,   393,   257,   266,
+           931,   385,    13, 17853,   318,  7586,   393,   257,   266,   931,
+           385,    13,   198,   198,    48,    25,   220, 17853,   318,   257,
+           266,   931,   385,    13,  1041,   303,    25, 17853,   318,  7586,
+           393,   257,   266,   931,   385,    13,   198,   198,    32,    25,
+         17853,   318,  7586,   393,   257,   266,   931,   385,    13, 17853,
+           318,  7586,   393,   257,   266,   931,   385,    13,   198,   198,
+            48,    25,   220, 17853,   318,   257,   266,   931,   385,    13,
+          1041,   303,    25, 17853,   318,  7586,   393,   257,   266,   931,
+           385,    13,   198,   198,    32,    25, 17853,   318,  7586,   393,
+           257,   266,   931,   385,    13, 17853,   318,  7586,   393,   257,
+           266,   931,   385,    13,   198,   198,    48,    25,   220, 17853]],
+       device='cuda:0')
+Output tokens: 
+['Q', ':', 'Ġ', 'ĠAlex', 'Ġis', 'Ġan', 'Ġimp', 'us', '.', 'ĠPro', 've', ':', 'ĠAlex', 'Ġis', 'Ġearth', 'y', 'Ġor', 'Ġan', 'Ġimp', 'us', '.', 'Ċ', 'A', ':', 'ĠAlex', 'Ġis', 'Ġan', 'Ġimp', 'us', '.', 'ĠAlex', 'Ġis', 'Ġearth', 'y', 'Ġor', 'Ġan', 'Ġimp', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠAlex', 'Ġis', 'Ġa', 'Ġn', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠAlex', 'Ġis', 'Ġfloral', 'Ġor', 'Ġa', 'Ġn', 'ump', 'us', '.', 'Ċ', 'A', ':', 'ĠAlex', 'Ġis', 'Ġa', 'Ġn', 'ump', 'us', '.', 'ĠAlex', 'Ġis', 'Ġfloral', 'Ġor', 'Ġa', 'Ġn', 'ump', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠRex', 'Ġis', 'Ġa', 'Ġle', 'mp', 'us', '.', 'ĠPro', 've', ':', 'ĠRex', 'Ġis', 'Ġbrown', 'Ġor', 'Ġa', 'Ġle', 'mp', 'us', '.', 'Ċ', 'A', ':', 'ĠRex', 'Ġis', 'Ġa', 'Ġle', 'mp', 'us', '.', 'ĠRex', 'Ġis', 'Ġbrown', 'Ġor', 'Ġa', 'Ġle', 'mp', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠF', 'ae', 'Ġis', 'Ġa', 'Ġw', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠF', 'ae', 'Ġis', 'Ġopaque', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'Ċ', 'A', ':', 'ĠF', 'ae', 'Ġis', 'Ġopaque', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'ĠF', 'ae', 'Ġis', 'Ġopaque', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠRex', 'Ġis', 'Ġa', 'Ġw', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠRex', 'Ġis', 'Ġbrown', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠRex', 'Ġis', 'Ġbrown', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'ĠRex', 'Ġis', 'Ġbrown', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠRex', 'Ġis', 'Ġa', 'Ġw', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠRex', 'Ġis', 'Ġbrown', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠRex', 'Ġis', 'Ġbrown', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'ĠRex', 'Ġis', 'Ġbrown', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠRex', 'Ġis', 'Ġa', 'Ġw', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠRex', 'Ġis', 'Ġbrown', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠRex', 'Ġis', 'Ġbrown', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'ĠRex', 'Ġis', 'Ġbrown', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠRex', 'Ġis', 'Ġa', 'Ġw', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠRex', 'Ġis', 'Ġbrown', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠRex', 'Ġis', 'Ġbrown', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'ĠRex', 'Ġis', 'Ġbrown', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠRex', 'Ġis', 'Ġa', 'Ġw', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠRex', 'Ġis', 'Ġbrown', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠRex', 'Ġis', 'Ġbrown', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'ĠRex', 'Ġis', 'Ġbrown', 'Ġor', 'Ġa', 'Ġw', 'ump', 'us', '.', 'Ċ', 'Ċ', 'Q', ':', 'Ġ', 'ĠRex']
+
+Predicted answer: Fae is opaque or a wumpus. Fae is opaque or a wumpus.
+
+
+
+Expected answer: Fae is a wumpus. Fae is opaque or a wumpus.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token.As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+
+Model name: gpt2
+
+Q: Lempuses are jompuses. Grimpuses are jompuses. Alex is a lempus or a grimpus. Prove: Alex is a jompus.
+
+A: Assume Alex is a lempus. Lempuses are jompuses. Alex is a jompus.
+
+ Assume Alex is a grimpus. Grimpuses are jompuses. Alex is a jompus.
+
+ Since Alex is a lempus or a grimpus, Alex is a jompus.
+
+
+Q: Every sterpus is a gorpus. Lempuses are gorpuses. Sally is a sterpus or a lempus. Prove: Sally is a gorpus.
+
+A: Assume Sally is a sterpus. Every sterpus is a gorpus. Sally is a gorpus.
+
+ Assume Sally is a lempus. Lempuses are gorpuses. Sally is a gorpus.
+
+ Since Sally is a sterpus or a lempus, Sally is a gorpus.
+
+
+Q: Shumpuses are jompuses. Rompuses are jompuses. Sally is a shumpus or a rompus. Prove: Sally is a jompus.
+
+A: Assume Sally is a shumpus. Shumpuses are jompuses. Sally is a jompus.
+
+ Assume Sally is a rompus. Rompuses are jompuses. Sally is a jompus.
+
+ Since Sally is a shumpus or a rompus, Sally is a jompus.
+
+
+Q: Jompuses are yumpuses. Each impus is a yumpus. Max is a jompus or an impus. Prove: Max is a yumpus.
+
+A:
+
+Context length:396
+
+
+
+
+-----LLM output start-----
+
+Q: Lempuses are jompuses. Grimpuses are jompuses. Alex is a lempus or a grimpus. Prove: Alex is a jompus.
+
+A: Assume Alex is a lempus. Lempuses are jompuses. Alex is a jompus.
+
+ Assume Alex is a grimpus. Grimpuses are jompuses. Alex is a jompus.
+
+ Since Alex is a lempus or a grimpus, Alex is a jompus.
+
+
+Q: Every sterpus is a gorpus. Lempuses are gorpuses. Sally is a sterpus or a lempus. Prove: Sally is a gorpus.
+
+A: Assume Sally is a sterpus. Every sterpus is a gorpus. Sally is a gorpus.
+
+ Assume Sally is a lempus. Lempuses are gorpuses. Sally is a gorpus.
+
+ Since Sally is a sterpus or a lempus, Sally is a gorpus.
+
+
+Q: Shumpuses are jompuses. Rompuses are jompuses. Sally is a shumpus or a rompus. Prove: Sally is a jompus.
+
+A: Assume Sally is a shumpus. Shumpuses are jompuses. Sally is a jompus.
+
+ Assume Sally is a rompus. Rompuses are jompuses. Sally is a jompus.
+
+ Since Sally is a shumpus or a rompus, Sally is a jompus.
+
+
+Q: Jompuses are yumpuses. Each impus is a yumpus. Max is a jompus or an impus. Prove: Max is a yumpus.
+
+A: Assume Max is a yumpus. Jompuses are yumpuses. Each impus is a jompus.
+
+
+Assume Max is a jompus. Jompuses are yumpuses. Each impus is a jompus.
+
+
+Since Max is a jompus or an impus, Max is a jompus.
+
+
+Q: Jompuses are yumpuses. Each impus is a yumpus. Max is a jompus or an impus. Prove: Max is a jompus.
+
+A: Assume Max is a jompus. Jompuses are yumpuses. Each impus is a jompus.
+
+
+Assume Max is a jompus. Jompuses are yumpuses. Each impus is a jompus.
+
+
+Since Max is a jompus or an impus, Max is a jompus.
+
+
+Q: Jompuses are yumpuses. Each impus is a yumpus. Max is a jompus or an impus. Prove: Max is a jompus.
+
+A: Assume Max is a jompus. Jompuses are y
+
+-----LLM output end-----
+
+
+Outputs: 
+tensor([[   48,    25, 20607,    79,  2664,   389,   474,  3361,  2664,    13,
+          1902, 11011,  2664,   389,   474,  3361,  2664,    13,  4422,   318,
+           257,   443,  3149,   385,   393,   257,  1036, 11011,   385,    13,
+          1041,   303,    25,  4422,   318,   257,   474,  3361,   385,    13,
+           198,   198,    32,    25,  2195,  2454,  4422,   318,   257,   443,
+          3149,   385,    13, 20607,    79,  2664,   389,   474,  3361,  2664,
+            13,  4422,   318,   257,   474,  3361,   385,    13,   628,  2195,
+          2454,  4422,   318,   257,  1036, 11011,   385,    13,  1902, 11011,
+          2664,   389,   474,  3361,  2664,    13,  4422,   318,   257,   474,
+          3361,   385,    13,   628,  4619,  4422,   318,   257,   443,  3149,
+           385,   393,   257,  1036, 11011,   385,    11,  4422,   318,   257,
+           474,  3361,   385,    13,   628,   198,    48,    25,  3887, 12504,
+            79,   385,   318,   257,   308, 16300,   385,    13, 20607,    79,
+          2664,   389,   308, 16300,  2664,    13, 25737,   318,   257, 12504,
+            79,   385,   393,   257,   443,  3149,   385,    13,  1041,   303,
+            25, 25737,   318,   257,   308, 16300,   385,    13,   198,   198,
+            32,    25,  2195,  2454, 25737,   318,   257, 12504,    79,   385,
+            13,  3887, 12504,    79,   385,   318,   257,   308, 16300,   385,
+            13, 25737,   318,   257,   308, 16300,   385,    13,   628,  2195,
+          2454, 25737,   318,   257,   443,  3149,   385,    13, 20607,    79,
+          2664,   389,   308, 16300,  2664,    13, 25737,   318,   257,   308,
+         16300,   385,    13,   628,  4619, 25737,   318,   257, 12504,    79,
+           385,   393,   257,   443,  3149,   385,    11, 25737,   318,   257,
+           308, 16300,   385,    13,   628,   198,    48,    25,   911,   931,
+          2664,   389,   474,  3361,  2664,    13,   371,  3361,  2664,   389,
+           474,  3361,  2664,    13, 25737,   318,   257,   427,   931,   385,
+           393,   257,   374,  3361,   385,    13,  1041,   303,    25, 25737,
+           318,   257,   474,  3361,   385,    13,   198,   198,    32,    25,
+          2195,  2454, 25737,   318,   257,   427,   931,   385,    13,   911,
+           931,  2664,   389,   474,  3361,  2664,    13, 25737,   318,   257,
+           474,  3361,   385,    13,   628,  2195,  2454, 25737,   318,   257,
+           374,  3361,   385,    13,   371,  3361,  2664,   389,   474,  3361,
+          2664,    13, 25737,   318,   257,   474,  3361,   385,    13,   628,
+          4619, 25737,   318,   257,   427,   931,   385,   393,   257,   374,
+          3361,   385,    11, 25737,   318,   257,   474,  3361,   385,    13,
+           628,   198,    48,    25,   449,  3361,  2664,   389,   331,   931,
+          2664,    13,  5501,   848,   385,   318,   257,   331,   931,   385,
+            13,  5436,   318,   257,   474,  3361,   385,   393,   281,   848,
+           385,    13,  1041,   303,    25,  5436,   318,   257,   331,   931,
+           385,    13,   198,   198,    32,    25,  2195,  2454,  5436,   318,
+           257,   331,   931,   385,    13,   449,  3361,  2664,   389,   331,
+           931,  2664,    13,  5501,   848,   385,   318,   257,   474,  3361,
+           385,    13,   628,   198,  8021,  2454,  5436,   318,   257,   474,
+          3361,   385,    13,   449,  3361,  2664,   389,   331,   931,  2664,
+            13,  5501,   848,   385,   318,   257,   474,  3361,   385,    13,
+           628,   198,  6385,  5436,   318,   257,   474,  3361,   385,   393,
+           281,   848,   385,    11,  5436,   318,   257,   474,  3361,   385,
+            13,   628,   198,    48,    25,   449,  3361,  2664,   389,   331,
+           931,  2664,    13,  5501,   848,   385,   318,   257,   331,   931,
+           385,    13,  5436,   318,   257,   474,  3361,   385,   393,   281,
+           848,   385,    13,  1041,   303,    25,  5436,   318,   257,   474,
+          3361,   385,    13,   198,   198,    32,    25,  2195,  2454,  5436,
+           318,   257,   474,  3361,   385,    13,   449,  3361,  2664,   389,
+           331,   931,  2664,    13,  5501,   848,   385,   318,   257,   474,
+          3361,   385,    13,   628,   198,  8021,  2454,  5436,   318,   257,
+           474,  3361,   385,    13,   449,  3361,  2664,   389,   331,   931,
+          2664,    13,  5501,   848,   385,   318,   257,   474,  3361,   385,
+            13,   628,   198,  6385,  5436,   318,   257,   474,  3361,   385,
+           393,   281,   848,   385,    11,  5436,   318,   257,   474,  3361,
+           385,    13,   628,   198,    48,    25,   449,  3361,  2664,   389,
+           331,   931,  2664,    13,  5501,   848,   385,   318,   257,   331,
+           931,   385,    13,  5436,   318,   257,   474,  3361,   385,   393,
+           281,   848,   385,    13,  1041,   303,    25,  5436,   318,   257,
+           474,  3361,   385,    13,   198,   198,    32,    25,  2195,  2454,
+          5436,   318,   257,   474,  3361,   385,    13,   449,  3361,  2664,
+           389,   331]], device='cuda:0')
+Output tokens: 
+['Q', ':', 'ĠLem', 'p', 'uses', 'Ġare', 'Ġj', 'omp', 'uses', '.', 'ĠGr', 'imp', 'uses', 'Ġare', 'Ġj', 'omp', 'uses', '.', 'ĠAlex', 'Ġis', 'Ġa', 'Ġle', 'mp', 'us', 'Ġor', 'Ġa', 'Ġgr', 'imp', 'us', '.', 'ĠPro', 've', ':', 'ĠAlex', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠAss', 'ume', 'ĠAlex', 'Ġis', 'Ġa', 'Ġle', 'mp', 'us', '.', 'ĠLem', 'p', 'uses', 'Ġare', 'Ġj', 'omp', 'uses', '.', 'ĠAlex', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĊĊ', 'ĠAss', 'ume', 'ĠAlex', 'Ġis', 'Ġa', 'Ġgr', 'imp', 'us', '.', 'ĠGr', 'imp', 'uses', 'Ġare', 'Ġj', 'omp', 'uses', '.', 'ĠAlex', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĊĊ', 'ĠSince', 'ĠAlex', 'Ġis', 'Ġa', 'Ġle', 'mp', 'us', 'Ġor', 'Ġa', 'Ġgr', 'imp', 'us', ',', 'ĠAlex', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĊĊ', 'Ċ', 'Q', ':', 'ĠEvery', 'Ġster', 'p', 'us', 'Ġis', 'Ġa', 'Ġg', 'orp', 'us', '.', 'ĠLem', 'p', 'uses', 'Ġare', 'Ġg', 'orp', 'uses', '.', 'ĠSally', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', 'Ġor', 'Ġa', 'Ġle', 'mp', 'us', '.', 'ĠPro', 've', ':', 'ĠSally', 'Ġis', 'Ġa', 'Ġg', 'orp', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠAss', 'ume', 'ĠSally', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠEvery', 'Ġster', 'p', 'us', 'Ġis', 'Ġa', 'Ġg', 'orp', 'us', '.', 'ĠSally', 'Ġis', 'Ġa', 'Ġg', 'orp', 'us', '.', 'ĊĊ', 'ĠAss', 'ume', 'ĠSally', 'Ġis', 'Ġa', 'Ġle', 'mp', 'us', '.', 'ĠLem', 'p', 'uses', 'Ġare', 'Ġg', 'orp', 'uses', '.', 'ĠSally', 'Ġis', 'Ġa', 'Ġg', 'orp', 'us', '.', 'ĊĊ', 'ĠSince', 'ĠSally', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', 'Ġor', 'Ġa', 'Ġle', 'mp', 'us', ',', 'ĠSally', 'Ġis', 'Ġa', 'Ġg', 'orp', 'us', '.', 'ĊĊ', 'Ċ', 'Q', ':', 'ĠSh', 'ump', 'uses', 'Ġare', 'Ġj', 'omp', 'uses', '.', 'ĠR', 'omp', 'uses', 'Ġare', 'Ġj', 'omp', 'uses', '.', 'ĠSally', 'Ġis', 'Ġa', 'Ġsh', 'ump', 'us', 'Ġor', 'Ġa', 'Ġr', 'omp', 'us', '.', 'ĠPro', 've', ':', 'ĠSally', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠAss', 'ume', 'ĠSally', 'Ġis', 'Ġa', 'Ġsh', 'ump', 'us', '.', 'ĠSh', 'ump', 'uses', 'Ġare', 'Ġj', 'omp', 'uses', '.', 'ĠSally', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĊĊ', 'ĠAss', 'ume', 'ĠSally', 'Ġis', 'Ġa', 'Ġr', 'omp', 'us', '.', 'ĠR', 'omp', 'uses', 'Ġare', 'Ġj', 'omp', 'uses', '.', 'ĠSally', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĊĊ', 'ĠSince', 'ĠSally', 'Ġis', 'Ġa', 'Ġsh', 'ump', 'us', 'Ġor', 'Ġa', 'Ġr', 'omp', 'us', ',', 'ĠSally', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĊĊ', 'Ċ', 'Q', ':', 'ĠJ', 'omp', 'uses', 'Ġare', 'Ġy', 'ump', 'uses', '.', 'ĠEach', 'Ġimp', 'us', 'Ġis', 'Ġa', 'Ġy', 'ump', 'us', '.', 'ĠMax', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', 'Ġor', 'Ġan', 'Ġimp', 'us', '.', 'ĠPro', 've', ':', 'ĠMax', 'Ġis', 'Ġa', 'Ġy', 'ump', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠAss', 'ume', 'ĠMax', 'Ġis', 'Ġa', 'Ġy', 'ump', 'us', '.', 'ĠJ', 'omp', 'uses', 'Ġare', 'Ġy', 'ump', 'uses', '.', 'ĠEach', 'Ġimp', 'us', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĊĊ', 'Ċ', 'Ass', 'ume', 'ĠMax', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠJ', 'omp', 'uses', 'Ġare', 'Ġy', 'ump', 'uses', '.', 'ĠEach', 'Ġimp', 'us', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĊĊ', 'Ċ', 'Since', 'ĠMax', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', 'Ġor', 'Ġan', 'Ġimp', 'us', ',', 'ĠMax', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĊĊ', 'Ċ', 'Q', ':', 'ĠJ', 'omp', 'uses', 'Ġare', 'Ġy', 'ump', 'uses', '.', 'ĠEach', 'Ġimp', 'us', 'Ġis', 'Ġa', 'Ġy', 'ump', 'us', '.', 'ĠMax', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', 'Ġor', 'Ġan', 'Ġimp', 'us', '.', 'ĠPro', 've', ':', 'ĠMax', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠAss', 'ume', 'ĠMax', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠJ', 'omp', 'uses', 'Ġare', 'Ġy', 'ump', 'uses', '.', 'ĠEach', 'Ġimp', 'us', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĊĊ', 'Ċ', 'Ass', 'ume', 'ĠMax', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠJ', 'omp', 'uses', 'Ġare', 'Ġy', 'ump', 'uses', '.', 'ĠEach', 'Ġimp', 'us', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĊĊ', 'Ċ', 'Since', 'ĠMax', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', 'Ġor', 'Ġan', 'Ġimp', 'us', ',', 'ĠMax', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĊĊ', 'Ċ', 'Q', ':', 'ĠJ', 'omp', 'uses', 'Ġare', 'Ġy', 'ump', 'uses', '.', 'ĠEach', 'Ġimp', 'us', 'Ġis', 'Ġa', 'Ġy', 'ump', 'us', '.', 'ĠMax', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', 'Ġor', 'Ġan', 'Ġimp', 'us', '.', 'ĠPro', 've', ':', 'ĠMax', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠAss', 'ume', 'ĠMax', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠJ', 'omp', 'uses', 'Ġare', 'Ġy']
+
+Predicted answer: Assume Max is a yumpus. Jompuses are yumpuses. Each impus is a jompus.
+
+
+Assume Max is a jompus. Jompuses are yumpuses. Each impus is a jompus.
+
+
+Since Max is a jompus or an impus, Max is a jompus.
+
+
+
+
+Expected answer: Assume Max is a jompus. Jompuses are yumpuses. Max is a yumpus.
+
+ Assume Max is an impus. Each impus is a yumpus. Max is a yumpus.
+
+ Since Max is a jompus or an impus, Max is a yumpus.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token.As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+
+Model name: gpt2
+
+Q: Everything that is a lempus or a grimpus is a jompus. Alex is not a jompus. Prove: Alex is not a grimpus and Alex is not a lempus.
+
+A: Assume Alex is a grimpus. Alex is a lempus or a grimpus. Everything that is a lempus or a grimpus is a jompus. Alex is a jompus. This contradicts with Alex is not a jompus. Alex is not a grimpus.
+
+ Assume Alex is a lempus. Alex is a lempus or a grimpus. Everything that is a lempus or a grimpus is a jompus. Alex is a jompus. This contradicts with Alex is not a jompus. Alex is not a lempus.
+
+ Alex is not a grimpus and Alex is not a lempus.
+
+
+Q: Everything that is a sterpus or a lempus is a gorpus. Sally is not a gorpus. Prove: Sally is not a lempus and Sally is not a sterpus.
+
+A: Assume Sally is a lempus. Sally is a sterpus or a lempus. Everything that is a sterpus or a lempus is a gorpus. Sally is a gorpus. This contradicts with Sally is not a gorpus. Sally is not a lempus.
+
+ Assume Sally is a sterpus. Sally is a sterpus or a lempus. Everything that is a sterpus or a lempus is a gorpus. Sally is a gorpus. This contradicts with Sally is not a gorpus. Sally is not a sterpus.
+
+ Sally is not a lempus and Sally is not a sterpus.
+
+
+Q: Everything that is a shumpus or a rompus is a jompus. Sally is not a jompus. Prove: Sally is not a rompus and Sally is not a shumpus.
+
+A: Assume Sally is a rompus. Sally is a shumpus or a rompus. Everything that is a shumpus or a rompus is a jompus. Sally is a jompus. This contradicts with Sally is not a jompus. Sally is not a rompus.
+
+ Assume Sally is a shumpus. Sally is a shumpus or a rompus. Everything that is a shumpus or a rompus is a jompus. Sally is a jompus. This contradicts with Sally is not a jompus. Sally is not a shumpus.
+
+ Sally is not a rompus and Sally is not a shumpus.
+
+
+Q: Everything that is a jompus or an impus is a yumpus. Max is not a yumpus. Prove: Max is not an impus and Max is not a jompus.
+
+A:
+
+Context length:652
+
+
+
+
+-----LLM output start-----
+
+Q: Everything that is a lempus or a grimpus is a jompus. Alex is not a jompus. Prove: Alex is not a grimpus and Alex is not a lempus.
+
+A: Assume Alex is a grimpus. Alex is a lempus or a grimpus. Everything that is a lempus or a grimpus is a jompus. Alex is a jompus. This contradicts with Alex is not a jompus. Alex is not a grimpus.
+
+ Assume Alex is a lempus. Alex is a lempus or a grimpus. Everything that is a lempus or a grimpus is a jompus. Alex is a jompus. This contradicts with Alex is not a jompus. Alex is not a lempus.
+
+ Alex is not a grimpus and Alex is not a lempus.
+
+
+Q: Everything that is a sterpus or a lempus is a gorpus. Sally is not a gorpus. Prove: Sally is not a lempus and Sally is not a sterpus.
+
+A: Assume Sally is a lempus. Sally is a sterpus or a lempus. Everything that is a sterpus or a lempus is a gorpus. Sally is a gorpus. This contradicts with Sally is not a gorpus. Sally is not a lempus.
+
+ Assume Sally is a sterpus. Sally is a sterpus or a lempus. Everything that is a sterpus or a lempus is a gorpus. Sally is a gorpus. This contradicts with Sally is not a gorpus. Sally is not a sterpus.
+
+ Sally is not a lempus and Sally is not a sterpus.
+
+
+Q: Everything that is a shumpus or a rompus is a jompus. Sally is not a jompus. Prove: Sally is not a rompus and Sally is not a shumpus.
+
+A: Assume Sally is a rompus. Sally is a shumpus or a rompus. Everything that is a shumpus or a rompus is a jompus. Sally is a jompus. This contradicts with Sally is not a jompus. Sally is not a rompus.
+
+ Assume Sally is a shumpus. Sally is a shumpus or a rompus. Everything that is a shumpus or a rompus is a jompus. Sally is a jompus. This contradicts with Sally is not a jompus. Sally is not a shumpus.
+
+ Sally is not a rompus and Sally is not a shumpus.
+
+
+Q: Everything that is a jompus or an impus is a yumpus. Max is not a yumpus. Prove: Max is not an impus and Max is not a jompus.
+
+A: Assume Max is not an impus and Max is not a jompus. Everything that is a jompus or an impus is a yumpus. Max is not a yumpus. This contradicts with Max is not a jompus. Max is not a jompus.
+
+
+Assume Max is not an impus and Max is not a jompus. Everything that is a jompus or an impus is a yumpus. Max is not a yumpus. This contradicts with Max is not a jompus. Max is not a jompus.
+
+
+Max is not a yumpus. This contradicts with Max is not a jompus. Max is not a jompus.
+
+
+Max is not a jompus and Max is not a jompus.
+
+
+Q: Everything that is a jompus or an impus is a yumpus. Max is not a yumpus. Prove: Max is not an impus and Max is not a jompus. Everything that is a jompus or an impus is a yumpus. Max is not a yumpus. This contradicts with Max is not a jompus. Max is
+
+-----LLM output end-----
+
+
+Outputs: 
+tensor([[   48,    25, 11391,   326,   318,   257,   443,  3149,   385,   393,
+           257,  1036, 11011,   385,   318,   257,   474,  3361,   385,    13,
+          4422,   318,   407,   257,   474,  3361,   385,    13,  1041,   303,
+            25,  4422,   318,   407,   257,  1036, 11011,   385,   290,  4422,
+           318,   407,   257,   443,  3149,   385,    13,   198,   198,    32,
+            25,  2195,  2454,  4422,   318,   257,  1036, 11011,   385,    13,
+          4422,   318,   257,   443,  3149,   385,   393,   257,  1036, 11011,
+           385,    13, 11391,   326,   318,   257,   443,  3149,   385,   393,
+           257,  1036, 11011,   385,   318,   257,   474,  3361,   385,    13,
+          4422,   318,   257,   474,  3361,   385,    13,   770, 40081,   351,
+          4422,   318,   407,   257,   474,  3361,   385,    13,  4422,   318,
+           407,   257,  1036, 11011,   385,    13,   628,  2195,  2454,  4422,
+           318,   257,   443,  3149,   385,    13,  4422,   318,   257,   443,
+          3149,   385,   393,   257,  1036, 11011,   385,    13, 11391,   326,
+           318,   257,   443,  3149,   385,   393,   257,  1036, 11011,   385,
+           318,   257,   474,  3361,   385,    13,  4422,   318,   257,   474,
+          3361,   385,    13,   770, 40081,   351,  4422,   318,   407,   257,
+           474,  3361,   385,    13,  4422,   318,   407,   257,   443,  3149,
+           385,    13,   628,  4422,   318,   407,   257,  1036, 11011,   385,
+           290,  4422,   318,   407,   257,   443,  3149,   385,    13,   628,
+           198,    48,    25, 11391,   326,   318,   257, 12504,    79,   385,
+           393,   257,   443,  3149,   385,   318,   257,   308, 16300,   385,
+            13, 25737,   318,   407,   257,   308, 16300,   385,    13,  1041,
+           303,    25, 25737,   318,   407,   257,   443,  3149,   385,   290,
+         25737,   318,   407,   257, 12504,    79,   385,    13,   198,   198,
+            32,    25,  2195,  2454, 25737,   318,   257,   443,  3149,   385,
+            13, 25737,   318,   257, 12504,    79,   385,   393,   257,   443,
+          3149,   385,    13, 11391,   326,   318,   257, 12504,    79,   385,
+           393,   257,   443,  3149,   385,   318,   257,   308, 16300,   385,
+            13, 25737,   318,   257,   308, 16300,   385,    13,   770, 40081,
+           351, 25737,   318,   407,   257,   308, 16300,   385,    13, 25737,
+           318,   407,   257,   443,  3149,   385,    13,   628,  2195,  2454,
+         25737,   318,   257, 12504,    79,   385,    13, 25737,   318,   257,
+         12504,    79,   385,   393,   257,   443,  3149,   385,    13, 11391,
+           326,   318,   257, 12504,    79,   385,   393,   257,   443,  3149,
+           385,   318,   257,   308, 16300,   385,    13, 25737,   318,   257,
+           308, 16300,   385,    13,   770, 40081,   351, 25737,   318,   407,
+           257,   308, 16300,   385,    13, 25737,   318,   407,   257, 12504,
+            79,   385,    13,   628, 25737,   318,   407,   257,   443,  3149,
+           385,   290, 25737,   318,   407,   257, 12504,    79,   385,    13,
+           628,   198,    48,    25, 11391,   326,   318,   257,   427,   931,
+           385,   393,   257,   374,  3361,   385,   318,   257,   474,  3361,
+           385,    13, 25737,   318,   407,   257,   474,  3361,   385,    13,
+          1041,   303,    25, 25737,   318,   407,   257,   374,  3361,   385,
+           290, 25737,   318,   407,   257,   427,   931,   385,    13,   198,
+           198,    32,    25,  2195,  2454, 25737,   318,   257,   374,  3361,
+           385,    13, 25737,   318,   257,   427,   931,   385,   393,   257,
+           374,  3361,   385,    13, 11391,   326,   318,   257,   427,   931,
+           385,   393,   257,   374,  3361,   385,   318,   257,   474,  3361,
+           385,    13, 25737,   318,   257,   474,  3361,   385,    13,   770,
+         40081,   351, 25737,   318,   407,   257,   474,  3361,   385,    13,
+         25737,   318,   407,   257,   374,  3361,   385,    13,   628,  2195,
+          2454, 25737,   318,   257,   427,   931,   385,    13, 25737,   318,
+           257,   427,   931,   385,   393,   257,   374,  3361,   385,    13,
+         11391,   326,   318,   257,   427,   931,   385,   393,   257,   374,
+          3361,   385,   318,   257,   474,  3361,   385,    13, 25737,   318,
+           257,   474,  3361,   385,    13,   770, 40081,   351, 25737,   318,
+           407,   257,   474,  3361,   385,    13, 25737,   318,   407,   257,
+           427,   931,   385,    13,   628, 25737,   318,   407,   257,   374,
+          3361,   385,   290, 25737,   318,   407,   257,   427,   931,   385,
+            13,   628,   198,    48,    25, 11391,   326,   318,   257,   474,
+          3361,   385,   393,   281,   848,   385,   318,   257,   331,   931,
+           385,    13,  5436,   318,   407,   257,   331,   931,   385,    13,
+          1041,   303,    25,  5436,   318,   407,   281,   848,   385,   290,
+          5436,   318,   407,   257,   474,  3361,   385,    13,   198,   198,
+            32,    25,  2195,  2454,  5436,   318,   407,   281,   848,   385,
+           290,  5436,   318,   407,   257,   474,  3361,   385,    13, 11391,
+           326,   318,   257,   474,  3361,   385,   393,   281,   848,   385,
+           318,   257,   331,   931,   385,    13,  5436,   318,   407,   257,
+           331,   931,   385,    13,   770, 40081,   351,  5436,   318,   407,
+           257,   474,  3361,   385,    13,  5436,   318,   407,   257,   474,
+          3361,   385,    13,   628,   198,  8021,  2454,  5436,   318,   407,
+           281,   848,   385,   290,  5436,   318,   407,   257,   474,  3361,
+           385,    13, 11391,   326,   318,   257,   474,  3361,   385,   393,
+           281,   848,   385,   318,   257,   331,   931,   385,    13,  5436,
+           318,   407,   257,   331,   931,   385,    13,   770, 40081,   351,
+          5436,   318,   407,   257,   474,  3361,   385,    13,  5436,   318,
+           407,   257,   474,  3361,   385,    13,   628,   198, 11518,   318,
+           407,   257,   331,   931,   385,    13,   770, 40081,   351,  5436,
+           318,   407,   257,   474,  3361,   385,    13,  5436,   318,   407,
+           257,   474,  3361,   385,    13,   628,   198, 11518,   318,   407,
+           257,   474,  3361,   385,   290,  5436,   318,   407,   257,   474,
+          3361,   385,    13,   628,   198,    48,    25, 11391,   326,   318,
+           257,   474,  3361,   385,   393,   281,   848,   385,   318,   257,
+           331,   931,   385,    13,  5436,   318,   407,   257,   331,   931,
+           385,    13,  1041,   303,    25,  5436,   318,   407,   281,   848,
+           385,   290,  5436,   318,   407,   257,   474,  3361,   385,    13,
+         11391,   326,   318,   257,   474,  3361,   385,   393,   281,   848,
+           385,   318,   257,   331,   931,   385,    13,  5436,   318,   407,
+           257,   331,   931,   385,    13,   770, 40081,   351,  5436,   318,
+           407,   257,   474,  3361,   385,    13,  5436,   318]],
+       device='cuda:0')
+Output tokens: 
+['Q', ':', 'ĠEverything', 'Ġthat', 'Ġis', 'Ġa', 'Ġle', 'mp', 'us', 'Ġor', 'Ġa', 'Ġgr', 'imp', 'us', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠAlex', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠPro', 've', ':', 'ĠAlex', 'Ġis', 'Ġnot', 'Ġa', 'Ġgr', 'imp', 'us', 'Ġand', 'ĠAlex', 'Ġis', 'Ġnot', 'Ġa', 'Ġle', 'mp', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠAss', 'ume', 'ĠAlex', 'Ġis', 'Ġa', 'Ġgr', 'imp', 'us', '.', 'ĠAlex', 'Ġis', 'Ġa', 'Ġle', 'mp', 'us', 'Ġor', 'Ġa', 'Ġgr', 'imp', 'us', '.', 'ĠEverything', 'Ġthat', 'Ġis', 'Ġa', 'Ġle', 'mp', 'us', 'Ġor', 'Ġa', 'Ġgr', 'imp', 'us', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠAlex', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠThis', 'Ġcontradicts', 'Ġwith', 'ĠAlex', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠAlex', 'Ġis', 'Ġnot', 'Ġa', 'Ġgr', 'imp', 'us', '.', 'ĊĊ', 'ĠAss', 'ume', 'ĠAlex', 'Ġis', 'Ġa', 'Ġle', 'mp', 'us', '.', 'ĠAlex', 'Ġis', 'Ġa', 'Ġle', 'mp', 'us', 'Ġor', 'Ġa', 'Ġgr', 'imp', 'us', '.', 'ĠEverything', 'Ġthat', 'Ġis', 'Ġa', 'Ġle', 'mp', 'us', 'Ġor', 'Ġa', 'Ġgr', 'imp', 'us', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠAlex', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠThis', 'Ġcontradicts', 'Ġwith', 'ĠAlex', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠAlex', 'Ġis', 'Ġnot', 'Ġa', 'Ġle', 'mp', 'us', '.', 'ĊĊ', 'ĠAlex', 'Ġis', 'Ġnot', 'Ġa', 'Ġgr', 'imp', 'us', 'Ġand', 'ĠAlex', 'Ġis', 'Ġnot', 'Ġa', 'Ġle', 'mp', 'us', '.', 'ĊĊ', 'Ċ', 'Q', ':', 'ĠEverything', 'Ġthat', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', 'Ġor', 'Ġa', 'Ġle', 'mp', 'us', 'Ġis', 'Ġa', 'Ġg', 'orp', 'us', '.', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġg', 'orp', 'us', '.', 'ĠPro', 've', ':', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġle', 'mp', 'us', 'Ġand', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġster', 'p', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠAss', 'ume', 'ĠSally', 'Ġis', 'Ġa', 'Ġle', 'mp', 'us', '.', 'ĠSally', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', 'Ġor', 'Ġa', 'Ġle', 'mp', 'us', '.', 'ĠEverything', 'Ġthat', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', 'Ġor', 'Ġa', 'Ġle', 'mp', 'us', 'Ġis', 'Ġa', 'Ġg', 'orp', 'us', '.', 'ĠSally', 'Ġis', 'Ġa', 'Ġg', 'orp', 'us', '.', 'ĠThis', 'Ġcontradicts', 'Ġwith', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġg', 'orp', 'us', '.', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġle', 'mp', 'us', '.', 'ĊĊ', 'ĠAss', 'ume', 'ĠSally', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĠSally', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', 'Ġor', 'Ġa', 'Ġle', 'mp', 'us', '.', 'ĠEverything', 'Ġthat', 'Ġis', 'Ġa', 'Ġster', 'p', 'us', 'Ġor', 'Ġa', 'Ġle', 'mp', 'us', 'Ġis', 'Ġa', 'Ġg', 'orp', 'us', '.', 'ĠSally', 'Ġis', 'Ġa', 'Ġg', 'orp', 'us', '.', 'ĠThis', 'Ġcontradicts', 'Ġwith', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġg', 'orp', 'us', '.', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĊĊ', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġle', 'mp', 'us', 'Ġand', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġster', 'p', 'us', '.', 'ĊĊ', 'Ċ', 'Q', ':', 'ĠEverything', 'Ġthat', 'Ġis', 'Ġa', 'Ġsh', 'ump', 'us', 'Ġor', 'Ġa', 'Ġr', 'omp', 'us', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠPro', 've', ':', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġr', 'omp', 'us', 'Ġand', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġsh', 'ump', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠAss', 'ume', 'ĠSally', 'Ġis', 'Ġa', 'Ġr', 'omp', 'us', '.', 'ĠSally', 'Ġis', 'Ġa', 'Ġsh', 'ump', 'us', 'Ġor', 'Ġa', 'Ġr', 'omp', 'us', '.', 'ĠEverything', 'Ġthat', 'Ġis', 'Ġa', 'Ġsh', 'ump', 'us', 'Ġor', 'Ġa', 'Ġr', 'omp', 'us', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠSally', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠThis', 'Ġcontradicts', 'Ġwith', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġr', 'omp', 'us', '.', 'ĊĊ', 'ĠAss', 'ume', 'ĠSally', 'Ġis', 'Ġa', 'Ġsh', 'ump', 'us', '.', 'ĠSally', 'Ġis', 'Ġa', 'Ġsh', 'ump', 'us', 'Ġor', 'Ġa', 'Ġr', 'omp', 'us', '.', 'ĠEverything', 'Ġthat', 'Ġis', 'Ġa', 'Ġsh', 'ump', 'us', 'Ġor', 'Ġa', 'Ġr', 'omp', 'us', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠSally', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠThis', 'Ġcontradicts', 'Ġwith', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġsh', 'ump', 'us', '.', 'ĊĊ', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġr', 'omp', 'us', 'Ġand', 'ĠSally', 'Ġis', 'Ġnot', 'Ġa', 'Ġsh', 'ump', 'us', '.', 'ĊĊ', 'Ċ', 'Q', ':', 'ĠEverything', 'Ġthat', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', 'Ġor', 'Ġan', 'Ġimp', 'us', 'Ġis', 'Ġa', 'Ġy', 'ump', 'us', '.', 'ĠMax', 'Ġis', 'Ġnot', 'Ġa', 'Ġy', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠMax', 'Ġis', 'Ġnot', 'Ġan', 'Ġimp', 'us', 'Ġand', 'ĠMax', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'Ċ', 'Ċ', 'A', ':', 'ĠAss', 'ume', 'ĠMax', 'Ġis', 'Ġnot', 'Ġan', 'Ġimp', 'us', 'Ġand', 'ĠMax', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠEverything', 'Ġthat', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', 'Ġor', 'Ġan', 'Ġimp', 'us', 'Ġis', 'Ġa', 'Ġy', 'ump', 'us', '.', 'ĠMax', 'Ġis', 'Ġnot', 'Ġa', 'Ġy', 'ump', 'us', '.', 'ĠThis', 'Ġcontradicts', 'Ġwith', 'ĠMax', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠMax', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĊĊ', 'Ċ', 'Ass', 'ume', 'ĠMax', 'Ġis', 'Ġnot', 'Ġan', 'Ġimp', 'us', 'Ġand', 'ĠMax', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠEverything', 'Ġthat', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', 'Ġor', 'Ġan', 'Ġimp', 'us', 'Ġis', 'Ġa', 'Ġy', 'ump', 'us', '.', 'ĠMax', 'Ġis', 'Ġnot', 'Ġa', 'Ġy', 'ump', 'us', '.', 'ĠThis', 'Ġcontradicts', 'Ġwith', 'ĠMax', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠMax', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĊĊ', 'Ċ', 'Max', 'Ġis', 'Ġnot', 'Ġa', 'Ġy', 'ump', 'us', '.', 'ĠThis', 'Ġcontradicts', 'Ġwith', 'ĠMax', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠMax', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĊĊ', 'Ċ', 'Max', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', 'Ġand', 'ĠMax', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĊĊ', 'Ċ', 'Q', ':', 'ĠEverything', 'Ġthat', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', 'Ġor', 'Ġan', 'Ġimp', 'us', 'Ġis', 'Ġa', 'Ġy', 'ump', 'us', '.', 'ĠMax', 'Ġis', 'Ġnot', 'Ġa', 'Ġy', 'ump', 'us', '.', 'ĠPro', 've', ':', 'ĠMax', 'Ġis', 'Ġnot', 'Ġan', 'Ġimp', 'us', 'Ġand', 'ĠMax', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠEverything', 'Ġthat', 'Ġis', 'Ġa', 'Ġj', 'omp', 'us', 'Ġor', 'Ġan', 'Ġimp', 'us', 'Ġis', 'Ġa', 'Ġy', 'ump', 'us', '.', 'ĠMax', 'Ġis', 'Ġnot', 'Ġa', 'Ġy', 'ump', 'us', '.', 'ĠThis', 'Ġcontradicts', 'Ġwith', 'ĠMax', 'Ġis', 'Ġnot', 'Ġa', 'Ġj', 'omp', 'us', '.', 'ĠMax', 'Ġis']
+
+Predicted answer: Assume Max is not an impus and Max is not a jompus. Everything that is a jompus or an impus is a yumpus. Max is not a yumpus. This contradicts with Max is not a jompus. Max is not a jompus.
+
+
+Assume Max is not an impus and Max is not a jompus. Everything that is a jompus or an impus is a yumpus. Max is not a yumpus. This contradicts with Max is not a jompus. Max is not a jompus.
+
+
+Max is not a yumpus. This contradicts with Max is not a jompus. Max is not a jompus.
+
+
+Max is not a jompus and Max is not a jompus.
+
+
+
+
+Expected answer: Assume Max is an impus. Max is a jompus or an impus. Everything that is a jompus or an impus is a yumpus. Max is a yumpus. This contradicts with Max is not a yumpus. Max is not an impus.
+
+ Assume Max is a jompus. Max is a jompus or an impus. Everything that is a jompus or an impus is a yumpus. Max is a yumpus. This contradicts with Max is not a yumpus. Max is not a jompus.
+
+ Max is not an impus and Max is not a jompus.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
