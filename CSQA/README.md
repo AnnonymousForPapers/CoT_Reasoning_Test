@@ -4,6 +4,8 @@ The codes related to the CommonsenseQA (CSQA) dataset.
 Each python file is named in a format of "CoT_" + {model_name} + ".py". We used [the exemplar](#Exemplar) from the [Chain-of-Thought (CoT) prompting paper](#CoT_prompting) to prompt the language models (LMs). We extract the chosen answer from the output of the LM and compare it to the answer key from the CSQA dataset. We used the validation subset in the CSQA dataset with 1221 questions.
 
 In order to run the python file with OpenELM and gemma2, we need to enter the Hugging Face access token on the right side of "access_token = ". We can get the Hugging Face access token by following the instruction in [their tutorial](https://huggingface.co/docs/hub/security-tokens).
+
+Please report any issues if you encounter any problems.
 ### Outputs
 By running each python file, the output of each question will show: 
 1. The input text for the language model (LM)
@@ -43,8 +45,6 @@ We consider 23 different language models included:
 21. stablelm-2-zephyr-1_6b
 22. gemma-2-2b-it
 23. gemma-2-9b-it
-
-Please report any issues if you encounter any problems.
 
 ### Exemplar
 ```
