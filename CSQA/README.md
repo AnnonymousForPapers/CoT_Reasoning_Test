@@ -20,6 +20,12 @@ By running each python file, the output of each question will show:
 10. The wrong answer count
 
 At the end of the output, you will see the "Total validation time" in second to report the computational time.
+### Figures in the paper
+We have recorded all the results manually in the "Plot_comparison_CSQA_sample_false_C_no_whitespace.py" file. Please run
+```
+python Plot_comparison_CSQA_sample_false_C_no_whitespace.py
+```
+to get the figures we used in the paper.
 ### Language models
 We consider 23 different language models included:
 1. gpt2
