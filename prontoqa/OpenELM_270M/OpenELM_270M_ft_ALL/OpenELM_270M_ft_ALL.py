@@ -32,7 +32,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 model_name = "apple/OpenELM-270M"
 print("\n" + "Model name: " + model_name + "\n")
 
-access_token = "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"
+access_token = ""
 
 tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf", device_map="cuda", token=access_token)
 model = AutoModelForCausalLM.from_pretrained(model_name, device_map="cuda", trust_remote_code=True, token=access_token)
