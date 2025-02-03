@@ -20,6 +20,7 @@ python gpt2_MP1_wrong_out_generated_tokens_plot.py
 ```
 The output figures will be stored in the "Attention_analysis\images\gpt2" folder. 
 
+In order to run the python file with gemma2, we need to enter the Hugging Face access token on the right side of "access_token = ". We can get the Hugging Face access token by following the instruction in [their tutorial](https://huggingface.co/docs/hub/security-tokens).
 To get the attention map from gemma2-9b-it, please run
 ```
 python gemma2_9b_it_MP1_correct_out_generated_tokens_plot.py
