@@ -11,7 +11,7 @@ To get the responses from each model with a specific deductive rule, we used
 ```
 python run_experiment.py --model-name {model_name} --distractors none --test-distractors none --num-trials 100 --proofs-only --max-hops 1 --deduction-rule {deductive_rule}
 ```
-Please use one of the model name in the [Language models section](# Language_models) to replace {model_name} and one of the name of the deductive rules in the [Deductive rules section](# Deductive_rules) to replace {deductive_rule}. They are also shown in the SH file with the name in a format of "run_experiment_" + {model_name} + ".sh"
+Please use one of the model name in the [Language models section](#Language_models) to replace {model_name} and one of the name of the deductive rules in the [Deductive rules section](#Deductive_rules) to replace {deductive_rule}. They are also shown in the SH file with the name in a format of "run_experiment_" + {model_name} + ".sh"
 ### Outputs
 By running each python file, the output of each question will show: 
 1. The input text for the language model
