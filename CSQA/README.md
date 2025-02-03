@@ -1,7 +1,7 @@
 # Testing the commensence question answering ability of 23 different language models
 The codes related to the CommonsenseQA (CSQA) dataset.
 ## Contents
-Each python file is named in a format of "CoT_" + {model_name} + ".py". We used [the exemplar](#Exemplar_from_the_CoT_prompting_paper) from the [Chain-of-Thought (CoT) prompting paper](#CoT_prompting) to prompt the language models (LMs). We extract the chosen answer from the output of the LM and compare it to the answer key from the CSQA dataset. We used the validation subset in the CSQA dataset with 1221 questions.
+Each python file is named in a format of "CoT_" + {model_name} + ".py". We used [the exemplar](#Exemplar) from the [Chain-of-Thought (CoT) prompting paper](#CoT_prompting) to prompt the language models (LMs). We extract the chosen answer from the output of the LM and compare it to the answer key from the CSQA dataset. We used the validation subset in the CSQA dataset with 1221 questions.
 
 In order to run the python file with OpenELM and gemma2, we need to enter the Hugging Face access token on the right side of "access_token = ". We can get the Hugging Face access token by following the instruction in [their tutorial](https://huggingface.co/docs/hub/security-tokens).
 ### Outputs
@@ -46,7 +46,7 @@ We consider 23 different language models included:
 
 Please report any issues if you encounter any problems.
 
-### Exemplar from the CoT prompting paper
+### Exemplar
 ```
 Q: What do people use to absorb extra ink from a fountain pen? Answer Choices: (a) shirt pocket
 (b) calligrapher's hand
@@ -88,7 +88,7 @@ Q: Before getting a divorce, what did the wife feel who was doing all the work? 
 (e) sadness
 A: The answer should be the feeling of someone getting divorced who was doing all the work. Of the above choices, the closest feeling is bitterness. So the answer is (c).
 ```
-
+We append the test question and the answer keys of the test question below the exemplar following the same format as shown in the exemplar.
 ## References
 ### CoT_prompting
 ```
@@ -102,5 +102,72 @@ A: The answer should be the feeling of someone getting divorced who was doing al
  url = {https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf},
  volume = {35},
  year = {2022}
+}
+```
+### GPT 2
+```
+@article{radford2019language,
+  title={Language models are unsupervised multitask learners},
+  author={Radford, Alec and Wu, Jeffrey and Child, Rewon and Luan, David and Amodei, Dario and Sutskever, Ilya and others},
+  journal={OpenAI blog},
+  volume={1},
+  number={8},
+  pages={9},
+  year={2019}
+}
+```
+### SmolLM2
+```
+@misc{allal2024SmolLM2,
+      title={SmolLM2 - with great data, comes great performance}, 
+      author={Loubna Ben Allal and Anton Lozhkov and Elie Bakouch and Gabriel Martín Blázquez and Lewis Tunstall and Agustín Piqueres and Andres Marafioti and Cyril Zakka and Leandro von Werra and Thomas Wolf},
+      year={2024}
+}
+```
+### OpenELM
+```
+@inproceedings{
+mehta2024openelm,
+title={Open{ELM}: An Efficient Language Model Family with Open Training and Inference Framework},
+author={Sachin Mehta and Mohammad Hossein Sekhavat and Qingqing Cao and Maxwell Horton and Yanzi Jin and Chenfan Sun and Seyed Iman Mirzadeh and Mahyar Najibi and Dmitry Belenko and Peter Zatloukal and Mohammad Rastegari},
+booktitle={Workshop on Efficient Systems for Foundation Models II @ ICML2024},
+year={2024},
+url={https://openreview.net/forum?id=XNMbTkxroF}
+}
+```
+### TinyLlama
+```
+@misc{zhang2024tinyllama,
+      title={TinyLlama: An Open-Source Small Language Model}, 
+      author={Peiyuan Zhang and Guangtao Zeng and Tianduo Wang and Wei Lu},
+      year={2024},
+      eprint={2401.02385},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2401.02385}, 
+}
+```
+### Stable LM 2 
+```
+@misc{bellagente2024stable,
+      title={Stable LM 2 1.6B Technical Report}, 
+      author={Marco Bellagente and Jonathan Tow and Dakota Mahan and Duy Phung and Maksym Zhuravinskyi and Reshinth Adithyan and James Baicoianu and Ben Brooks and Nathan Cooper and Ashish Datta and Meng Lee and Emad Mostaque and Michael Pieler and Nikhil Pinnaparju and Paulo Rocha and Harry Saini and Hannah Teufel and Niccolo Zanichelli and Carlos Riquelme},
+      year={2024},
+      eprint={2402.17834},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2402.17834}, 
+}
+```
+### Gemma 2
+```
+@misc{team2024gemma,
+      title={Gemma 2: Improving Open Language Models at a Practical Size}, 
+      author={Gemma Team and Morgane Riviere and Shreya Pathak and Pier Giuseppe Sessa and Cassidy Hardin and Surya Bhupatiraju and Léonard Hussenot and Thomas Mesnard and Bobak Shahriari and Alexandre Ramé and Johan Ferret and Peter Liu and Pouya Tafti and Abe Friesen and Michelle Casbon and Sabela Ramos and Ravin Kumar and Charline Le Lan and Sammy Jerome and Anton Tsitsulin and Nino Vieillard and Piotr Stanczyk and Sertan Girgin and Nikola Momchev and Matt Hoffman and Shantanu Thakoor and Jean-Bastien Grill and Behnam Neyshabur and Olivier Bachem and Alanna Walton and Aliaksei Severyn and Alicia Parrish and Aliya Ahmad and Allen Hutchison and Alvin Abdagic and Amanda Carl and Amy Shen and Andy Brock and Andy Coenen and Anthony Laforge and Antonia Paterson and Ben Bastian and Bilal Piot and Bo Wu and Brandon Royal and Charlie Chen and Chintu Kumar and Chris Perry and Chris Welty and Christopher A. Choquette-Choo and Danila Sinopalnikov and David Weinberger and Dimple Vijaykumar and Dominika Rogozińska and Dustin Herbison and Elisa Bandy and Emma Wang and Eric Noland and Erica Moreira and Evan Senter and Evgenii Eltyshev and Francesco Visin and Gabriel Rasskin and Gary Wei and Glenn Cameron and Gus Martins and Hadi Hashemi and Hanna Klimczak-Plucińska and Harleen Batra and Harsh Dhand and Ivan Nardini and Jacinda Mein and Jack Zhou and James Svensson and Jeff Stanway and Jetha Chan and Jin Peng Zhou and Joana Carrasqueira and Joana Iljazi and Jocelyn Becker and Joe Fernandez and Joost van Amersfoort and Josh Gordon and Josh Lipschultz and Josh Newlan and Ju-yeong Ji and Kareem Mohamed and Kartikeya Badola and Kat Black and Katie Millican and Keelin McDonell and Kelvin Nguyen and Kiranbir Sodhia and Kish Greene and Lars Lowe Sjoesund and Lauren Usui and Laurent Sifre and Lena Heuermann and Leticia Lago and Lilly McNealus and Livio Baldini Soares and Logan Kilpatrick and Lucas Dixon and Luciano Martins and Machel Reid and Manvinder Singh and Mark Iverson and Martin Görner and Mat Velloso and Mateo Wirth and Matt Davidow and Matt Miller and Matthew Rahtz and Matthew Watson and Meg Risdal and Mehran Kazemi and Michael Moynihan and Ming Zhang and Minsuk Kahng and Minwoo Park and Mofi Rahman and Mohit Khatwani and Natalie Dao and Nenshad Bardoliwalla and Nesh Devanathan and Neta Dumai and Nilay Chauhan and Oscar Wahltinez and Pankil Botarda and Parker Barnes and Paul Barham and Paul Michel and Pengchong Jin and Petko Georgiev and Phil Culliton and Pradeep Kuppala and Ramona Comanescu and Ramona Merhej and Reena Jana and Reza Ardeshir Rokni and Rishabh Agarwal and Ryan Mullins and Samaneh Saadat and Sara Mc Carthy and Sarah Cogan and Sarah Perrin and Sébastien M. R. Arnold and Sebastian Krause and Shengyang Dai and Shruti Garg and Shruti Sheth and Sue Ronstrom and Susan Chan and Timothy Jordan and Ting Yu and Tom Eccles and Tom Hennigan and Tomas Kocisky and Tulsee Doshi and Vihan Jain and Vikas Yadav and Vilobh Meshram and Vishal Dharmadhikari and Warren Barkley and Wei Wei and Wenming Ye and Woohyun Han and Woosuk Kwon and Xiang Xu and Zhe Shen and Zhitao Gong and Zichuan Wei and Victor Cotruta and Phoebe Kirk and Anand Rao and Minh Giang and Ludovic Peran and Tris Warkentin and Eli Collins and Joelle Barral and Zoubin Ghahramani and Raia Hadsell and D. Sculley and Jeanine Banks and Anca Dragan and Slav Petrov and Oriol Vinyals and Jeff Dean and Demis Hassabis and Koray Kavukcuoglu and Clement Farabet and Elena Buchatskaya and Sebastian Borgeaud and Noah Fiedel and Armand Joulin and Kathleen Kenealy and Robert Dadashi and Alek Andreev},
+      year={2024},
+      eprint={2408.00118},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2408.00118}, 
 }
 ```
