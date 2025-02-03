@@ -6,6 +6,12 @@ Each python file is named in a format of {model_name} + ".py". We used eight pre
 In order to run the python file with OpenELM and gemma2, we need to enter the Hugging Face access token on the right side of "access_token = ". We can get the Hugging Face access token by following the instruction in [their tutorial](https://huggingface.co/docs/hub/security-tokens).
 
 Please report any issues if you encounter any problems.
+### Commands
+To get the responses from each model with a specific deductive rule, we used
+```
+python run_experiment.py --model-name {model_name} --distractors none --test-distractors none --num-trials 100 --proofs-only --max-hops 1 --deduction-rule {deductive_rule}
+```
+Please use one of the model name in the [Language models section](# Language_models) to replace {model_name} and one of the name of the deductive rules in the [Deductive rules section](# Deductive_rules) to replace {deductive_rule}. They are also shown in the SH file with the name in a format of "run_experiment_" + {model_name} + ".sh"
 ### Outputs
 By running each python file, the output of each question will show: 
 1. The input text for the language model
@@ -16,7 +22,9 @@ By running each python file, the output of each question will show:
 6. The number of the task (On the right of "n: ")
 
 At the end of the output, you will see the "Total validation time" in second to report the computational time.
-### Language models
+
+We saved the output from each model in a folder with the name the same as the model names listed in the next section. 
+### Language_models
 We consider 23 different language models included:
 1. gpt2
 2. gpt2-medium
@@ -41,6 +49,14 @@ We consider 23 different language models included:
 21. stablelm-2-zephyr-1_6b
 22. gemma-2-2b-it
 23. gemma-2-9b-it
+
+### Deductive_rules
+1. ModusPonens
+2. AndIntro
+3. AndElim
+4. OrIntro
+5. OrElim
+6. ProofByContra
 
 ### Exemplars
 We show the exemplars used in the first question in our task as an intance:
