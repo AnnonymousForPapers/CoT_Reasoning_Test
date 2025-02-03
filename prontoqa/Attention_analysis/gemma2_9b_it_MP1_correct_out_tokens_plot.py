@@ -7,7 +7,7 @@ trial = 1
 model_name = "google/gemma-2-9b-it"
 print("\n" + "Model name: " + model_name + "\n")
 
-access_token = "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"
+access_token = ""
 
 tokenizer = AutoTokenizer.from_pretrained(model_name, token=access_token)
 model = AutoModelForCausalLM.from_pretrained(
