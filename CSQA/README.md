@@ -8,7 +8,7 @@ In order to run the python file with OpenELM and gemma2, we need to enter the Hu
 Please report any issues if you encounter any problems.
 ### Outputs
 By running each python file, the output of each question will show: 
-1. The input text for the language model (LM)
+1. The input text for the language model
 2. The response of the LM
 3. The sliced response of the language model
 4. The chosen answer
