@@ -1,0 +1,47 @@
+printf "1. ModusPonens\n"
+printf "\nHop 1\n"
+python analyze_results.py .log
+printf "\nHop 2\n"
+python analyze_results.py .log
+printf "\nHop 3\n"
+python analyze_results.py .log
+printf "\nHop 4\n"
+python analyze_results.py .log
+printf "\nHop 5\n"
+python analyze_results.py .log
+
+printf "\n\n2. AndIntro\n"
+printf "\nHop 1\n"
+python analyze_results.py .log
+printf "\nHop 2\n"
+python analyze_results.py .log
+printf "\nHop 3\n"
+python analyze_results.py .log
+printf "\nHop 4\n"
+python analyze_results.py .log
+printf "\nHop 5\n"
+python analyze_results.py .log
+
+printf "\n\n3. AndElim\n"
+printf "\nHop 1\n"
+python analyze_results.py .log
+printf "\nHop 2\n"
+python analyze_results.py .log
+printf "\nHop 3\n"
+python analyze_results.py .log
+printf "\nHop 4\n"
+python analyze_results.py .log
+printf "\nHop 5\n"
+python analyze_results.py .log
+
+printf "\n\n4. OrIntro\n"
+printf "\nHop 1\n"
+python analyze_results.py .log
+printf "\nHop 2\n"
+python analyze_results.py .log
+printf "\nHop 3\n"
+python analyze_results.py .log
+printf "\nHop 4\n"
+python analyze_results.py .log
+printf "\nHop 5\n"
+python analyze_results.py .log
