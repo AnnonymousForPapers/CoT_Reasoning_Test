@@ -1,0 +1,2000 @@
+Q: Numpuses are gorpuses. Gorpuses are brimpuses. Each brimpus is a vumpus. Every vumpus is windy. Max is a numpus. Prove: Max is windy.
+A: Max is a numpus. Numpuses are gorpuses. Max is a gorpus. Gorpuses are brimpuses. Max is a brimpus. Each brimpus is a vumpus. Max is a vumpus. Every vumpus is windy. Max is windy.
+
+Q: Every rompus is a vumpus. Each vumpus is a gorpus. Each gorpus is a brimpus. Every brimpus is amenable. Sally is a rompus. Prove: Sally is amenable.
+A: Sally is a rompus. Every rompus is a vumpus. Sally is a vumpus. Each vumpus is a gorpus. Sally is a gorpus. Each gorpus is a brimpus. Sally is a brimpus. Every brimpus is amenable. Sally is amenable.
+
+Q: Lorpuses are numpuses. Numpuses are shumpuses. Every shumpus is a vumpus. Vumpuses are mean. Sam is a lorpus. Prove: Sam is mean.
+A: Sam is a lorpus. Lorpuses are numpuses. Sam is a numpus. Numpuses are shumpuses. Sam is a shumpus. Every shumpus is a vumpus. Sam is a vumpus. Vumpuses are mean. Sam is mean.
+
+Q: Jompuses are zumpuses. Zumpuses are gorpuses. Gorpuses are impuses. Each impus is not cold. Alex is a jompus. Prove: Alex is not cold.
+A:
+
+Predicted answer: Alex is a jompus. Jompuses are zumpuses. Alex is a zumpus. Zumpuses are gorpuses. Alex is a gorpus. Gorpuses are impuses. Each impus is not cold. Alex is not cold.
+
+
+
+Expected answer: Alex is a jompus. Jompuses are zumpuses. Alex is a zumpus. Zumpuses are gorpuses. Alex is a gorpus. Gorpuses are impuses. Alex is an impus. Each impus is not cold. Alex is not cold.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Lorpuses are numpuses. Numpuses are shumpuses. Every shumpus is a rompus. Rompuses are discordant. Max is a lorpus. Prove: Max is discordant.
+A: Max is a lorpus. Lorpuses are numpuses. Max is a numpus. Numpuses are shumpuses. Max is a shumpus. Every shumpus is a rompus. Max is a rompus. Rompuses are discordant. Max is discordant.
+
+Q: Sterpuses are jompuses. Jompuses are lorpuses. Every lorpus is a shumpus. Shumpuses are windy. Fae is a sterpus. Prove: Fae is windy.
+A: Fae is a sterpus. Sterpuses are jompuses. Fae is a jompus. Jompuses are lorpuses. Fae is a lorpus. Every lorpus is a shumpus. Fae is a shumpus. Shumpuses are windy. Fae is windy.
+
+Q: Each sterpus is a dumpus. Dumpuses are lorpuses. Lorpuses are zumpuses. Zumpuses are not transparent. Rex is a sterpus. Prove: Rex is not transparent.
+A: Rex is a sterpus. Each sterpus is a dumpus. Rex is a dumpus. Dumpuses are lorpuses. Rex is a lorpus. Lorpuses are zumpuses. Rex is a zumpus. Zumpuses are not transparent. Rex is not transparent.
+
+Q: Every wumpus is a sterpus. Each sterpus is a vumpus. Vumpuses are shumpuses. Shumpuses are not kind. Rex is a wumpus. Prove: Rex is not kind.
+A:
+
+Predicted answer: Rex is a wumpus. Every wumpus is a sterpus. Rex is a sterpus. Each sterpus is a vumpus. Rex is a vumpus. Vumpuses are shumpuses. Shumpuses are not kind. Rex is not kind.
+
+
+
+Expected answer: Rex is a wumpus. Every wumpus is a sterpus. Rex is a sterpus. Each sterpus is a vumpus. Rex is a vumpus. Vumpuses are shumpuses. Rex is a shumpus. Shumpuses are not kind. Rex is not kind.
+n: 2, (beta prior) mean: 0.25, 95% lower bound: 0.008403758659612636, 95% upper bound: 0.7075982261787133, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every dumpus is a jompus. Each jompus is a lempus. Lempuses are lorpuses. Lorpuses are small. Polly is a dumpus. Prove: Polly is small.
+A: Polly is a dumpus. Every dumpus is a jompus. Polly is a jompus. Each jompus is a lempus. Polly is a lempus. Lempuses are lorpuses. Polly is a lorpus. Lorpuses are small. Polly is small.
+
+Q: Lempuses are jompuses. Every jompus is an impus. Impuses are grimpuses. Every grimpus is not bitter. Rex is a lempus. Prove: Rex is not bitter.
+A: Rex is a lempus. Lempuses are jompuses. Rex is a jompus. Every jompus is an impus. Rex is an impus. Impuses are grimpuses. Rex is a grimpus. Every grimpus is not bitter. Rex is not bitter.
+
+Q: Grimpuses are dumpuses. Every dumpus is a rompus. Each rompus is an impus. Impuses are not blue. Sam is a grimpus. Prove: Sam is not blue.
+A: Sam is a grimpus. Grimpuses are dumpuses. Sam is a dumpus. Every dumpus is a rompus. Sam is a rompus. Each rompus is an impus. Sam is an impus. Impuses are not blue. Sam is not blue.
+
+Q: Grimpuses are impuses. Every impus is a jompus. Jompuses are wumpuses. Every wumpus is not large. Wren is a grimpus. Prove: Wren is not large.
+A:
+
+Predicted answer: Wren is a grimpus. Grimpuses are impuses. Wren is an impus. Every impus is a jompus. Wren is a jompus. Jompuses are wumpuses. Wren is a wumpus. Every wumpus is not large. Wren is not large.
+
+
+
+Expected answer: Wren is a grimpus. Grimpuses are impuses. Wren is an impus. Every impus is a jompus. Wren is a jompus. Jompuses are wumpuses. Wren is a wumpus. Every wumpus is not large. Wren is not large.
+n: 3, (beta prior) mean: 0.2, 95% lower bound: 0.006309463209709866, 95% upper bound: 0.6023646356164746, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each grimpus is a tumpus. Tumpuses are dumpuses. Dumpuses are numpuses. Every numpus is not small. Rex is a grimpus. Prove: Rex is not small.
+A: Rex is a grimpus. Each grimpus is a tumpus. Rex is a tumpus. Tumpuses are dumpuses. Rex is a dumpus. Dumpuses are numpuses. Rex is a numpus. Every numpus is not small. Rex is not small.
+
+Q: Gorpuses are vumpuses. Vumpuses are dumpuses. Each dumpus is a grimpus. Every grimpus is fast. Rex is a gorpus. Prove: Rex is fast.
+A: Rex is a gorpus. Gorpuses are vumpuses. Rex is a vumpus. Vumpuses are dumpuses. Rex is a dumpus. Each dumpus is a grimpus. Rex is a grimpus. Every grimpus is fast. Rex is fast.
+
+Q: Dumpuses are brimpuses. Brimpuses are gorpuses. Gorpuses are vumpuses. Vumpuses are transparent. Polly is a dumpus. Prove: Polly is transparent.
+A: Polly is a dumpus. Dumpuses are brimpuses. Polly is a brimpus. Brimpuses are gorpuses. Polly is a gorpus. Gorpuses are vumpuses. Polly is a vumpus. Vumpuses are transparent. Polly is transparent.
+
+Q: Rompuses are yumpuses. Yumpuses are wumpuses. Every wumpus is an impus. Impuses are not muffled. Wren is a rompus. Prove: Wren is not muffled.
+A:
+
+Predicted answer: Wren is a rompus. Rompuses are yumpuses. Wren is a yumpus. Yumpuses are wumpuses. Wren is a wumpus. Every wumpus is an impus. Impuses are not muffled. Wren is not muffled.
+
+
+
+Expected answer: Wren is a rompus. Rompuses are yumpuses. Wren is a yumpus. Yumpuses are wumpuses. Wren is a wumpus. Every wumpus is an impus. Wren is an impus. Impuses are not muffled. Wren is not muffled.
+n: 4, (beta prior) mean: 0.16666666666666666, 95% lower bound: 0.0050507633794680575, 95% upper bound: 0.5218237501049814, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each rompus is a grimpus. Grimpuses are lorpuses. Each lorpus is a zumpus. Zumpuses are not fast. Rex is a rompus. Prove: Rex is not fast.
+A: Rex is a rompus. Each rompus is a grimpus. Rex is a grimpus. Grimpuses are lorpuses. Rex is a lorpus. Each lorpus is a zumpus. Rex is a zumpus. Zumpuses are not fast. Rex is not fast.
+
+Q: Each vumpus is a yumpus. Yumpuses are sterpuses. Every sterpus is an impus. Each impus is not red. Max is a vumpus. Prove: Max is not red.
+A: Max is a vumpus. Each vumpus is a yumpus. Max is a yumpus. Yumpuses are sterpuses. Max is a sterpus. Every sterpus is an impus. Max is an impus. Each impus is not red. Max is not red.
+
+Q: Every rompus is an impus. Every impus is a dumpus. Every dumpus is a brimpus. Brimpuses are not liquid. Sam is a rompus. Prove: Sam is not liquid.
+A: Sam is a rompus. Every rompus is an impus. Sam is an impus. Every impus is a dumpus. Sam is a dumpus. Every dumpus is a brimpus. Sam is a brimpus. Brimpuses are not liquid. Sam is not liquid.
+
+Q: Each sterpus is a gorpus. Gorpuses are grimpuses. Grimpuses are numpuses. Every numpus is not liquid. Stella is a sterpus. Prove: Stella is not liquid.
+A:
+
+Predicted answer: Stella is a sterpus. Every sterpus is a gorpus. Stella is a gorpus. Gorpuses are grimpuses. Stella is a grimpus. Grimpuses are numpuses. Every numpus is not liquid. Stella is a numpus. Stella is not liquid.
+
+
+
+Expected answer: Stella is a sterpus. Each sterpus is a gorpus. Stella is a gorpus. Gorpuses are grimpuses. Stella is a grimpus. Grimpuses are numpuses. Stella is a numpus. Every numpus is not liquid. Stella is not liquid.
+n: 5, (beta prior) mean: 0.14285714285714285, 95% lower bound: 0.00421074451448947, 95% upper bound: 0.4592581264399005, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Numpuses are brimpuses. Brimpuses are jompuses. Every jompus is a vumpus. Each vumpus is large. Sally is a numpus. Prove: Sally is large.
+A: Sally is a numpus. Numpuses are brimpuses. Sally is a brimpus. Brimpuses are jompuses. Sally is a jompus. Every jompus is a vumpus. Sally is a vumpus. Each vumpus is large. Sally is large.
+
+Q: Every numpus is a lempus. Lempuses are lorpuses. Each lorpus is a wumpus. Every wumpus is loud. Wren is a numpus. Prove: Wren is loud.
+A: Wren is a numpus. Every numpus is a lempus. Wren is a lempus. Lempuses are lorpuses. Wren is a lorpus. Each lorpus is a wumpus. Wren is a wumpus. Every wumpus is loud. Wren is loud.
+
+Q: Grimpuses are tumpuses. Every tumpus is a gorpus. Every gorpus is a zumpus. Every zumpus is not dull. Alex is a grimpus. Prove: Alex is not dull.
+A: Alex is a grimpus. Grimpuses are tumpuses. Alex is a tumpus. Every tumpus is a gorpus. Alex is a gorpus. Every gorpus is a zumpus. Alex is a zumpus. Every zumpus is not dull. Alex is not dull.
+
+Q: Grimpuses are rompuses. Every rompus is an impus. Impuses are brimpuses. Brimpuses are fast. Polly is a grimpus. Prove: Polly is fast.
+A:
+
+Predicted answer: Polly is a grimpus. Grimpuses are rompuses. Polly is a rompus. Every rompus is an impus. Polly is an impus. Impuses are brimpuses. Brimpuses are fast. Polly is fast.
+
+
+
+Expected answer: Polly is a grimpus. Grimpuses are rompuses. Polly is a rompus. Every rompus is an impus. Polly is an impus. Impuses are brimpuses. Polly is a brimpus. Brimpuses are fast. Polly is fast.
+n: 6, (beta prior) mean: 0.125, 95% lower bound: 0.0036102968619005833, 95% upper bound: 0.4096163972250034, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Dumpuses are impuses. Impuses are grimpuses. Each grimpus is a lempus. Each lempus is slow. Sam is a dumpus. Prove: Sam is slow.
+A: Sam is a dumpus. Dumpuses are impuses. Sam is an impus. Impuses are grimpuses. Sam is a grimpus. Each grimpus is a lempus. Sam is a lempus. Each lempus is slow. Sam is slow.
+
+Q: Every lorpus is a jompus. Jompuses are grimpuses. Every grimpus is a rompus. Every rompus is nervous. Stella is a lorpus. Prove: Stella is nervous.
+A: Stella is a lorpus. Every lorpus is a jompus. Stella is a jompus. Jompuses are grimpuses. Stella is a grimpus. Every grimpus is a rompus. Stella is a rompus. Every rompus is nervous. Stella is nervous.
+
+Q: Each yumpus is a vumpus. Vumpuses are zumpuses. Every zumpus is a dumpus. Each dumpus is large. Max is a yumpus. Prove: Max is large.
+A: Max is a yumpus. Each yumpus is a vumpus. Max is a vumpus. Vumpuses are zumpuses. Max is a zumpus. Every zumpus is a dumpus. Max is a dumpus. Each dumpus is large. Max is large.
+
+Q: Lempuses are wumpuses. Wumpuses are vumpuses. Vumpuses are tumpuses. Tumpuses are loud. Fae is a lempus. Prove: Fae is loud.
+A:
+
+Predicted answer: Fae is a lempus. Lempuses are wumpuses. Fae is a wumpus. Wumpuses are vumpuses. Fae is a vumpus. Vumpuses are tumpuses. Fae is a tumpus. Tumpuses are loud. Fae is loud.
+
+
+
+Expected answer: Fae is a lempus. Lempuses are wumpuses. Fae is a wumpus. Wumpuses are vumpuses. Fae is a vumpus. Vumpuses are tumpuses. Fae is a tumpus. Tumpuses are loud. Fae is loud.
+n: 7, (beta prior) mean: 0.1111111111111111, 95% lower bound: 0.0031597235312519063, 95% upper bound: 0.3694166475528192, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every dumpus is a lempus. Lempuses are yumpuses. Every yumpus is a jompus. Jompuses are not transparent. Max is a dumpus. Prove: Max is not transparent.
+A: Max is a dumpus. Every dumpus is a lempus. Max is a lempus. Lempuses are yumpuses. Max is a yumpus. Every yumpus is a jompus. Max is a jompus. Jompuses are not transparent. Max is not transparent.
+
+Q: Dumpuses are lempuses. Every lempus is a wumpus. Every wumpus is an impus. Every impus is not brown. Stella is a dumpus. Prove: Stella is not brown.
+A: Stella is a dumpus. Dumpuses are lempuses. Stella is a lempus. Every lempus is a wumpus. Stella is a wumpus. Every wumpus is an impus. Stella is an impus. Every impus is not brown. Stella is not brown.
+
+Q: Each impus is a yumpus. Yumpuses are jompuses. Every jompus is a wumpus. Each wumpus is aggressive. Fae is an impus. Prove: Fae is aggressive.
+A: Fae is an impus. Each impus is a yumpus. Fae is a yumpus. Yumpuses are jompuses. Fae is a jompus. Every jompus is a wumpus. Fae is a wumpus. Each wumpus is aggressive. Fae is aggressive.
+
+Q: Vumpuses are impuses. Impuses are numpuses. Every numpus is a yumpus. Every yumpus is not sweet. Alex is a vumpus. Prove: Alex is not sweet.
+A:
+
+Predicted answer: Alex is a vumpus. Vumpuses are impuses. Alex is an impus. Impuses are numpuses. Alex is a numpus. Every numpus is a yumpus. Alex is a yumpus. Every yumpus is not sweet. Alex is not sweet.
+
+
+
+Expected answer: Alex is a vumpus. Vumpuses are impuses. Alex is an impus. Impuses are numpuses. Alex is a numpus. Every numpus is a yumpus. Alex is a yumpus. Every yumpus is not sweet. Alex is not sweet.
+n: 8, (beta prior) mean: 0.1, 95% lower bound: 0.0028091367465992146, 95% upper bound: 0.3362671168799428, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each vumpus is a brimpus. Brimpuses are sterpuses. Sterpuses are rompuses. Rompuses are floral. Wren is a vumpus. Prove: Wren is floral.
+A: Wren is a vumpus. Each vumpus is a brimpus. Wren is a brimpus. Brimpuses are sterpuses. Wren is a sterpus. Sterpuses are rompuses. Wren is a rompus. Rompuses are floral. Wren is floral.
+
+Q: Each dumpus is an impus. Impuses are lempuses. Every lempus is a yumpus. Yumpuses are not liquid. Fae is a dumpus. Prove: Fae is not liquid.
+A: Fae is a dumpus. Each dumpus is an impus. Fae is an impus. Impuses are lempuses. Fae is a lempus. Every lempus is a yumpus. Fae is a yumpus. Yumpuses are not liquid. Fae is not liquid.
+
+Q: Each gorpus is an impus. Every impus is a grimpus. Grimpuses are vumpuses. Vumpuses are not angry. Wren is a gorpus. Prove: Wren is not angry.
+A: Wren is a gorpus. Each gorpus is an impus. Wren is an impus. Every impus is a grimpus. Wren is a grimpus. Grimpuses are vumpuses. Wren is a vumpus. Vumpuses are not angry. Wren is not angry.
+
+Q: Lorpuses are gorpuses. Gorpuses are zumpuses. Each zumpus is a jompus. Every jompus is mean. Sam is a lorpus. Prove: Sam is mean.
+A:
+
+Predicted answer: Sam is a lorpus. Lorpuses are gorpuses. Sam is a gorpus. Gorpuses are zumpuses. Sam is a zumpus. Every zumpus is a jompus. Sam is a jompus. Every jompus is mean. Sam is mean.
+
+
+
+Expected answer: Sam is a lorpus. Lorpuses are gorpuses. Sam is a gorpus. Gorpuses are zumpuses. Sam is a zumpus. Each zumpus is a jompus. Sam is a jompus. Every jompus is mean. Sam is mean.
+n: 9, (beta prior) mean: 0.09090909090909091, 95% lower bound: 0.0025285785444617848, 95% upper bound: 0.3084971078187608, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each sterpus is a jompus. Every jompus is a shumpus. Shumpuses are dumpuses. Every dumpus is kind. Max is a sterpus. Prove: Max is kind.
+A: Max is a sterpus. Each sterpus is a jompus. Max is a jompus. Every jompus is a shumpus. Max is a shumpus. Shumpuses are dumpuses. Max is a dumpus. Every dumpus is kind. Max is kind.
+
+Q: Gorpuses are grimpuses. Grimpuses are lempuses. Each lempus is a rompus. Rompuses are not fast. Alex is a gorpus. Prove: Alex is not fast.
+A: Alex is a gorpus. Gorpuses are grimpuses. Alex is a grimpus. Grimpuses are lempuses. Alex is a lempus. Each lempus is a rompus. Alex is a rompus. Rompuses are not fast. Alex is not fast.
+
+Q: Every lorpus is a sterpus. Each sterpus is a zumpus. Zumpuses are numpuses. Numpuses are not muffled. Sally is a lorpus. Prove: Sally is not muffled.
+A: Sally is a lorpus. Every lorpus is a sterpus. Sally is a sterpus. Each sterpus is a zumpus. Sally is a zumpus. Zumpuses are numpuses. Sally is a numpus. Numpuses are not muffled. Sally is not muffled.
+
+Q: Yumpuses are dumpuses. Every dumpus is a tumpus. Tumpuses are zumpuses. Every zumpus is snowy. Wren is a yumpus. Prove: Wren is snowy.
+A:
+
+Predicted answer: Wren is a yumpus. Yumpuses are dumpuses. Wren is a dumpus. Every dumpus is a tumpus. Wren is a tumpus. Tumpuses are zumpuses. Wren is a zumpus. Every zumpus is snowy. Wren is snowy.
+
+
+
+Expected answer: Wren is a yumpus. Yumpuses are dumpuses. Wren is a dumpus. Every dumpus is a tumpus. Wren is a tumpus. Tumpuses are zumpuses. Wren is a zumpus. Every zumpus is snowy. Wren is snowy.
+n: 10, (beta prior) mean: 0.08333333333333333, 95% lower bound: 0.0022989722138142673, 95% upper bound: 0.2849141529181544, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Gorpuses are grimpuses. Grimpuses are tumpuses. Every tumpus is a shumpus. Every shumpus is not melodic. Sam is a gorpus. Prove: Sam is not melodic.
+A: Sam is a gorpus. Gorpuses are grimpuses. Sam is a grimpus. Grimpuses are tumpuses. Sam is a tumpus. Every tumpus is a shumpus. Sam is a shumpus. Every shumpus is not melodic. Sam is not melodic.
+
+Q: Every wumpus is a tumpus. Tumpuses are vumpuses. Every vumpus is a brimpus. Each brimpus is not moderate. Alex is a wumpus. Prove: Alex is not moderate.
+A: Alex is a wumpus. Every wumpus is a tumpus. Alex is a tumpus. Tumpuses are vumpuses. Alex is a vumpus. Every vumpus is a brimpus. Alex is a brimpus. Each brimpus is not moderate. Alex is not moderate.
+
+Q: Brimpuses are impuses. Impuses are wumpuses. Wumpuses are dumpuses. Dumpuses are not temperate. Wren is a brimpus. Prove: Wren is not temperate.
+A: Wren is a brimpus. Brimpuses are impuses. Wren is an impus. Impuses are wumpuses. Wren is a wumpus. Wumpuses are dumpuses. Wren is a dumpus. Dumpuses are not temperate. Wren is not temperate.
+
+Q: Each vumpus is a lorpus. Lorpuses are impuses. Impuses are lempuses. Every lempus is sunny. Fae is a vumpus. Prove: Fae is sunny.
+A:
+
+Predicted answer: Fae is a vumpus. Every vumpus is a lorpus. Fae is a lorpus. Lorpuses are impuses. Fae is an impus. Impuses are lempuses. Every lempus is sunny. Fae is a lempus. Fae is sunny.
+
+
+
+Expected answer: Fae is a vumpus. Each vumpus is a lorpus. Fae is a lorpus. Lorpuses are impuses. Fae is an impus. Impuses are lempuses. Fae is a lempus. Every lempus is sunny. Fae is sunny.
+n: 11, (beta prior) mean: 0.07692307692307693, 95% lower bound: 0.0021075932318602264, 95% upper bound: 0.26464846939705117, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Gorpuses are sterpuses. Sterpuses are brimpuses. Brimpuses are grimpuses. Each grimpus is bright. Wren is a gorpus. Prove: Wren is bright.
+A: Wren is a gorpus. Gorpuses are sterpuses. Wren is a sterpus. Sterpuses are brimpuses. Wren is a brimpus. Brimpuses are grimpuses. Wren is a grimpus. Each grimpus is bright. Wren is bright.
+
+Q: Every sterpus is a shumpus. Each shumpus is an impus. Every impus is a rompus. Rompuses are not slow. Rex is a sterpus. Prove: Rex is not slow.
+A: Rex is a sterpus. Every sterpus is a shumpus. Rex is a shumpus. Each shumpus is an impus. Rex is an impus. Every impus is a rompus. Rex is a rompus. Rompuses are not slow. Rex is not slow.
+
+Q: Each lorpus is a sterpus. Sterpuses are lempuses. Lempuses are wumpuses. Every wumpus is not muffled. Sally is a lorpus. Prove: Sally is not muffled.
+A: Sally is a lorpus. Each lorpus is a sterpus. Sally is a sterpus. Sterpuses are lempuses. Sally is a lempus. Lempuses are wumpuses. Sally is a wumpus. Every wumpus is not muffled. Sally is not muffled.
+
+Q: Gorpuses are vumpuses. Vumpuses are lorpuses. Lorpuses are tumpuses. Every tumpus is not bright. Sally is a gorpus. Prove: Sally is not bright.
+A:
+
+Predicted answer: Sally is a gorpus. Gorpuses are vumpuses. Sally is a vumpus. Vumpuses are lorpuses. Sally is a lorpus. Lorpuses are tumpuses. Every tumpus is not bright. Sally is not bright.
+
+
+
+Expected answer: Sally is a gorpus. Gorpuses are vumpuses. Sally is a vumpus. Vumpuses are lorpuses. Sally is a lorpus. Lorpuses are tumpuses. Sally is a tumpus. Every tumpus is not bright. Sally is not bright.
+n: 12, (beta prior) mean: 0.07142857142857142, 95% lower bound: 0.001945628497346748, 95% upper bound: 0.24705263800047095, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Lorpuses are tumpuses. Every tumpus is a jompus. Each jompus is an impus. Each impus is not overcast. Stella is a lorpus. Prove: Stella is not overcast.
+A: Stella is a lorpus. Lorpuses are tumpuses. Stella is a tumpus. Every tumpus is a jompus. Stella is a jompus. Each jompus is an impus. Stella is an impus. Each impus is not overcast. Stella is not overcast.
+
+Q: Every impus is a sterpus. Sterpuses are tumpuses. Each tumpus is a yumpus. Every yumpus is sour. Sally is an impus. Prove: Sally is sour.
+A: Sally is an impus. Every impus is a sterpus. Sally is a sterpus. Sterpuses are tumpuses. Sally is a tumpus. Each tumpus is a yumpus. Sally is a yumpus. Every yumpus is sour. Sally is sour.
+
+Q: Every lorpus is a rompus. Rompuses are wumpuses. Wumpuses are jompuses. Every jompus is not earthy. Max is a lorpus. Prove: Max is not earthy.
+A: Max is a lorpus. Every lorpus is a rompus. Max is a rompus. Rompuses are wumpuses. Max is a wumpus. Wumpuses are jompuses. Max is a jompus. Every jompus is not earthy. Max is not earthy.
+
+Q: Each zumpus is a vumpus. Vumpuses are wumpuses. Wumpuses are gorpuses. Each gorpus is bitter. Polly is a zumpus. Prove: Polly is bitter.
+A:
+
+Predicted answer: Polly is a zumpus. Each zumpus is a vumpus. Polly is a vumpus. Vumpuses are wumpuses. Polly is a wumpus. Wumpuses are gorpuses. Polly is a gorpus. Each gorpus is bitter. Polly is bitter.
+
+
+
+Expected answer: Polly is a zumpus. Each zumpus is a vumpus. Polly is a vumpus. Vumpuses are wumpuses. Polly is a wumpus. Wumpuses are gorpuses. Polly is a gorpus. Each gorpus is bitter. Polly is bitter.
+n: 13, (beta prior) mean: 0.06666666666666667, 95% lower bound: 0.0018067806591253865, 95% upper bound: 0.23163576165011648, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Dumpuses are lorpuses. Each lorpus is a lempus. Every lempus is a numpus. Numpuses are not slow. Wren is a dumpus. Prove: Wren is not slow.
+A: Wren is a dumpus. Dumpuses are lorpuses. Wren is a lorpus. Each lorpus is a lempus. Wren is a lempus. Every lempus is a numpus. Wren is a numpus. Numpuses are not slow. Wren is not slow.
+
+Q: Lorpuses are yumpuses. Yumpuses are shumpuses. Shumpuses are numpuses. Numpuses are kind. Alex is a lorpus. Prove: Alex is kind.
+A: Alex is a lorpus. Lorpuses are yumpuses. Alex is a yumpus. Yumpuses are shumpuses. Alex is a shumpus. Shumpuses are numpuses. Alex is a numpus. Numpuses are kind. Alex is kind.
+
+Q: Every zumpus is a sterpus. Sterpuses are brimpuses. Every brimpus is a grimpus. Each grimpus is opaque. Alex is a zumpus. Prove: Alex is opaque.
+A: Alex is a zumpus. Every zumpus is a sterpus. Alex is a sterpus. Sterpuses are brimpuses. Alex is a brimpus. Every brimpus is a grimpus. Alex is a grimpus. Each grimpus is opaque. Alex is opaque.
+
+Q: Yumpuses are gorpuses. Each gorpus is a brimpus. Brimpuses are dumpuses. Every dumpus is not red. Polly is a yumpus. Prove: Polly is not red.
+A:
+
+Predicted answer: Polly is a yumpus. Yumpuses are gorpuses. Polly is a gorpus. Each gorpus is a brimpus. Polly is a brimpus. Brimpuses are dumpuses. Every dumpus is not red. Polly is not red.
+
+
+
+Expected answer: Polly is a yumpus. Yumpuses are gorpuses. Polly is a gorpus. Each gorpus is a brimpus. Polly is a brimpus. Brimpuses are dumpuses. Polly is a dumpus. Every dumpus is not red. Polly is not red.
+n: 14, (beta prior) mean: 0.0625, 95% lower bound: 0.0016864302413527013, 95% upper bound: 0.218019360910534, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every vumpus is a grimpus. Grimpuses are yumpuses. Every yumpus is a brimpus. Brimpuses are not discordant. Rex is a vumpus. Prove: Rex is not discordant.
+A: Rex is a vumpus. Every vumpus is a grimpus. Rex is a grimpus. Grimpuses are yumpuses. Rex is a yumpus. Every yumpus is a brimpus. Rex is a brimpus. Brimpuses are not discordant. Rex is not discordant.
+
+Q: Zumpuses are tumpuses. Tumpuses are jompuses. Jompuses are sterpuses. Each sterpus is sour. Wren is a zumpus. Prove: Wren is sour.
+A: Wren is a zumpus. Zumpuses are tumpuses. Wren is a tumpus. Tumpuses are jompuses. Wren is a jompus. Jompuses are sterpuses. Wren is a sterpus. Each sterpus is sour. Wren is sour.
+
+Q: Numpuses are brimpuses. Every brimpus is a gorpus. Gorpuses are impuses. Impuses are not bitter. Polly is a numpus. Prove: Polly is not bitter.
+A: Polly is a numpus. Numpuses are brimpuses. Polly is a brimpus. Every brimpus is a gorpus. Polly is a gorpus. Gorpuses are impuses. Polly is an impus. Impuses are not bitter. Polly is not bitter.
+
+Q: Every lempus is a dumpus. Dumpuses are gorpuses. Each gorpus is a yumpus. Each yumpus is orange. Sam is a lempus. Prove: Sam is orange.
+A:
+
+Predicted answer: Sam is a lempus. Every lempus is a dumpus. Sam is a dumpus. Dumpuses are gorpuses. Sam is a gorpus. Each gorpus is a yumpus. Sam is a yumpus. Each yumpus is orange. Sam is orange.
+
+
+
+Expected answer: Sam is a lempus. Every lempus is a dumpus. Sam is a dumpus. Dumpuses are gorpuses. Sam is a gorpus. Each gorpus is a yumpus. Sam is a yumpus. Each yumpus is orange. Sam is orange.
+n: 15, (beta prior) mean: 0.058823529411764705, 95% lower bound: 0.0015811117227658871, 95% upper bound: 0.2059072142078227, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Sterpuses are rompuses. Rompuses are tumpuses. Every tumpus is a lorpus. Every lorpus is not feisty. Fae is a sterpus. Prove: Fae is not feisty.
+A: Fae is a sterpus. Sterpuses are rompuses. Fae is a rompus. Rompuses are tumpuses. Fae is a tumpus. Every tumpus is a lorpus. Fae is a lorpus. Every lorpus is not feisty. Fae is not feisty.
+
+Q: Brimpuses are zumpuses. Each zumpus is a gorpus. Gorpuses are lempuses. Lempuses are opaque. Wren is a brimpus. Prove: Wren is opaque.
+A: Wren is a brimpus. Brimpuses are zumpuses. Wren is a zumpus. Each zumpus is a gorpus. Wren is a gorpus. Gorpuses are lempuses. Wren is a lempus. Lempuses are opaque. Wren is opaque.
+
+Q: Rompuses are grimpuses. Grimpuses are wumpuses. Every wumpus is a sterpus. Sterpuses are cold. Rex is a rompus. Prove: Rex is cold.
+A: Rex is a rompus. Rompuses are grimpuses. Rex is a grimpus. Grimpuses are wumpuses. Rex is a wumpus. Every wumpus is a sterpus. Rex is a sterpus. Sterpuses are cold. Rex is cold.
+
+Q: Dumpuses are lempuses. Lempuses are shumpuses. Shumpuses are numpuses. Numpuses are luminous. Alex is a dumpus. Prove: Alex is luminous.
+A:
+
+Predicted answer: Alex is a dumpus. Dumpuses are lempuses. Alex is a lempus. Lempuses are shumpuses. Alex is a shumpus. Shumpuses are numpuses. Alex is a numpus. Numpuses are luminous. Alex is luminous.
+
+
+
+Expected answer: Alex is a dumpus. Dumpuses are lempuses. Alex is a lempus. Lempuses are shumpuses. Alex is a shumpus. Shumpuses are numpuses. Alex is a numpus. Numpuses are luminous. Alex is luminous.
+n: 16, (beta prior) mean: 0.05555555555555555, 95% lower bound: 0.0014881743912666346, 95% upper bound: 0.19506432296909318, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each lempus is a grimpus. Each grimpus is an impus. Impuses are rompuses. Every rompus is sweet. Alex is a lempus. Prove: Alex is sweet.
+A: Alex is a lempus. Each lempus is a grimpus. Alex is a grimpus. Each grimpus is an impus. Alex is an impus. Impuses are rompuses. Alex is a rompus. Every rompus is sweet. Alex is sweet.
+
+Q: Impuses are grimpuses. Grimpuses are gorpuses. Each gorpus is a zumpus. Each zumpus is not fruity. Max is an impus. Prove: Max is not fruity.
+A: Max is an impus. Impuses are grimpuses. Max is a grimpus. Grimpuses are gorpuses. Max is a gorpus. Each gorpus is a zumpus. Max is a zumpus. Each zumpus is not fruity. Max is not fruity.
+
+Q: Wumpuses are yumpuses. Yumpuses are shumpuses. Each shumpus is a lempus. Lempuses are happy. Sally is a wumpus. Prove: Sally is happy.
+A: Sally is a wumpus. Wumpuses are yumpuses. Sally is a yumpus. Yumpuses are shumpuses. Sally is a shumpus. Each shumpus is a lempus. Sally is a lempus. Lempuses are happy. Sally is happy.
+
+Q: Jompuses are dumpuses. Dumpuses are lempuses. Every lempus is a grimpus. Each grimpus is bright. Stella is a jompus. Prove: Stella is bright.
+A:
+
+Predicted answer: Stella is a jompus. Jompuses are dumpuses. Stella is a dumpus. Dumpuses are lempuses. Stella is a lempus. Every lempus is a grimpus. Stella is a grimpus. Each grimpus is bright. Stella is bright.
+
+
+
+Expected answer: Stella is a jompus. Jompuses are dumpuses. Stella is a dumpus. Dumpuses are lempuses. Stella is a lempus. Every lempus is a grimpus. Stella is a grimpus. Each grimpus is bright. Stella is bright.
+n: 17, (beta prior) mean: 0.05263157894736842, 95% lower bound: 0.0014055561673694222, 95% upper bound: 0.1853019681378522, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Rompuses are tumpuses. Every tumpus is a gorpus. Gorpuses are sterpuses. Every sterpus is feisty. Rex is a rompus. Prove: Rex is feisty.
+A: Rex is a rompus. Rompuses are tumpuses. Rex is a tumpus. Every tumpus is a gorpus. Rex is a gorpus. Gorpuses are sterpuses. Rex is a sterpus. Every sterpus is feisty. Rex is feisty.
+
+Q: Each zumpus is a wumpus. Wumpuses are shumpuses. Shumpuses are jompuses. Each jompus is dull. Polly is a zumpus. Prove: Polly is dull.
+A: Polly is a zumpus. Each zumpus is a wumpus. Polly is a wumpus. Wumpuses are shumpuses. Polly is a shumpus. Shumpuses are jompuses. Polly is a jompus. Each jompus is dull. Polly is dull.
+
+Q: Each yumpus is a shumpus. Shumpuses are lorpuses. Lorpuses are vumpuses. Each vumpus is not sour. Sam is a yumpus. Prove: Sam is not sour.
+A: Sam is a yumpus. Each yumpus is a shumpus. Sam is a shumpus. Shumpuses are lorpuses. Sam is a lorpus. Lorpuses are vumpuses. Sam is a vumpus. Each vumpus is not sour. Sam is not sour.
+
+Q: Each grimpus is an impus. Each impus is a lorpus. Lorpuses are numpuses. Numpuses are not fast. Rex is a grimpus. Prove: Rex is not fast.
+A:
+
+Predicted answer: Rex is a grimpus. Each grimpus is an impus. Rex is an impus. Each impus is a lorpus. Rex is a lorpus. Lorpuses are numpuses. Rex is a numpus. Numpuses are not fast. Rex is not fast.
+
+
+
+Expected answer: Rex is a grimpus. Each grimpus is an impus. Rex is an impus. Each impus is a lorpus. Rex is a lorpus. Lorpuses are numpuses. Rex is a numpus. Numpuses are not fast. Rex is not fast.
+n: 18, (beta prior) mean: 0.05, 95% lower bound: 0.001331628804179423, 95% upper bound: 0.17646691180696533, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each lorpus is a brimpus. Each brimpus is a shumpus. Shumpuses are lempuses. Every lempus is not dull. Sam is a lorpus. Prove: Sam is not dull.
+A: Sam is a lorpus. Each lorpus is a brimpus. Sam is a brimpus. Each brimpus is a shumpus. Sam is a shumpus. Shumpuses are lempuses. Sam is a lempus. Every lempus is not dull. Sam is not dull.
+
+Q: Every numpus is a brimpus. Every brimpus is a jompus. Every jompus is a rompus. Every rompus is hot. Stella is a numpus. Prove: Stella is hot.
+A: Stella is a numpus. Every numpus is a brimpus. Stella is a brimpus. Every brimpus is a jompus. Stella is a jompus. Every jompus is a rompus. Stella is a rompus. Every rompus is hot. Stella is hot.
+
+Q: Wumpuses are dumpuses. Dumpuses are tumpuses. Every tumpus is a lempus. Every lempus is brown. Wren is a wumpus. Prove: Wren is brown.
+A: Wren is a wumpus. Wumpuses are dumpuses. Wren is a dumpus. Dumpuses are tumpuses. Wren is a tumpus. Every tumpus is a lempus. Wren is a lempus. Every lempus is brown. Wren is brown.
+
+Q: Shumpuses are lorpuses. Every lorpus is a lempus. Lempuses are vumpuses. Each vumpus is rainy. Polly is a shumpus. Prove: Polly is rainy.
+A:
+
+Predicted answer: Polly is a shumpus. Shumpuses are lorpuses. Polly is a lorpus. Every lorpus is a lempus. Polly is a lempus. Every lempus is a vumpus. Polly is a vumpus. Every vumpus is rainy. Polly is rainy.
+
+
+
+Expected answer: Polly is a shumpus. Shumpuses are lorpuses. Polly is a lorpus. Every lorpus is a lempus. Polly is a lempus. Lempuses are vumpuses. Polly is a vumpus. Each vumpus is rainy. Polly is rainy.
+n: 19, (beta prior) mean: 0.047619047619047616, 95% lower bound: 0.0012650894979498038, 95% upper bound: 0.1684334709830853, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each shumpus is an impus. Every impus is a yumpus. Yumpuses are lempuses. Each lempus is not discordant. Rex is a shumpus. Prove: Rex is not discordant.
+A: Rex is a shumpus. Each shumpus is an impus. Rex is an impus. Every impus is a yumpus. Rex is a yumpus. Yumpuses are lempuses. Rex is a lempus. Each lempus is not discordant. Rex is not discordant.
+
+Q: Yumpuses are lorpuses. Every lorpus is a grimpus. Grimpuses are gorpuses. Every gorpus is small. Max is a yumpus. Prove: Max is small.
+A: Max is a yumpus. Yumpuses are lorpuses. Max is a lorpus. Every lorpus is a grimpus. Max is a grimpus. Grimpuses are gorpuses. Max is a gorpus. Every gorpus is small. Max is small.
+
+Q: Tumpuses are lempuses. Lempuses are shumpuses. Each shumpus is a sterpus. Each sterpus is not snowy. Rex is a tumpus. Prove: Rex is not snowy.
+A: Rex is a tumpus. Tumpuses are lempuses. Rex is a lempus. Lempuses are shumpuses. Rex is a shumpus. Each shumpus is a sterpus. Rex is a sterpus. Each sterpus is not snowy. Rex is not snowy.
+
+Q: Impuses are lorpuses. Lorpuses are numpuses. Every numpus is a yumpus. Each yumpus is not luminous. Sam is an impus. Prove: Sam is not luminous.
+A:
+
+Predicted answer: Sam is an impus. Impuses are lorpuses. Sam is a lorpus. Lorpuses are numpuses. Sam is a numpus. Every numpus is a yumpus. Sam is a yumpus. Each yumpus is not luminous. Sam is not luminous.
+
+
+
+Expected answer: Sam is an impus. Impuses are lorpuses. Sam is a lorpus. Lorpuses are numpuses. Sam is a numpus. Every numpus is a yumpus. Sam is a yumpus. Each yumpus is not luminous. Sam is not luminous.
+n: 20, (beta prior) mean: 0.045454545454545456, 95% lower bound: 0.0012048834483635125, 95% upper bound: 0.1610976152190796, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Jompuses are gorpuses. Gorpuses are vumpuses. Vumpuses are zumpuses. Every zumpus is not fast. Max is a jompus. Prove: Max is not fast.
+A: Max is a jompus. Jompuses are gorpuses. Max is a gorpus. Gorpuses are vumpuses. Max is a vumpus. Vumpuses are zumpuses. Max is a zumpus. Every zumpus is not fast. Max is not fast.
+
+Q: Vumpuses are shumpuses. Shumpuses are lorpuses. Lorpuses are rompuses. Each rompus is fruity. Sally is a vumpus. Prove: Sally is fruity.
+A: Sally is a vumpus. Vumpuses are shumpuses. Sally is a shumpus. Shumpuses are lorpuses. Sally is a lorpus. Lorpuses are rompuses. Sally is a rompus. Each rompus is fruity. Sally is fruity.
+
+Q: Every tumpus is a vumpus. Every vumpus is a shumpus. Each shumpus is a lempus. Lempuses are feisty. Max is a tumpus. Prove: Max is feisty.
+A: Max is a tumpus. Every tumpus is a vumpus. Max is a vumpus. Every vumpus is a shumpus. Max is a shumpus. Each shumpus is a lempus. Max is a lempus. Lempuses are feisty. Max is feisty.
+
+Q: Every wumpus is a numpus. Every numpus is a shumpus. Each shumpus is a grimpus. Every grimpus is moderate. Sam is a wumpus. Prove: Sam is moderate.
+A:
+
+Predicted answer: Sam is a wumpus. Every wumpus is a numpus. Sam is a numpus. Every numpus is a shumpus. Sam is a shumpus. Each shumpus is a grimpus. Sam is a grimpus. Every grimpus is moderate. Sam is moderate.
+
+
+
+Expected answer: Sam is a wumpus. Every wumpus is a numpus. Sam is a numpus. Every numpus is a shumpus. Sam is a shumpus. Each shumpus is a grimpus. Sam is a grimpus. Every grimpus is moderate. Sam is moderate.
+n: 21, (beta prior) mean: 0.043478260869565216, 95% lower bound: 0.0011501475265735751, 95% upper bound: 0.15437251281557457, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each brimpus is a vumpus. Vumpuses are lorpuses. Each lorpus is a lempus. Lempuses are amenable. Sam is a brimpus. Prove: Sam is amenable.
+A: Sam is a brimpus. Each brimpus is a vumpus. Sam is a vumpus. Vumpuses are lorpuses. Sam is a lorpus. Each lorpus is a lempus. Sam is a lempus. Lempuses are amenable. Sam is amenable.
+
+Q: Every impus is a dumpus. Every dumpus is a sterpus. Sterpuses are zumpuses. Each zumpus is fruity. Sam is an impus. Prove: Sam is fruity.
+A: Sam is an impus. Every impus is a dumpus. Sam is a dumpus. Every dumpus is a sterpus. Sam is a sterpus. Sterpuses are zumpuses. Sam is a zumpus. Each zumpus is fruity. Sam is fruity.
+
+Q: Wumpuses are brimpuses. Brimpuses are yumpuses. Every yumpus is a lempus. Every lempus is not hot. Alex is a wumpus. Prove: Alex is not hot.
+A: Alex is a wumpus. Wumpuses are brimpuses. Alex is a brimpus. Brimpuses are yumpuses. Alex is a yumpus. Every yumpus is a lempus. Alex is a lempus. Every lempus is not hot. Alex is not hot.
+
+Q: Each rompus is a tumpus. Every tumpus is a brimpus. Each brimpus is a vumpus. Vumpuses are melodic. Fae is a rompus. Prove: Fae is melodic.
+A:
+
+Predicted answer: Fae is a rompus. Each rompus is a tumpus. Fae is a tumpus. Every tumpus is a brimpus. Fae is a brimpus. Each brimpus is a vumpus. Vumpuses are melodic. Fae is a vumpus. Fae is melodic.
+
+
+
+Expected answer: Fae is a rompus. Each rompus is a tumpus. Fae is a tumpus. Every tumpus is a brimpus. Fae is a brimpus. Each brimpus is a vumpus. Fae is a vumpus. Vumpuses are melodic. Fae is melodic.
+n: 22, (beta prior) mean: 0.041666666666666664, 95% lower bound: 0.0011001686304414995, 95% upper bound: 0.14818512891522437, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every vumpus is a gorpus. Gorpuses are lempuses. Lempuses are numpuses. Every numpus is dull. Wren is a vumpus. Prove: Wren is dull.
+A: Wren is a vumpus. Every vumpus is a gorpus. Wren is a gorpus. Gorpuses are lempuses. Wren is a lempus. Lempuses are numpuses. Wren is a numpus. Every numpus is dull. Wren is dull.
+
+Q: Each tumpus is a vumpus. Each vumpus is an impus. Every impus is a rompus. Rompuses are amenable. Max is a tumpus. Prove: Max is amenable.
+A: Max is a tumpus. Each tumpus is a vumpus. Max is a vumpus. Each vumpus is an impus. Max is an impus. Every impus is a rompus. Max is a rompus. Rompuses are amenable. Max is amenable.
+
+Q: Vumpuses are dumpuses. Dumpuses are yumpuses. Each yumpus is a jompus. Jompuses are liquid. Wren is a vumpus. Prove: Wren is liquid.
+A: Wren is a vumpus. Vumpuses are dumpuses. Wren is a dumpus. Dumpuses are yumpuses. Wren is a yumpus. Each yumpus is a jompus. Wren is a jompus. Jompuses are liquid. Wren is liquid.
+
+Q: Every jompus is a zumpus. Zumpuses are numpuses. Each numpus is a wumpus. Wumpuses are not shy. Fae is a jompus. Prove: Fae is not shy.
+A:
+
+Predicted answer: Fae is a jompus. Every jompus is a zumpus. Fae is a zumpus. Zumpuses are numpuses. Fae is a numpus. Each numpus is a wumpus. Fae is a wumpus. Wumpuses are not shy. Fae is not shy.
+
+
+
+Expected answer: Fae is a jompus. Every jompus is a zumpus. Fae is a zumpus. Zumpuses are numpuses. Fae is a numpus. Each numpus is a wumpus. Fae is a wumpus. Wumpuses are not shy. Fae is not shy.
+n: 23, (beta prior) mean: 0.04, 95% lower bound: 0.0010543524454697472, 95% upper bound: 0.14247359772252563, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Grimpuses are tumpuses. Tumpuses are lempuses. Lempuses are numpuses. Every numpus is not shy. Sally is a grimpus. Prove: Sally is not shy.
+A: Sally is a grimpus. Grimpuses are tumpuses. Sally is a tumpus. Tumpuses are lempuses. Sally is a lempus. Lempuses are numpuses. Sally is a numpus. Every numpus is not shy. Sally is not shy.
+
+Q: Every tumpus is a numpus. Every numpus is a yumpus. Every yumpus is a brimpus. Each brimpus is not angry. Sam is a tumpus. Prove: Sam is not angry.
+A: Sam is a tumpus. Every tumpus is a numpus. Sam is a numpus. Every numpus is a yumpus. Sam is a yumpus. Every yumpus is a brimpus. Sam is a brimpus. Each brimpus is not angry. Sam is not angry.
+
+Q: Every dumpus is a shumpus. Shumpuses are vumpuses. Vumpuses are lorpuses. Each lorpus is small. Sally is a dumpus. Prove: Sally is small.
+A: Sally is a dumpus. Every dumpus is a shumpus. Sally is a shumpus. Shumpuses are vumpuses. Sally is a vumpus. Vumpuses are lorpuses. Sally is a lorpus. Each lorpus is small. Sally is small.
+
+Q: Each zumpus is a yumpus. Yumpuses are gorpuses. Every gorpus is a lorpus. Lorpuses are mean. Fae is a zumpus. Prove: Fae is mean.
+A:
+
+Predicted answer: Fae is a zumpus. Each zumpus is a yumpus. Fae is a yumpus. Yumpuses are gorpuses. Every gorpus is a lorpus. Lorpuses are mean. Fae is a lorpus. Fae is mean.
+
+
+
+Expected answer: Fae is a zumpus. Each zumpus is a yumpus. Fae is a yumpus. Yumpuses are gorpuses. Fae is a gorpus. Every gorpus is a lorpus. Fae is a lorpus. Lorpuses are mean. Fae is mean.
+n: 24, (beta prior) mean: 0.038461538461538464, 95% lower bound: 0.0010121996993108446, 95% upper bound: 0.1371851715307125, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Shumpuses are wumpuses. Every wumpus is a lorpus. Each lorpus is a tumpus. Tumpuses are not metallic. Stella is a shumpus. Prove: Stella is not metallic.
+A: Stella is a shumpus. Shumpuses are wumpuses. Stella is a wumpus. Every wumpus is a lorpus. Stella is a lorpus. Each lorpus is a tumpus. Stella is a tumpus. Tumpuses are not metallic. Stella is not metallic.
+
+Q: Each grimpus is a rompus. Rompuses are dumpuses. Dumpuses are brimpuses. Each brimpus is not floral. Max is a grimpus. Prove: Max is not floral.
+A: Max is a grimpus. Each grimpus is a rompus. Max is a rompus. Rompuses are dumpuses. Max is a dumpus. Dumpuses are brimpuses. Max is a brimpus. Each brimpus is not floral. Max is not floral.
+
+Q: Lorpuses are rompuses. Rompuses are shumpuses. Shumpuses are zumpuses. Each zumpus is sour. Fae is a lorpus. Prove: Fae is sour.
+A: Fae is a lorpus. Lorpuses are rompuses. Fae is a rompus. Rompuses are shumpuses. Fae is a shumpus. Shumpuses are zumpuses. Fae is a zumpus. Each zumpus is sour. Fae is sour.
+
+Q: Every impus is a wumpus. Wumpuses are shumpuses. Shumpuses are numpuses. Every numpus is nervous. Sally is an impus. Prove: Sally is nervous.
+A:
+
+Predicted answer: Sally is an impus. Every impus is a wumpus. Sally is a wumpus. Wumpuses are shumpuses. Sally is a shumpus. Shumpuses are numpuses. Sally is a numpus. Every numpus is nervous. Sally is nervous.
+
+
+
+Expected answer: Sally is an impus. Every impus is a wumpus. Sally is a wumpus. Wumpuses are shumpuses. Sally is a shumpus. Shumpuses are numpuses. Sally is a numpus. Every numpus is nervous. Sally is nervous.
+n: 25, (beta prior) mean: 0.037037037037037035, 95% lower bound: 0.0009732878933350303, 95% upper bound: 0.1322746044977541, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each grimpus is a wumpus. Wumpuses are lempuses. Every lempus is a vumpus. Every vumpus is not liquid. Polly is a grimpus. Prove: Polly is not liquid.
+A: Polly is a grimpus. Each grimpus is a wumpus. Polly is a wumpus. Wumpuses are lempuses. Polly is a lempus. Every lempus is a vumpus. Polly is a vumpus. Every vumpus is not liquid. Polly is not liquid.
+
+Q: Each rompus is a wumpus. Every wumpus is a vumpus. Vumpuses are zumpuses. Each zumpus is mean. Alex is a rompus. Prove: Alex is mean.
+A: Alex is a rompus. Each rompus is a wumpus. Alex is a wumpus. Every wumpus is a vumpus. Alex is a vumpus. Vumpuses are zumpuses. Alex is a zumpus. Each zumpus is mean. Alex is mean.
+
+Q: Every gorpus is a grimpus. Grimpuses are sterpuses. Each sterpus is a wumpus. Each wumpus is opaque. Max is a gorpus. Prove: Max is opaque.
+A: Max is a gorpus. Every gorpus is a grimpus. Max is a grimpus. Grimpuses are sterpuses. Max is a sterpus. Each sterpus is a wumpus. Max is a wumpus. Each wumpus is opaque. Max is opaque.
+
+Q: Each vumpus is a rompus. Each rompus is a gorpus. Gorpuses are impuses. Each impus is not amenable. Polly is a vumpus. Prove: Polly is not amenable.
+A:
+
+Predicted answer: Polly is a vumpus. Each vumpus is a rompus. Polly is a rompus. Each rompus is a gorpus. Polly is a gorpus. Gorpuses are impuses. Polly is a impus. Each impus is not amenable. Polly is not amenable.
+
+
+
+Expected answer: Polly is a vumpus. Each vumpus is a rompus. Polly is a rompus. Each rompus is a gorpus. Polly is a gorpus. Gorpuses are impuses. Polly is an impus. Each impus is not amenable. Polly is not amenable.
+n: 26, (beta prior) mean: 0.03571428571428571, 95% lower bound: 0.000937257091944707, 95% upper bound: 0.12770286761543234, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each vumpus is a rompus. Each rompus is a grimpus. Grimpuses are brimpuses. Each brimpus is not bright. Sally is a vumpus. Prove: Sally is not bright.
+A: Sally is a vumpus. Each vumpus is a rompus. Sally is a rompus. Each rompus is a grimpus. Sally is a grimpus. Grimpuses are brimpuses. Sally is a brimpus. Each brimpus is not bright. Sally is not bright.
+
+Q: Each rompus is a sterpus. Sterpuses are shumpuses. Each shumpus is a zumpus. Each zumpus is temperate. Stella is a rompus. Prove: Stella is temperate.
+A: Stella is a rompus. Each rompus is a sterpus. Stella is a sterpus. Sterpuses are shumpuses. Stella is a shumpus. Each shumpus is a zumpus. Stella is a zumpus. Each zumpus is temperate. Stella is temperate.
+
+Q: Rompuses are zumpuses. Every zumpus is a sterpus. Sterpuses are shumpuses. Each shumpus is not feisty. Max is a rompus. Prove: Max is not feisty.
+A: Max is a rompus. Rompuses are zumpuses. Max is a zumpus. Every zumpus is a sterpus. Max is a sterpus. Sterpuses are shumpuses. Max is a shumpus. Each shumpus is not feisty. Max is not feisty.
+
+Q: Vumpuses are lempuses. Lempuses are wumpuses. Wumpuses are dumpuses. Dumpuses are metallic. Max is a vumpus. Prove: Max is metallic.
+A:
+
+Predicted answer: Max is a vumpus. Vumpuses are lempuses. Max is a lempus. Lempuses are wumpuses. Max is a wumpus. Wumpuses are dumpuses. Max is a dumpus. Dumpuses are metallic. Max is metallic.
+
+
+
+Expected answer: Max is a vumpus. Vumpuses are lempuses. Max is a lempus. Lempuses are wumpuses. Max is a wumpus. Wumpuses are dumpuses. Max is a dumpus. Dumpuses are metallic. Max is metallic.
+n: 27, (beta prior) mean: 0.034482758620689655, 95% lower bound: 0.0009037987556580578, 95% upper bound: 0.12343611850026381, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Brimpuses are grimpuses. Grimpuses are numpuses. Every numpus is an impus. Impuses are not fast. Alex is a brimpus. Prove: Alex is not fast.
+A: Alex is a brimpus. Brimpuses are grimpuses. Alex is a grimpus. Grimpuses are numpuses. Alex is a numpus. Every numpus is an impus. Alex is an impus. Impuses are not fast. Alex is not fast.
+
+Q: Jompuses are brimpuses. Each brimpus is a shumpus. Every shumpus is a wumpus. Each wumpus is slow. Sam is a jompus. Prove: Sam is slow.
+A: Sam is a jompus. Jompuses are brimpuses. Sam is a brimpus. Each brimpus is a shumpus. Sam is a shumpus. Every shumpus is a wumpus. Sam is a wumpus. Each wumpus is slow. Sam is slow.
+
+Q: Every zumpus is a jompus. Every jompus is a grimpus. Grimpuses are rompuses. Rompuses are rainy. Max is a zumpus. Prove: Max is rainy.
+A: Max is a zumpus. Every zumpus is a jompus. Max is a jompus. Every jompus is a grimpus. Max is a grimpus. Grimpuses are rompuses. Max is a rompus. Rompuses are rainy. Max is rainy.
+
+Q: Grimpuses are wumpuses. Each wumpus is a numpus. Every numpus is an impus. Each impus is not small. Alex is a grimpus. Prove: Alex is not small.
+A:
+
+Predicted answer: Alex is a grimpus. Grimpuses are wumpuses. Alex is a wumpus. Each wumpus is a numpus. Alex is a numpus. Every numpus is an impus. Alex is an impus. Each impus is not small. Alex is not small.
+
+
+
+Expected answer: Alex is a grimpus. Grimpuses are wumpuses. Alex is a wumpus. Each wumpus is a numpus. Alex is a numpus. Every numpus is an impus. Alex is an impus. Each impus is not small. Alex is not small.
+n: 28, (beta prior) mean: 0.03333333333333333, 95% lower bound: 0.000872646883579922, 95% upper bound: 0.11944486906950269, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Zumpuses are yumpuses. Each yumpus is a dumpus. Every dumpus is a brimpus. Every brimpus is discordant. Max is a zumpus. Prove: Max is discordant.
+A: Max is a zumpus. Zumpuses are yumpuses. Max is a yumpus. Each yumpus is a dumpus. Max is a dumpus. Every dumpus is a brimpus. Max is a brimpus. Every brimpus is discordant. Max is discordant.
+
+Q: Jompuses are vumpuses. Every vumpus is a rompus. Each rompus is an impus. Every impus is sweet. Sally is a jompus. Prove: Sally is sweet.
+A: Sally is a jompus. Jompuses are vumpuses. Sally is a vumpus. Every vumpus is a rompus. Sally is a rompus. Each rompus is an impus. Sally is an impus. Every impus is sweet. Sally is sweet.
+
+Q: Every yumpus is a rompus. Each rompus is a shumpus. Each shumpus is an impus. Impuses are not moderate. Max is a yumpus. Prove: Max is not moderate.
+A: Max is a yumpus. Every yumpus is a rompus. Max is a rompus. Each rompus is a shumpus. Max is a shumpus. Each shumpus is an impus. Max is an impus. Impuses are not moderate. Max is not moderate.
+
+Q: Lempuses are impuses. Every impus is a brimpus. Brimpuses are sterpuses. Every sterpus is not kind. Polly is a lempus. Prove: Polly is not kind.
+A:
+
+Predicted answer: Polly is a lempus. Lempuses are impuses. Polly is an impus. Every impus is a brimpus. Polly is a brimpus. Every brimpus is sterpus. Polly is a sterpus. Every sterpus is not kind. Polly is not kind.
+
+
+
+Expected answer: Polly is a lempus. Lempuses are impuses. Polly is an impus. Every impus is a brimpus. Polly is a brimpus. Brimpuses are sterpuses. Polly is a sterpus. Every sterpus is not kind. Polly is not kind.
+n: 29, (beta prior) mean: 0.03225806451612903, 95% lower bound: 0.0008435709266304788, 95% upper bound: 0.11570330822202779, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Rompuses are impuses. Impuses are shumpuses. Shumpuses are sterpuses. Sterpuses are metallic. Max is a rompus. Prove: Max is metallic.
+A: Max is a rompus. Rompuses are impuses. Max is an impus. Impuses are shumpuses. Max is a shumpus. Shumpuses are sterpuses. Max is a sterpus. Sterpuses are metallic. Max is metallic.
+
+Q: Numpuses are gorpuses. Gorpuses are jompuses. Every jompus is a zumpus. Zumpuses are small. Max is a numpus. Prove: Max is small.
+A: Max is a numpus. Numpuses are gorpuses. Max is a gorpus. Gorpuses are jompuses. Max is a jompus. Every jompus is a zumpus. Max is a zumpus. Zumpuses are small. Max is small.
+
+Q: Every brimpus is a vumpus. Vumpuses are shumpuses. Every shumpus is a rompus. Each rompus is snowy. Max is a brimpus. Prove: Max is snowy.
+A: Max is a brimpus. Every brimpus is a vumpus. Max is a vumpus. Vumpuses are shumpuses. Max is a shumpus. Every shumpus is a rompus. Max is a rompus. Each rompus is snowy. Max is snowy.
+
+Q: Each jompus is a numpus. Each numpus is a wumpus. Wumpuses are dumpuses. Each dumpus is feisty. Rex is a jompus. Prove: Rex is feisty.
+A:
+
+Predicted answer: Rex is a jompus. Each jompus is a numpus. Rex is a numpus. Each numpus is a wumpus. Rex is a wumpus. Wumpuses are dumpuses. Each dumpus is feisty. Rex is a dumpus. Rex is feisty.
+
+
+
+Expected answer: Rex is a jompus. Each jompus is a numpus. Rex is a numpus. Each numpus is a wumpus. Rex is a wumpus. Wumpuses are dumpuses. Rex is a dumpus. Each dumpus is feisty. Rex is feisty.
+n: 30, (beta prior) mean: 0.03125, 95% lower bound: 0.000816370071846613, 95% upper bound: 0.11218874692236996, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each brimpus is a grimpus. Grimpuses are numpuses. Each numpus is a vumpus. Every vumpus is nervous. Rex is a brimpus. Prove: Rex is nervous.
+A: Rex is a brimpus. Each brimpus is a grimpus. Rex is a grimpus. Grimpuses are numpuses. Rex is a numpus. Each numpus is a vumpus. Rex is a vumpus. Every vumpus is nervous. Rex is nervous.
+
+Q: Every lorpus is a rompus. Rompuses are vumpuses. Every vumpus is a yumpus. Yumpuses are not shy. Polly is a lorpus. Prove: Polly is not shy.
+A: Polly is a lorpus. Every lorpus is a rompus. Polly is a rompus. Rompuses are vumpuses. Polly is a vumpus. Every vumpus is a yumpus. Polly is a yumpus. Yumpuses are not shy. Polly is not shy.
+
+Q: Each jompus is a wumpus. Wumpuses are impuses. Impuses are lorpuses. Lorpuses are not temperate. Wren is a jompus. Prove: Wren is not temperate.
+A: Wren is a jompus. Each jompus is a wumpus. Wren is a wumpus. Wumpuses are impuses. Wren is an impus. Impuses are lorpuses. Wren is a lorpus. Lorpuses are not temperate. Wren is not temperate.
+
+Q: Every numpus is a lempus. Lempuses are sterpuses. Sterpuses are dumpuses. Dumpuses are red. Sally is a numpus. Prove: Sally is red.
+A:
+
+Predicted answer: Sally is a numpus. Every numpus is a lempus. Sally is a lempus. Lempuses are sterpuses. Sally is a sterpus. Sterpuses are dumpuses. Sally is a dumpus. Dumpuses are red. Sally is red.
+
+
+
+Expected answer: Sally is a numpus. Every numpus is a lempus. Sally is a lempus. Lempuses are sterpuses. Sally is a sterpus. Sterpuses are dumpuses. Sally is a dumpus. Dumpuses are red. Sally is red.
+n: 31, (beta prior) mean: 0.030303030303030304, 95% lower bound: 0.0007908685979525573, 95% upper bound: 0.10888116067935288, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Jompuses are impuses. Impuses are lempuses. Lempuses are shumpuses. Shumpuses are not fruity. Rex is a jompus. Prove: Rex is not fruity.
+A: Rex is a jompus. Jompuses are impuses. Rex is an impus. Impuses are lempuses. Rex is a lempus. Lempuses are shumpuses. Rex is a shumpus. Shumpuses are not fruity. Rex is not fruity.
+
+Q: Each brimpus is an impus. Each impus is a shumpus. Shumpuses are lempuses. Each lempus is not hot. Wren is a brimpus. Prove: Wren is not hot.
+A: Wren is a brimpus. Each brimpus is an impus. Wren is an impus. Each impus is a shumpus. Wren is a shumpus. Shumpuses are lempuses. Wren is a lempus. Each lempus is not hot. Wren is not hot.
+
+Q: Every rompus is a lempus. Lempuses are sterpuses. Sterpuses are lorpuses. Lorpuses are not cold. Wren is a rompus. Prove: Wren is not cold.
+A: Wren is a rompus. Every rompus is a lempus. Wren is a lempus. Lempuses are sterpuses. Wren is a sterpus. Sterpuses are lorpuses. Wren is a lorpus. Lorpuses are not cold. Wren is not cold.
+
+Q: Each vumpus is a lorpus. Each lorpus is a sterpus. Every sterpus is a grimpus. Grimpuses are not slow. Sam is a vumpus. Prove: Sam is not slow.
+A:
+
+Predicted answer: Sam is a vumpus. Each vumpus is a lorpus. Sam is a lorpus. Each lorpus is a sterpus. Sam is a sterpus. Every sterpus is a grimpus. Sam is a grimpus. Grimpuses are not slow. Sam is not slow.
+
+
+
+Expected answer: Sam is a vumpus. Each vumpus is a lorpus. Sam is a lorpus. Each lorpus is a sterpus. Sam is a sterpus. Every sterpus is a grimpus. Sam is a grimpus. Grimpuses are not slow. Sam is not slow.
+n: 32, (beta prior) mean: 0.029411764705882353, 95% lower bound: 0.0007669120750481087, 95% upper bound: 0.10576281007457927, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each numpus is a rompus. Each rompus is a wumpus. Wumpuses are sterpuses. Each sterpus is blue. Wren is a numpus. Prove: Wren is blue.
+A: Wren is a numpus. Each numpus is a rompus. Wren is a rompus. Each rompus is a wumpus. Wren is a wumpus. Wumpuses are sterpuses. Wren is a sterpus. Each sterpus is blue. Wren is blue.
+
+Q: Every sterpus is a dumpus. Dumpuses are wumpuses. Each wumpus is a tumpus. Each tumpus is small. Polly is a sterpus. Prove: Polly is small.
+A: Polly is a sterpus. Every sterpus is a dumpus. Polly is a dumpus. Dumpuses are wumpuses. Polly is a wumpus. Each wumpus is a tumpus. Polly is a tumpus. Each tumpus is small. Polly is small.
+
+Q: Every lorpus is a wumpus. Each wumpus is a lempus. Every lempus is a tumpus. Tumpuses are red. Alex is a lorpus. Prove: Alex is red.
+A: Alex is a lorpus. Every lorpus is a wumpus. Alex is a wumpus. Each wumpus is a lempus. Alex is a lempus. Every lempus is a tumpus. Alex is a tumpus. Tumpuses are red. Alex is red.
+
+Q: Each gorpus is a shumpus. Shumpuses are vumpuses. Each vumpus is a brimpus. Brimpuses are not angry. Sam is a gorpus. Prove: Sam is not angry.
+A:
+
+Predicted answer: Sam is a gorpus. Each gorpus is a shumpus. Sam is a shumpus. Shumpuses are vumpuses. Sam is a vumpus. Each vumpus is a brimpus. Sam is a brimpus. Brimpuses are not angry. Sam is not angry.
+
+
+
+Expected answer: Sam is a gorpus. Each gorpus is a shumpus. Sam is a shumpus. Shumpuses are vumpuses. Sam is a vumpus. Each vumpus is a brimpus. Sam is a brimpus. Brimpuses are not angry. Sam is not angry.
+n: 33, (beta prior) mean: 0.02857142857142857, 95% lower bound: 0.0007443642346902604, 95% upper bound: 0.10281792425901262, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each vumpus is a wumpus. Wumpuses are jompuses. Jompuses are lorpuses. Each lorpus is not snowy. Rex is a vumpus. Prove: Rex is not snowy.
+A: Rex is a vumpus. Each vumpus is a wumpus. Rex is a wumpus. Wumpuses are jompuses. Rex is a jompus. Jompuses are lorpuses. Rex is a lorpus. Each lorpus is not snowy. Rex is not snowy.
+
+Q: Every grimpus is a yumpus. Yumpuses are lorpuses. Every lorpus is a sterpus. Each sterpus is not slow. Stella is a grimpus. Prove: Stella is not slow.
+A: Stella is a grimpus. Every grimpus is a yumpus. Stella is a yumpus. Yumpuses are lorpuses. Stella is a lorpus. Every lorpus is a sterpus. Stella is a sterpus. Each sterpus is not slow. Stella is not slow.
+
+Q: Each gorpus is a lempus. Every lempus is a dumpus. Every dumpus is a rompus. Every rompus is not large. Wren is a gorpus. Prove: Wren is not large.
+A: Wren is a gorpus. Each gorpus is a lempus. Wren is a lempus. Every lempus is a dumpus. Wren is a dumpus. Every dumpus is a rompus. Wren is a rompus. Every rompus is not large. Wren is not large.
+
+Q: Shumpuses are sterpuses. Sterpuses are zumpuses. Zumpuses are yumpuses. Every yumpus is not earthy. Alex is a shumpus. Prove: Alex is not earthy.
+A:
+
+Predicted answer: Alex is a shumpus. Shumpuses are sterpuses. Alex is a sterpus. Sterpuses are zumpuses. Alex is a zumpus. Zumpuses are yumpuses. Every yumpus is not earthy. Alex is a yumpus. Alex is not earthy.
+
+
+
+Expected answer: Alex is a shumpus. Shumpuses are sterpuses. Alex is a sterpus. Sterpuses are zumpuses. Alex is a zumpus. Zumpuses are yumpuses. Alex is a yumpus. Every yumpus is not earthy. Alex is not earthy.
+n: 34, (beta prior) mean: 0.027777777777777776, 95% lower bound: 0.0007231043763380947, 95% upper bound: 0.10003243557210503, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Shumpuses are tumpuses. Every tumpus is a gorpus. Every gorpus is a sterpus. Every sterpus is melodic. Sam is a shumpus. Prove: Sam is melodic.
+A: Sam is a shumpus. Shumpuses are tumpuses. Sam is a tumpus. Every tumpus is a gorpus. Sam is a gorpus. Every gorpus is a sterpus. Sam is a sterpus. Every sterpus is melodic. Sam is melodic.
+
+Q: Lorpuses are zumpuses. Each zumpus is a grimpus. Each grimpus is a wumpus. Wumpuses are loud. Stella is a lorpus. Prove: Stella is loud.
+A: Stella is a lorpus. Lorpuses are zumpuses. Stella is a zumpus. Each zumpus is a grimpus. Stella is a grimpus. Each grimpus is a wumpus. Stella is a wumpus. Wumpuses are loud. Stella is loud.
+
+Q: Numpuses are rompuses. Every rompus is a lempus. Every lempus is an impus. Impuses are sweet. Stella is a numpus. Prove: Stella is sweet.
+A: Stella is a numpus. Numpuses are rompuses. Stella is a rompus. Every rompus is a lempus. Stella is a lempus. Every lempus is an impus. Stella is an impus. Impuses are sweet. Stella is sweet.
+
+Q: Gorpuses are lorpuses. Each lorpus is a sterpus. Sterpuses are brimpuses. Each brimpus is not metallic. Rex is a gorpus. Prove: Rex is not metallic.
+A:
+
+Predicted answer: Rex is a gorpus. Gorpuses are lorpuses. Rex is a lorpus. Each lorpus is a sterpus. Rex is a sterpus. Each sterpus is a brimpus. Rex is a brimpus. Each brimpus is not metallic. Rex is not metallic.
+
+
+
+Expected answer: Rex is a gorpus. Gorpuses are lorpuses. Rex is a lorpus. Each lorpus is a sterpus. Rex is a sterpus. Sterpuses are brimpuses. Rex is a brimpus. Each brimpus is not metallic. Rex is not metallic.
+n: 35, (beta prior) mean: 0.02702702702702703, 95% lower bound: 0.0007030252059047799, 95% upper bound: 0.09739375591449193, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Dumpuses are zumpuses. Each zumpus is a gorpus. Gorpuses are impuses. Impuses are kind. Alex is a dumpus. Prove: Alex is kind.
+A: Alex is a dumpus. Dumpuses are zumpuses. Alex is a zumpus. Each zumpus is a gorpus. Alex is a gorpus. Gorpuses are impuses. Alex is an impus. Impuses are kind. Alex is kind.
+
+Q: Zumpuses are shumpuses. Shumpuses are jompuses. Jompuses are tumpuses. Every tumpus is happy. Polly is a zumpus. Prove: Polly is happy.
+A: Polly is a zumpus. Zumpuses are shumpuses. Polly is a shumpus. Shumpuses are jompuses. Polly is a jompus. Jompuses are tumpuses. Polly is a tumpus. Every tumpus is happy. Polly is happy.
+
+Q: Wumpuses are gorpuses. Gorpuses are dumpuses. Each dumpus is an impus. Impuses are red. Alex is a wumpus. Prove: Alex is red.
+A: Alex is a wumpus. Wumpuses are gorpuses. Alex is a gorpus. Gorpuses are dumpuses. Alex is a dumpus. Each dumpus is an impus. Alex is an impus. Impuses are red. Alex is red.
+
+Q: Jompuses are numpuses. Numpuses are dumpuses. Every dumpus is a wumpus. Each wumpus is nervous. Stella is a jompus. Prove: Stella is nervous.
+A:
+
+Predicted answer: Stella is a jompus. Jompuses are numpuses. Stella is a numpus. Numpuses are dumpuses. Stella is a dumpus. Every dumpus is a wumpus. Stella is a wumpus. Every wumpus is nervous. Stella is nervous.
+
+
+
+Expected answer: Stella is a jompus. Jompuses are numpuses. Stella is a numpus. Numpuses are dumpuses. Stella is a dumpus. Every dumpus is a wumpus. Stella is a wumpus. Each wumpus is nervous. Stella is nervous.
+n: 36, (beta prior) mean: 0.02631578947368421, 95% lower bound: 0.0006840310246946647, 95% upper bound: 0.09489058741498986, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every shumpus is a lempus. Lempuses are dumpuses. Dumpuses are gorpuses. Each gorpus is not overcast. Rex is a shumpus. Prove: Rex is not overcast.
+A: Rex is a shumpus. Every shumpus is a lempus. Rex is a lempus. Lempuses are dumpuses. Rex is a dumpus. Dumpuses are gorpuses. Rex is a gorpus. Each gorpus is not overcast. Rex is not overcast.
+
+Q: Zumpuses are rompuses. Each rompus is a shumpus. Each shumpus is a jompus. Each jompus is not snowy. Max is a zumpus. Prove: Max is not snowy.
+A: Max is a zumpus. Zumpuses are rompuses. Max is a rompus. Each rompus is a shumpus. Max is a shumpus. Each shumpus is a jompus. Max is a jompus. Each jompus is not snowy. Max is not snowy.
+
+Q: Each impus is a lempus. Lempuses are tumpuses. Tumpuses are jompuses. Jompuses are orange. Rex is an impus. Prove: Rex is orange.
+A: Rex is an impus. Each impus is a lempus. Rex is a lempus. Lempuses are tumpuses. Rex is a tumpus. Tumpuses are jompuses. Rex is a jompus. Jompuses are orange. Rex is orange.
+
+Q: Each tumpus is a rompus. Rompuses are yumpuses. Yumpuses are zumpuses. Zumpuses are not loud. Rex is a tumpus. Prove: Rex is not loud.
+A:
+
+Predicted answer: Rex is a tumpus. Each tumpus is a rompus. Rex is a rompus. Rompuses are yumpuses. Rex is a yumpus. Yumpuses are zumpuses. Rex is a zumpus. Zumpuses are not loud. Rex is not loud.
+
+
+
+Expected answer: Rex is a tumpus. Each tumpus is a rompus. Rex is a rompus. Rompuses are yumpuses. Rex is a yumpus. Yumpuses are zumpuses. Rex is a zumpus. Zumpuses are not loud. Rex is not loud.
+n: 37, (beta prior) mean: 0.02564102564102564, 95% lower bound: 0.0006660362042023656, 95% upper bound: 0.09251276141587828, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every vumpus is a zumpus. Each zumpus is a sterpus. Sterpuses are rompuses. Rompuses are dull. Rex is a vumpus. Prove: Rex is dull.
+A: Rex is a vumpus. Every vumpus is a zumpus. Rex is a zumpus. Each zumpus is a sterpus. Rex is a sterpus. Sterpuses are rompuses. Rex is a rompus. Rompuses are dull. Rex is dull.
+
+Q: Wumpuses are grimpuses. Grimpuses are dumpuses. Each dumpus is a gorpus. Each gorpus is amenable. Max is a wumpus. Prove: Max is amenable.
+A: Max is a wumpus. Wumpuses are grimpuses. Max is a grimpus. Grimpuses are dumpuses. Max is a dumpus. Each dumpus is a gorpus. Max is a gorpus. Each gorpus is amenable. Max is amenable.
+
+Q: Each brimpus is an impus. Impuses are sterpuses. Each sterpus is a dumpus. Every dumpus is sunny. Stella is a brimpus. Prove: Stella is sunny.
+A: Stella is a brimpus. Each brimpus is an impus. Stella is an impus. Impuses are sterpuses. Stella is a sterpus. Each sterpus is a dumpus. Stella is a dumpus. Every dumpus is sunny. Stella is sunny.
+
+Q: Each vumpus is a lorpus. Every lorpus is a zumpus. Each zumpus is a dumpus. Dumpuses are overcast. Stella is a vumpus. Prove: Stella is overcast.
+A:
+
+Predicted answer: Stella is a vumpus. Each vumpus is a lorpus. Stella is a lorpus. Every lorpus is a zumpus. Stella is a zumpus. Each zumpus is a dumpus. Stella is a dumpus. Dumpuses are overcast. Stella is overcast.
+
+
+
+Expected answer: Stella is a vumpus. Each vumpus is a lorpus. Stella is a lorpus. Every lorpus is a zumpus. Stella is a zumpus. Each zumpus is a dumpus. Stella is a dumpus. Dumpuses are overcast. Stella is overcast.
+n: 38, (beta prior) mean: 0.025, 95% lower bound: 0.0006489638954819451, 95% upper bound: 0.0902511009603343, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each lempus is a zumpus. Each zumpus is a dumpus. Every dumpus is a wumpus. Wumpuses are not amenable. Wren is a lempus. Prove: Wren is not amenable.
+A: Wren is a lempus. Each lempus is a zumpus. Wren is a zumpus. Each zumpus is a dumpus. Wren is a dumpus. Every dumpus is a wumpus. Wren is a wumpus. Wumpuses are not amenable. Wren is not amenable.
+
+Q: Lorpuses are numpuses. Numpuses are tumpuses. Every tumpus is a shumpus. Shumpuses are spicy. Sally is a lorpus. Prove: Sally is spicy.
+A: Sally is a lorpus. Lorpuses are numpuses. Sally is a numpus. Numpuses are tumpuses. Sally is a tumpus. Every tumpus is a shumpus. Sally is a shumpus. Shumpuses are spicy. Sally is spicy.
+
+Q: Every impus is a brimpus. Each brimpus is a zumpus. Every zumpus is a yumpus. Yumpuses are not shy. Rex is an impus. Prove: Rex is not shy.
+A: Rex is an impus. Every impus is a brimpus. Rex is a brimpus. Each brimpus is a zumpus. Rex is a zumpus. Every zumpus is a yumpus. Rex is a yumpus. Yumpuses are not shy. Rex is not shy.
+
+Q: Every zumpus is a yumpus. Yumpuses are numpuses. Every numpus is a shumpus. Each shumpus is floral. Max is a zumpus. Prove: Max is floral.
+A:
+
+Predicted answer: Max is a zumpus. Every zumpus is a yumpus. Max is a yumpus. Every yumpus is a numpus. Max is a numpus. Every numpus is a shumpus. Max is a shumpus. Each shumpus is floral. Max is floral.
+
+
+
+Expected answer: Max is a zumpus. Every zumpus is a yumpus. Max is a yumpus. Yumpuses are numpuses. Max is a numpus. Every numpus is a shumpus. Max is a shumpus. Each shumpus is floral. Max is floral.
+n: 39, (beta prior) mean: 0.024390243902439025, 95% lower bound: 0.0006327449320494191, 95% upper bound: 0.08809730287880237, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Vumpuses are lempuses. Each lempus is a zumpus. Every zumpus is a rompus. Every rompus is not amenable. Alex is a vumpus. Prove: Alex is not amenable.
+A: Alex is a vumpus. Vumpuses are lempuses. Alex is a lempus. Each lempus is a zumpus. Alex is a zumpus. Every zumpus is a rompus. Alex is a rompus. Every rompus is not amenable. Alex is not amenable.
+
+Q: Every wumpus is an impus. Impuses are lorpuses. Lorpuses are lempuses. Each lempus is not small. Stella is a wumpus. Prove: Stella is not small.
+A: Stella is a wumpus. Every wumpus is an impus. Stella is an impus. Impuses are lorpuses. Stella is a lorpus. Lorpuses are lempuses. Stella is a lempus. Each lempus is not small. Stella is not small.
+
+Q: Each jompus is a yumpus. Each yumpus is a lorpus. Every lorpus is a dumpus. Dumpuses are not earthy. Rex is a jompus. Prove: Rex is not earthy.
+A: Rex is a jompus. Each jompus is a yumpus. Rex is a yumpus. Each yumpus is a lorpus. Rex is a lorpus. Every lorpus is a dumpus. Rex is a dumpus. Dumpuses are not earthy. Rex is not earthy.
+
+Q: Each vumpus is a wumpus. Wumpuses are gorpuses. Gorpuses are jompuses. Each jompus is not small. Fae is a vumpus. Prove: Fae is not small.
+A:
+
+Predicted answer: Fae is a vumpus. Each vumpus is a wumpus. Fae is a wumpus. Wumpuses are gorpuses. Fae is a gorpus. Gorpuses are jompuses. Each jompus is not small. Fae is not small.
+
+
+
+Expected answer: Fae is a vumpus. Each vumpus is a wumpus. Fae is a wumpus. Wumpuses are gorpuses. Fae is a gorpus. Gorpuses are jompuses. Fae is a jompus. Each jompus is not small. Fae is not small.
+n: 40, (beta prior) mean: 0.023809523809523808, 95% lower bound: 0.0006173168932865188, 95% upper bound: 0.08604383629402841, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each impus is a jompus. Each jompus is a lempus. Lempuses are lorpuses. Each lorpus is not dull. Polly is an impus. Prove: Polly is not dull.
+A: Polly is an impus. Each impus is a jompus. Polly is a jompus. Each jompus is a lempus. Polly is a lempus. Lempuses are lorpuses. Polly is a lorpus. Each lorpus is not dull. Polly is not dull.
+
+Q: Each brimpus is a yumpus. Each yumpus is a wumpus. Wumpuses are sterpuses. Every sterpus is angry. Rex is a brimpus. Prove: Rex is angry.
+A: Rex is a brimpus. Each brimpus is a yumpus. Rex is a yumpus. Each yumpus is a wumpus. Rex is a wumpus. Wumpuses are sterpuses. Rex is a sterpus. Every sterpus is angry. Rex is angry.
+
+Q: Impuses are grimpuses. Every grimpus is a brimpus. Brimpuses are sterpuses. Sterpuses are not hot. Polly is an impus. Prove: Polly is not hot.
+A: Polly is an impus. Impuses are grimpuses. Polly is a grimpus. Every grimpus is a brimpus. Polly is a brimpus. Brimpuses are sterpuses. Polly is a sterpus. Sterpuses are not hot. Polly is not hot.
+
+Q: Every lempus is a brimpus. Each brimpus is a zumpus. Zumpuses are rompuses. Rompuses are not fruity. Polly is a lempus. Prove: Polly is not fruity.
+A:
+
+Predicted answer: Polly is a lempus. Every lempus is a brimpus. Polly is a brimpus. Each brimpus is a zumpus. Polly is a zumpus. Zumpuses are rompuses. Polly is a rompuses. Rompuses are not fruity. Polly is not fruity.
+
+
+
+Expected answer: Polly is a lempus. Every lempus is a brimpus. Polly is a brimpus. Each brimpus is a zumpus. Polly is a zumpus. Zumpuses are rompuses. Polly is a rompus. Rompuses are not fruity. Polly is not fruity.
+n: 41, (beta prior) mean: 0.023255813953488372, 95% lower bound: 0.0006026233016035741, 95% upper bound: 0.08408385494035514, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Gorpuses are impuses. Each impus is a vumpus. Each vumpus is a jompus. Every jompus is not liquid. Sam is a gorpus. Prove: Sam is not liquid.
+A: Sam is a gorpus. Gorpuses are impuses. Sam is an impus. Each impus is a vumpus. Sam is a vumpus. Each vumpus is a jompus. Sam is a jompus. Every jompus is not liquid. Sam is not liquid.
+
+Q: Every jompus is a dumpus. Dumpuses are impuses. Each impus is a shumpus. Shumpuses are hot. Alex is a jompus. Prove: Alex is hot.
+A: Alex is a jompus. Every jompus is a dumpus. Alex is a dumpus. Dumpuses are impuses. Alex is an impus. Each impus is a shumpus. Alex is a shumpus. Shumpuses are hot. Alex is hot.
+
+Q: Grimpuses are dumpuses. Dumpuses are yumpuses. Yumpuses are brimpuses. Brimpuses are melodic. Rex is a grimpus. Prove: Rex is melodic.
+A: Rex is a grimpus. Grimpuses are dumpuses. Rex is a dumpus. Dumpuses are yumpuses. Rex is a yumpus. Yumpuses are brimpuses. Rex is a brimpus. Brimpuses are melodic. Rex is melodic.
+
+Q: Numpuses are lempuses. Lempuses are gorpuses. Every gorpus is a grimpus. Grimpuses are opaque. Wren is a numpus. Prove: Wren is opaque.
+A:
+
+Predicted answer: Wren is a numpus. Numpuses are lempuses. Wren is a lempus. Lempuses are gorpuses. Wren is a gorpus. Every gorpus is a grimpus. Wren is a grimpus. Grimpuses are opaque. Wren is opaque.
+
+
+
+Expected answer: Wren is a numpus. Numpuses are lempuses. Wren is a lempus. Lempuses are gorpuses. Wren is a gorpus. Every gorpus is a grimpus. Wren is a grimpus. Grimpuses are opaque. Wren is opaque.
+n: 42, (beta prior) mean: 0.022727272727272728, 95% lower bound: 0.0005886129315931823, 95% upper bound: 0.08221112115413848, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each grimpus is a yumpus. Every yumpus is an impus. Every impus is a gorpus. Gorpuses are large. Alex is a grimpus. Prove: Alex is large.
+A: Alex is a grimpus. Each grimpus is a yumpus. Alex is a yumpus. Every yumpus is an impus. Alex is an impus. Every impus is a gorpus. Alex is a gorpus. Gorpuses are large. Alex is large.
+
+Q: Every grimpus is a numpus. Numpuses are jompuses. Every jompus is a tumpus. Each tumpus is not mean. Rex is a grimpus. Prove: Rex is not mean.
+A: Rex is a grimpus. Every grimpus is a numpus. Rex is a numpus. Numpuses are jompuses. Rex is a jompus. Every jompus is a tumpus. Rex is a tumpus. Each tumpus is not mean. Rex is not mean.
+
+Q: Grimpuses are gorpuses. Gorpuses are shumpuses. Shumpuses are numpuses. Each numpus is feisty. Max is a grimpus. Prove: Max is feisty.
+A: Max is a grimpus. Grimpuses are gorpuses. Max is a gorpus. Gorpuses are shumpuses. Max is a shumpus. Shumpuses are numpuses. Max is a numpus. Each numpus is feisty. Max is feisty.
+
+Q: Each dumpus is a tumpus. Tumpuses are lorpuses. Lorpuses are yumpuses. Yumpuses are not transparent. Stella is a dumpus. Prove: Stella is not transparent.
+A:
+
+Predicted answer: Stella is a dumpus. Each dumpus is a tumpus. Stella is a tumpus. Tumpuses are lorpuses. Stella is a lorpus. Lorpuses are yumpuses. Stella is a yumpus. Yumpuses are not transparent. Stella is not transparent.
+
+
+
+Expected answer: Stella is a dumpus. Each dumpus is a tumpus. Stella is a tumpus. Tumpuses are lorpuses. Stella is a lorpus. Lorpuses are yumpuses. Stella is a yumpus. Yumpuses are not transparent. Stella is not transparent.
+n: 43, (beta prior) mean: 0.022222222222222223, 95% lower bound: 0.0005752392133630829, 95% upper bound: 0.08041993976357587, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Sterpuses are shumpuses. Shumpuses are lempuses. Every lempus is a rompus. Each rompus is luminous. Polly is a sterpus. Prove: Polly is luminous.
+A: Polly is a sterpus. Sterpuses are shumpuses. Polly is a shumpus. Shumpuses are lempuses. Polly is a lempus. Every lempus is a rompus. Polly is a rompus. Each rompus is luminous. Polly is luminous.
+
+Q: Each impus is a lorpus. Each lorpus is a vumpus. Vumpuses are grimpuses. Grimpuses are sunny. Wren is an impus. Prove: Wren is sunny.
+A: Wren is an impus. Each impus is a lorpus. Wren is a lorpus. Each lorpus is a vumpus. Wren is a vumpus. Vumpuses are grimpuses. Wren is a grimpus. Grimpuses are sunny. Wren is sunny.
+
+Q: Wumpuses are gorpuses. Gorpuses are sterpuses. Every sterpus is a numpus. Every numpus is not blue. Polly is a wumpus. Prove: Polly is not blue.
+A: Polly is a wumpus. Wumpuses are gorpuses. Polly is a gorpus. Gorpuses are sterpuses. Polly is a sterpus. Every sterpus is a numpus. Polly is a numpus. Every numpus is not blue. Polly is not blue.
+
+Q: Dumpuses are lempuses. Every lempus is a yumpus. Each yumpus is a shumpus. Shumpuses are cold. Wren is a dumpus. Prove: Wren is cold.
+A:
+
+Predicted answer: Wren is a dumpus. Dumpuses are lempuses. Wren is a lempus. Every lempus is a yumpus. Wren is a yumpus. Each yumpus is a shumpus. Shumpuses are cold. Wren is a shumpus. Wren is cold.
+
+
+
+Expected answer: Wren is a dumpus. Dumpuses are lempuses. Wren is a lempus. Every lempus is a yumpus. Wren is a yumpus. Each yumpus is a shumpus. Wren is a shumpus. Shumpuses are cold. Wren is cold.
+n: 44, (beta prior) mean: 0.021739130434782608, 95% lower bound: 0.0005624597154022577, 95% upper bound: 0.07870510040684303, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Numpuses are lorpuses. Lorpuses are jompuses. Each jompus is a gorpus. Every gorpus is orange. Polly is a numpus. Prove: Polly is orange.
+A: Polly is a numpus. Numpuses are lorpuses. Polly is a lorpus. Lorpuses are jompuses. Polly is a jompus. Each jompus is a gorpus. Polly is a gorpus. Every gorpus is orange. Polly is orange.
+
+Q: Every numpus is a lempus. Lempuses are wumpuses. Wumpuses are grimpuses. Every grimpus is kind. Alex is a numpus. Prove: Alex is kind.
+A: Alex is a numpus. Every numpus is a lempus. Alex is a lempus. Lempuses are wumpuses. Alex is a wumpus. Wumpuses are grimpuses. Alex is a grimpus. Every grimpus is kind. Alex is kind.
+
+Q: Gorpuses are dumpuses. Dumpuses are zumpuses. Every zumpus is a lempus. Lempuses are not cold. Wren is a gorpus. Prove: Wren is not cold.
+A: Wren is a gorpus. Gorpuses are dumpuses. Wren is a dumpus. Dumpuses are zumpuses. Wren is a zumpus. Every zumpus is a lempus. Wren is a lempus. Lempuses are not cold. Wren is not cold.
+
+Q: Every dumpus is a zumpus. Zumpuses are gorpuses. Gorpuses are yumpuses. Every yumpus is angry. Wren is a dumpus. Prove: Wren is angry.
+A:
+
+Predicted answer: Wren is a dumpus. Every dumpus is a zumpus. Wren is a zumpus. Zumpuses are gorpuses. Wren is a gorpus. Gorpuses are yumpuses. Every yumpus is angry. Wren is a yumpus. Wren is angry.
+
+
+
+Expected answer: Wren is a dumpus. Every dumpus is a zumpus. Wren is a zumpus. Zumpuses are gorpuses. Wren is a gorpus. Gorpuses are yumpuses. Wren is a yumpus. Every yumpus is angry. Wren is angry.
+n: 45, (beta prior) mean: 0.02127659574468085, 95% lower bound: 0.0005502356948807102, 95% upper bound: 0.07706182705190072, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every grimpus is a brimpus. Every brimpus is a numpus. Numpuses are vumpuses. Each vumpus is not transparent. Alex is a grimpus. Prove: Alex is not transparent.
+A: Alex is a grimpus. Every grimpus is a brimpus. Alex is a brimpus. Every brimpus is a numpus. Alex is a numpus. Numpuses are vumpuses. Alex is a vumpus. Each vumpus is not transparent. Alex is not transparent.
+
+Q: Grimpuses are tumpuses. Every tumpus is a lempus. Lempuses are shumpuses. Shumpuses are overcast. Max is a grimpus. Prove: Max is overcast.
+A: Max is a grimpus. Grimpuses are tumpuses. Max is a tumpus. Every tumpus is a lempus. Max is a lempus. Lempuses are shumpuses. Max is a shumpus. Shumpuses are overcast. Max is overcast.
+
+Q: Each impus is a vumpus. Vumpuses are gorpuses. Each gorpus is a jompus. Jompuses are not red. Fae is an impus. Prove: Fae is not red.
+A: Fae is an impus. Each impus is a vumpus. Fae is a vumpus. Vumpuses are gorpuses. Fae is a gorpus. Each gorpus is a jompus. Fae is a jompus. Jompuses are not red. Fae is not red.
+
+Q: Wumpuses are grimpuses. Every grimpus is a rompus. Every rompus is a lempus. Every lempus is bright. Rex is a wumpus. Prove: Rex is bright.
+A:
+
+Predicted answer: Rex is a wumpus. Wumpuses are grimpuses. Rex is a grimpus. Every grimpus is a rompus. Rex is a rompus. Every rompus is a lempus. Rex is a lempus. Every lempus is bright. Rex is bright.
+
+
+
+Expected answer: Rex is a wumpus. Wumpuses are grimpuses. Rex is a grimpus. Every grimpus is a rompus. Rex is a rompus. Every rompus is a lempus. Rex is a lempus. Every lempus is bright. Rex is bright.
+n: 46, (beta prior) mean: 0.020833333333333332, 95% lower bound: 0.0005385317053423145, 95% upper bound: 0.07548573369105858, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Lempuses are zumpuses. Every zumpus is a grimpus. Every grimpus is a wumpus. Every wumpus is not bright. Polly is a lempus. Prove: Polly is not bright.
+A: Polly is a lempus. Lempuses are zumpuses. Polly is a zumpus. Every zumpus is a grimpus. Polly is a grimpus. Every grimpus is a wumpus. Polly is a wumpus. Every wumpus is not bright. Polly is not bright.
+
+Q: Numpuses are brimpuses. Every brimpus is a sterpus. Every sterpus is a jompus. Jompuses are not blue. Alex is a numpus. Prove: Alex is not blue.
+A: Alex is a numpus. Numpuses are brimpuses. Alex is a brimpus. Every brimpus is a sterpus. Alex is a sterpus. Every sterpus is a jompus. Alex is a jompus. Jompuses are not blue. Alex is not blue.
+
+Q: Every vumpus is a sterpus. Sterpuses are yumpuses. Yumpuses are zumpuses. Zumpuses are not fruity. Max is a vumpus. Prove: Max is not fruity.
+A: Max is a vumpus. Every vumpus is a sterpus. Max is a sterpus. Sterpuses are yumpuses. Max is a yumpus. Yumpuses are zumpuses. Max is a zumpus. Zumpuses are not fruity. Max is not fruity.
+
+Q: Zumpuses are lempuses. Every lempus is a sterpus. Sterpuses are wumpuses. Every wumpus is earthy. Stella is a zumpus. Prove: Stella is earthy.
+A:
+
+Predicted answer: Stella is a zumpus. Zumpuses are lempuses. Stella is a lempus. Every lempus is a sterpus. Stella is a sterpus. Every sterpus is a wumpus. Stella is a wumpus. Every wumpus is earthy. Stella is earthy.
+
+
+
+Expected answer: Stella is a zumpus. Zumpuses are lempuses. Stella is a lempus. Every lempus is a sterpus. Stella is a sterpus. Sterpuses are wumpuses. Stella is a wumpus. Every wumpus is earthy. Stella is earthy.
+n: 47, (beta prior) mean: 0.02040816326530612, 95% lower bound: 0.0005273152534231199, 95% upper bound: 0.0739727853472802, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each numpus is a yumpus. Every yumpus is a dumpus. Every dumpus is a sterpus. Each sterpus is not fast. Rex is a numpus. Prove: Rex is not fast.
+A: Rex is a numpus. Each numpus is a yumpus. Rex is a yumpus. Every yumpus is a dumpus. Rex is a dumpus. Every dumpus is a sterpus. Rex is a sterpus. Each sterpus is not fast. Rex is not fast.
+
+Q: Every grimpus is a zumpus. Each zumpus is a tumpus. Each tumpus is a sterpus. Every sterpus is not melodic. Sally is a grimpus. Prove: Sally is not melodic.
+A: Sally is a grimpus. Every grimpus is a zumpus. Sally is a zumpus. Each zumpus is a tumpus. Sally is a tumpus. Each tumpus is a sterpus. Sally is a sterpus. Every sterpus is not melodic. Sally is not melodic.
+
+Q: Each yumpus is a wumpus. Wumpuses are tumpuses. Tumpuses are grimpuses. Grimpuses are kind. Polly is a yumpus. Prove: Polly is kind.
+A: Polly is a yumpus. Each yumpus is a wumpus. Polly is a wumpus. Wumpuses are tumpuses. Polly is a tumpus. Tumpuses are grimpuses. Polly is a grimpus. Grimpuses are kind. Polly is kind.
+
+Q: Grimpuses are brimpuses. Each brimpus is a rompus. Rompuses are zumpuses. Zumpuses are not earthy. Alex is a grimpus. Prove: Alex is not earthy.
+A:
+
+Predicted answer: Alex is a grimpus. Grimpuses are brimpuses. Alex is a brimpus. Each brimpus is a rompus. Alex is a rompus. Rompuses are zumpuses. Alex is a zumpus. Zumpuses are not earthy. Alex is not earthy.
+
+
+
+Expected answer: Alex is a grimpus. Grimpuses are brimpuses. Alex is a brimpus. Each brimpus is a rompus. Alex is a rompus. Rompuses are zumpuses. Alex is a zumpus. Zumpuses are not earthy. Alex is not earthy.
+n: 48, (beta prior) mean: 0.02, 95% lower bound: 0.0005165564975932862, 95% upper bound: 0.07251926366427738, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every wumpus is a gorpus. Each gorpus is a dumpus. Every dumpus is a jompus. Each jompus is snowy. Max is a wumpus. Prove: Max is snowy.
+A: Max is a wumpus. Every wumpus is a gorpus. Max is a gorpus. Each gorpus is a dumpus. Max is a dumpus. Every dumpus is a jompus. Max is a jompus. Each jompus is snowy. Max is snowy.
+
+Q: Lorpuses are numpuses. Every numpus is a sterpus. Sterpuses are grimpuses. Every grimpus is blue. Max is a lorpus. Prove: Max is blue.
+A: Max is a lorpus. Lorpuses are numpuses. Max is a numpus. Every numpus is a sterpus. Max is a sterpus. Sterpuses are grimpuses. Max is a grimpus. Every grimpus is blue. Max is blue.
+
+Q: Each lempus is an impus. Each impus is a tumpus. Each tumpus is a zumpus. Every zumpus is not large. Sam is a lempus. Prove: Sam is not large.
+A: Sam is a lempus. Each lempus is an impus. Sam is an impus. Each impus is a tumpus. Sam is a tumpus. Each tumpus is a zumpus. Sam is a zumpus. Every zumpus is not large. Sam is not large.
+
+Q: Each tumpus is a shumpus. Each shumpus is a zumpus. Zumpuses are lempuses. Every lempus is shy. Alex is a tumpus. Prove: Alex is shy.
+A:
+
+Predicted answer: Alex is a tumpus. Each tumpus is a shumpus. Alex is a shumpus. Each shumpus is a zumpus. Alex is a zumpus. Zumpuses are lempuses. Every lempus is shy. Alex is a lempus. Alex is shy.
+
+
+
+Expected answer: Alex is a tumpus. Each tumpus is a shumpus. Alex is a shumpus. Each shumpus is a zumpus. Alex is a zumpus. Zumpuses are lempuses. Alex is a lempus. Every lempus is shy. Alex is shy.
+n: 49, (beta prior) mean: 0.0196078431372549, 95% lower bound: 0.0005062279830408291, 95% upper bound: 0.07112173646419764, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Yumpuses are lorpuses. Every lorpus is a zumpus. Every zumpus is a grimpus. Each grimpus is not opaque. Fae is a yumpus. Prove: Fae is not opaque.
+A: Fae is a yumpus. Yumpuses are lorpuses. Fae is a lorpus. Every lorpus is a zumpus. Fae is a zumpus. Every zumpus is a grimpus. Fae is a grimpus. Each grimpus is not opaque. Fae is not opaque.
+
+Q: Zumpuses are gorpuses. Each gorpus is a numpus. Every numpus is a yumpus. Every yumpus is cold. Max is a zumpus. Prove: Max is cold.
+A: Max is a zumpus. Zumpuses are gorpuses. Max is a gorpus. Each gorpus is a numpus. Max is a numpus. Every numpus is a yumpus. Max is a yumpus. Every yumpus is cold. Max is cold.
+
+Q: Zumpuses are lempuses. Every lempus is a numpus. Numpuses are sterpuses. Each sterpus is wooden. Stella is a zumpus. Prove: Stella is wooden.
+A: Stella is a zumpus. Zumpuses are lempuses. Stella is a lempus. Every lempus is a numpus. Stella is a numpus. Numpuses are sterpuses. Stella is a sterpus. Each sterpus is wooden. Stella is wooden.
+
+Q: Lempuses are shumpuses. Each shumpus is a lorpus. Lorpuses are dumpuses. Dumpuses are not hot. Stella is a lempus. Prove: Stella is not hot.
+A:
+
+Predicted answer: Stella is a lempus. Lempuses are shumpuses. Stella is a shumpus. Each shumpus is a lorpus. Stella is a lorpus. Lorpuses are dumpuses. Dumpuses are not hot. Stella is not hot.
+
+
+
+Expected answer: Stella is a lempus. Lempuses are shumpuses. Stella is a shumpus. Each shumpus is a lorpus. Stella is a lorpus. Lorpuses are dumpuses. Stella is a dumpus. Dumpuses are not hot. Stella is not hot.
+n: 50, (beta prior) mean: 0.019230769230769232, 95% lower bound: 0.000496304407737771, 95% upper bound: 0.06977703074953864, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Vumpuses are yumpuses. Yumpuses are grimpuses. Each grimpus is a shumpus. Shumpuses are nervous. Sam is a vumpus. Prove: Sam is nervous.
+A: Sam is a vumpus. Vumpuses are yumpuses. Sam is a yumpus. Yumpuses are grimpuses. Sam is a grimpus. Each grimpus is a shumpus. Sam is a shumpus. Shumpuses are nervous. Sam is nervous.
+
+Q: Vumpuses are rompuses. Rompuses are tumpuses. Each tumpus is a lorpus. Every lorpus is fast. Sam is a vumpus. Prove: Sam is fast.
+A: Sam is a vumpus. Vumpuses are rompuses. Sam is a rompus. Rompuses are tumpuses. Sam is a tumpus. Each tumpus is a lorpus. Sam is a lorpus. Every lorpus is fast. Sam is fast.
+
+Q: Brimpuses are rompuses. Rompuses are yumpuses. Every yumpus is a jompus. Jompuses are not slow. Max is a brimpus. Prove: Max is not slow.
+A: Max is a brimpus. Brimpuses are rompuses. Max is a rompus. Rompuses are yumpuses. Max is a yumpus. Every yumpus is a jompus. Max is a jompus. Jompuses are not slow. Max is not slow.
+
+Q: Numpuses are brimpuses. Every brimpus is a dumpus. Every dumpus is a gorpus. Gorpuses are sour. Rex is a numpus. Prove: Rex is sour.
+A:
+
+Predicted answer: Rex is a numpus. Numpuses are brimpuses. Rex is a brimpus. Every brimpus is a dumpus. Rex is a dumpus. Every dumpus is a gorpus. Rex is a gorpus. Gorpuses are sour. Rex is sour.
+
+
+
+Expected answer: Rex is a numpus. Numpuses are brimpuses. Rex is a brimpus. Every brimpus is a dumpus. Rex is a dumpus. Every dumpus is a gorpus. Rex is a gorpus. Gorpuses are sour. Rex is sour.
+n: 51, (beta prior) mean: 0.018867924528301886, 95% lower bound: 0.000486762415492083, 95% upper bound: 0.06848220870331956, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Zumpuses are wumpuses. Wumpuses are yumpuses. Yumpuses are vumpuses. Vumpuses are orange. Wren is a zumpus. Prove: Wren is orange.
+A: Wren is a zumpus. Zumpuses are wumpuses. Wren is a wumpus. Wumpuses are yumpuses. Wren is a yumpus. Yumpuses are vumpuses. Wren is a vumpus. Vumpuses are orange. Wren is orange.
+
+Q: Each lempus is an impus. Impuses are brimpuses. Each brimpus is a gorpus. Gorpuses are nervous. Fae is a lempus. Prove: Fae is nervous.
+A: Fae is a lempus. Each lempus is an impus. Fae is an impus. Impuses are brimpuses. Fae is a brimpus. Each brimpus is a gorpus. Fae is a gorpus. Gorpuses are nervous. Fae is nervous.
+
+Q: Impuses are numpuses. Numpuses are shumpuses. Shumpuses are zumpuses. Every zumpus is not transparent. Max is an impus. Prove: Max is not transparent.
+A: Max is an impus. Impuses are numpuses. Max is a numpus. Numpuses are shumpuses. Max is a shumpus. Shumpuses are zumpuses. Max is a zumpus. Every zumpus is not transparent. Max is not transparent.
+
+Q: Every zumpus is a tumpus. Tumpuses are jompuses. Jompuses are dumpuses. Every dumpus is earthy. Alex is a zumpus. Prove: Alex is earthy.
+A:
+
+Predicted answer: Alex is a zumpus. Every zumpus is a tumpus. Alex is a tumpus. Tumpuses are jompuses. Alex is a jompus. Jompuses are dumpuses. Alex is a dumpus. Every dumpus is earthy. Alex is earthy.
+
+
+
+Expected answer: Alex is a zumpus. Every zumpus is a tumpus. Alex is a tumpus. Tumpuses are jompuses. Alex is a jompus. Jompuses are dumpuses. Alex is a dumpus. Every dumpus is earthy. Alex is earthy.
+n: 52, (beta prior) mean: 0.018518518518518517, 95% lower bound: 0.00047758041242211286, 95% upper bound: 0.06723454630630114, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Grimpuses are lorpuses. Lorpuses are shumpuses. Each shumpus is a wumpus. Each wumpus is rainy. Sam is a grimpus. Prove: Sam is rainy.
+A: Sam is a grimpus. Grimpuses are lorpuses. Sam is a lorpus. Lorpuses are shumpuses. Sam is a shumpus. Each shumpus is a wumpus. Sam is a wumpus. Each wumpus is rainy. Sam is rainy.
+
+Q: Each lempus is a gorpus. Gorpuses are zumpuses. Zumpuses are dumpuses. Every dumpus is bright. Sally is a lempus. Prove: Sally is bright.
+A: Sally is a lempus. Each lempus is a gorpus. Sally is a gorpus. Gorpuses are zumpuses. Sally is a zumpus. Zumpuses are dumpuses. Sally is a dumpus. Every dumpus is bright. Sally is bright.
+
+Q: Dumpuses are zumpuses. Zumpuses are vumpuses. Vumpuses are brimpuses. Every brimpus is transparent. Sam is a dumpus. Prove: Sam is transparent.
+A: Sam is a dumpus. Dumpuses are zumpuses. Sam is a zumpus. Zumpuses are vumpuses. Sam is a vumpus. Vumpuses are brimpuses. Sam is a brimpus. Every brimpus is transparent. Sam is transparent.
+
+Q: Every shumpus is a numpus. Numpuses are tumpuses. Tumpuses are wumpuses. Every wumpus is melodic. Rex is a shumpus. Prove: Rex is melodic.
+A:
+
+Predicted answer: Rex is a shumpus. Every shumpus is a numpus. Rex is a numpus. Numpuses are tumpuses. Rex is a tumpus. Tumpuses are wumpuses. Rex is a wumpus. Every wumpus is melodic. Rex is melodic.
+
+
+
+Expected answer: Rex is a shumpus. Every shumpus is a numpus. Rex is a numpus. Numpuses are tumpuses. Rex is a tumpus. Tumpuses are wumpuses. Rex is a wumpus. Every wumpus is melodic. Rex is melodic.
+n: 53, (beta prior) mean: 0.01818181818181818, 95% lower bound: 0.0004687384038179604, 95% upper bound: 0.06603151424442182, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Numpuses are wumpuses. Wumpuses are dumpuses. Dumpuses are jompuses. Each jompus is not orange. Stella is a numpus. Prove: Stella is not orange.
+A: Stella is a numpus. Numpuses are wumpuses. Stella is a wumpus. Wumpuses are dumpuses. Stella is a dumpus. Dumpuses are jompuses. Stella is a jompus. Each jompus is not orange. Stella is not orange.
+
+Q: Wumpuses are lorpuses. Each lorpus is a yumpus. Yumpuses are tumpuses. Each tumpus is rainy. Polly is a wumpus. Prove: Polly is rainy.
+A: Polly is a wumpus. Wumpuses are lorpuses. Polly is a lorpus. Each lorpus is a yumpus. Polly is a yumpus. Yumpuses are tumpuses. Polly is a tumpus. Each tumpus is rainy. Polly is rainy.
+
+Q: Every grimpus is a shumpus. Shumpuses are numpuses. Every numpus is a lorpus. Lorpuses are not fast. Fae is a grimpus. Prove: Fae is not fast.
+A: Fae is a grimpus. Every grimpus is a shumpus. Fae is a shumpus. Shumpuses are numpuses. Fae is a numpus. Every numpus is a lorpus. Fae is a lorpus. Lorpuses are not fast. Fae is not fast.
+
+Q: Every wumpus is a tumpus. Tumpuses are vumpuses. Vumpuses are zumpuses. Zumpuses are large. Sam is a wumpus. Prove: Sam is large.
+A:
+
+Predicted answer: Sam is a wumpus. Every wumpus is a tumpus. Sam is a tumpus. Tumpuses are vumpuses. Sam is a vumpus. Vumpuses are zumpuses. Sam is a zumpus. Zumpuses are large. Sam is large.
+
+
+
+Expected answer: Sam is a wumpus. Every wumpus is a tumpus. Sam is a tumpus. Tumpuses are vumpuses. Sam is a vumpus. Vumpuses are zumpuses. Sam is a zumpus. Zumpuses are large. Sam is large.
+n: 54, (beta prior) mean: 0.017857142857142856, 95% lower bound: 0.0004602178487956972, 95% upper bound: 0.06487076082542459, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each sterpus is a rompus. Rompuses are shumpuses. Shumpuses are vumpuses. Every vumpus is not loud. Polly is a sterpus. Prove: Polly is not loud.
+A: Polly is a sterpus. Each sterpus is a rompus. Polly is a rompus. Rompuses are shumpuses. Polly is a shumpus. Shumpuses are vumpuses. Polly is a vumpus. Every vumpus is not loud. Polly is not loud.
+
+Q: Zumpuses are vumpuses. Vumpuses are impuses. Each impus is a sterpus. Sterpuses are not luminous. Max is a zumpus. Prove: Max is not luminous.
+A: Max is a zumpus. Zumpuses are vumpuses. Max is a vumpus. Vumpuses are impuses. Max is an impus. Each impus is a sterpus. Max is a sterpus. Sterpuses are not luminous. Max is not luminous.
+
+Q: Each lorpus is a gorpus. Every gorpus is a tumpus. Tumpuses are numpuses. Each numpus is small. Sam is a lorpus. Prove: Sam is small.
+A: Sam is a lorpus. Each lorpus is a gorpus. Sam is a gorpus. Every gorpus is a tumpus. Sam is a tumpus. Tumpuses are numpuses. Sam is a numpus. Each numpus is small. Sam is small.
+
+Q: Jompuses are vumpuses. Every vumpus is a lorpus. Every lorpus is a zumpus. Zumpuses are transparent. Max is a jompus. Prove: Max is transparent.
+A:
+
+Predicted answer: Max is a jompuses. Jompuses are vumpuses. Max is a vumpus. Every vumpus is a lorpus. Max is a lorpus. Every lorpus is a zumpus. Max is a zumpus. Zumpuses are transparent. Max is transparent.
+
+
+
+Expected answer: Max is a jompus. Jompuses are vumpuses. Max is a vumpus. Every vumpus is a lorpus. Max is a lorpus. Every lorpus is a zumpus. Max is a zumpus. Zumpuses are transparent. Max is transparent.
+n: 55, (beta prior) mean: 0.017543859649122806, 95% lower bound: 0.00045200153052082546, 95% upper bound: 0.06375009666236217, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Lempuses are grimpuses. Grimpuses are lorpuses. Every lorpus is a gorpus. Every gorpus is not brown. Stella is a lempus. Prove: Stella is not brown.
+A: Stella is a lempus. Lempuses are grimpuses. Stella is a grimpus. Grimpuses are lorpuses. Stella is a lorpus. Every lorpus is a gorpus. Stella is a gorpus. Every gorpus is not brown. Stella is not brown.
+
+Q: Each lorpus is a lempus. Each lempus is a vumpus. Every vumpus is a sterpus. Every sterpus is not muffled. Rex is a lorpus. Prove: Rex is not muffled.
+A: Rex is a lorpus. Each lorpus is a lempus. Rex is a lempus. Each lempus is a vumpus. Rex is a vumpus. Every vumpus is a sterpus. Rex is a sterpus. Every sterpus is not muffled. Rex is not muffled.
+
+Q: Grimpuses are zumpuses. Every zumpus is a jompus. Each jompus is a yumpus. Yumpuses are dull. Polly is a grimpus. Prove: Polly is dull.
+A: Polly is a grimpus. Grimpuses are zumpuses. Polly is a zumpus. Every zumpus is a jompus. Polly is a jompus. Each jompus is a yumpus. Polly is a yumpus. Yumpuses are dull. Polly is dull.
+
+Q: Every numpus is a yumpus. Yumpuses are impuses. Every impus is a lorpus. Every lorpus is not floral. Alex is a numpus. Prove: Alex is not floral.
+A:
+
+Predicted answer: Alex is a numpus. Every numpus is a yumpus. Alex is a yumpus. Yumpuses are impuses. Alex is a impus. Every impus is a lorpus. Alex is a lorpus. Every lorpus is not floral. Alex is not floral.
+
+
+
+Expected answer: Alex is a numpus. Every numpus is a yumpus. Alex is a yumpus. Yumpuses are impuses. Alex is an impus. Every impus is a lorpus. Alex is a lorpus. Every lorpus is not floral. Alex is not floral.
+n: 56, (beta prior) mean: 0.017241379310344827, 95% lower bound: 0.00044407344008939235, 95% upper bound: 0.06266748091448493, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Jompuses are grimpuses. Grimpuses are numpuses. Numpuses are wumpuses. Every wumpus is floral. Max is a jompus. Prove: Max is floral.
+A: Max is a jompus. Jompuses are grimpuses. Max is a grimpus. Grimpuses are numpuses. Max is a numpus. Numpuses are wumpuses. Max is a wumpus. Every wumpus is floral. Max is floral.
+
+Q: Every vumpus is a jompus. Each jompus is a brimpus. Brimpuses are sterpuses. Each sterpus is not bright. Stella is a vumpus. Prove: Stella is not bright.
+A: Stella is a vumpus. Every vumpus is a jompus. Stella is a jompus. Each jompus is a brimpus. Stella is a brimpus. Brimpuses are sterpuses. Stella is a sterpus. Each sterpus is not bright. Stella is not bright.
+
+Q: Shumpuses are lorpuses. Each lorpus is a yumpus. Yumpuses are sterpuses. Every sterpus is not opaque. Sally is a shumpus. Prove: Sally is not opaque.
+A: Sally is a shumpus. Shumpuses are lorpuses. Sally is a lorpus. Each lorpus is a yumpus. Sally is a yumpus. Yumpuses are sterpuses. Sally is a sterpus. Every sterpus is not opaque. Sally is not opaque.
+
+Q: Shumpuses are zumpuses. Every zumpus is a gorpus. Every gorpus is a tumpus. Each tumpus is large. Wren is a shumpus. Prove: Wren is large.
+A:
+
+Predicted answer: Wren is a shumpus. Shumpuses are zumpuses. Wren is a zumpus. Every zumpus is a gorpus. Wren is a gorpus. Every gorpus is a tumpus. Wren is a tumpus. Each tumpus is large. Wren is large.
+
+
+
+Expected answer: Wren is a shumpus. Shumpuses are zumpuses. Wren is a zumpus. Every zumpus is a gorpus. Wren is a gorpus. Every gorpus is a tumpus. Wren is a tumpus. Each tumpus is large. Wren is large.
+n: 57, (beta prior) mean: 0.01694915254237288, 95% lower bound: 0.0004364186724187789, 95% upper bound: 0.061621008903919826, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Zumpuses are sterpuses. Each sterpus is a jompus. Jompuses are yumpuses. Yumpuses are not feisty. Max is a zumpus. Prove: Max is not feisty.
+A: Max is a zumpus. Zumpuses are sterpuses. Max is a sterpus. Each sterpus is a jompus. Max is a jompus. Jompuses are yumpuses. Max is a yumpus. Yumpuses are not feisty. Max is not feisty.
+
+Q: Each lorpus is a shumpus. Shumpuses are impuses. Every impus is a zumpus. Each zumpus is not sunny. Max is a lorpus. Prove: Max is not sunny.
+A: Max is a lorpus. Each lorpus is a shumpus. Max is a shumpus. Shumpuses are impuses. Max is an impus. Every impus is a zumpus. Max is a zumpus. Each zumpus is not sunny. Max is not sunny.
+
+Q: Zumpuses are gorpuses. Each gorpus is a sterpus. Sterpuses are yumpuses. Each yumpus is orange. Max is a zumpus. Prove: Max is orange.
+A: Max is a zumpus. Zumpuses are gorpuses. Max is a gorpus. Each gorpus is a sterpus. Max is a sterpus. Sterpuses are yumpuses. Max is a yumpus. Each yumpus is orange. Max is orange.
+
+Q: Every impus is a grimpus. Grimpuses are sterpuses. Sterpuses are gorpuses. Gorpuses are slow. Rex is an impus. Prove: Rex is slow.
+A:
+
+Predicted answer: Every impus is a grimpus. Rex is an impus. Rex is a grimpus. Grimpuses are sterpuses. Sterpuses are gorpuses. Gorpuses are slow. Rex is slow.
+
+
+
+Expected answer: Rex is an impus. Every impus is a grimpus. Rex is a grimpus. Grimpuses are sterpuses. Rex is a sterpus. Sterpuses are gorpuses. Rex is a gorpus. Gorpuses are slow. Rex is slow.
+n: 58, (beta prior) mean: 0.016666666666666666, 95% lower bound: 0.0004290233327235946, 95% upper bound: 0.060608900950339835, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each gorpus is a zumpus. Each zumpus is a yumpus. Yumpuses are wumpuses. Each wumpus is snowy. Rex is a gorpus. Prove: Rex is snowy.
+A: Rex is a gorpus. Each gorpus is a zumpus. Rex is a zumpus. Each zumpus is a yumpus. Rex is a yumpus. Yumpuses are wumpuses. Rex is a wumpus. Each wumpus is snowy. Rex is snowy.
+
+Q: Every sterpus is a jompus. Each jompus is a shumpus. Every shumpus is an impus. Each impus is kind. Alex is a sterpus. Prove: Alex is kind.
+A: Alex is a sterpus. Every sterpus is a jompus. Alex is a jompus. Each jompus is a shumpus. Alex is a shumpus. Every shumpus is an impus. Alex is an impus. Each impus is kind. Alex is kind.
+
+Q: Lempuses are vumpuses. Every vumpus is a sterpus. Every sterpus is a grimpus. Grimpuses are red. Wren is a lempus. Prove: Wren is red.
+A: Wren is a lempus. Lempuses are vumpuses. Wren is a vumpus. Every vumpus is a sterpus. Wren is a sterpus. Every sterpus is a grimpus. Wren is a grimpus. Grimpuses are red. Wren is red.
+
+Q: Each vumpus is a zumpus. Every zumpus is a brimpus. Each brimpus is a rompus. Each rompus is not dull. Wren is a vumpus. Prove: Wren is not dull.
+A:
+
+Predicted answer: Wren is a vumpus. Each vumpus is a zumpus. Wren is a zumpus. Every zumpus is a brimpus. Wren is a brimpus. Each brimpus is a rompus. Wren is a rompus. Each rompus is not dull. Wren is not dull.
+
+
+
+Expected answer: Wren is a vumpus. Each vumpus is a zumpus. Wren is a zumpus. Every zumpus is a brimpus. Wren is a brimpus. Each brimpus is a rompus. Wren is a rompus. Each rompus is not dull. Wren is not dull.
+n: 59, (beta prior) mean: 0.01639344262295082, 95% lower bound: 0.00042187445234200883, 95% upper bound: 0.059629492286166916, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Wumpuses are gorpuses. Gorpuses are zumpuses. Every zumpus is a grimpus. Every grimpus is fruity. Alex is a wumpus. Prove: Alex is fruity.
+A: Alex is a wumpus. Wumpuses are gorpuses. Alex is a gorpus. Gorpuses are zumpuses. Alex is a zumpus. Every zumpus is a grimpus. Alex is a grimpus. Every grimpus is fruity. Alex is fruity.
+
+Q: Dumpuses are lempuses. Each lempus is a sterpus. Every sterpus is a jompus. Jompuses are not slow. Max is a dumpus. Prove: Max is not slow.
+A: Max is a dumpus. Dumpuses are lempuses. Max is a lempus. Each lempus is a sterpus. Max is a sterpus. Every sterpus is a jompus. Max is a jompus. Jompuses are not slow. Max is not slow.
+
+Q: Every brimpus is a sterpus. Sterpuses are wumpuses. Each wumpus is a dumpus. Each dumpus is not angry. Wren is a brimpus. Prove: Wren is not angry.
+A: Wren is a brimpus. Every brimpus is a sterpus. Wren is a sterpus. Sterpuses are wumpuses. Wren is a wumpus. Each wumpus is a dumpus. Wren is a dumpus. Each dumpus is not angry. Wren is not angry.
+
+Q: Each lempus is a jompus. Every jompus is a sterpus. Sterpuses are shumpuses. Shumpuses are hot. Max is a lempus. Prove: Max is hot.
+A:
+
+Predicted answer: Max is a lempus. Each lempus is a jompus. Max is a jompus. Every jompus is a sterpus. Max is a sterpus. Sterpuses are shumpuses. Max is a shumpus. Shumpuses are hot. Max is hot.
+
+
+
+Expected answer: Max is a lempus. Each lempus is a jompus. Max is a jompus. Every jompus is a sterpus. Max is a sterpus. Sterpuses are shumpuses. Max is a shumpus. Shumpuses are hot. Max is hot.
+n: 60, (beta prior) mean: 0.016129032258064516, 95% lower bound: 0.00041495991283974033, 95% upper bound: 0.05868122393229261, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Numpuses are lorpuses. Lorpuses are zumpuses. Zumpuses are gorpuses. Gorpuses are sweet. Polly is a numpus. Prove: Polly is sweet.
+A: Polly is a numpus. Numpuses are lorpuses. Polly is a lorpus. Lorpuses are zumpuses. Polly is a zumpus. Zumpuses are gorpuses. Polly is a gorpus. Gorpuses are sweet. Polly is sweet.
+
+Q: Impuses are jompuses. Every jompus is a dumpus. Dumpuses are rompuses. Each rompus is mean. Sam is an impus. Prove: Sam is mean.
+A: Sam is an impus. Impuses are jompuses. Sam is a jompus. Every jompus is a dumpus. Sam is a dumpus. Dumpuses are rompuses. Sam is a rompus. Each rompus is mean. Sam is mean.
+
+Q: Each lempus is an impus. Impuses are dumpuses. Every dumpus is a vumpus. Each vumpus is transparent. Rex is a lempus. Prove: Rex is transparent.
+A: Rex is a lempus. Each lempus is an impus. Rex is an impus. Impuses are dumpuses. Rex is a dumpus. Every dumpus is a vumpus. Rex is a vumpus. Each vumpus is transparent. Rex is transparent.
+
+Q: Each brimpus is a vumpus. Vumpuses are shumpuses. Shumpuses are lorpuses. Each lorpus is not sweet. Max is a brimpus. Prove: Max is not sweet.
+A:
+
+Predicted answer: Max is a brimpus. Each brimpus is a vumpus. Max is a vumpus. Vumpuses are shumpuses. Max is a shumpus. Each shumpus is not sweet. Max is not sweet.
+
+
+
+Expected answer: Max is a brimpus. Each brimpus is a vumpus. Max is a vumpus. Vumpuses are shumpuses. Max is a shumpus. Shumpuses are lorpuses. Max is a lorpus. Each lorpus is not sweet. Max is not sweet.
+n: 61, (beta prior) mean: 0.015873015873015872, 95% lower bound: 0.00040826837745732233, 95% upper bound: 0.05776263442929093, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every jompus is a zumpus. Zumpuses are rompuses. Each rompus is a numpus. Numpuses are orange. Fae is a jompus. Prove: Fae is orange.
+A: Fae is a jompus. Every jompus is a zumpus. Fae is a zumpus. Zumpuses are rompuses. Fae is a rompus. Each rompus is a numpus. Fae is a numpus. Numpuses are orange. Fae is orange.
+
+Q: Every tumpus is a wumpus. Wumpuses are brimpuses. Brimpuses are jompuses. Every jompus is transparent. Sam is a tumpus. Prove: Sam is transparent.
+A: Sam is a tumpus. Every tumpus is a wumpus. Sam is a wumpus. Wumpuses are brimpuses. Sam is a brimpus. Brimpuses are jompuses. Sam is a jompus. Every jompus is transparent. Sam is transparent.
+
+Q: Vumpuses are grimpuses. Each grimpus is a tumpus. Each tumpus is a zumpus. Zumpuses are not wooden. Fae is a vumpus. Prove: Fae is not wooden.
+A: Fae is a vumpus. Vumpuses are grimpuses. Fae is a grimpus. Each grimpus is a tumpus. Fae is a tumpus. Each tumpus is a zumpus. Fae is a zumpus. Zumpuses are not wooden. Fae is not wooden.
+
+Q: Every shumpus is a lorpus. Each lorpus is a numpus. Numpuses are yumpuses. Yumpuses are dull. Wren is a shumpus. Prove: Wren is dull.
+A:
+
+Predicted answer: Wren is a shumpus. Every shumpus is a lorpus. Wren is a lorpus. Each lorpus is a numpus. Numpuses are yumpuses. Wren is a numpus. Yumpuses are dull. Wren is dull.
+
+
+
+Expected answer: Wren is a shumpus. Every shumpus is a lorpus. Wren is a lorpus. Each lorpus is a numpus. Wren is a numpus. Numpuses are yumpuses. Wren is a yumpus. Yumpuses are dull. Wren is dull.
+n: 62, (beta prior) mean: 0.015625, 95% lower bound: 0.00040178922908488707, 95% upper bound: 0.05687235233201624, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each gorpus is a vumpus. Vumpuses are brimpuses. Every brimpus is a lorpus. Every lorpus is blue. Wren is a gorpus. Prove: Wren is blue.
+A: Wren is a gorpus. Each gorpus is a vumpus. Wren is a vumpus. Vumpuses are brimpuses. Wren is a brimpus. Every brimpus is a lorpus. Wren is a lorpus. Every lorpus is blue. Wren is blue.
+
+Q: Jompuses are brimpuses. Each brimpus is a shumpus. Shumpuses are impuses. Each impus is moderate. Wren is a jompus. Prove: Wren is moderate.
+A: Wren is a jompus. Jompuses are brimpuses. Wren is a brimpus. Each brimpus is a shumpus. Wren is a shumpus. Shumpuses are impuses. Wren is an impus. Each impus is moderate. Wren is moderate.
+
+Q: Rompuses are grimpuses. Grimpuses are wumpuses. Wumpuses are lorpuses. Every lorpus is bright. Stella is a rompus. Prove: Stella is bright.
+A: Stella is a rompus. Rompuses are grimpuses. Stella is a grimpus. Grimpuses are wumpuses. Stella is a wumpus. Wumpuses are lorpuses. Stella is a lorpus. Every lorpus is bright. Stella is bright.
+
+Q: Gorpuses are vumpuses. Vumpuses are dumpuses. Dumpuses are shumpuses. Shumpuses are shy. Polly is a gorpus. Prove: Polly is shy.
+A:
+
+Predicted answer: Polly is a gorpus. Gorpuses are vumpuses. Polly is a vumpus. Vumpuses are dumpuses. Polly is a dumpus. Dumpuses are shumpuses. Polly is a shumpus. Shumpuses are shy. Polly is shy.
+
+
+
+Expected answer: Polly is a gorpus. Gorpuses are vumpuses. Polly is a vumpus. Vumpuses are dumpuses. Polly is a dumpus. Dumpuses are shumpuses. Polly is a shumpus. Shumpuses are shy. Polly is shy.
+n: 63, (beta prior) mean: 0.015384615384615385, 95% lower bound: 0.00039551251405066395, 95% upper bound: 0.05600908938663656, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each wumpus is a brimpus. Every brimpus is a tumpus. Each tumpus is a lempus. Lempuses are not happy. Wren is a wumpus. Prove: Wren is not happy.
+A: Wren is a wumpus. Each wumpus is a brimpus. Wren is a brimpus. Every brimpus is a tumpus. Wren is a tumpus. Each tumpus is a lempus. Wren is a lempus. Lempuses are not happy. Wren is not happy.
+
+Q: Every numpus is a tumpus. Every tumpus is a yumpus. Yumpuses are jompuses. Jompuses are small. Max is a numpus. Prove: Max is small.
+A: Max is a numpus. Every numpus is a tumpus. Max is a tumpus. Every tumpus is a yumpus. Max is a yumpus. Yumpuses are jompuses. Max is a jompus. Jompuses are small. Max is small.
+
+Q: Each wumpus is a vumpus. Every vumpus is a lempus. Lempuses are numpuses. Numpuses are not bright. Alex is a wumpus. Prove: Alex is not bright.
+A: Alex is a wumpus. Each wumpus is a vumpus. Alex is a vumpus. Every vumpus is a lempus. Alex is a lempus. Lempuses are numpuses. Alex is a numpus. Numpuses are not bright. Alex is not bright.
+
+Q: Every wumpus is a dumpus. Every dumpus is an impus. Impuses are shumpuses. Shumpuses are not snowy. Stella is a wumpus. Prove: Stella is not snowy.
+A:
+
+Predicted answer: Stella is a wumpus. Every wumpus is a dumpus. Stella is a dumpus. Every dumpus is an impus. Stella is an impus. Impuses are shumpuses. Stella is a shumpus. Shumpuses are not snowy. Stella is not snowy.
+
+
+
+Expected answer: Stella is a wumpus. Every wumpus is a dumpus. Stella is a dumpus. Every dumpus is an impus. Stella is an impus. Impuses are shumpuses. Stella is a shumpus. Shumpuses are not snowy. Stella is not snowy.
+n: 64, (beta prior) mean: 0.015151515151515152, 95% lower bound: 0.0003894288910972206, 95% upper bound: 0.055171634318813376, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every jompus is a shumpus. Every shumpus is a dumpus. Dumpuses are vumpuses. Every vumpus is discordant. Stella is a jompus. Prove: Stella is discordant.
+A: Stella is a jompus. Every jompus is a shumpus. Stella is a shumpus. Every shumpus is a dumpus. Stella is a dumpus. Dumpuses are vumpuses. Stella is a vumpus. Every vumpus is discordant. Stella is discordant.
+
+Q: Numpuses are grimpuses. Grimpuses are impuses. Each impus is a brimpus. Each brimpus is feisty. Polly is a numpus. Prove: Polly is feisty.
+A: Polly is a numpus. Numpuses are grimpuses. Polly is a grimpus. Grimpuses are impuses. Polly is an impus. Each impus is a brimpus. Polly is a brimpus. Each brimpus is feisty. Polly is feisty.
+
+Q: Wumpuses are numpuses. Each numpus is a brimpus. Brimpuses are jompuses. Every jompus is not hot. Polly is a wumpus. Prove: Polly is not hot.
+A: Polly is a wumpus. Wumpuses are numpuses. Polly is a numpus. Each numpus is a brimpus. Polly is a brimpus. Brimpuses are jompuses. Polly is a jompus. Every jompus is not hot. Polly is not hot.
+
+Q: Brimpuses are lempuses. Every lempus is a yumpus. Yumpuses are dumpuses. Each dumpus is not slow. Wren is a brimpus. Prove: Wren is not slow.
+A:
+
+Predicted answer: Wren is a brimpus. Brimpuses are lempuses. Wren is a lempus. Every lempus is a yumpus. Wren is a yumpus. Yumpuses are dumpuses. Wren is a dumpus. Each dumpus is not slow. Wren is not slow.
+
+
+
+Expected answer: Wren is a brimpus. Brimpuses are lempuses. Wren is a lempus. Every lempus is a yumpus. Wren is a yumpus. Yumpuses are dumpuses. Wren is a dumpus. Each dumpus is not slow. Wren is not slow.
+n: 65, (beta prior) mean: 0.014925373134328358, 95% lower bound: 0.00038352958499533773, 95% upper bound: 0.054358847170121974, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each numpus is a yumpus. Every yumpus is a grimpus. Grimpuses are brimpuses. Each brimpus is not melodic. Polly is a numpus. Prove: Polly is not melodic.
+A: Polly is a numpus. Each numpus is a yumpus. Polly is a yumpus. Every yumpus is a grimpus. Polly is a grimpus. Grimpuses are brimpuses. Polly is a brimpus. Each brimpus is not melodic. Polly is not melodic.
+
+Q: Tumpuses are vumpuses. Each vumpus is a grimpus. Grimpuses are dumpuses. Dumpuses are cold. Alex is a tumpus. Prove: Alex is cold.
+A: Alex is a tumpus. Tumpuses are vumpuses. Alex is a vumpus. Each vumpus is a grimpus. Alex is a grimpus. Grimpuses are dumpuses. Alex is a dumpus. Dumpuses are cold. Alex is cold.
+
+Q: Each lorpus is a gorpus. Gorpuses are jompuses. Every jompus is a vumpus. Every vumpus is blue. Max is a lorpus. Prove: Max is blue.
+A: Max is a lorpus. Each lorpus is a gorpus. Max is a gorpus. Gorpuses are jompuses. Max is a jompus. Every jompus is a vumpus. Max is a vumpus. Every vumpus is blue. Max is blue.
+
+Q: Every lempus is a rompus. Every rompus is a vumpus. Each vumpus is an impus. Each impus is not floral. Alex is a lempus. Prove: Alex is not floral.
+A:
+
+Predicted answer: Alex is a lempus. Every lempus is a rompus. Alex is a rompus. Every rompus is a vumpus. Alex is a vumpus. Each vumpus is an impus. Alex is an impus. Each impus is not floral. Alex is not floral.
+
+
+
+Expected answer: Alex is a lempus. Every lempus is a rompus. Alex is a rompus. Every rompus is a vumpus. Alex is a vumpus. Each vumpus is an impus. Alex is an impus. Each impus is not floral. Alex is not floral.
+n: 66, (beta prior) mean: 0.014705882352941176, 95% lower bound: 0.00037780634431108036, 95% upper bound: 0.053569654127096765, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every yumpus is a lorpus. Lorpuses are zumpuses. Each zumpus is a jompus. Every jompus is transparent. Fae is a yumpus. Prove: Fae is transparent.
+A: Fae is a yumpus. Every yumpus is a lorpus. Fae is a lorpus. Lorpuses are zumpuses. Fae is a zumpus. Each zumpus is a jompus. Fae is a jompus. Every jompus is transparent. Fae is transparent.
+
+Q: Every brimpus is a jompus. Every jompus is a numpus. Numpuses are tumpuses. Every tumpus is not transparent. Polly is a brimpus. Prove: Polly is not transparent.
+A: Polly is a brimpus. Every brimpus is a jompus. Polly is a jompus. Every jompus is a numpus. Polly is a numpus. Numpuses are tumpuses. Polly is a tumpus. Every tumpus is not transparent. Polly is not transparent.
+
+Q: Every rompus is a numpus. Numpuses are lempuses. Lempuses are zumpuses. Every zumpus is nervous. Wren is a rompus. Prove: Wren is nervous.
+A: Wren is a rompus. Every rompus is a numpus. Wren is a numpus. Numpuses are lempuses. Wren is a lempus. Lempuses are zumpuses. Wren is a zumpus. Every zumpus is nervous. Wren is nervous.
+
+Q: Jompuses are vumpuses. Each vumpus is a shumpus. Each shumpus is a zumpus. Zumpuses are not small. Sam is a jompus. Prove: Sam is not small.
+A:
+
+Predicted answer: Sam is a jompus. Jompuses are vumpuses. Sam is a vumpus. Each vumpus is a shumpus. Sam is a shumpus. Each shumpus is a zumpus. Zumpuses are not small. Sam is not small.
+
+
+
+Expected answer: Sam is a jompus. Jompuses are vumpuses. Sam is a vumpus. Each vumpus is a shumpus. Sam is a shumpus. Each shumpus is a zumpus. Sam is a zumpus. Zumpuses are not small. Sam is not small.
+n: 67, (beta prior) mean: 0.014492753623188406, 95% lower bound: 0.00037225140289861013, 95% upper bound: 0.05280304279363979, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Brimpuses are jompuses. Jompuses are gorpuses. Each gorpus is a rompus. Rompuses are transparent. Fae is a brimpus. Prove: Fae is transparent.
+A: Fae is a brimpus. Brimpuses are jompuses. Fae is a jompus. Jompuses are gorpuses. Fae is a gorpus. Each gorpus is a rompus. Fae is a rompus. Rompuses are transparent. Fae is transparent.
+
+Q: Gorpuses are numpuses. Numpuses are impuses. Every impus is a rompus. Rompuses are not overcast. Alex is a gorpus. Prove: Alex is not overcast.
+A: Alex is a gorpus. Gorpuses are numpuses. Alex is a numpus. Numpuses are impuses. Alex is an impus. Every impus is a rompus. Alex is a rompus. Rompuses are not overcast. Alex is not overcast.
+
+Q: Vumpuses are numpuses. Each numpus is a lorpus. Each lorpus is a wumpus. Each wumpus is not opaque. Alex is a vumpus. Prove: Alex is not opaque.
+A: Alex is a vumpus. Vumpuses are numpuses. Alex is a numpus. Each numpus is a lorpus. Alex is a lorpus. Each lorpus is a wumpus. Alex is a wumpus. Each wumpus is not opaque. Alex is not opaque.
+
+Q: Dumpuses are rompuses. Every rompus is a numpus. Every numpus is a lempus. Each lempus is dull. Fae is a dumpus. Prove: Fae is dull.
+A:
+
+Predicted answer: Fae is a dumpus. Dumpuses are rompuses. Fae is a rompus. Every rompus is a numpus. Fae is a numpus. Every numpus is a lempus. Fae is a lempus. Each lempus is dull. Fae is dull.
+
+
+
+Expected answer: Fae is a dumpus. Dumpuses are rompuses. Fae is a rompus. Every rompus is a numpus. Fae is a numpus. Every numpus is a lempus. Fae is a lempus. Each lempus is dull. Fae is dull.
+n: 68, (beta prior) mean: 0.014285714285714285, 95% lower bound: 0.00036685744474083384, 95% upper bound: 0.05205805786307967, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every rompus is a zumpus. Every zumpus is a sterpus. Each sterpus is a numpus. Numpuses are red. Rex is a rompus. Prove: Rex is red.
+A: Rex is a rompus. Every rompus is a zumpus. Rex is a zumpus. Every zumpus is a sterpus. Rex is a sterpus. Each sterpus is a numpus. Rex is a numpus. Numpuses are red. Rex is red.
+
+Q: Lorpuses are grimpuses. Every grimpus is a vumpus. Every vumpus is an impus. Each impus is red. Polly is a lorpus. Prove: Polly is red.
+A: Polly is a lorpus. Lorpuses are grimpuses. Polly is a grimpus. Every grimpus is a vumpus. Polly is a vumpus. Every vumpus is an impus. Polly is an impus. Each impus is red. Polly is red.
+
+Q: Every vumpus is a wumpus. Each wumpus is a lorpus. Each lorpus is a tumpus. Each tumpus is not small. Sally is a vumpus. Prove: Sally is not small.
+A: Sally is a vumpus. Every vumpus is a wumpus. Sally is a wumpus. Each wumpus is a lorpus. Sally is a lorpus. Each lorpus is a tumpus. Sally is a tumpus. Each tumpus is not small. Sally is not small.
+
+Q: Lempuses are sterpuses. Sterpuses are numpuses. Each numpus is a vumpus. Every vumpus is not sweet. Stella is a lempus. Prove: Stella is not sweet.
+A:
+
+Predicted answer: Stella is a lempus. Lempuses are sterpuses. Stella is a sterpus. Sterpuses are numpuses. Stella is a numpus. Each numpus is a vumpus. Stella is a vumpus. Every vumpus is not sweet. Stella is not sweet.
+
+
+
+Expected answer: Stella is a lempus. Lempuses are sterpuses. Stella is a sterpus. Sterpuses are numpuses. Stella is a numpus. Each numpus is a vumpus. Stella is a vumpus. Every vumpus is not sweet. Stella is not sweet.
+n: 69, (beta prior) mean: 0.014084507042253521, 95% lower bound: 0.00036161757180316575, 95% upper bound: 0.05133379715102374, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each jompus is a brimpus. Each brimpus is a grimpus. Every grimpus is a shumpus. Every shumpus is feisty. Rex is a jompus. Prove: Rex is feisty.
+A: Rex is a jompus. Each jompus is a brimpus. Rex is a brimpus. Each brimpus is a grimpus. Rex is a grimpus. Every grimpus is a shumpus. Rex is a shumpus. Every shumpus is feisty. Rex is feisty.
+
+Q: Numpuses are wumpuses. Wumpuses are yumpuses. Each yumpus is a lorpus. Each lorpus is fruity. Max is a numpus. Prove: Max is fruity.
+A: Max is a numpus. Numpuses are wumpuses. Max is a wumpus. Wumpuses are yumpuses. Max is a yumpus. Each yumpus is a lorpus. Max is a lorpus. Each lorpus is fruity. Max is fruity.
+
+Q: Each rompus is a grimpus. Each grimpus is a yumpus. Yumpuses are vumpuses. Vumpuses are not bitter. Max is a rompus. Prove: Max is not bitter.
+A: Max is a rompus. Each rompus is a grimpus. Max is a grimpus. Each grimpus is a yumpus. Max is a yumpus. Yumpuses are vumpuses. Max is a vumpus. Vumpuses are not bitter. Max is not bitter.
+
+Q: Every numpus is a tumpus. Each tumpus is a wumpus. Wumpuses are dumpuses. Every dumpus is not mean. Polly is a numpus. Prove: Polly is not mean.
+A:
+
+Predicted answer: Polly is a numpus. Every numpus is a tumpus. Polly is a tumpus. Each tumpus is a wumpus. Polly is a wumpus. Wumpuses are dumpuses. Every dumpus is not mean. Polly is not mean.
+
+
+
+Expected answer: Polly is a numpus. Every numpus is a tumpus. Polly is a tumpus. Each tumpus is a wumpus. Polly is a wumpus. Wumpuses are dumpuses. Polly is a dumpus. Every dumpus is not mean. Polly is not mean.
+n: 70, (beta prior) mean: 0.013888888888888888, 95% lower bound: 0.0003565252746033891, 95% upper bound: 0.050629407954403696, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Gorpuses are lempuses. Every lempus is a tumpus. Tumpuses are numpuses. Every numpus is large. Wren is a gorpus. Prove: Wren is large.
+A: Wren is a gorpus. Gorpuses are lempuses. Wren is a lempus. Every lempus is a tumpus. Wren is a tumpus. Tumpuses are numpuses. Wren is a numpus. Every numpus is large. Wren is large.
+
+Q: Yumpuses are jompuses. Each jompus is a numpus. Numpuses are tumpuses. Tumpuses are slow. Stella is a yumpus. Prove: Stella is slow.
+A: Stella is a yumpus. Yumpuses are jompuses. Stella is a jompus. Each jompus is a numpus. Stella is a numpus. Numpuses are tumpuses. Stella is a tumpus. Tumpuses are slow. Stella is slow.
+
+Q: Zumpuses are lempuses. Lempuses are jompuses. Every jompus is a yumpus. Each yumpus is not overcast. Max is a zumpus. Prove: Max is not overcast.
+A: Max is a zumpus. Zumpuses are lempuses. Max is a lempus. Lempuses are jompuses. Max is a jompus. Every jompus is a yumpus. Max is a yumpus. Each yumpus is not overcast. Max is not overcast.
+
+Q: Each grimpus is a vumpus. Vumpuses are wumpuses. Each wumpus is a rompus. Rompuses are not bright. Sally is a grimpus. Prove: Sally is not bright.
+A:
+
+Predicted answer: Sally is a grimpus. Each grimpus is a vumpus. Sally is a vumpus. Vumpuses are wumpuses. Sally is a wumpus. Each wumpus is a rompus. Rompuses are not bright. Sally is a rompus. Sally is not bright.
+
+
+
+Expected answer: Sally is a grimpus. Each grimpus is a vumpus. Sally is a vumpus. Vumpuses are wumpuses. Sally is a wumpus. Each wumpus is a rompus. Sally is a rompus. Rompuses are not bright. Sally is not bright.
+n: 71, (beta prior) mean: 0.0136986301369863, 95% lower bound: 0.0003515744052335976, 95% upper bound: 0.049944083705854674, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each jompus is a dumpus. Dumpuses are yumpuses. Each yumpus is an impus. Every impus is not opaque. Sam is a jompus. Prove: Sam is not opaque.
+A: Sam is a jompus. Each jompus is a dumpus. Sam is a dumpus. Dumpuses are yumpuses. Sam is a yumpus. Each yumpus is an impus. Sam is an impus. Every impus is not opaque. Sam is not opaque.
+
+Q: Each sterpus is a tumpus. Each tumpus is a shumpus. Shumpuses are zumpuses. Every zumpus is small. Fae is a sterpus. Prove: Fae is small.
+A: Fae is a sterpus. Each sterpus is a tumpus. Fae is a tumpus. Each tumpus is a shumpus. Fae is a shumpus. Shumpuses are zumpuses. Fae is a zumpus. Every zumpus is small. Fae is small.
+
+Q: Gorpuses are grimpuses. Grimpuses are impuses. Impuses are vumpuses. Each vumpus is slow. Max is a gorpus. Prove: Max is slow.
+A: Max is a gorpus. Gorpuses are grimpuses. Max is a grimpus. Grimpuses are impuses. Max is an impus. Impuses are vumpuses. Max is a vumpus. Each vumpus is slow. Max is slow.
+
+Q: Every wumpus is a lempus. Lempuses are numpuses. Numpuses are gorpuses. Every gorpus is sour. Fae is a wumpus. Prove: Fae is sour.
+A:
+
+Predicted answer: Fae is a wumpus. Every wumpus is a lempus. Fae is a lempus. Lempuses are numpuses. Fae is a numpus. Numpuses are gorpuses. Every gorpus is sour. Fae is a gorpus. Fae is sour.
+
+
+
+Expected answer: Fae is a wumpus. Every wumpus is a lempus. Fae is a lempus. Lempuses are numpuses. Fae is a numpus. Numpuses are gorpuses. Fae is a gorpus. Every gorpus is sour. Fae is sour.
+n: 72, (beta prior) mean: 0.013513513513513514, 95% lower bound: 0.00034675915259912694, 95% upper bound: 0.04927706089585928, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Wumpuses are dumpuses. Each dumpus is a yumpus. Each yumpus is a tumpus. Each tumpus is fruity. Polly is a wumpus. Prove: Polly is fruity.
+A: Polly is a wumpus. Wumpuses are dumpuses. Polly is a dumpus. Each dumpus is a yumpus. Polly is a yumpus. Each yumpus is a tumpus. Polly is a tumpus. Each tumpus is fruity. Polly is fruity.
+
+Q: Impuses are lempuses. Lempuses are lorpuses. Every lorpus is a shumpus. Every shumpus is dull. Stella is an impus. Prove: Stella is dull.
+A: Stella is an impus. Impuses are lempuses. Stella is a lempus. Lempuses are lorpuses. Stella is a lorpus. Every lorpus is a shumpus. Stella is a shumpus. Every shumpus is dull. Stella is dull.
+
+Q: Each sterpus is a numpus. Every numpus is a shumpus. Shumpuses are yumpuses. Every yumpus is not angry. Wren is a sterpus. Prove: Wren is not angry.
+A: Wren is a sterpus. Each sterpus is a numpus. Wren is a numpus. Every numpus is a shumpus. Wren is a shumpus. Shumpuses are yumpuses. Wren is a yumpus. Every yumpus is not angry. Wren is not angry.
+
+Q: Every vumpus is a shumpus. Each shumpus is a rompus. Rompuses are lempuses. Lempuses are not liquid. Wren is a vumpus. Prove: Wren is not liquid.
+A:
+
+Predicted answer: Wren is a vumpus. Every vumpus is a shumpus. Wren is a shumpus. Each shumpus is a rompus. Rompuses are lempuses. Lempuses are not liquid. Wren is a vumpus. Wren is a shumpus. Each shumpus is a rompus. Rompuses are lempuses. Lempuses are not liquid. Wren is not liquid.
+
+
+
+Expected answer: Wren is a vumpus. Every vumpus is a shumpus. Wren is a shumpus. Each shumpus is a rompus. Wren is a rompus. Rompuses are lempuses. Wren is a lempus. Lempuses are not liquid. Wren is not liquid.
+n: 73, (beta prior) mean: 0.013333333333333334, 95% lower bound: 0.0003420740196647972, 95% upper bound: 0.04862761623798952, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Grimpuses are dumpuses. Dumpuses are gorpuses. Every gorpus is a wumpus. Wumpuses are not wooden. Wren is a grimpus. Prove: Wren is not wooden.
+A: Wren is a grimpus. Grimpuses are dumpuses. Wren is a dumpus. Dumpuses are gorpuses. Wren is a gorpus. Every gorpus is a wumpus. Wren is a wumpus. Wumpuses are not wooden. Wren is not wooden.
+
+Q: Grimpuses are wumpuses. Every wumpus is a jompus. Jompuses are lempuses. Lempuses are not fast. Sam is a grimpus. Prove: Sam is not fast.
+A: Sam is a grimpus. Grimpuses are wumpuses. Sam is a wumpus. Every wumpus is a jompus. Sam is a jompus. Jompuses are lempuses. Sam is a lempus. Lempuses are not fast. Sam is not fast.
+
+Q: Each dumpus is a sterpus. Each sterpus is a jompus. Every jompus is a brimpus. Brimpuses are not cold. Alex is a dumpus. Prove: Alex is not cold.
+A: Alex is a dumpus. Each dumpus is a sterpus. Alex is a sterpus. Each sterpus is a jompus. Alex is a jompus. Every jompus is a brimpus. Alex is a brimpus. Brimpuses are not cold. Alex is not cold.
+
+Q: Wumpuses are zumpuses. Each zumpus is a sterpus. Sterpuses are jompuses. Jompuses are loud. Sam is a wumpus. Prove: Sam is loud.
+A:
+
+Predicted answer: Sam is a wumpus. Wumpuses are zumpuses. Sam is a zumpus. Each zumpus is a sterpus. Sam is a sterpus. Each sterpus is a jompus. Sam is a jompus. Jompuses are loud. Sam is loud.
+
+
+
+Expected answer: Sam is a wumpus. Wumpuses are zumpuses. Sam is a zumpus. Each zumpus is a sterpus. Sam is a sterpus. Sterpuses are jompuses. Sam is a jompus. Jompuses are loud. Sam is loud.
+n: 74, (beta prior) mean: 0.013157894736842105, 95% lower bound: 0.00033751380252114845, 95% upper bound: 0.047995064055142256, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Each numpus is a wumpus. Each wumpus is a sterpus. Each sterpus is a yumpus. Yumpuses are cold. Sam is a numpus. Prove: Sam is cold.
+A: Sam is a numpus. Each numpus is a wumpus. Sam is a wumpus. Each wumpus is a sterpus. Sam is a sterpus. Each sterpus is a yumpus. Sam is a yumpus. Yumpuses are cold. Sam is cold.
+
+Q: Impuses are dumpuses. Dumpuses are shumpuses. Shumpuses are gorpuses. Every gorpus is opaque. Stella is an impus. Prove: Stella is opaque.
+A: Stella is an impus. Impuses are dumpuses. Stella is a dumpus. Dumpuses are shumpuses. Stella is a shumpus. Shumpuses are gorpuses. Stella is a gorpus. Every gorpus is opaque. Stella is opaque.
+
+Q: Dumpuses are vumpuses. Each vumpus is a jompus. Jompuses are lorpuses. Lorpuses are not transparent. Alex is a dumpus. Prove: Alex is not transparent.
+A: Alex is a dumpus. Dumpuses are vumpuses. Alex is a vumpus. Each vumpus is a jompus. Alex is a jompus. Jompuses are lorpuses. Alex is a lorpus. Lorpuses are not transparent. Alex is not transparent.
+
+Q: Brimpuses are impuses. Every impus is a yumpus. Every yumpus is a lempus. Every lempus is metallic. Sally is a brimpus. Prove: Sally is metallic.
+A:
+
+Predicted answer: Sally is a brimpus. Brimpuses are impuses. Sally is an impus. Every impus is a yumpus. Sally is a yumpus. Every yumpus is a lempus. Sally is a lempus. Every lempus is metallic. Sally is metallic.
+
+
+
+Expected answer: Sally is a brimpus. Brimpuses are impuses. Sally is an impus. Every impus is a yumpus. Sally is a yumpus. Every yumpus is a lempus. Sally is a lempus. Every lempus is metallic. Sally is metallic.
+n: 75, (beta prior) mean: 0.012987012987012988, 95% lower bound: 0.0003330735711030665, 95% upper bound: 0.047378753866930745, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every impus is a gorpus. Each gorpus is a tumpus. Every tumpus is a shumpus. Shumpuses are melodic. Max is an impus. Prove: Max is melodic.
+A: Max is an impus. Every impus is a gorpus. Max is a gorpus. Each gorpus is a tumpus. Max is a tumpus. Every tumpus is a shumpus. Max is a shumpus. Shumpuses are melodic. Max is melodic.
+
+Q: Every yumpus is a sterpus. Sterpuses are tumpuses. Each tumpus is a grimpus. Grimpuses are bright. Stella is a yumpus. Prove: Stella is bright.
+A: Stella is a yumpus. Every yumpus is a sterpus. Stella is a sterpus. Sterpuses are tumpuses. Stella is a tumpus. Each tumpus is a grimpus. Stella is a grimpus. Grimpuses are bright. Stella is bright.
+
+Q: Each lorpus is a dumpus. Each dumpus is a lempus. Each lempus is a vumpus. Each vumpus is not snowy. Polly is a lorpus. Prove: Polly is not snowy.
+A: Polly is a lorpus. Each lorpus is a dumpus. Polly is a dumpus. Each dumpus is a lempus. Polly is a lempus. Each lempus is a vumpus. Polly is a vumpus. Each vumpus is not snowy. Polly is not snowy.
+
+Q: Each impus is a sterpus. Each sterpus is a wumpus. Wumpuses are tumpuses. Tumpuses are kind. Max is an impus. Prove: Max is kind.
+A:
+
+Predicted answer: Max is an impus. Each impus is a sterpus. Max is a sterpus. Each sterpus is a wumpus. Wumpuses are tumpuses. Tumpuses are kind. Max is a tumpus. Max is kind.
+
+
+
+Expected answer: Max is an impus. Each impus is a sterpus. Max is a sterpus. Each sterpus is a wumpus. Max is a wumpus. Wumpuses are tumpuses. Max is a tumpus. Tumpuses are kind. Max is kind.
+n: 76, (beta prior) mean: 0.01282051282051282, 95% lower bound: 0.0003287486514106065, 95% upper bound: 0.046778068160404106, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Numpuses are vumpuses. Vumpuses are brimpuses. Brimpuses are yumpuses. Yumpuses are not slow. Stella is a numpus. Prove: Stella is not slow.
+A: Stella is a numpus. Numpuses are vumpuses. Stella is a vumpus. Vumpuses are brimpuses. Stella is a brimpus. Brimpuses are yumpuses. Stella is a yumpus. Yumpuses are not slow. Stella is not slow.
+
+Q: Each grimpus is a shumpus. Each shumpus is a wumpus. Every wumpus is a zumpus. Every zumpus is not muffled. Polly is a grimpus. Prove: Polly is not muffled.
+A: Polly is a grimpus. Each grimpus is a shumpus. Polly is a shumpus. Each shumpus is a wumpus. Polly is a wumpus. Every wumpus is a zumpus. Polly is a zumpus. Every zumpus is not muffled. Polly is not muffled.
+
+Q: Each rompus is a sterpus. Each sterpus is a tumpus. Each tumpus is an impus. Impuses are not muffled. Stella is a rompus. Prove: Stella is not muffled.
+A: Stella is a rompus. Each rompus is a sterpus. Stella is a sterpus. Each sterpus is a tumpus. Stella is a tumpus. Each tumpus is an impus. Stella is an impus. Impuses are not muffled. Stella is not muffled.
+
+Q: Yumpuses are jompuses. Jompuses are brimpuses. Every brimpus is a rompus. Rompuses are not orange. Rex is a yumpus. Prove: Rex is not orange.
+A:
+
+Predicted answer: Rex is a yumpus. Yumpuses are jompuses. Rex is a jompus. Jompuses are brimpuses. Rex is a brimpus. Every brimpus is a rompus. Rex is a rompus. Rompuses are not orange. Rex is not orange.
+
+
+
+Expected answer: Rex is a yumpus. Yumpuses are jompuses. Rex is a jompus. Jompuses are brimpuses. Rex is a brimpus. Every brimpus is a rompus. Rex is a rompus. Rompuses are not orange. Rex is not orange.
+n: 77, (beta prior) mean: 0.012658227848101266, 95% lower bound: 0.0003245346090972235, 95% upper bound: 0.04619242032804872, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Yumpuses are wumpuses. Each wumpus is a dumpus. Dumpuses are vumpuses. Each vumpus is not feisty. Rex is a yumpus. Prove: Rex is not feisty.
+A: Rex is a yumpus. Yumpuses are wumpuses. Rex is a wumpus. Each wumpus is a dumpus. Rex is a dumpus. Dumpuses are vumpuses. Rex is a vumpus. Each vumpus is not feisty. Rex is not feisty.
+
+Q: Each grimpus is a sterpus. Sterpuses are tumpuses. Tumpuses are rompuses. Rompuses are nervous. Alex is a grimpus. Prove: Alex is nervous.
+A: Alex is a grimpus. Each grimpus is a sterpus. Alex is a sterpus. Sterpuses are tumpuses. Alex is a tumpus. Tumpuses are rompuses. Alex is a rompus. Rompuses are nervous. Alex is nervous.
+
+Q: Wumpuses are tumpuses. Tumpuses are grimpuses. Every grimpus is a gorpus. Gorpuses are blue. Max is a wumpus. Prove: Max is blue.
+A: Max is a wumpus. Wumpuses are tumpuses. Max is a tumpus. Tumpuses are grimpuses. Max is a grimpus. Every grimpus is a gorpus. Max is a gorpus. Gorpuses are blue. Max is blue.
+
+Q: Each grimpus is a lempus. Lempuses are brimpuses. Every brimpus is a gorpus. Gorpuses are orange. Sam is a grimpus. Prove: Sam is orange.
+A:
+
+Predicted answer: Sam is a grimpus. Each grimpus is a lempus. Sam is a lempus. Lempuses are brimpuses. Sam is a brimpus. Every brimpus is a gorpus. Sam is a gorpus. Gorpuses are orange. Sam is orange.
+
+
+
+Expected answer: Sam is a grimpus. Each grimpus is a lempus. Sam is a lempus. Lempuses are brimpuses. Sam is a brimpus. Every brimpus is a gorpus. Sam is a gorpus. Gorpuses are orange. Sam is orange.
+n: 78, (beta prior) mean: 0.0125, 95% lower bound: 0.0003204272343042667, 95% upper bound: 0.045621252758611106, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Wumpuses are jompuses. Each jompus is a dumpus. Dumpuses are rompuses. Each rompus is muffled. Wren is a wumpus. Prove: Wren is muffled.
+A: Wren is a wumpus. Wumpuses are jompuses. Wren is a jompus. Each jompus is a dumpus. Wren is a dumpus. Dumpuses are rompuses. Wren is a rompus. Each rompus is muffled. Wren is muffled.
+
+Q: Lorpuses are tumpuses. Tumpuses are zumpuses. Each zumpus is a yumpus. Every yumpus is not transparent. Wren is a lorpus. Prove: Wren is not transparent.
+A: Wren is a lorpus. Lorpuses are tumpuses. Wren is a tumpus. Tumpuses are zumpuses. Wren is a zumpus. Each zumpus is a yumpus. Wren is a yumpus. Every yumpus is not transparent. Wren is not transparent.
+
+Q: Zumpuses are grimpuses. Grimpuses are impuses. Every impus is a wumpus. Every wumpus is cold. Sally is a zumpus. Prove: Sally is cold.
+A: Sally is a zumpus. Zumpuses are grimpuses. Sally is a grimpus. Grimpuses are impuses. Sally is an impus. Every impus is a wumpus. Sally is a wumpus. Every wumpus is cold. Sally is cold.
+
+Q: Every lempus is a wumpus. Wumpuses are grimpuses. Each grimpus is a zumpus. Zumpuses are luminous. Sally is a lempus. Prove: Sally is luminous.
+A:
+
+Predicted answer: Sally is a lempus. Every lempus is a wumpus. Sally is a wumpus. Wumpuses are grimpuses. Each grimpus is a zumpus. Zumpuses are luminous. Sally is a zumpus. Sally is luminous.
+
+
+
+Expected answer: Sally is a lempus. Every lempus is a wumpus. Sally is a wumpus. Wumpuses are grimpuses. Sally is a grimpus. Each grimpus is a zumpus. Sally is a zumpus. Zumpuses are luminous. Sally is luminous.
+n: 79, (beta prior) mean: 0.012345679012345678, 95% lower bound: 0.00031642252763270626, 95% upper bound: 0.045064035067692285, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every tumpus is an impus. Impuses are vumpuses. Vumpuses are yumpuses. Every yumpus is happy. Wren is a tumpus. Prove: Wren is happy.
+A: Wren is a tumpus. Every tumpus is an impus. Wren is an impus. Impuses are vumpuses. Wren is a vumpus. Vumpuses are yumpuses. Wren is a yumpus. Every yumpus is happy. Wren is happy.
+
+Q: Yumpuses are numpuses. Numpuses are vumpuses. Vumpuses are gorpuses. Gorpuses are not sour. Polly is a yumpus. Prove: Polly is not sour.
+A: Polly is a yumpus. Yumpuses are numpuses. Polly is a numpus. Numpuses are vumpuses. Polly is a vumpus. Vumpuses are gorpuses. Polly is a gorpus. Gorpuses are not sour. Polly is not sour.
+
+Q: Each grimpus is a gorpus. Gorpuses are wumpuses. Every wumpus is a rompus. Every rompus is sunny. Alex is a grimpus. Prove: Alex is sunny.
+A: Alex is a grimpus. Each grimpus is a gorpus. Alex is a gorpus. Gorpuses are wumpuses. Alex is a wumpus. Every wumpus is a rompus. Alex is a rompus. Every rompus is sunny. Alex is sunny.
+
+Q: Gorpuses are yumpuses. Each yumpus is a sterpus. Sterpuses are brimpuses. Brimpuses are windy. Wren is a gorpus. Prove: Wren is windy.
+A:
+
+Predicted answer: Wren is a gorpus. Gorpuses are yumpuses. Wren is a yumpus. Each yumpus is a sterpus. Wren is a sterpus. Sterpuses are brimpuses. Wren is a brimpus. Brimpuses are windy. Wren is windy.
+
+
+
+Expected answer: Wren is a gorpus. Gorpuses are yumpuses. Wren is a yumpus. Each yumpus is a sterpus. Wren is a sterpus. Sterpuses are brimpuses. Wren is a brimpus. Brimpuses are windy. Wren is windy.
+n: 80, (beta prior) mean: 0.012195121951219513, 95% lower bound: 0.00031251668715382954, 95% upper bound: 0.044520262456321735, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Lorpuses are vumpuses. Vumpuses are dumpuses. Each dumpus is a rompus. Each rompus is not rainy. Rex is a lorpus. Prove: Rex is not rainy.
+A: Rex is a lorpus. Lorpuses are vumpuses. Rex is a vumpus. Vumpuses are dumpuses. Rex is a dumpus. Each dumpus is a rompus. Rex is a rompus. Each rompus is not rainy. Rex is not rainy.
+
+Q: Impuses are rompuses. Rompuses are sterpuses. Each sterpus is a lorpus. Lorpuses are not kind. Rex is an impus. Prove: Rex is not kind.
+A: Rex is an impus. Impuses are rompuses. Rex is a rompus. Rompuses are sterpuses. Rex is a sterpus. Each sterpus is a lorpus. Rex is a lorpus. Lorpuses are not kind. Rex is not kind.
+
+Q: Yumpuses are shumpuses. Every shumpus is a zumpus. Zumpuses are brimpuses. Brimpuses are overcast. Rex is a yumpus. Prove: Rex is overcast.
+A: Rex is a yumpus. Yumpuses are shumpuses. Rex is a shumpus. Every shumpus is a zumpus. Rex is a zumpus. Zumpuses are brimpuses. Rex is a brimpus. Brimpuses are overcast. Rex is overcast.
+
+Q: Each tumpus is a sterpus. Sterpuses are grimpuses. Each grimpus is a rompus. Rompuses are angry. Max is a tumpus. Prove: Max is angry.
+A:
+
+Predicted answer: Max is a tumpus. Each tumpus is a sterpus. Max is a sterpus. Sterpuses are grimpuses. Max is a grimpus. Each grimpus is a rompus. Max is a rompus. Rompuses are angry. Max is angry.
+
+
+
+Expected answer: Max is a tumpus. Each tumpus is a sterpus. Max is a sterpus. Sterpuses are grimpuses. Max is a grimpus. Each grimpus is a rompus. Max is a rompus. Rompuses are angry. Max is angry.
+n: 81, (beta prior) mean: 0.012048192771084338, 95% lower bound: 0.0003087060963702275, 95% upper bound: 0.04398945418684236, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every tumpus is a numpus. Numpuses are jompuses. Each jompus is a yumpus. Every yumpus is not blue. Wren is a tumpus. Prove: Wren is not blue.
+A: Wren is a tumpus. Every tumpus is a numpus. Wren is a numpus. Numpuses are jompuses. Wren is a jompus. Each jompus is a yumpus. Wren is a yumpus. Every yumpus is not blue. Wren is not blue.
+
+Q: Every rompus is a grimpus. Grimpuses are vumpuses. Vumpuses are gorpuses. Gorpuses are earthy. Max is a rompus. Prove: Max is earthy.
+A: Max is a rompus. Every rompus is a grimpus. Max is a grimpus. Grimpuses are vumpuses. Max is a vumpus. Vumpuses are gorpuses. Max is a gorpus. Gorpuses are earthy. Max is earthy.
+
+Q: Brimpuses are grimpuses. Each grimpus is an impus. Each impus is a tumpus. Tumpuses are shy. Wren is a brimpus. Prove: Wren is shy.
+A: Wren is a brimpus. Brimpuses are grimpuses. Wren is a grimpus. Each grimpus is an impus. Wren is an impus. Each impus is a tumpus. Wren is a tumpus. Tumpuses are shy. Wren is shy.
+
+Q: Each vumpus is an impus. Impuses are dumpuses. Every dumpus is a sterpus. Each sterpus is not transparent. Rex is a vumpus. Prove: Rex is not transparent.
+A:
+
+Predicted answer: Rex is a vumpus. Each vumpus is an impus. Rex is an impus. Impuses are dumpuses. Rex is a dumpus. Every dumpus is a sterpus. Rex is a sterpus. Every sterpus is not transparent. Rex is not transparent.
+
+
+
+Expected answer: Rex is a vumpus. Each vumpus is an impus. Rex is an impus. Impuses are dumpuses. Rex is a dumpus. Every dumpus is a sterpus. Rex is a sterpus. Each sterpus is not transparent. Rex is not transparent.
+n: 82, (beta prior) mean: 0.011904761904761904, 95% lower bound: 0.0003049873130469377, 95% upper bound: 0.0434711521664418, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every wumpus is a sterpus. Sterpuses are lorpuses. Lorpuses are jompuses. Jompuses are opaque. Polly is a wumpus. Prove: Polly is opaque.
+A: Polly is a wumpus. Every wumpus is a sterpus. Polly is a sterpus. Sterpuses are lorpuses. Polly is a lorpus. Lorpuses are jompuses. Polly is a jompus. Jompuses are opaque. Polly is opaque.
+
+Q: Each grimpus is a vumpus. Vumpuses are shumpuses. Each shumpus is a yumpus. Every yumpus is melodic. Fae is a grimpus. Prove: Fae is melodic.
+A: Fae is a grimpus. Each grimpus is a vumpus. Fae is a vumpus. Vumpuses are shumpuses. Fae is a shumpus. Each shumpus is a yumpus. Fae is a yumpus. Every yumpus is melodic. Fae is melodic.
+
+Q: Each jompus is a dumpus. Dumpuses are vumpuses. Each vumpus is a yumpus. Yumpuses are not angry. Sam is a jompus. Prove: Sam is not angry.
+A: Sam is a jompus. Each jompus is a dumpus. Sam is a dumpus. Dumpuses are vumpuses. Sam is a vumpus. Each vumpus is a yumpus. Sam is a yumpus. Yumpuses are not angry. Sam is not angry.
+
+Q: Tumpuses are sterpuses. Sterpuses are impuses. Impuses are gorpuses. Gorpuses are dull. Sally is a tumpus. Prove: Sally is dull.
+A:
+
+Predicted answer: Sally is a tumpus. Tumpuses are sterpuses. Sally is a sterpus. Sterpuses are impuses. Sally is a impus. Impuses are gorpuses. Sally is a gorpus. Gorpuses are dull. Sally is dull.
+
+
+
+Expected answer: Sally is a tumpus. Tumpuses are sterpuses. Sally is a sterpus. Sterpuses are impuses. Sally is an impus. Impuses are gorpuses. Sally is a gorpus. Gorpuses are dull. Sally is dull.
+n: 83, (beta prior) mean: 0.011764705882352941, 95% lower bound: 0.0003013570588402435, 95% upper bound: 0.04296491962956506, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every brimpus is a rompus. Each rompus is a wumpus. Wumpuses are impuses. Impuses are not cold. Rex is a brimpus. Prove: Rex is not cold.
+A: Rex is a brimpus. Every brimpus is a rompus. Rex is a rompus. Each rompus is a wumpus. Rex is a wumpus. Wumpuses are impuses. Rex is an impus. Impuses are not cold. Rex is not cold.
+
+Q: Impuses are tumpuses. Each tumpus is a dumpus. Dumpuses are grimpuses. Grimpuses are muffled. Polly is an impus. Prove: Polly is muffled.
+A: Polly is an impus. Impuses are tumpuses. Polly is a tumpus. Each tumpus is a dumpus. Polly is a dumpus. Dumpuses are grimpuses. Polly is a grimpus. Grimpuses are muffled. Polly is muffled.
+
+Q: Each wumpus is a gorpus. Every gorpus is a vumpus. Each vumpus is a lorpus. Lorpuses are sweet. Rex is a wumpus. Prove: Rex is sweet.
+A: Rex is a wumpus. Each wumpus is a gorpus. Rex is a gorpus. Every gorpus is a vumpus. Rex is a vumpus. Each vumpus is a lorpus. Rex is a lorpus. Lorpuses are sweet. Rex is sweet.
+
+Q: Shumpuses are yumpuses. Every yumpus is a zumpus. Zumpuses are lorpuses. Every lorpus is loud. Sam is a shumpus. Prove: Sam is loud.
+A:
+
+Predicted answer: Sam is a shumpus. Shumpuses are yumpuses. Sam is a yumpus. Every yumpus is a zumpus. Sam is a zumpus. Zumpuses are lorpuses. Every lorpus is loud. Sam is a lorpus. Sam is loud.
+
+
+
+Expected answer: Sam is a shumpus. Shumpuses are yumpuses. Sam is a yumpus. Every yumpus is a zumpus. Sam is a zumpus. Zumpuses are lorpuses. Sam is a lorpus. Every lorpus is loud. Sam is loud.
+n: 84, (beta prior) mean: 0.011627906976744186, 95% lower bound: 0.0002978122096584482, 95% upper bound: 0.04247033991124916, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Vumpuses are shumpuses. Shumpuses are wumpuses. Wumpuses are numpuses. Every numpus is sunny. Polly is a vumpus. Prove: Polly is sunny.
+A: Polly is a vumpus. Vumpuses are shumpuses. Polly is a shumpus. Shumpuses are wumpuses. Polly is a wumpus. Wumpuses are numpuses. Polly is a numpus. Every numpus is sunny. Polly is sunny.
+
+Q: Gorpuses are dumpuses. Dumpuses are numpuses. Each numpus is a lorpus. Every lorpus is floral. Wren is a gorpus. Prove: Wren is floral.
+A: Wren is a gorpus. Gorpuses are dumpuses. Wren is a dumpus. Dumpuses are numpuses. Wren is a numpus. Each numpus is a lorpus. Wren is a lorpus. Every lorpus is floral. Wren is floral.
+
+Q: Gorpuses are grimpuses. Every grimpus is a vumpus. Vumpuses are lorpuses. Lorpuses are not large. Sally is a gorpus. Prove: Sally is not large.
+A: Sally is a gorpus. Gorpuses are grimpuses. Sally is a grimpus. Every grimpus is a vumpus. Sally is a vumpus. Vumpuses are lorpuses. Sally is a lorpus. Lorpuses are not large. Sally is not large.
+
+Q: Every lorpus is a gorpus. Gorpuses are yumpuses. Yumpuses are grimpuses. Grimpuses are shy. Stella is a lorpus. Prove: Stella is shy.
+A:
+
+Predicted answer: Stella is a lorpus. Every lorpus is a gorpus. Stella is a gorpus. Gorpuses are yumpuses. Yumpuses are grimpuses. Grimpuses are shy. Stella is a grimpus. Stella is shy.
+
+
+
+Expected answer: Stella is a lorpus. Every lorpus is a gorpus. Stella is a gorpus. Gorpuses are yumpuses. Stella is a yumpus. Yumpuses are grimpuses. Stella is a grimpus. Grimpuses are shy. Stella is shy.
+n: 85, (beta prior) mean: 0.011494252873563218, 95% lower bound: 0.0002943497866950549, 95% upper bound: 0.04198701530414447, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every vumpus is a tumpus. Tumpuses are lorpuses. Every lorpus is a lempus. Lempuses are amenable. Rex is a vumpus. Prove: Rex is amenable.
+A: Rex is a vumpus. Every vumpus is a tumpus. Rex is a tumpus. Tumpuses are lorpuses. Rex is a lorpus. Every lorpus is a lempus. Rex is a lempus. Lempuses are amenable. Rex is amenable.
+
+Q: Grimpuses are zumpuses. Every zumpus is a yumpus. Each yumpus is a dumpus. Dumpuses are not windy. Wren is a grimpus. Prove: Wren is not windy.
+A: Wren is a grimpus. Grimpuses are zumpuses. Wren is a zumpus. Every zumpus is a yumpus. Wren is a yumpus. Each yumpus is a dumpus. Wren is a dumpus. Dumpuses are not windy. Wren is not windy.
+
+Q: Every yumpus is a sterpus. Sterpuses are wumpuses. Each wumpus is a zumpus. Zumpuses are not bitter. Stella is a yumpus. Prove: Stella is not bitter.
+A: Stella is a yumpus. Every yumpus is a sterpus. Stella is a sterpus. Sterpuses are wumpuses. Stella is a wumpus. Each wumpus is a zumpus. Stella is a zumpus. Zumpuses are not bitter. Stella is not bitter.
+
+Q: Each grimpus is a yumpus. Yumpuses are impuses. Impuses are dumpuses. Each dumpus is sour. Polly is a grimpus. Prove: Polly is sour.
+A:
+
+Predicted answer: Polly is a grimpus. Each grimpus is a yumpus. Polly is a yumpus. Yumpuses are impuses. Polly is a impus. Impuses are dumpuses. Each dumpus is sour. Polly is a dumpus. Polly is sour.
+
+
+
+Expected answer: Polly is a grimpus. Each grimpus is a yumpus. Polly is a yumpus. Yumpuses are impuses. Polly is an impus. Impuses are dumpuses. Polly is a dumpus. Each dumpus is sour. Polly is sour.
+n: 86, (beta prior) mean: 0.011363636363636364, 95% lower bound: 0.00029096694808025735, 95% upper bound: 0.041514565992637815, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every jompus is a vumpus. Vumpuses are gorpuses. Gorpuses are sterpuses. Each sterpus is floral. Alex is a jompus. Prove: Alex is floral.
+A: Alex is a jompus. Every jompus is a vumpus. Alex is a vumpus. Vumpuses are gorpuses. Alex is a gorpus. Gorpuses are sterpuses. Alex is a sterpus. Each sterpus is floral. Alex is floral.
+
+Q: Yumpuses are brimpuses. Every brimpus is a gorpus. Gorpuses are tumpuses. Tumpuses are not discordant. Max is a yumpus. Prove: Max is not discordant.
+A: Max is a yumpus. Yumpuses are brimpuses. Max is a brimpus. Every brimpus is a gorpus. Max is a gorpus. Gorpuses are tumpuses. Max is a tumpus. Tumpuses are not discordant. Max is not discordant.
+
+Q: Gorpuses are dumpuses. Dumpuses are brimpuses. Brimpuses are grimpuses. Every grimpus is red. Rex is a gorpus. Prove: Rex is red.
+A: Rex is a gorpus. Gorpuses are dumpuses. Rex is a dumpus. Dumpuses are brimpuses. Rex is a brimpus. Brimpuses are grimpuses. Rex is a grimpus. Every grimpus is red. Rex is red.
+
+Q: Every brimpus is a gorpus. Gorpuses are wumpuses. Wumpuses are shumpuses. Every shumpus is muffled. Rex is a brimpus. Prove: Rex is muffled.
+A:
+
+Predicted answer: Rex is a brimpus. Every brimpus is a gorpus. Rex is a gorpus. Gorpuses are wumpuses. Wumpuses are shumpuses. Every shumpus is muffled. Rex is a shumpus. Rex is muffled.
+
+
+
+Expected answer: Rex is a brimpus. Every brimpus is a gorpus. Rex is a gorpus. Gorpuses are wumpuses. Rex is a wumpus. Wumpuses are shumpuses. Rex is a shumpus. Every shumpus is muffled. Rex is muffled.
+n: 87, (beta prior) mean: 0.011235955056179775, 95% lower bound: 0.0002876609811015656, 95% upper bound: 0.04105262905807801, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every sterpus is a vumpus. Vumpuses are gorpuses. Gorpuses are numpuses. Every numpus is not fast. Wren is a sterpus. Prove: Wren is not fast.
+A: Wren is a sterpus. Every sterpus is a vumpus. Wren is a vumpus. Vumpuses are gorpuses. Wren is a gorpus. Gorpuses are numpuses. Wren is a numpus. Every numpus is not fast. Wren is not fast.
+
+Q: Every impus is a rompus. Every rompus is a wumpus. Wumpuses are gorpuses. Gorpuses are small. Rex is an impus. Prove: Rex is small.
+A: Rex is an impus. Every impus is a rompus. Rex is a rompus. Every rompus is a wumpus. Rex is a wumpus. Wumpuses are gorpuses. Rex is a gorpus. Gorpuses are small. Rex is small.
+
+Q: Yumpuses are zumpuses. Zumpuses are shumpuses. Every shumpus is a rompus. Rompuses are not snowy. Wren is a yumpus. Prove: Wren is not snowy.
+A: Wren is a yumpus. Yumpuses are zumpuses. Wren is a zumpus. Zumpuses are shumpuses. Wren is a shumpus. Every shumpus is a rompus. Wren is a rompus. Rompuses are not snowy. Wren is not snowy.
+
+Q: Impuses are gorpuses. Every gorpus is a lempus. Every lempus is a yumpus. Yumpuses are not moderate. Sally is an impus. Prove: Sally is not moderate.
+A:
+
+Predicted answer: Sally is an impus. Impuses are gorpuses. Sally is a gorpus. Every gorpus is a lempus. Sally is a lempus. Every lempus is a yumpus. Sally is a yumpus. Yumpuses are not moderate. Sally is not moderate.
+
+
+
+Expected answer: Sally is an impus. Impuses are gorpuses. Sally is a gorpus. Every gorpus is a lempus. Sally is a lempus. Every lempus is a yumpus. Sally is a yumpus. Yumpuses are not moderate. Sally is not moderate.
+n: 88, (beta prior) mean: 0.011111111111111112, 95% lower bound: 0.0002844292949488092, 95% upper bound: 0.04060085754963182, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Vumpuses are gorpuses. Each gorpus is an impus. Impuses are tumpuses. Every tumpus is slow. Alex is a vumpus. Prove: Alex is slow.
+A: Alex is a vumpus. Vumpuses are gorpuses. Alex is a gorpus. Each gorpus is an impus. Alex is an impus. Impuses are tumpuses. Alex is a tumpus. Every tumpus is slow. Alex is slow.
+
+Q: Every gorpus is a brimpus. Brimpuses are shumpuses. Each shumpus is a lorpus. Lorpuses are wooden. Sally is a gorpus. Prove: Sally is wooden.
+A: Sally is a gorpus. Every gorpus is a brimpus. Sally is a brimpus. Brimpuses are shumpuses. Sally is a shumpus. Each shumpus is a lorpus. Sally is a lorpus. Lorpuses are wooden. Sally is wooden.
+
+Q: Sterpuses are shumpuses. Shumpuses are wumpuses. Wumpuses are impuses. Impuses are shy. Rex is a sterpus. Prove: Rex is shy.
+A: Rex is a sterpus. Sterpuses are shumpuses. Rex is a shumpus. Shumpuses are wumpuses. Rex is a wumpus. Wumpuses are impuses. Rex is an impus. Impuses are shy. Rex is shy.
+
+Q: Every dumpus is a shumpus. Shumpuses are lorpuses. Each lorpus is a jompus. Jompuses are overcast. Max is a dumpus. Prove: Max is overcast.
+A:
+
+Predicted answer: Max is a dumpus. Every dumpus is a shumpus. Max is a shumpus. Shumpuses are lorpuses. Max is a lorpus. Lorpuses are jompuses. Max is a jompus. Jompuses are overcast. Max is overcast.
+
+
+
+Expected answer: Max is a dumpus. Every dumpus is a shumpus. Max is a shumpus. Shumpuses are lorpuses. Max is a lorpus. Each lorpus is a jompus. Max is a jompus. Jompuses are overcast. Max is overcast.
+n: 89, (beta prior) mean: 0.01098901098901099, 95% lower bound: 0.0002812694139427387, 95% upper bound: 0.040158919615774634, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Zumpuses are dumpuses. Dumpuses are rompuses. Rompuses are shumpuses. Every shumpus is not loud. Wren is a zumpus. Prove: Wren is not loud.
+A: Wren is a zumpus. Zumpuses are dumpuses. Wren is a dumpus. Dumpuses are rompuses. Wren is a rompus. Rompuses are shumpuses. Wren is a shumpus. Every shumpus is not loud. Wren is not loud.
+
+Q: Lempuses are lorpuses. Lorpuses are grimpuses. Grimpuses are impuses. Every impus is happy. Wren is a lempus. Prove: Wren is happy.
+A: Wren is a lempus. Lempuses are lorpuses. Wren is a lorpus. Lorpuses are grimpuses. Wren is a grimpus. Grimpuses are impuses. Wren is an impus. Every impus is happy. Wren is happy.
+
+Q: Each lempus is a wumpus. Each wumpus is a brimpus. Brimpuses are lorpuses. Each lorpus is not floral. Rex is a lempus. Prove: Rex is not floral.
+A: Rex is a lempus. Each lempus is a wumpus. Rex is a wumpus. Each wumpus is a brimpus. Rex is a brimpus. Brimpuses are lorpuses. Rex is a lorpus. Each lorpus is not floral. Rex is not floral.
+
+Q: Lorpuses are vumpuses. Vumpuses are dumpuses. Each dumpus is a wumpus. Each wumpus is blue. Alex is a lorpus. Prove: Alex is blue.
+A:
+
+Predicted answer: Lorpuses are vumpuses. Vumpuses are dumpuses. Each dumpus is a wumpus. Each wumpus is blue. Alex is a lorpus. Alex is a vumpus. Vumpuses are dumpuses. Each dumpus is a wumpus. Each wumpus is blue. Alex is blue.
+
+
+
+Expected answer: Alex is a lorpus. Lorpuses are vumpuses. Alex is a vumpus. Vumpuses are dumpuses. Alex is a dumpus. Each dumpus is a wumpus. Alex is a wumpus. Each wumpus is blue. Alex is blue.
+n: 90, (beta prior) mean: 0.010869565217391304, 95% lower bound: 0.0002781789712100313, 95% upper bound: 0.039726497691849584, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every yumpus is a tumpus. Tumpuses are gorpuses. Gorpuses are shumpuses. Shumpuses are not amenable. Alex is a yumpus. Prove: Alex is not amenable.
+A: Alex is a yumpus. Every yumpus is a tumpus. Alex is a tumpus. Tumpuses are gorpuses. Alex is a gorpus. Gorpuses are shumpuses. Alex is a shumpus. Shumpuses are not amenable. Alex is not amenable.
+
+Q: Sterpuses are dumpuses. Dumpuses are numpuses. Numpuses are grimpuses. Each grimpus is not cold. Sam is a sterpus. Prove: Sam is not cold.
+A: Sam is a sterpus. Sterpuses are dumpuses. Sam is a dumpus. Dumpuses are numpuses. Sam is a numpus. Numpuses are grimpuses. Sam is a grimpus. Each grimpus is not cold. Sam is not cold.
+
+Q: Each lempus is a dumpus. Each dumpus is a shumpus. Each shumpus is a grimpus. Each grimpus is not small. Max is a lempus. Prove: Max is not small.
+A: Max is a lempus. Each lempus is a dumpus. Max is a dumpus. Each dumpus is a shumpus. Max is a shumpus. Each shumpus is a grimpus. Max is a grimpus. Each grimpus is not small. Max is not small.
+
+Q: Dumpuses are wumpuses. Each wumpus is a yumpus. Every yumpus is a brimpus. Every brimpus is not small. Max is a dumpus. Prove: Max is not small.
+A:
+
+Predicted answer: Max is a dumpus. Dumpuses are wumpuses. Max is a wumpus. Each wumpus is a yumpus. Max is a yumpus. Every yumpus is a brimpus. Every brimpus is not small. Max is a brimpus. Max is not small.
+
+
+
+Expected answer: Max is a dumpus. Dumpuses are wumpuses. Max is a wumpus. Each wumpus is a yumpus. Max is a yumpus. Every yumpus is a brimpus. Max is a brimpus. Every brimpus is not small. Max is not small.
+n: 91, (beta prior) mean: 0.010752688172043012, 95% lower bound: 0.0002751557027707387, 95% upper bound: 0.039303287739518036, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every numpus is a grimpus. Each grimpus is a zumpus. Zumpuses are lempuses. Lempuses are not feisty. Max is a numpus. Prove: Max is not feisty.
+A: Max is a numpus. Every numpus is a grimpus. Max is a grimpus. Each grimpus is a zumpus. Max is a zumpus. Zumpuses are lempuses. Max is a lempus. Lempuses are not feisty. Max is not feisty.
+
+Q: Lempuses are grimpuses. Grimpuses are wumpuses. Every wumpus is a brimpus. Every brimpus is moderate. Max is a lempus. Prove: Max is moderate.
+A: Max is a lempus. Lempuses are grimpuses. Max is a grimpus. Grimpuses are wumpuses. Max is a wumpus. Every wumpus is a brimpus. Max is a brimpus. Every brimpus is moderate. Max is moderate.
+
+Q: Lorpuses are tumpuses. Tumpuses are wumpuses. Each wumpus is a dumpus. Each dumpus is shy. Wren is a lorpus. Prove: Wren is shy.
+A: Wren is a lorpus. Lorpuses are tumpuses. Wren is a tumpus. Tumpuses are wumpuses. Wren is a wumpus. Each wumpus is a dumpus. Wren is a dumpus. Each dumpus is shy. Wren is shy.
+
+Q: Every impus is a lorpus. Each lorpus is a brimpus. Each brimpus is a vumpus. Every vumpus is rainy. Sam is an impus. Prove: Sam is rainy.
+A:
+
+Predicted answer: Sam is an impus. Every impus is a lorpus. Sam is a lorpus. Each lorpus is a brimpus. Sam is a brimpus. Each brimpus is a vumpus. Sam is a vumpus. Every vumpus is rainy. Sam is rainy.
+
+
+
+Expected answer: Sam is an impus. Every impus is a lorpus. Sam is a lorpus. Each lorpus is a brimpus. Sam is a brimpus. Each brimpus is a vumpus. Sam is a vumpus. Every vumpus is rainy. Sam is rainy.
+n: 92, (beta prior) mean: 0.010638297872340425, 95% lower bound: 0.00027219744200713874, 95% upper bound: 0.0388889985342758, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Zumpuses are gorpuses. Gorpuses are brimpuses. Each brimpus is a sterpus. Every sterpus is muffled. Stella is a zumpus. Prove: Stella is muffled.
+A: Stella is a zumpus. Zumpuses are gorpuses. Stella is a gorpus. Gorpuses are brimpuses. Stella is a brimpus. Each brimpus is a sterpus. Stella is a sterpus. Every sterpus is muffled. Stella is muffled.
+
+Q: Tumpuses are numpuses. Every numpus is an impus. Each impus is a dumpus. Every dumpus is not melodic. Polly is a tumpus. Prove: Polly is not melodic.
+A: Polly is a tumpus. Tumpuses are numpuses. Polly is a numpus. Every numpus is an impus. Polly is an impus. Each impus is a dumpus. Polly is a dumpus. Every dumpus is not melodic. Polly is not melodic.
+
+Q: Every jompus is a brimpus. Each brimpus is a shumpus. Every shumpus is a lempus. Every lempus is hot. Sam is a jompus. Prove: Sam is hot.
+A: Sam is a jompus. Every jompus is a brimpus. Sam is a brimpus. Each brimpus is a shumpus. Sam is a shumpus. Every shumpus is a lempus. Sam is a lempus. Every lempus is hot. Sam is hot.
+
+Q: Jompuses are tumpuses. Tumpuses are rompuses. Rompuses are impuses. Every impus is not loud. Fae is a jompus. Prove: Fae is not loud.
+A:
+
+Predicted answer: Fae is a jompus. Jompuses are tumpuses. Fae is a tumpus. Tumpuses are rompuses. Fae is a rompus. Rompuses are impuses. Every impus is not loud. Fae is not loud.
+
+
+
+Expected answer: Fae is a jompus. Jompuses are tumpuses. Fae is a tumpus. Tumpuses are rompuses. Fae is a rompus. Rompuses are impuses. Fae is an impus. Every impus is not loud. Fae is not loud.
+n: 93, (beta prior) mean: 0.010526315789473684, 95% lower bound: 0.00026930211448559046, 95% upper bound: 0.03848335099752879, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every impus is a lempus. Lempuses are lorpuses. Each lorpus is a rompus. Rompuses are small. Max is an impus. Prove: Max is small.
+A: Max is an impus. Every impus is a lempus. Max is a lempus. Lempuses are lorpuses. Max is a lorpus. Each lorpus is a rompus. Max is a rompus. Rompuses are small. Max is small.
+
+Q: Every jompus is a tumpus. Tumpuses are impuses. Each impus is a zumpus. Each zumpus is opaque. Wren is a jompus. Prove: Wren is opaque.
+A: Wren is a jompus. Every jompus is a tumpus. Wren is a tumpus. Tumpuses are impuses. Wren is an impus. Each impus is a zumpus. Wren is a zumpus. Each zumpus is opaque. Wren is opaque.
+
+Q: Every lempus is an impus. Every impus is a grimpus. Grimpuses are gorpuses. Every gorpus is not brown. Stella is a lempus. Prove: Stella is not brown.
+A: Stella is a lempus. Every lempus is an impus. Stella is an impus. Every impus is a grimpus. Stella is a grimpus. Grimpuses are gorpuses. Stella is a gorpus. Every gorpus is not brown. Stella is not brown.
+
+Q: Impuses are jompuses. Each jompus is a lorpus. Lorpuses are dumpuses. Dumpuses are discordant. Polly is an impus. Prove: Polly is discordant.
+A:
+
+Predicted answer: Polly is an impus. Impuses are jompuses. Polly is a jompus. Each jompus is a lorpus. Polly is a lorpus. Lorpuses are dumpuses. Dumpuses are discordant. Polly is discordant.
+
+
+
+Expected answer: Polly is an impus. Impuses are jompuses. Polly is a jompus. Each jompus is a lorpus. Polly is a lorpus. Lorpuses are dumpuses. Polly is a dumpus. Dumpuses are discordant. Polly is discordant.
+n: 94, (beta prior) mean: 0.010416666666666666, 95% lower bound: 0.00026646773310538775, 95% upper bound: 0.03808607757001057, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Dumpuses are lempuses. Lempuses are vumpuses. Each vumpus is a tumpus. Each tumpus is not bright. Fae is a dumpus. Prove: Fae is not bright.
+A: Fae is a dumpus. Dumpuses are lempuses. Fae is a lempus. Lempuses are vumpuses. Fae is a vumpus. Each vumpus is a tumpus. Fae is a tumpus. Each tumpus is not bright. Fae is not bright.
+
+Q: Jompuses are lempuses. Lempuses are sterpuses. Sterpuses are zumpuses. Zumpuses are moderate. Fae is a jompus. Prove: Fae is moderate.
+A: Fae is a jompus. Jompuses are lempuses. Fae is a lempus. Lempuses are sterpuses. Fae is a sterpus. Sterpuses are zumpuses. Fae is a zumpus. Zumpuses are moderate. Fae is moderate.
+
+Q: Sterpuses are gorpuses. Gorpuses are lempuses. Lempuses are numpuses. Each numpus is feisty. Sam is a sterpus. Prove: Sam is feisty.
+A: Sam is a sterpus. Sterpuses are gorpuses. Sam is a gorpus. Gorpuses are lempuses. Sam is a lempus. Lempuses are numpuses. Sam is a numpus. Each numpus is feisty. Sam is feisty.
+
+Q: Gorpuses are dumpuses. Each dumpus is a tumpus. Tumpuses are vumpuses. Vumpuses are not amenable. Max is a gorpus. Prove: Max is not amenable.
+A:
+
+Predicted answer: Max is a gorpus. Gorpuses are dumpuses. Max is a dumpus. Each dumpus is a tumpus. Tumpuses are vumpuses. Vumpuses are not amenable. Max is a vumpus. Vumpuses are not amenable. Max is not amenable.
+
+
+
+Expected answer: Max is a gorpus. Gorpuses are dumpuses. Max is a dumpus. Each dumpus is a tumpus. Max is a tumpus. Tumpuses are vumpuses. Max is a vumpus. Vumpuses are not amenable. Max is not amenable.
+n: 95, (beta prior) mean: 0.010309278350515464, 95% lower bound: 0.00026369239355076825, 95% upper bound: 0.03769692162358756, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every impus is a jompus. Jompuses are sterpuses. Each sterpus is a dumpus. Every dumpus is not kind. Wren is an impus. Prove: Wren is not kind.
+A: Wren is an impus. Every impus is a jompus. Wren is a jompus. Jompuses are sterpuses. Wren is a sterpus. Each sterpus is a dumpus. Wren is a dumpus. Every dumpus is not kind. Wren is not kind.
+
+Q: Jompuses are grimpuses. Grimpuses are sterpuses. Every sterpus is a tumpus. Each tumpus is angry. Sam is a jompus. Prove: Sam is angry.
+A: Sam is a jompus. Jompuses are grimpuses. Sam is a grimpus. Grimpuses are sterpuses. Sam is a sterpus. Every sterpus is a tumpus. Sam is a tumpus. Each tumpus is angry. Sam is angry.
+
+Q: Brimpuses are tumpuses. Each tumpus is a lempus. Lempuses are grimpuses. Each grimpus is not earthy. Stella is a brimpus. Prove: Stella is not earthy.
+A: Stella is a brimpus. Brimpuses are tumpuses. Stella is a tumpus. Each tumpus is a lempus. Stella is a lempus. Lempuses are grimpuses. Stella is a grimpus. Each grimpus is not earthy. Stella is not earthy.
+
+Q: Shumpuses are grimpuses. Grimpuses are tumpuses. Tumpuses are jompuses. Each jompus is aggressive. Alex is a shumpus. Prove: Alex is aggressive.
+A:
+
+Predicted answer: Alex is a shumpus. Shumpuses are grimpuses. Alex is a grimpus. Grimpuses are tumpuses. Alex is a tumpus. Tumpuses are jompuses. Alex is a jompus. Each jompus is aggressive. Alex is aggressive.
+
+
+
+Expected answer: Alex is a shumpus. Shumpuses are grimpuses. Alex is a grimpus. Grimpuses are tumpuses. Alex is a tumpus. Tumpuses are jompuses. Alex is a jompus. Each jompus is aggressive. Alex is aggressive.
+n: 96, (beta prior) mean: 0.01020408163265306, 95% lower bound: 0.0002609742700242055, 95% upper bound: 0.03731563690873607, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every tumpus is an impus. Every impus is a dumpus. Every dumpus is a vumpus. Vumpuses are muffled. Stella is a tumpus. Prove: Stella is muffled.
+A: Stella is a tumpus. Every tumpus is an impus. Stella is an impus. Every impus is a dumpus. Stella is a dumpus. Every dumpus is a vumpus. Stella is a vumpus. Vumpuses are muffled. Stella is muffled.
+
+Q: Vumpuses are tumpuses. Tumpuses are yumpuses. Every yumpus is a gorpus. Each gorpus is mean. Rex is a vumpus. Prove: Rex is mean.
+A: Rex is a vumpus. Vumpuses are tumpuses. Rex is a tumpus. Tumpuses are yumpuses. Rex is a yumpus. Every yumpus is a gorpus. Rex is a gorpus. Each gorpus is mean. Rex is mean.
+
+Q: Every dumpus is a shumpus. Shumpuses are yumpuses. Yumpuses are wumpuses. Every wumpus is hot. Sally is a dumpus. Prove: Sally is hot.
+A: Sally is a dumpus. Every dumpus is a shumpus. Sally is a shumpus. Shumpuses are yumpuses. Sally is a yumpus. Yumpuses are wumpuses. Sally is a wumpus. Every wumpus is hot. Sally is hot.
+
+Q: Each brimpus is a zumpus. Every zumpus is a dumpus. Every dumpus is a lorpus. Each lorpus is not earthy. Fae is a brimpus. Prove: Fae is not earthy.
+A:
+
+Predicted answer: Fae is a brimpus. Each brimpus is a zumpus. Fae is a zumpus. Every zumpus is a dumpus. Fae is a dumpus. Every dumpus is a lorpus. Fae is a lorpus. Each lorpus is not earthy. Fae is not earthy.
+
+
+
+Expected answer: Fae is a brimpus. Each brimpus is a zumpus. Fae is a zumpus. Every zumpus is a dumpus. Fae is a dumpus. Every dumpus is a lorpus. Fae is a lorpus. Each lorpus is not earthy. Fae is not earthy.
+n: 97, (beta prior) mean: 0.010101010101010102, 95% lower bound: 0.000258311611240894, 95% upper bound: 0.03694198703519287, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Every shumpus is a numpus. Numpuses are brimpuses. Brimpuses are impuses. Impuses are not floral. Sam is a shumpus. Prove: Sam is not floral.
+A: Sam is a shumpus. Every shumpus is a numpus. Sam is a numpus. Numpuses are brimpuses. Sam is a brimpus. Brimpuses are impuses. Sam is an impus. Impuses are not floral. Sam is not floral.
+
+Q: Each zumpus is a shumpus. Every shumpus is a dumpus. Each dumpus is a lorpus. Every lorpus is feisty. Fae is a zumpus. Prove: Fae is feisty.
+A: Fae is a zumpus. Each zumpus is a shumpus. Fae is a shumpus. Every shumpus is a dumpus. Fae is a dumpus. Each dumpus is a lorpus. Fae is a lorpus. Every lorpus is feisty. Fae is feisty.
+
+Q: Vumpuses are rompuses. Rompuses are zumpuses. Each zumpus is a dumpus. Every dumpus is not slow. Max is a vumpus. Prove: Max is not slow.
+A: Max is a vumpus. Vumpuses are rompuses. Max is a rompus. Rompuses are zumpuses. Max is a zumpus. Each zumpus is a dumpus. Max is a dumpus. Every dumpus is not slow. Max is not slow.
+
+Q: Every tumpus is a zumpus. Zumpuses are jompuses. Each jompus is a gorpus. Gorpuses are not bright. Sam is a tumpus. Prove: Sam is not bright.
+A:
+
+Predicted answer: Sam is a tumpus. Every tumpus is a zumpus. Sam is a zumpus. Zumpuses are jompuses. Sam is a jompus. Each jompus is a gorpus. Sam is a gorpus. Gorpuses are not bright. Sam is not bright.
+
+
+
+Expected answer: Sam is a tumpus. Every tumpus is a zumpus. Sam is a zumpus. Zumpuses are jompuses. Sam is a jompus. Each jompus is a gorpus. Sam is a gorpus. Gorpuses are not bright. Sam is not bright.
+n: 98, (beta prior) mean: 0.01, 95% lower bound: 0.00025570273666596153, 95% upper bound: 0.03657574498347894, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Lorpuses are grimpuses. Every grimpus is an impus. Impuses are shumpuses. Every shumpus is not dull. Rex is a lorpus. Prove: Rex is not dull.
+A: Rex is a lorpus. Lorpuses are grimpuses. Rex is a grimpus. Every grimpus is an impus. Rex is an impus. Impuses are shumpuses. Rex is a shumpus. Every shumpus is not dull. Rex is not dull.
+
+Q: Tumpuses are zumpuses. Zumpuses are lorpuses. Lorpuses are yumpuses. Yumpuses are not cold. Fae is a tumpus. Prove: Fae is not cold.
+A: Fae is a tumpus. Tumpuses are zumpuses. Fae is a zumpus. Zumpuses are lorpuses. Fae is a lorpus. Lorpuses are yumpuses. Fae is a yumpus. Yumpuses are not cold. Fae is not cold.
+
+Q: Rompuses are impuses. Every impus is a tumpus. Every tumpus is a lempus. Lempuses are transparent. Rex is a rompus. Prove: Rex is transparent.
+A: Rex is a rompus. Rompuses are impuses. Rex is an impus. Every impus is a tumpus. Rex is a tumpus. Every tumpus is a lempus. Rex is a lempus. Lempuses are transparent. Rex is transparent.
+
+Q: Each yumpus is an impus. Every impus is a sterpus. Sterpuses are lempuses. Lempuses are mean. Max is a yumpus. Prove: Max is mean.
+A:
+
+Predicted answer: Max is a yumpus. Each yumpus is an impus. Max is an impus. Every impus is a sterpus. Max is a sterpus. Sterpuses are lempuses. Lempuses are mean. Max is mean.
+
+
+
+Expected answer: Max is a yumpus. Each yumpus is an impus. Max is an impus. Every impus is a sterpus. Max is a sterpus. Sterpuses are lempuses. Max is a lempus. Lempuses are mean. Max is mean.
+n: 99, (beta prior) mean: 0.009900990099009901, 95% lower bound: 0.00025314603297742064, 95% upper bound: 0.03621669264517641, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Rompuses are jompuses. Jompuses are dumpuses. Each dumpus is a shumpus. Every shumpus is not bright. Sally is a rompus. Prove: Sally is not bright.
+A: Sally is a rompus. Rompuses are jompuses. Sally is a jompus. Jompuses are dumpuses. Sally is a dumpus. Each dumpus is a shumpus. Sally is a shumpus. Every shumpus is not bright. Sally is not bright.
+
+Q: Each lorpus is a rompus. Rompuses are dumpuses. Dumpuses are gorpuses. Gorpuses are nervous. Sam is a lorpus. Prove: Sam is nervous.
+A: Sam is a lorpus. Each lorpus is a rompus. Sam is a rompus. Rompuses are dumpuses. Sam is a dumpus. Dumpuses are gorpuses. Sam is a gorpus. Gorpuses are nervous. Sam is nervous.
+
+Q: Shumpuses are lorpuses. Lorpuses are impuses. Each impus is a gorpus. Gorpuses are not mean. Alex is a shumpus. Prove: Alex is not mean.
+A: Alex is a shumpus. Shumpuses are lorpuses. Alex is a lorpus. Lorpuses are impuses. Alex is an impus. Each impus is a gorpus. Alex is a gorpus. Gorpuses are not mean. Alex is not mean.
+
+Q: Sterpuses are brimpuses. Every brimpus is a jompus. Each jompus is an impus. Every impus is spicy. Wren is a sterpus. Prove: Wren is spicy.
+A:
+
+Predicted answer: Wren is a sterpus. Sterpuses are brimpuses. Wren is a brimpus. Every brimpus is a jompus. Wren is a jompus. Every jompus is an impus. Wren is an impus. Every impus is spicy. Wren is spicy.
+
+
+
+Expected answer: Wren is a sterpus. Sterpuses are brimpuses. Wren is a brimpus. Every brimpus is a jompus. Wren is a jompus. Each jompus is an impus. Wren is an impus. Every impus is spicy. Wren is spicy.
+n: 100, (beta prior) mean: 0.00980392156862745, 95% lower bound: 0.0002506399507392151, 95% upper bound: 0.03586462039000372, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
