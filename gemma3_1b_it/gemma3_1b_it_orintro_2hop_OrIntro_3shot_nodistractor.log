@@ -1,0 +1,1994 @@
+Q: Everything that is hot or a numpus is an impus. Max is a numpus. Prove: Max is large or an impus.
+A: Max is a numpus. Max is hot or a numpus. Everything that is hot or a numpus is an impus. Max is an impus. Max is large or an impus.
+
+Q: Everything that is sour or a grimpus is an impus. Rex is a grimpus. Prove: Rex is transparent or an impus.
+A: Rex is a grimpus. Rex is sour or a grimpus. Everything that is sour or a grimpus is an impus. Rex is an impus. Rex is transparent or an impus.
+
+Q: Everything that is small or a dumpus is a brimpus. Stella is a dumpus. Prove: Stella is earthy or a brimpus.
+A: Stella is a dumpus. Stella is small or a dumpus. Everything that is small or a dumpus is a brimpus. Stella is a brimpus. Stella is earthy or a brimpus.
+
+Q: Everything that is bitter or a brimpus is a tumpus. Alex is a brimpus. Prove: Alex is cold or a tumpus.
+A:
+
+Predicted answer: Alex is a brimpus. Alex is bitter or a brimpus. Everything that is bitter or a brimpus is a tumpus. Alex is a tumpus. Alex is cold or a tumpus.
+
+
+
+Expected answer: Alex is a brimpus. Alex is bitter or a brimpus. Everything that is bitter or a brimpus is a tumpus. Alex is a tumpus. Alex is cold or a tumpus.
+n: 1, (beta prior) mean: 0.3333333333333333, 95% lower bound: 0.01257911709342505, 95% upper bound: 0.841886116991581, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is hot or a brimpus is a jompus. Stella is a brimpus. Prove: Stella is brown or a jompus.
+A: Stella is a brimpus. Stella is hot or a brimpus. Everything that is hot or a brimpus is a jompus. Stella is a jompus. Stella is brown or a jompus.
+
+Q: Everything that is melodic or a wumpus is a yumpus. Max is a wumpus. Prove: Max is hot or a yumpus.
+A: Max is a wumpus. Max is melodic or a wumpus. Everything that is melodic or a wumpus is a yumpus. Max is a yumpus. Max is hot or a yumpus.
+
+Q: Everything that is happy or a dumpus is a brimpus. Polly is a dumpus. Prove: Polly is cold or a brimpus.
+A: Polly is a dumpus. Polly is happy or a dumpus. Everything that is happy or a dumpus is a brimpus. Polly is a brimpus. Polly is cold or a brimpus.
+
+Q: Everything that is metallic or a numpus is a sterpus. Fae is a numpus. Prove: Fae is loud or a sterpus.
+A:
+
+Predicted answer: Fae is a numpus. Fae is metallic or a numpus. Everything that is metallic or a numpus is a sterpus. Fae is a sterpus. Fae is loud or a sterpus.
+
+
+
+Expected answer: Fae is a numpus. Fae is metallic or a numpus. Everything that is metallic or a numpus is a sterpus. Fae is a sterpus. Fae is loud or a sterpus.
+n: 2, (beta prior) mean: 0.25, 95% lower bound: 0.008403758659612636, 95% upper bound: 0.7075982261787133, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is orange or a numpus is a zumpus. Alex is a numpus. Prove: Alex is floral or a zumpus.
+A: Alex is a numpus. Alex is orange or a numpus. Everything that is orange or a numpus is a zumpus. Alex is a zumpus. Alex is floral or a zumpus.
+
+Q: Everything that is aggressive or a rompus is a tumpus. Polly is a rompus. Prove: Polly is hot or a tumpus.
+A: Polly is a rompus. Polly is aggressive or a rompus. Everything that is aggressive or a rompus is a tumpus. Polly is a tumpus. Polly is hot or a tumpus.
+
+Q: Everything that is melodic or a zumpus is a sterpus. Wren is a zumpus. Prove: Wren is dull or a sterpus.
+A: Wren is a zumpus. Wren is melodic or a zumpus. Everything that is melodic or a zumpus is a sterpus. Wren is a sterpus. Wren is dull or a sterpus.
+
+Q: Everything that is floral or a brimpus is a vumpus. Sam is a brimpus. Prove: Sam is muffled or a vumpus.
+A:
+
+Predicted answer: Sam is a brimpus. Sam is floral or a brimpus. Everything that is floral or a brimpus is a vumpus. Sam is a vumpus. Sam is muffled or a vumpus.
+
+
+
+Expected answer: Sam is a brimpus. Sam is floral or a brimpus. Everything that is floral or a brimpus is a vumpus. Sam is a vumpus. Sam is muffled or a vumpus.
+n: 3, (beta prior) mean: 0.2, 95% lower bound: 0.006309463209709866, 95% upper bound: 0.6023646356164746, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is slow or a wumpus is a rompus. Sam is a wumpus. Prove: Sam is opaque or a rompus.
+A: Sam is a wumpus. Sam is slow or a wumpus. Everything that is slow or a wumpus is a rompus. Sam is a rompus. Sam is opaque or a rompus.
+
+Q: Everything that is moderate or a jompus is a sterpus. Fae is a jompus. Prove: Fae is rainy or a sterpus.
+A: Fae is a jompus. Fae is moderate or a jompus. Everything that is moderate or a jompus is a sterpus. Fae is a sterpus. Fae is rainy or a sterpus.
+
+Q: Everything that is brown or a wumpus is a jompus. Sally is a wumpus. Prove: Sally is transparent or a jompus.
+A: Sally is a wumpus. Sally is brown or a wumpus. Everything that is brown or a wumpus is a jompus. Sally is a jompus. Sally is transparent or a jompus.
+
+Q: Everything that is spicy or a sterpus is a gorpus. Alex is a sterpus. Prove: Alex is fast or a gorpus.
+A:
+
+Predicted answer: Alex is a sterpus. Alex is spicy or a sterpus. Everything that is spicy or a sterpus is a gorpus. Alex is a gorpus. Alex is fast or a gorpus.
+
+
+
+Expected answer: Alex is a sterpus. Alex is spicy or a sterpus. Everything that is spicy or a sterpus is a gorpus. Alex is a gorpus. Alex is fast or a gorpus.
+n: 4, (beta prior) mean: 0.16666666666666666, 95% lower bound: 0.0050507633794680575, 95% upper bound: 0.5218237501049814, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is fast or a dumpus is a vumpus. Polly is a dumpus. Prove: Polly is melodic or a vumpus.
+A: Polly is a dumpus. Polly is fast or a dumpus. Everything that is fast or a dumpus is a vumpus. Polly is a vumpus. Polly is melodic or a vumpus.
+
+Q: Everything that is discordant or a numpus is a jompus. Alex is a numpus. Prove: Alex is kind or a jompus.
+A: Alex is a numpus. Alex is discordant or a numpus. Everything that is discordant or a numpus is a jompus. Alex is a jompus. Alex is kind or a jompus.
+
+Q: Everything that is transparent or an impus is a numpus. Polly is an impus. Prove: Polly is overcast or a numpus.
+A: Polly is an impus. Polly is transparent or an impus. Everything that is transparent or an impus is a numpus. Polly is a numpus. Polly is overcast or a numpus.
+
+Q: Everything that is small or a wumpus is a shumpus. Wren is a wumpus. Prove: Wren is blue or a shumpus.
+A:
+
+Predicted answer: Wren is a wumpus. Wren is small or a wumpus. Everything that is small or a wumpus is a shumpus. Wren is a shumpus. Wren is blue or a shumpus.
+
+
+
+Expected answer: Wren is a wumpus. Wren is small or a wumpus. Everything that is small or a wumpus is a shumpus. Wren is a shumpus. Wren is blue or a shumpus.
+n: 5, (beta prior) mean: 0.14285714285714285, 95% lower bound: 0.00421074451448947, 95% upper bound: 0.4592581264399005, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is small or a tumpus is a dumpus. Polly is a tumpus. Prove: Polly is happy or a dumpus.
+A: Polly is a tumpus. Polly is small or a tumpus. Everything that is small or a tumpus is a dumpus. Polly is a dumpus. Polly is happy or a dumpus.
+
+Q: Everything that is fast or a shumpus is a dumpus. Max is a shumpus. Prove: Max is liquid or a dumpus.
+A: Max is a shumpus. Max is fast or a shumpus. Everything that is fast or a shumpus is a dumpus. Max is a dumpus. Max is liquid or a dumpus.
+
+Q: Everything that is muffled or a yumpus is a lempus. Sally is a yumpus. Prove: Sally is angry or a lempus.
+A: Sally is a yumpus. Sally is muffled or a yumpus. Everything that is muffled or a yumpus is a lempus. Sally is a lempus. Sally is angry or a lempus.
+
+Q: Everything that is aggressive or a gorpus is an impus. Sam is a gorpus. Prove: Sam is bright or an impus.
+A:
+
+Predicted answer: Sam is a gorpus. Sam is aggressive or a gorpus. Everything that is aggressive or a gorpus is an impus. Sam is an impus. Sam is bright or an impus.
+
+
+
+Expected answer: Sam is a gorpus. Sam is aggressive or a gorpus. Everything that is aggressive or a gorpus is an impus. Sam is an impus. Sam is bright or an impus.
+n: 6, (beta prior) mean: 0.125, 95% lower bound: 0.0036102968619005833, 95% upper bound: 0.4096163972250034, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is dull or a yumpus is a jompus. Alex is a yumpus. Prove: Alex is small or a jompus.
+A: Alex is a yumpus. Alex is dull or a yumpus. Everything that is dull or a yumpus is a jompus. Alex is a jompus. Alex is small or a jompus.
+
+Q: Everything that is rainy or a zumpus is an impus. Alex is a zumpus. Prove: Alex is feisty or an impus.
+A: Alex is a zumpus. Alex is rainy or a zumpus. Everything that is rainy or a zumpus is an impus. Alex is an impus. Alex is feisty or an impus.
+
+Q: Everything that is temperate or a vumpus is a tumpus. Max is a vumpus. Prove: Max is rainy or a tumpus.
+A: Max is a vumpus. Max is temperate or a vumpus. Everything that is temperate or a vumpus is a tumpus. Max is a tumpus. Max is rainy or a tumpus.
+
+Q: Everything that is cold or a numpus is a lorpus. Alex is a numpus. Prove: Alex is nervous or a lorpus.
+A:
+
+Predicted answer: Alex is a numpus. Alex is cold or a numpus. Everything that is cold or a numpus is a lorpus. Alex is a lorpus. Alex is nervous or a lorpus.
+
+
+
+Expected answer: Alex is a numpus. Alex is cold or a numpus. Everything that is cold or a numpus is a lorpus. Alex is a lorpus. Alex is nervous or a lorpus.
+n: 7, (beta prior) mean: 0.1111111111111111, 95% lower bound: 0.0031597235312519063, 95% upper bound: 0.3694166475528192, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is bright or a vumpus is a lorpus. Sam is a vumpus. Prove: Sam is amenable or a lorpus.
+A: Sam is a vumpus. Sam is bright or a vumpus. Everything that is bright or a vumpus is a lorpus. Sam is a lorpus. Sam is amenable or a lorpus.
+
+Q: Everything that is wooden or a tumpus is a shumpus. Sam is a tumpus. Prove: Sam is shy or a shumpus.
+A: Sam is a tumpus. Sam is wooden or a tumpus. Everything that is wooden or a tumpus is a shumpus. Sam is a shumpus. Sam is shy or a shumpus.
+
+Q: Everything that is sour or a grimpus is a jompus. Max is a grimpus. Prove: Max is moderate or a jompus.
+A: Max is a grimpus. Max is sour or a grimpus. Everything that is sour or a grimpus is a jompus. Max is a jompus. Max is moderate or a jompus.
+
+Q: Everything that is shy or a shumpus is a yumpus. Stella is a shumpus. Prove: Stella is small or a yumpus.
+A:
+
+Predicted answer: Stella is a shumpus. Stella is shy or a shumpus. Everything that is shy or a shumpus is a yumpus. Stella is a yumpus. Stella is small or a yumpus.
+
+
+
+Expected answer: Stella is a shumpus. Stella is shy or a shumpus. Everything that is shy or a shumpus is a yumpus. Stella is a yumpus. Stella is small or a yumpus.
+n: 8, (beta prior) mean: 0.1, 95% lower bound: 0.0028091367465992146, 95% upper bound: 0.3362671168799428, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is aggressive or a tumpus is a rompus. Sam is a tumpus. Prove: Sam is transparent or a rompus.
+A: Sam is a tumpus. Sam is aggressive or a tumpus. Everything that is aggressive or a tumpus is a rompus. Sam is a rompus. Sam is transparent or a rompus.
+
+Q: Everything that is windy or a yumpus is a dumpus. Alex is a yumpus. Prove: Alex is luminous or a dumpus.
+A: Alex is a yumpus. Alex is windy or a yumpus. Everything that is windy or a yumpus is a dumpus. Alex is a dumpus. Alex is luminous or a dumpus.
+
+Q: Everything that is fast or a zumpus is a vumpus. Max is a zumpus. Prove: Max is windy or a vumpus.
+A: Max is a zumpus. Max is fast or a zumpus. Everything that is fast or a zumpus is a vumpus. Max is a vumpus. Max is windy or a vumpus.
+
+Q: Everything that is melodic or a numpus is a vumpus. Sam is a numpus. Prove: Sam is sweet or a vumpus.
+A:
+
+Predicted answer: Sam is a numpus. Sam is melodic or a numpus. Everything that is melodic or a numpus is a vumpus. Sam is a vumpus. Sam is sweet or a vumpus.
+
+
+
+Expected answer: Sam is a numpus. Sam is melodic or a numpus. Everything that is melodic or a numpus is a vumpus. Sam is a vumpus. Sam is sweet or a vumpus.
+n: 9, (beta prior) mean: 0.09090909090909091, 95% lower bound: 0.0025285785444617848, 95% upper bound: 0.3084971078187608, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is red or a shumpus is a lorpus. Polly is a shumpus. Prove: Polly is nervous or a lorpus.
+A: Polly is a shumpus. Polly is red or a shumpus. Everything that is red or a shumpus is a lorpus. Polly is a lorpus. Polly is nervous or a lorpus.
+
+Q: Everything that is earthy or a rompus is a gorpus. Max is a rompus. Prove: Max is large or a gorpus.
+A: Max is a rompus. Max is earthy or a rompus. Everything that is earthy or a rompus is a gorpus. Max is a gorpus. Max is large or a gorpus.
+
+Q: Everything that is nervous or a vumpus is a dumpus. Fae is a vumpus. Prove: Fae is temperate or a dumpus.
+A: Fae is a vumpus. Fae is nervous or a vumpus. Everything that is nervous or a vumpus is a dumpus. Fae is a dumpus. Fae is temperate or a dumpus.
+
+Q: Everything that is dull or a sterpus is a grimpus. Alex is a sterpus. Prove: Alex is red or a grimpus.
+A:
+
+Predicted answer: Alex is a sterpus. Alex is dull or a sterpus. Everything that is dull or a sterpus is a grimpus. Alex is a grimpus. Alex is red or a grimpus.
+
+
+
+Expected answer: Alex is a sterpus. Alex is dull or a sterpus. Everything that is dull or a sterpus is a grimpus. Alex is a grimpus. Alex is red or a grimpus.
+n: 10, (beta prior) mean: 0.08333333333333333, 95% lower bound: 0.0022989722138142673, 95% upper bound: 0.2849141529181544, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is amenable or a wumpus is a jompus. Stella is a wumpus. Prove: Stella is red or a jompus.
+A: Stella is a wumpus. Stella is amenable or a wumpus. Everything that is amenable or a wumpus is a jompus. Stella is a jompus. Stella is red or a jompus.
+
+Q: Everything that is luminous or a rompus is a brimpus. Sam is a rompus. Prove: Sam is loud or a brimpus.
+A: Sam is a rompus. Sam is luminous or a rompus. Everything that is luminous or a rompus is a brimpus. Sam is a brimpus. Sam is loud or a brimpus.
+
+Q: Everything that is blue or an impus is a brimpus. Wren is an impus. Prove: Wren is overcast or a brimpus.
+A: Wren is an impus. Wren is blue or an impus. Everything that is blue or an impus is a brimpus. Wren is a brimpus. Wren is overcast or a brimpus.
+
+Q: Everything that is sweet or a grimpus is a yumpus. Max is a grimpus. Prove: Max is muffled or a yumpus.
+A:
+
+Predicted answer: Max is a grimpus. Max is sweet or a grimpus. Everything that is sweet or a grimpus is a yumpus. Max is a yumpus. Max is muffled or a yumpus.
+
+
+
+Expected answer: Max is a grimpus. Max is sweet or a grimpus. Everything that is sweet or a grimpus is a yumpus. Max is a yumpus. Max is muffled or a yumpus.
+n: 11, (beta prior) mean: 0.07692307692307693, 95% lower bound: 0.0021075932318602264, 95% upper bound: 0.26464846939705117, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is dull or a vumpus is a wumpus. Sally is a vumpus. Prove: Sally is loud or a wumpus.
+A: Sally is a vumpus. Sally is dull or a vumpus. Everything that is dull or a vumpus is a wumpus. Sally is a wumpus. Sally is loud or a wumpus.
+
+Q: Everything that is muffled or a zumpus is a lorpus. Fae is a zumpus. Prove: Fae is transparent or a lorpus.
+A: Fae is a zumpus. Fae is muffled or a zumpus. Everything that is muffled or a zumpus is a lorpus. Fae is a lorpus. Fae is transparent or a lorpus.
+
+Q: Everything that is fast or a yumpus is an impus. Max is a yumpus. Prove: Max is bitter or an impus.
+A: Max is a yumpus. Max is fast or a yumpus. Everything that is fast or a yumpus is an impus. Max is an impus. Max is bitter or an impus.
+
+Q: Everything that is small or a grimpus is a rompus. Alex is a grimpus. Prove: Alex is fruity or a rompus.
+A:
+
+Predicted answer: Alex is a grimpus. Alex is small or a grimpus. Everything that is small or a grimpus is a rompus. Alex is a rompus. Alex is fruity or a rompus.
+
+
+
+Expected answer: Alex is a grimpus. Alex is small or a grimpus. Everything that is small or a grimpus is a rompus. Alex is a rompus. Alex is fruity or a rompus.
+n: 12, (beta prior) mean: 0.07142857142857142, 95% lower bound: 0.001945628497346748, 95% upper bound: 0.24705263800047095, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is wooden or a brimpus is a yumpus. Fae is a brimpus. Prove: Fae is small or a yumpus.
+A: Fae is a brimpus. Fae is wooden or a brimpus. Everything that is wooden or a brimpus is a yumpus. Fae is a yumpus. Fae is small or a yumpus.
+
+Q: Everything that is metallic or a zumpus is a vumpus. Sally is a zumpus. Prove: Sally is mean or a vumpus.
+A: Sally is a zumpus. Sally is metallic or a zumpus. Everything that is metallic or a zumpus is a vumpus. Sally is a vumpus. Sally is mean or a vumpus.
+
+Q: Everything that is mean or a sterpus is a vumpus. Polly is a sterpus. Prove: Polly is earthy or a vumpus.
+A: Polly is a sterpus. Polly is mean or a sterpus. Everything that is mean or a sterpus is a vumpus. Polly is a vumpus. Polly is earthy or a vumpus.
+
+Q: Everything that is sour or a shumpus is a jompus. Rex is a shumpus. Prove: Rex is shy or a jompus.
+A:
+
+Predicted answer: Rex is a shumpus. Rex is sour or a shumpus. Everything that is sour or a shumpus is a jompus. Rex is a jompus. Rex is shy or a jompus.
+
+
+
+Expected answer: Rex is a shumpus. Rex is sour or a shumpus. Everything that is sour or a shumpus is a jompus. Rex is a jompus. Rex is shy or a jompus.
+n: 13, (beta prior) mean: 0.06666666666666667, 95% lower bound: 0.0018067806591253865, 95% upper bound: 0.23163576165011648, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is angry or a grimpus is a numpus. Max is a grimpus. Prove: Max is snowy or a numpus.
+A: Max is a grimpus. Max is angry or a grimpus. Everything that is angry or a grimpus is a numpus. Max is a numpus. Max is snowy or a numpus.
+
+Q: Everything that is discordant or a vumpus is a brimpus. Polly is a vumpus. Prove: Polly is feisty or a brimpus.
+A: Polly is a vumpus. Polly is discordant or a vumpus. Everything that is discordant or a vumpus is a brimpus. Polly is a brimpus. Polly is feisty or a brimpus.
+
+Q: Everything that is blue or a lempus is a jompus. Sally is a lempus. Prove: Sally is cold or a jompus.
+A: Sally is a lempus. Sally is blue or a lempus. Everything that is blue or a lempus is a jompus. Sally is a jompus. Sally is cold or a jompus.
+
+Q: Everything that is feisty or a wumpus is a jompus. Wren is a wumpus. Prove: Wren is liquid or a jompus.
+A:
+
+Predicted answer: Wren is a wumpus. Wren is feisty or a wumpus. Everything that is feisty or a wumpus is a jompus. Wren is a jompus. Wren is liquid or a jompus.
+
+
+
+Expected answer: Wren is a wumpus. Wren is feisty or a wumpus. Everything that is feisty or a wumpus is a jompus. Wren is a jompus. Wren is liquid or a jompus.
+n: 14, (beta prior) mean: 0.0625, 95% lower bound: 0.0016864302413527013, 95% upper bound: 0.218019360910534, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is sweet or a lorpus is a grimpus. Rex is a lorpus. Prove: Rex is large or a grimpus.
+A: Rex is a lorpus. Rex is sweet or a lorpus. Everything that is sweet or a lorpus is a grimpus. Rex is a grimpus. Rex is large or a grimpus.
+
+Q: Everything that is small or a numpus is a gorpus. Sally is a numpus. Prove: Sally is cold or a gorpus.
+A: Sally is a numpus. Sally is small or a numpus. Everything that is small or a numpus is a gorpus. Sally is a gorpus. Sally is cold or a gorpus.
+
+Q: Everything that is brown or a dumpus is a grimpus. Fae is a dumpus. Prove: Fae is metallic or a grimpus.
+A: Fae is a dumpus. Fae is brown or a dumpus. Everything that is brown or a dumpus is a grimpus. Fae is a grimpus. Fae is metallic or a grimpus.
+
+Q: Everything that is dull or a sterpus is a vumpus. Polly is a sterpus. Prove: Polly is slow or a vumpus.
+A:
+
+Predicted answer: Polly is a sterpus. Polly is dull or a sterpus. Everything that is dull or a sterpus is a vumpus. Polly is a vumpus. Polly is slow or a vumpus.
+
+
+
+Expected answer: Polly is a sterpus. Polly is dull or a sterpus. Everything that is dull or a sterpus is a vumpus. Polly is a vumpus. Polly is slow or a vumpus.
+n: 15, (beta prior) mean: 0.058823529411764705, 95% lower bound: 0.0015811117227658871, 95% upper bound: 0.2059072142078227, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is small or a shumpus is a yumpus. Sally is a shumpus. Prove: Sally is sour or a yumpus.
+A: Sally is a shumpus. Sally is small or a shumpus. Everything that is small or a shumpus is a yumpus. Sally is a yumpus. Sally is sour or a yumpus.
+
+Q: Everything that is transparent or a numpus is a jompus. Sam is a numpus. Prove: Sam is aggressive or a jompus.
+A: Sam is a numpus. Sam is transparent or a numpus. Everything that is transparent or a numpus is a jompus. Sam is a jompus. Sam is aggressive or a jompus.
+
+Q: Everything that is nervous or a dumpus is a rompus. Rex is a dumpus. Prove: Rex is discordant or a rompus.
+A: Rex is a dumpus. Rex is nervous or a dumpus. Everything that is nervous or a dumpus is a rompus. Rex is a rompus. Rex is discordant or a rompus.
+
+Q: Everything that is fruity or a lorpus is a rompus. Fae is a lorpus. Prove: Fae is brown or a rompus.
+A:
+
+Predicted answer: Fae is a lorpus. Fae is fruity or a lorpus. Everything that is fruity or a lorpus is a rompus. Fae is a rompus. Fae is brown or a rompus.
+
+
+
+Expected answer: Fae is a lorpus. Fae is fruity or a lorpus. Everything that is fruity or a lorpus is a rompus. Fae is a rompus. Fae is brown or a rompus.
+n: 16, (beta prior) mean: 0.05555555555555555, 95% lower bound: 0.0014881743912666346, 95% upper bound: 0.19506432296909318, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is slow or a sterpus is a dumpus. Polly is a sterpus. Prove: Polly is nervous or a dumpus.
+A: Polly is a sterpus. Polly is slow or a sterpus. Everything that is slow or a sterpus is a dumpus. Polly is a dumpus. Polly is nervous or a dumpus.
+
+Q: Everything that is fruity or a numpus is a zumpus. Polly is a numpus. Prove: Polly is sunny or a zumpus.
+A: Polly is a numpus. Polly is fruity or a numpus. Everything that is fruity or a numpus is a zumpus. Polly is a zumpus. Polly is sunny or a zumpus.
+
+Q: Everything that is blue or an impus is a lempus. Rex is an impus. Prove: Rex is large or a lempus.
+A: Rex is an impus. Rex is blue or an impus. Everything that is blue or an impus is a lempus. Rex is a lempus. Rex is large or a lempus.
+
+Q: Everything that is moderate or an impus is a grimpus. Polly is an impus. Prove: Polly is small or a grimpus.
+A:
+
+Predicted answer: Polly is an impus. Polly is moderate or an impus. Everything that is moderate or an impus is a grimpus. Polly is a grimpus. Polly is small or a grimpus.
+
+
+
+Expected answer: Polly is an impus. Polly is moderate or an impus. Everything that is moderate or an impus is a grimpus. Polly is a grimpus. Polly is small or a grimpus.
+n: 17, (beta prior) mean: 0.05263157894736842, 95% lower bound: 0.0014055561673694222, 95% upper bound: 0.1853019681378522, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is fast or a brimpus is an impus. Rex is a brimpus. Prove: Rex is bright or an impus.
+A: Rex is a brimpus. Rex is fast or a brimpus. Everything that is fast or a brimpus is an impus. Rex is an impus. Rex is bright or an impus.
+
+Q: Everything that is transparent or a vumpus is a numpus. Polly is a vumpus. Prove: Polly is spicy or a numpus.
+A: Polly is a vumpus. Polly is transparent or a vumpus. Everything that is transparent or a vumpus is a numpus. Polly is a numpus. Polly is spicy or a numpus.
+
+Q: Everything that is opaque or a brimpus is a sterpus. Stella is a brimpus. Prove: Stella is dull or a sterpus.
+A: Stella is a brimpus. Stella is opaque or a brimpus. Everything that is opaque or a brimpus is a sterpus. Stella is a sterpus. Stella is dull or a sterpus.
+
+Q: Everything that is happy or a rompus is a lorpus. Max is a rompus. Prove: Max is brown or a lorpus.
+A:
+
+Predicted answer: Max is a rompus. Max is happy or a rompus. Everything that is happy or a rompus is a lorpus. Max is brown or a lorpus.
+
+
+
+Expected answer: Max is a rompus. Max is happy or a rompus. Everything that is happy or a rompus is a lorpus. Max is a lorpus. Max is brown or a lorpus.
+n: 18, (beta prior) mean: 0.05, 95% lower bound: 0.001331628804179423, 95% upper bound: 0.17646691180696533, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is bitter or a vumpus is a zumpus. Sam is a vumpus. Prove: Sam is small or a zumpus.
+A: Sam is a vumpus. Sam is bitter or a vumpus. Everything that is bitter or a vumpus is a zumpus. Sam is a zumpus. Sam is small or a zumpus.
+
+Q: Everything that is sweet or a vumpus is a gorpus. Polly is a vumpus. Prove: Polly is opaque or a gorpus.
+A: Polly is a vumpus. Polly is sweet or a vumpus. Everything that is sweet or a vumpus is a gorpus. Polly is a gorpus. Polly is opaque or a gorpus.
+
+Q: Everything that is shy or a yumpus is an impus. Alex is a yumpus. Prove: Alex is fast or an impus.
+A: Alex is a yumpus. Alex is shy or a yumpus. Everything that is shy or a yumpus is an impus. Alex is an impus. Alex is fast or an impus.
+
+Q: Everything that is brown or a dumpus is an impus. Fae is a dumpus. Prove: Fae is shy or an impus.
+A:
+
+Predicted answer: Fae is a dumpus. Fae is brown or a dumpus. Everything that is brown or a dumpus is an impus. Fae is an impus. Fae is shy or an impus.
+
+
+
+Expected answer: Fae is a dumpus. Fae is brown or a dumpus. Everything that is brown or a dumpus is an impus. Fae is an impus. Fae is shy or an impus.
+n: 19, (beta prior) mean: 0.047619047619047616, 95% lower bound: 0.0012650894979498038, 95% upper bound: 0.1684334709830853, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is fruity or a tumpus is a dumpus. Fae is a tumpus. Prove: Fae is brown or a dumpus.
+A: Fae is a tumpus. Fae is fruity or a tumpus. Everything that is fruity or a tumpus is a dumpus. Fae is a dumpus. Fae is brown or a dumpus.
+
+Q: Everything that is small or a wumpus is a sterpus. Sam is a wumpus. Prove: Sam is discordant or a sterpus.
+A: Sam is a wumpus. Sam is small or a wumpus. Everything that is small or a wumpus is a sterpus. Sam is a sterpus. Sam is discordant or a sterpus.
+
+Q: Everything that is transparent or a lorpus is a yumpus. Fae is a lorpus. Prove: Fae is temperate or a yumpus.
+A: Fae is a lorpus. Fae is transparent or a lorpus. Everything that is transparent or a lorpus is a yumpus. Fae is a yumpus. Fae is temperate or a yumpus.
+
+Q: Everything that is overcast or a wumpus is an impus. Alex is a wumpus. Prove: Alex is liquid or an impus.
+A:
+
+Predicted answer: Alex is a wumpus. Alex is overcast or a wumpus. Everything that is overcast or a wumpus is an impus. Alex is an impus. Alex is liquid or an impus.
+
+
+
+Expected answer: Alex is a wumpus. Alex is overcast or a wumpus. Everything that is overcast or a wumpus is an impus. Alex is an impus. Alex is liquid or an impus.
+n: 20, (beta prior) mean: 0.045454545454545456, 95% lower bound: 0.0012048834483635125, 95% upper bound: 0.1610976152190796, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is transparent or a vumpus is a lempus. Sally is a vumpus. Prove: Sally is fast or a lempus.
+A: Sally is a vumpus. Sally is transparent or a vumpus. Everything that is transparent or a vumpus is a lempus. Sally is a lempus. Sally is fast or a lempus.
+
+Q: Everything that is moderate or an impus is a shumpus. Rex is an impus. Prove: Rex is shy or a shumpus.
+A: Rex is an impus. Rex is moderate or an impus. Everything that is moderate or an impus is a shumpus. Rex is a shumpus. Rex is shy or a shumpus.
+
+Q: Everything that is feisty or a sterpus is a tumpus. Max is a sterpus. Prove: Max is dull or a tumpus.
+A: Max is a sterpus. Max is feisty or a sterpus. Everything that is feisty or a sterpus is a tumpus. Max is a tumpus. Max is dull or a tumpus.
+
+Q: Everything that is bright or a lempus is a shumpus. Polly is a lempus. Prove: Polly is bitter or a shumpus.
+A:
+
+Predicted answer: Polly is a lempus. Polly is bright or a lempus. Everything that is bright or a lempus is a shumpus. Polly is a shumpus. Polly is bitter or a shumpus.
+
+
+
+Expected answer: Polly is a lempus. Polly is bright or a lempus. Everything that is bright or a lempus is a shumpus. Polly is a shumpus. Polly is bitter or a shumpus.
+n: 21, (beta prior) mean: 0.043478260869565216, 95% lower bound: 0.0011501475265735751, 95% upper bound: 0.15437251281557457, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is kind or a jompus is a grimpus. Polly is a jompus. Prove: Polly is feisty or a grimpus.
+A: Polly is a jompus. Polly is kind or a jompus. Everything that is kind or a jompus is a grimpus. Polly is a grimpus. Polly is feisty or a grimpus.
+
+Q: Everything that is fast or a wumpus is a brimpus. Wren is a wumpus. Prove: Wren is earthy or a brimpus.
+A: Wren is a wumpus. Wren is fast or a wumpus. Everything that is fast or a wumpus is a brimpus. Wren is a brimpus. Wren is earthy or a brimpus.
+
+Q: Everything that is opaque or a jompus is an impus. Polly is a jompus. Prove: Polly is temperate or an impus.
+A: Polly is a jompus. Polly is opaque or a jompus. Everything that is opaque or a jompus is an impus. Polly is an impus. Polly is temperate or an impus.
+
+Q: Everything that is melodic or a numpus is a shumpus. Max is a numpus. Prove: Max is windy or a shumpus.
+A:
+
+Predicted answer: Max is a numpus. Max is melodic or a numpus. Everything that is melodic or a numpus is a shumpus. Max is a shumpus. Max is windy or a shumpus.
+
+
+
+Expected answer: Max is a numpus. Max is melodic or a numpus. Everything that is melodic or a numpus is a shumpus. Max is a shumpus. Max is windy or a shumpus.
+n: 22, (beta prior) mean: 0.041666666666666664, 95% lower bound: 0.0011001686304414995, 95% upper bound: 0.14818512891522437, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is large or a lempus is a rompus. Sally is a lempus. Prove: Sally is slow or a rompus.
+A: Sally is a lempus. Sally is large or a lempus. Everything that is large or a lempus is a rompus. Sally is a rompus. Sally is slow or a rompus.
+
+Q: Everything that is spicy or a numpus is a jompus. Wren is a numpus. Prove: Wren is melodic or a jompus.
+A: Wren is a numpus. Wren is spicy or a numpus. Everything that is spicy or a numpus is a jompus. Wren is a jompus. Wren is melodic or a jompus.
+
+Q: Everything that is large or a jompus is a yumpus. Stella is a jompus. Prove: Stella is melodic or a yumpus.
+A: Stella is a jompus. Stella is large or a jompus. Everything that is large or a jompus is a yumpus. Stella is a yumpus. Stella is melodic or a yumpus.
+
+Q: Everything that is fruity or a vumpus is a rompus. Max is a vumpus. Prove: Max is opaque or a rompus.
+A:
+
+Predicted answer: Max is a vumpus. Max is fruity or a vumpus. Everything that is fruity or a vumpus is a rompus. Max is a rompus. Max is opaque or a rompus.
+
+
+
+Expected answer: Max is a vumpus. Max is fruity or a vumpus. Everything that is fruity or a vumpus is a rompus. Max is a rompus. Max is opaque or a rompus.
+n: 23, (beta prior) mean: 0.04, 95% lower bound: 0.0010543524454697472, 95% upper bound: 0.14247359772252563, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is amenable or a lorpus is a wumpus. Max is a lorpus. Prove: Max is liquid or a wumpus.
+A: Max is a lorpus. Max is amenable or a lorpus. Everything that is amenable or a lorpus is a wumpus. Max is a wumpus. Max is liquid or a wumpus.
+
+Q: Everything that is liquid or a sterpus is a vumpus. Wren is a sterpus. Prove: Wren is fruity or a vumpus.
+A: Wren is a sterpus. Wren is liquid or a sterpus. Everything that is liquid or a sterpus is a vumpus. Wren is a vumpus. Wren is fruity or a vumpus.
+
+Q: Everything that is earthy or a yumpus is a dumpus. Alex is a yumpus. Prove: Alex is overcast or a dumpus.
+A: Alex is a yumpus. Alex is earthy or a yumpus. Everything that is earthy or a yumpus is a dumpus. Alex is a dumpus. Alex is overcast or a dumpus.
+
+Q: Everything that is hot or a tumpus is a sterpus. Alex is a tumpus. Prove: Alex is loud or a sterpus.
+A:
+
+Predicted answer: Alex is a tumpus. Alex is hot or a tumpus. Everything that is hot or a tumpus is a sterpus. Alex is a sterpus.
+A: Alex is loud or a sterpus. Alex is hot or a tumpus. Everything that is hot or a tumpus is a sterpus. Alex is a sterpus.
+A: Alex is loud or a sterpus. Alex is hot or a tumpus. Alex is a tumpus. Alex is a sterpus.
+A: Alex is loud or a sterpus. Alex is hot or a tumpus. Alex is a tumpus. Alex is a sterpus.
+A: Alex is loud or a sterpus. Alex is hot or a tumpus. Alex is a sterpus.
+A: Alex is loud or a sterpus. Alex is hot or a tumpus. Alex is a sterpus.
+A: Alex is loud or a sterpus. Alex is hot or a tumpus. Alex is a sterpus.
+A: Alex is loud or a sterpus. Alex is hot or a tumpus. Alex is a sterpus.
+A: Alex is loud or a sterpus
+
+Expected answer: Alex is a tumpus. Alex is hot or a tumpus. Everything that is hot or a tumpus is a sterpus. Alex is a sterpus. Alex is loud or a sterpus.
+n: 24, (beta prior) mean: 0.038461538461538464, 95% lower bound: 0.0010121996993108446, 95% upper bound: 0.1371851715307125, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is discordant or a lorpus is a lempus. Polly is a lorpus. Prove: Polly is temperate or a lempus.
+A: Polly is a lorpus. Polly is discordant or a lorpus. Everything that is discordant or a lorpus is a lempus. Polly is a lempus. Polly is temperate or a lempus.
+
+Q: Everything that is large or a grimpus is a wumpus. Sam is a grimpus. Prove: Sam is sweet or a wumpus.
+A: Sam is a grimpus. Sam is large or a grimpus. Everything that is large or a grimpus is a wumpus. Sam is a wumpus. Sam is sweet or a wumpus.
+
+Q: Everything that is bright or a jompus is a lorpus. Stella is a jompus. Prove: Stella is slow or a lorpus.
+A: Stella is a jompus. Stella is bright or a jompus. Everything that is bright or a jompus is a lorpus. Stella is a lorpus. Stella is slow or a lorpus.
+
+Q: Everything that is slow or an impus is a gorpus. Fae is an impus. Prove: Fae is dull or a gorpus.
+A:
+
+Predicted answer: Fae is an impus. Fae is slow or an impus. Everything that is slow or an impus is a gorpus. Fae is a gorpus. Fae is dull or a gorpus.
+
+
+
+Expected answer: Fae is an impus. Fae is slow or an impus. Everything that is slow or an impus is a gorpus. Fae is a gorpus. Fae is dull or a gorpus.
+n: 25, (beta prior) mean: 0.037037037037037035, 95% lower bound: 0.0009732878933350303, 95% upper bound: 0.1322746044977541, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is floral or an impus is a lorpus. Alex is an impus. Prove: Alex is discordant or a lorpus.
+A: Alex is an impus. Alex is floral or an impus. Everything that is floral or an impus is a lorpus. Alex is a lorpus. Alex is discordant or a lorpus.
+
+Q: Everything that is large or a dumpus is a jompus. Sam is a dumpus. Prove: Sam is slow or a jompus.
+A: Sam is a dumpus. Sam is large or a dumpus. Everything that is large or a dumpus is a jompus. Sam is a jompus. Sam is slow or a jompus.
+
+Q: Everything that is dull or a sterpus is a zumpus. Rex is a sterpus. Prove: Rex is temperate or a zumpus.
+A: Rex is a sterpus. Rex is dull or a sterpus. Everything that is dull or a sterpus is a zumpus. Rex is a zumpus. Rex is temperate or a zumpus.
+
+Q: Everything that is nervous or a rompus is a lorpus. Alex is a rompus. Prove: Alex is large or a lorpus.
+A:
+
+Predicted answer: Alex is a rompus. Alex is nervous or a rompus. Everything that is nervous or a rompus is a lorpus. Alex is a lorpus.
+
+
+Expected answer: Alex is a rompus. Alex is nervous or a rompus. Everything that is nervous or a rompus is a lorpus. Alex is a lorpus. Alex is large or a lorpus.
+n: 26, (beta prior) mean: 0.03571428571428571, 95% lower bound: 0.000937257091944707, 95% upper bound: 0.12770286761543234, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is cold or a sterpus is a vumpus. Sally is a sterpus. Prove: Sally is floral or a vumpus.
+A: Sally is a sterpus. Sally is cold or a sterpus. Everything that is cold or a sterpus is a vumpus. Sally is a vumpus. Sally is floral or a vumpus.
+
+Q: Everything that is dull or a numpus is a jompus. Sally is a numpus. Prove: Sally is blue or a jompus.
+A: Sally is a numpus. Sally is dull or a numpus. Everything that is dull or a numpus is a jompus. Sally is a jompus. Sally is blue or a jompus.
+
+Q: Everything that is bright or a brimpus is a yumpus. Sam is a brimpus. Prove: Sam is spicy or a yumpus.
+A: Sam is a brimpus. Sam is bright or a brimpus. Everything that is bright or a brimpus is a yumpus. Sam is a yumpus. Sam is spicy or a yumpus.
+
+Q: Everything that is windy or a sterpus is a zumpus. Stella is a sterpus. Prove: Stella is fruity or a zumpus.
+A:
+
+Predicted answer: Stella is a sterpus. Stella is windy or a sterpus. Everything that is windy or a sterpus is a zumpus. Stella is a zumpus. Stella is fruity or a zumpus.
+
+
+
+Expected answer: Stella is a sterpus. Stella is windy or a sterpus. Everything that is windy or a sterpus is a zumpus. Stella is a zumpus. Stella is fruity or a zumpus.
+n: 27, (beta prior) mean: 0.034482758620689655, 95% lower bound: 0.0009037987556580578, 95% upper bound: 0.12343611850026381, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is shy or a rompus is a yumpus. Sally is a rompus. Prove: Sally is opaque or a yumpus.
+A: Sally is a rompus. Sally is shy or a rompus. Everything that is shy or a rompus is a yumpus. Sally is a yumpus. Sally is opaque or a yumpus.
+
+Q: Everything that is opaque or a lorpus is a numpus. Wren is a lorpus. Prove: Wren is sour or a numpus.
+A: Wren is a lorpus. Wren is opaque or a lorpus. Everything that is opaque or a lorpus is a numpus. Wren is a numpus. Wren is sour or a numpus.
+
+Q: Everything that is bright or a vumpus is a yumpus. Sally is a vumpus. Prove: Sally is mean or a yumpus.
+A: Sally is a vumpus. Sally is bright or a vumpus. Everything that is bright or a vumpus is a yumpus. Sally is a yumpus. Sally is mean or a yumpus.
+
+Q: Everything that is slow or a zumpus is a jompus. Sally is a zumpus. Prove: Sally is floral or a jompus.
+A:
+
+Predicted answer: Sally is a zumpus. Sally is slow or a zumpus. Everything that is slow or a zumpus is a jompus. Sally is a jompus. Sally is floral or a jompus.
+
+
+Expected answer: Sally is a zumpus. Sally is slow or a zumpus. Everything that is slow or a zumpus is a jompus. Sally is a jompus. Sally is floral or a jompus.
+n: 28, (beta prior) mean: 0.03333333333333333, 95% lower bound: 0.000872646883579922, 95% upper bound: 0.11944486906950269, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is slow or a zumpus is a lempus. Rex is a zumpus. Prove: Rex is nervous or a lempus.
+A: Rex is a zumpus. Rex is slow or a zumpus. Everything that is slow or a zumpus is a lempus. Rex is a lempus. Rex is nervous or a lempus.
+
+Q: Everything that is large or a vumpus is a jompus. Sally is a vumpus. Prove: Sally is angry or a jompus.
+A: Sally is a vumpus. Sally is large or a vumpus. Everything that is large or a vumpus is a jompus. Sally is a jompus. Sally is angry or a jompus.
+
+Q: Everything that is earthy or a rompus is a tumpus. Alex is a rompus. Prove: Alex is happy or a tumpus.
+A: Alex is a rompus. Alex is earthy or a rompus. Everything that is earthy or a rompus is a tumpus. Alex is a tumpus. Alex is happy or a tumpus.
+
+Q: Everything that is temperate or a grimpus is a sterpus. Stella is a grimpus. Prove: Stella is dull or a sterpus.
+A:
+
+Predicted answer: Stella is a grimpus. Stella is temperate or a grimpus. Everything that is temperate or a grimpus is a sterpus. Stella is a sterpus. Stella is dull or a sterpus.
+
+
+
+Expected answer: Stella is a grimpus. Stella is temperate or a grimpus. Everything that is temperate or a grimpus is a sterpus. Stella is a sterpus. Stella is dull or a sterpus.
+n: 29, (beta prior) mean: 0.03225806451612903, 95% lower bound: 0.0008435709266304788, 95% upper bound: 0.11570330822202779, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is opaque or a rompus is a shumpus. Fae is a rompus. Prove: Fae is shy or a shumpus.
+A: Fae is a rompus. Fae is opaque or a rompus. Everything that is opaque or a rompus is a shumpus. Fae is a shumpus. Fae is shy or a shumpus.
+
+Q: Everything that is fast or a lorpus is a sterpus. Fae is a lorpus. Prove: Fae is red or a sterpus.
+A: Fae is a lorpus. Fae is fast or a lorpus. Everything that is fast or a lorpus is a sterpus. Fae is a sterpus. Fae is red or a sterpus.
+
+Q: Everything that is kind or a jompus is an impus. Sally is a jompus. Prove: Sally is melodic or an impus.
+A: Sally is a jompus. Sally is kind or a jompus. Everything that is kind or a jompus is an impus. Sally is an impus. Sally is melodic or an impus.
+
+Q: Everything that is kind or a tumpus is a sterpus. Polly is a tumpus. Prove: Polly is red or a sterpus.
+A:
+
+Predicted answer: Polly is a tumpus. Polly is kind or a tumpus. Everything that is kind or a tumpus is a sterpus. Polly is a sterpus. Polly is red or a sterpus.
+
+
+Expected answer: Polly is a tumpus. Polly is kind or a tumpus. Everything that is kind or a tumpus is a sterpus. Polly is a sterpus. Polly is red or a sterpus.
+n: 30, (beta prior) mean: 0.03125, 95% lower bound: 0.000816370071846613, 95% upper bound: 0.11218874692236996, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is loud or a tumpus is a lempus. Polly is a tumpus. Prove: Polly is floral or a lempus.
+A: Polly is a tumpus. Polly is loud or a tumpus. Everything that is loud or a tumpus is a lempus. Polly is a lempus. Polly is floral or a lempus.
+
+Q: Everything that is happy or a tumpus is a yumpus. Polly is a tumpus. Prove: Polly is small or a yumpus.
+A: Polly is a tumpus. Polly is happy or a tumpus. Everything that is happy or a tumpus is a yumpus. Polly is a yumpus. Polly is small or a yumpus.
+
+Q: Everything that is rainy or a numpus is a vumpus. Rex is a numpus. Prove: Rex is floral or a vumpus.
+A: Rex is a numpus. Rex is rainy or a numpus. Everything that is rainy or a numpus is a vumpus. Rex is a vumpus. Rex is floral or a vumpus.
+
+Q: Everything that is moderate or a shumpus is a numpus. Wren is a shumpus. Prove: Wren is brown or a numpus.
+A:
+
+Predicted answer: Wren is a shumpus. Wren is moderate or a shumpus. Everything that is moderate or a shumpus is a numpus. Wren is a numpus. Wren is brown or a numpus.
+
+
+
+Expected answer: Wren is a shumpus. Wren is moderate or a shumpus. Everything that is moderate or a shumpus is a numpus. Wren is a numpus. Wren is brown or a numpus.
+n: 31, (beta prior) mean: 0.030303030303030304, 95% lower bound: 0.0007908685979525573, 95% upper bound: 0.10888116067935288, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is moderate or a zumpus is a numpus. Polly is a zumpus. Prove: Polly is melodic or a numpus.
+A: Polly is a zumpus. Polly is moderate or a zumpus. Everything that is moderate or a zumpus is a numpus. Polly is a numpus. Polly is melodic or a numpus.
+
+Q: Everything that is sour or a tumpus is a yumpus. Stella is a tumpus. Prove: Stella is kind or a yumpus.
+A: Stella is a tumpus. Stella is sour or a tumpus. Everything that is sour or a tumpus is a yumpus. Stella is a yumpus. Stella is kind or a yumpus.
+
+Q: Everything that is luminous or a dumpus is a numpus. Fae is a dumpus. Prove: Fae is hot or a numpus.
+A: Fae is a dumpus. Fae is luminous or a dumpus. Everything that is luminous or a dumpus is a numpus. Fae is a numpus. Fae is hot or a numpus.
+
+Q: Everything that is dull or a shumpus is a wumpus. Sam is a shumpus. Prove: Sam is liquid or a wumpus.
+A:
+
+Predicted answer: Sam is a shumpus. Sam is dull or a shumpus. Everything that is dull or a shumpus is a wumpus. Sam is a wumpus. Sam is liquid or a wumpus.
+
+
+Expected answer: Sam is a shumpus. Sam is dull or a shumpus. Everything that is dull or a shumpus is a wumpus. Sam is a wumpus. Sam is liquid or a wumpus.
+n: 32, (beta prior) mean: 0.029411764705882353, 95% lower bound: 0.0007669120750481087, 95% upper bound: 0.10576281007457927, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is transparent or an impus is a sterpus. Wren is an impus. Prove: Wren is overcast or a sterpus.
+A: Wren is an impus. Wren is transparent or an impus. Everything that is transparent or an impus is a sterpus. Wren is a sterpus. Wren is overcast or a sterpus.
+
+Q: Everything that is fruity or a numpus is a wumpus. Polly is a numpus. Prove: Polly is wooden or a wumpus.
+A: Polly is a numpus. Polly is fruity or a numpus. Everything that is fruity or a numpus is a wumpus. Polly is a wumpus. Polly is wooden or a wumpus.
+
+Q: Everything that is mean or a yumpus is a lorpus. Rex is a yumpus. Prove: Rex is metallic or a lorpus.
+A: Rex is a yumpus. Rex is mean or a yumpus. Everything that is mean or a yumpus is a lorpus. Rex is a lorpus. Rex is metallic or a lorpus.
+
+Q: Everything that is brown or a dumpus is a yumpus. Sam is a dumpus. Prove: Sam is melodic or a yumpus.
+A:
+
+Predicted answer: Sam is a dumpus. Sam is brown or a dumpus. Everything that is brown or a dumpus is a yumpus. Sam is a yumpus. Sam is melodic or a yumpus.
+
+
+
+Expected answer: Sam is a dumpus. Sam is brown or a dumpus. Everything that is brown or a dumpus is a yumpus. Sam is a yumpus. Sam is melodic or a yumpus.
+n: 33, (beta prior) mean: 0.02857142857142857, 95% lower bound: 0.0007443642346902604, 95% upper bound: 0.10281792425901262, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is large or a dumpus is a wumpus. Sam is a dumpus. Prove: Sam is opaque or a wumpus.
+A: Sam is a dumpus. Sam is large or a dumpus. Everything that is large or a dumpus is a wumpus. Sam is a wumpus. Sam is opaque or a wumpus.
+
+Q: Everything that is happy or a wumpus is a numpus. Alex is a wumpus. Prove: Alex is windy or a numpus.
+A: Alex is a wumpus. Alex is happy or a wumpus. Everything that is happy or a wumpus is a numpus. Alex is a numpus. Alex is windy or a numpus.
+
+Q: Everything that is metallic or a tumpus is an impus. Sam is a tumpus. Prove: Sam is mean or an impus.
+A: Sam is a tumpus. Sam is metallic or a tumpus. Everything that is metallic or a tumpus is an impus. Sam is an impus. Sam is mean or an impus.
+
+Q: Everything that is rainy or a numpus is a sterpus. Sally is a numpus. Prove: Sally is fruity or a sterpus.
+A:
+
+Predicted answer: Sally is a numpus. Sally is rainy or a numpus. Everything that is rainy or a numpus is a sterpus. Sally is a sterpus. Sally is fruity or a sterpus.
+
+
+
+Expected answer: Sally is a numpus. Sally is rainy or a numpus. Everything that is rainy or a numpus is a sterpus. Sally is a sterpus. Sally is fruity or a sterpus.
+n: 34, (beta prior) mean: 0.027777777777777776, 95% lower bound: 0.0007231043763380947, 95% upper bound: 0.10003243557210503, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is melodic or a jompus is a zumpus. Stella is a jompus. Prove: Stella is bright or a zumpus.
+A: Stella is a jompus. Stella is melodic or a jompus. Everything that is melodic or a jompus is a zumpus. Stella is a zumpus. Stella is bright or a zumpus.
+
+Q: Everything that is melodic or a vumpus is a lempus. Stella is a vumpus. Prove: Stella is rainy or a lempus.
+A: Stella is a vumpus. Stella is melodic or a vumpus. Everything that is melodic or a vumpus is a lempus. Stella is a lempus. Stella is rainy or a lempus.
+
+Q: Everything that is cold or a shumpus is an impus. Rex is a shumpus. Prove: Rex is windy or an impus.
+A: Rex is a shumpus. Rex is cold or a shumpus. Everything that is cold or a shumpus is an impus. Rex is an impus. Rex is windy or an impus.
+
+Q: Everything that is cold or a numpus is a tumpus. Sam is a numpus. Prove: Sam is kind or a tumpus.
+A:
+
+Predicted answer: Sam is a numpus. Sam is cold or a numpus. Everything that is cold or a numpus is a tumpus. Sam is a tumpus. Sam is kind or a tumpus.
+
+
+
+Expected answer: Sam is a numpus. Sam is cold or a numpus. Everything that is cold or a numpus is a tumpus. Sam is a tumpus. Sam is kind or a tumpus.
+n: 35, (beta prior) mean: 0.02702702702702703, 95% lower bound: 0.0007030252059047799, 95% upper bound: 0.09739375591449193, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is large or a grimpus is a jompus. Alex is a grimpus. Prove: Alex is earthy or a jompus.
+A: Alex is a grimpus. Alex is large or a grimpus. Everything that is large or a grimpus is a jompus. Alex is a jompus. Alex is earthy or a jompus.
+
+Q: Everything that is fast or a shumpus is a wumpus. Fae is a shumpus. Prove: Fae is metallic or a wumpus.
+A: Fae is a shumpus. Fae is fast or a shumpus. Everything that is fast or a shumpus is a wumpus. Fae is a wumpus. Fae is metallic or a wumpus.
+
+Q: Everything that is bitter or a tumpus is a numpus. Max is a tumpus. Prove: Max is snowy or a numpus.
+A: Max is a tumpus. Max is bitter or a tumpus. Everything that is bitter or a tumpus is a numpus. Max is a numpus. Max is snowy or a numpus.
+
+Q: Everything that is opaque or a sterpus is a brimpus. Sally is a sterpus. Prove: Sally is small or a brimpus.
+A:
+
+Predicted answer: Sally is a sterpus. Sally is opaque or a sterpus. Everything that is opaque or a sterpus is a brimpus. Sally is a brimpus. Sally is small or a brimpus.
+
+
+
+Expected answer: Sally is a sterpus. Sally is opaque or a sterpus. Everything that is opaque or a sterpus is a brimpus. Sally is a brimpus. Sally is small or a brimpus.
+n: 36, (beta prior) mean: 0.02631578947368421, 95% lower bound: 0.0006840310246946647, 95% upper bound: 0.09489058741498986, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is amenable or a wumpus is a vumpus. Max is a wumpus. Prove: Max is red or a vumpus.
+A: Max is a wumpus. Max is amenable or a wumpus. Everything that is amenable or a wumpus is a vumpus. Max is a vumpus. Max is red or a vumpus.
+
+Q: Everything that is orange or a grimpus is a dumpus. Alex is a grimpus. Prove: Alex is earthy or a dumpus.
+A: Alex is a grimpus. Alex is orange or a grimpus. Everything that is orange or a grimpus is a dumpus. Alex is a dumpus. Alex is earthy or a dumpus.
+
+Q: Everything that is opaque or an impus is a grimpus. Polly is an impus. Prove: Polly is mean or a grimpus.
+A: Polly is an impus. Polly is opaque or an impus. Everything that is opaque or an impus is a grimpus. Polly is a grimpus. Polly is mean or a grimpus.
+
+Q: Everything that is temperate or a brimpus is a gorpus. Fae is a brimpus. Prove: Fae is small or a gorpus.
+A:
+
+Predicted answer: Fae is a brimpus. Fae is temperate or a brimpus. Everything that is temperate or a brimpus is a gorpus. Fae is a gorpus. Fae is small or a gorpus.
+
+
+
+Expected answer: Fae is a brimpus. Fae is temperate or a brimpus. Everything that is temperate or a brimpus is a gorpus. Fae is a gorpus. Fae is small or a gorpus.
+n: 37, (beta prior) mean: 0.02564102564102564, 95% lower bound: 0.0006660362042023656, 95% upper bound: 0.09251276141587828, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is floral or a shumpus is a vumpus. Fae is a shumpus. Prove: Fae is mean or a vumpus.
+A: Fae is a shumpus. Fae is floral or a shumpus. Everything that is floral or a shumpus is a vumpus. Fae is a vumpus. Fae is mean or a vumpus.
+
+Q: Everything that is transparent or a tumpus is a zumpus. Alex is a tumpus. Prove: Alex is large or a zumpus.
+A: Alex is a tumpus. Alex is transparent or a tumpus. Everything that is transparent or a tumpus is a zumpus. Alex is a zumpus. Alex is large or a zumpus.
+
+Q: Everything that is snowy or a tumpus is a rompus. Alex is a tumpus. Prove: Alex is earthy or a rompus.
+A: Alex is a tumpus. Alex is snowy or a tumpus. Everything that is snowy or a tumpus is a rompus. Alex is a rompus. Alex is earthy or a rompus.
+
+Q: Everything that is red or a yumpus is a numpus. Stella is a yumpus. Prove: Stella is earthy or a numpus.
+A:
+
+Predicted answer: Stella is a yumpus. Stella is red or a yumpus. Everything that is red or a yumpus is a numpus. Stella is a numpus. Stella is earthy or a numpus.
+
+
+
+Expected answer: Stella is a yumpus. Stella is red or a yumpus. Everything that is red or a yumpus is a numpus. Stella is a numpus. Stella is earthy or a numpus.
+n: 38, (beta prior) mean: 0.025, 95% lower bound: 0.0006489638954819451, 95% upper bound: 0.0902511009603343, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is dull or an impus is a lempus. Max is an impus. Prove: Max is slow or a lempus.
+A: Max is an impus. Max is dull or an impus. Everything that is dull or an impus is a lempus. Max is a lempus. Max is slow or a lempus.
+
+Q: Everything that is loud or a numpus is a brimpus. Sam is a numpus. Prove: Sam is snowy or a brimpus.
+A: Sam is a numpus. Sam is loud or a numpus. Everything that is loud or a numpus is a brimpus. Sam is a brimpus. Sam is snowy or a brimpus.
+
+Q: Everything that is floral or a gorpus is an impus. Stella is a gorpus. Prove: Stella is transparent or an impus.
+A: Stella is a gorpus. Stella is floral or a gorpus. Everything that is floral or a gorpus is an impus. Stella is an impus. Stella is transparent or an impus.
+
+Q: Everything that is brown or a dumpus is a lempus. Fae is a dumpus. Prove: Fae is feisty or a lempus.
+A:
+
+Predicted answer: Fae is a dumpus. Fae is brown or a dumpus. Everything that is brown or a dumpus is a lempus. Fae is a lempus. Fae is feisty or a lempus.
+
+
+
+Expected answer: Fae is a dumpus. Fae is brown or a dumpus. Everything that is brown or a dumpus is a lempus. Fae is a lempus. Fae is feisty or a lempus.
+n: 39, (beta prior) mean: 0.024390243902439025, 95% lower bound: 0.0006327449320494191, 95% upper bound: 0.08809730287880237, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is wooden or a grimpus is a yumpus. Sam is a grimpus. Prove: Sam is sweet or a yumpus.
+A: Sam is a grimpus. Sam is wooden or a grimpus. Everything that is wooden or a grimpus is a yumpus. Sam is a yumpus. Sam is sweet or a yumpus.
+
+Q: Everything that is melodic or a shumpus is a lorpus. Polly is a shumpus. Prove: Polly is transparent or a lorpus.
+A: Polly is a shumpus. Polly is melodic or a shumpus. Everything that is melodic or a shumpus is a lorpus. Polly is a lorpus. Polly is transparent or a lorpus.
+
+Q: Everything that is fruity or a gorpus is a rompus. Polly is a gorpus. Prove: Polly is large or a rompus.
+A: Polly is a gorpus. Polly is fruity or a gorpus. Everything that is fruity or a gorpus is a rompus. Polly is a rompus. Polly is large or a rompus.
+
+Q: Everything that is amenable or a shumpus is a rompus. Rex is a shumpus. Prove: Rex is spicy or a rompus.
+A:
+
+Predicted answer: Rex is a shumpus. Rex is amenable or a shumpus. Everything that is amenable or a shumpus is a rompus. Rex is a rompus. Rex is spicy or a rompus.
+
+
+
+Expected answer: Rex is a shumpus. Rex is amenable or a shumpus. Everything that is amenable or a shumpus is a rompus. Rex is a rompus. Rex is spicy or a rompus.
+n: 40, (beta prior) mean: 0.023809523809523808, 95% lower bound: 0.0006173168932865188, 95% upper bound: 0.08604383629402841, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is blue or a numpus is a shumpus. Max is a numpus. Prove: Max is hot or a shumpus.
+A: Max is a numpus. Max is blue or a numpus. Everything that is blue or a numpus is a shumpus. Max is a shumpus. Max is hot or a shumpus.
+
+Q: Everything that is temperate or a tumpus is a sterpus. Max is a tumpus. Prove: Max is sour or a sterpus.
+A: Max is a tumpus. Max is temperate or a tumpus. Everything that is temperate or a tumpus is a sterpus. Max is a sterpus. Max is sour or a sterpus.
+
+Q: Everything that is hot or a wumpus is a brimpus. Sam is a wumpus. Prove: Sam is bright or a brimpus.
+A: Sam is a wumpus. Sam is hot or a wumpus. Everything that is hot or a wumpus is a brimpus. Sam is a brimpus. Sam is bright or a brimpus.
+
+Q: Everything that is kind or a numpus is a dumpus. Max is a numpus. Prove: Max is windy or a dumpus.
+A:
+
+Predicted answer: Max is a numpus. Max is kind or a numpus. Everything that is kind or a numpus is a dumpus. Max is a dumpus. Max is windy or a dumpus.
+
+
+
+Expected answer: Max is a numpus. Max is kind or a numpus. Everything that is kind or a numpus is a dumpus. Max is a dumpus. Max is windy or a dumpus.
+n: 41, (beta prior) mean: 0.023255813953488372, 95% lower bound: 0.0006026233016035741, 95% upper bound: 0.08408385494035514, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is bright or a wumpus is a grimpus. Alex is a wumpus. Prove: Alex is liquid or a grimpus.
+A: Alex is a wumpus. Alex is bright or a wumpus. Everything that is bright or a wumpus is a grimpus. Alex is a grimpus. Alex is liquid or a grimpus.
+
+Q: Everything that is liquid or a wumpus is a shumpus. Wren is a wumpus. Prove: Wren is large or a shumpus.
+A: Wren is a wumpus. Wren is liquid or a wumpus. Everything that is liquid or a wumpus is a shumpus. Wren is a shumpus. Wren is large or a shumpus.
+
+Q: Everything that is transparent or a brimpus is a lempus. Polly is a brimpus. Prove: Polly is small or a lempus.
+A: Polly is a brimpus. Polly is transparent or a brimpus. Everything that is transparent or a brimpus is a lempus. Polly is a lempus. Polly is small or a lempus.
+
+Q: Everything that is earthy or a dumpus is a lempus. Alex is a dumpus. Prove: Alex is large or a lempus.
+A:
+
+Predicted answer: Alex is a dumpus. Alex is earthy or a dumpus. Everything that is earthy or a dumpus is a lempus. Alex is a lempus. Alex is large or a lempus.
+
+
+
+Expected answer: Alex is a dumpus. Alex is earthy or a dumpus. Everything that is earthy or a dumpus is a lempus. Alex is a lempus. Alex is large or a lempus.
+n: 42, (beta prior) mean: 0.022727272727272728, 95% lower bound: 0.0005886129315931823, 95% upper bound: 0.08221112115413848, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is mean or a vumpus is a brimpus. Max is a vumpus. Prove: Max is nervous or a brimpus.
+A: Max is a vumpus. Max is mean or a vumpus. Everything that is mean or a vumpus is a brimpus. Max is a brimpus. Max is nervous or a brimpus.
+
+Q: Everything that is luminous or a tumpus is a wumpus. Rex is a tumpus. Prove: Rex is dull or a wumpus.
+A: Rex is a tumpus. Rex is luminous or a tumpus. Everything that is luminous or a tumpus is a wumpus. Rex is a wumpus. Rex is dull or a wumpus.
+
+Q: Everything that is sour or a gorpus is a numpus. Max is a gorpus. Prove: Max is fruity or a numpus.
+A: Max is a gorpus. Max is sour or a gorpus. Everything that is sour or a gorpus is a numpus. Max is a numpus. Max is fruity or a numpus.
+
+Q: Everything that is luminous or a lorpus is a wumpus. Fae is a lorpus. Prove: Fae is spicy or a wumpus.
+A:
+
+Predicted answer: Fae is a lorpus. Fae is luminous or a lorpus. Everything that is luminous or a lorpus is a wumpus. Fae is a wumpus. Fae is spicy or a wumpus.
+
+
+
+Expected answer: Fae is a lorpus. Fae is luminous or a lorpus. Everything that is luminous or a lorpus is a wumpus. Fae is a wumpus. Fae is spicy or a wumpus.
+n: 43, (beta prior) mean: 0.022222222222222223, 95% lower bound: 0.0005752392133630829, 95% upper bound: 0.08041993976357587, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is brown or a zumpus is a brimpus. Wren is a zumpus. Prove: Wren is fast or a brimpus.
+A: Wren is a zumpus. Wren is brown or a zumpus. Everything that is brown or a zumpus is a brimpus. Wren is a brimpus. Wren is fast or a brimpus.
+
+Q: Everything that is muffled or a wumpus is a tumpus. Stella is a wumpus. Prove: Stella is snowy or a tumpus.
+A: Stella is a wumpus. Stella is muffled or a wumpus. Everything that is muffled or a wumpus is a tumpus. Stella is a tumpus. Stella is snowy or a tumpus.
+
+Q: Everything that is windy or a yumpus is an impus. Sally is a yumpus. Prove: Sally is hot or an impus.
+A: Sally is a yumpus. Sally is windy or a yumpus. Everything that is windy or a yumpus is an impus. Sally is an impus. Sally is hot or an impus.
+
+Q: Everything that is aggressive or a grimpus is a lempus. Stella is a grimpus. Prove: Stella is temperate or a lempus.
+A:
+
+Predicted answer: Stella is a grimpus. Stella is aggressive or a grimpus. Everything that is aggressive or a grimpus is a lempus. Stella is a lempus. Stella is temperate or a lempus.
+
+
+Expected answer: Stella is a grimpus. Stella is aggressive or a grimpus. Everything that is aggressive or a grimpus is a lempus. Stella is a lempus. Stella is temperate or a lempus.
+n: 44, (beta prior) mean: 0.021739130434782608, 95% lower bound: 0.0005624597154022577, 95% upper bound: 0.07870510040684303, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is transparent or a numpus is an impus. Wren is a numpus. Prove: Wren is fruity or an impus.
+A: Wren is a numpus. Wren is transparent or a numpus. Everything that is transparent or a numpus is an impus. Wren is an impus. Wren is fruity or an impus.
+
+Q: Everything that is cold or a sterpus is a wumpus. Stella is a sterpus. Prove: Stella is overcast or a wumpus.
+A: Stella is a sterpus. Stella is cold or a sterpus. Everything that is cold or a sterpus is a wumpus. Stella is a wumpus. Stella is overcast or a wumpus.
+
+Q: Everything that is floral or a wumpus is an impus. Stella is a wumpus. Prove: Stella is muffled or an impus.
+A: Stella is a wumpus. Stella is floral or a wumpus. Everything that is floral or a wumpus is an impus. Stella is an impus. Stella is muffled or an impus.
+
+Q: Everything that is aggressive or a tumpus is a zumpus. Polly is a tumpus. Prove: Polly is overcast or a zumpus.
+A:
+
+Predicted answer: Polly is a tumpus. Polly is aggressive or a tumpus. Everything that is aggressive or a tumpus is a zumpus. Polly is a zumpus. Polly is overcast or a zumpus.
+
+
+
+Expected answer: Polly is a tumpus. Polly is aggressive or a tumpus. Everything that is aggressive or a tumpus is a zumpus. Polly is a zumpus. Polly is overcast or a zumpus.
+n: 45, (beta prior) mean: 0.02127659574468085, 95% lower bound: 0.0005502356948807102, 95% upper bound: 0.07706182705190072, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is angry or a zumpus is an impus. Wren is a zumpus. Prove: Wren is small or an impus.
+A: Wren is a zumpus. Wren is angry or a zumpus. Everything that is angry or a zumpus is an impus. Wren is an impus. Wren is small or an impus.
+
+Q: Everything that is slow or a zumpus is a yumpus. Alex is a zumpus. Prove: Alex is hot or a yumpus.
+A: Alex is a zumpus. Alex is slow or a zumpus. Everything that is slow or a zumpus is a yumpus. Alex is a yumpus. Alex is hot or a yumpus.
+
+Q: Everything that is fruity or a yumpus is a zumpus. Stella is a yumpus. Prove: Stella is hot or a zumpus.
+A: Stella is a yumpus. Stella is fruity or a yumpus. Everything that is fruity or a yumpus is a zumpus. Stella is a zumpus. Stella is hot or a zumpus.
+
+Q: Everything that is opaque or a brimpus is a dumpus. Alex is a brimpus. Prove: Alex is small or a dumpus.
+A:
+
+Predicted answer: Alex is a brimpus. Alex is opaque or a brimpus. Everything that is opaque or a brimpus is a dumpus. Alex is a dumpus. Alex is small or a dumpus.
+
+
+
+Expected answer: Alex is a brimpus. Alex is opaque or a brimpus. Everything that is opaque or a brimpus is a dumpus. Alex is a dumpus. Alex is small or a dumpus.
+n: 46, (beta prior) mean: 0.020833333333333332, 95% lower bound: 0.0005385317053423145, 95% upper bound: 0.07548573369105858, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is brown or a shumpus is a dumpus. Sam is a shumpus. Prove: Sam is amenable or a dumpus.
+A: Sam is a shumpus. Sam is brown or a shumpus. Everything that is brown or a shumpus is a dumpus. Sam is a dumpus. Sam is amenable or a dumpus.
+
+Q: Everything that is transparent or a brimpus is a lempus. Stella is a brimpus. Prove: Stella is melodic or a lempus.
+A: Stella is a brimpus. Stella is transparent or a brimpus. Everything that is transparent or a brimpus is a lempus. Stella is a lempus. Stella is melodic or a lempus.
+
+Q: Everything that is bright or a wumpus is a dumpus. Sally is a wumpus. Prove: Sally is large or a dumpus.
+A: Sally is a wumpus. Sally is bright or a wumpus. Everything that is bright or a wumpus is a dumpus. Sally is a dumpus. Sally is large or a dumpus.
+
+Q: Everything that is melodic or a wumpus is a jompus. Rex is a wumpus. Prove: Rex is floral or a jompus.
+A:
+
+Predicted answer: Rex is a wumpus. Rex is melodic or a wumpus. Everything that is melodic or a wumpus is a jompus. Rex is a jompus. Rex is floral or a jompus.
+
+
+
+Expected answer: Rex is a wumpus. Rex is melodic or a wumpus. Everything that is melodic or a wumpus is a jompus. Rex is a jompus. Rex is floral or a jompus.
+n: 47, (beta prior) mean: 0.02040816326530612, 95% lower bound: 0.0005273152534231199, 95% upper bound: 0.0739727853472802, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is metallic or a tumpus is a wumpus. Stella is a tumpus. Prove: Stella is mean or a wumpus.
+A: Stella is a tumpus. Stella is metallic or a tumpus. Everything that is metallic or a tumpus is a wumpus. Stella is a wumpus. Stella is mean or a wumpus.
+
+Q: Everything that is brown or a dumpus is a yumpus. Sam is a dumpus. Prove: Sam is spicy or a yumpus.
+A: Sam is a dumpus. Sam is brown or a dumpus. Everything that is brown or a dumpus is a yumpus. Sam is a yumpus. Sam is spicy or a yumpus.
+
+Q: Everything that is luminous or a wumpus is a lorpus. Stella is a wumpus. Prove: Stella is overcast or a lorpus.
+A: Stella is a wumpus. Stella is luminous or a wumpus. Everything that is luminous or a wumpus is a lorpus. Stella is a lorpus. Stella is overcast or a lorpus.
+
+Q: Everything that is floral or a jompus is a rompus. Sally is a jompus. Prove: Sally is overcast or a rompus.
+A:
+
+Predicted answer: Sally is a jompus. Sally is floral or a jompus. Everything that is floral or a jompus is a rompus. Sally is a rompus. Sally is overcast or a rompus.
+
+
+Expected answer: Sally is a jompus. Sally is floral or a jompus. Everything that is floral or a jompus is a rompus. Sally is a rompus. Sally is overcast or a rompus.
+n: 48, (beta prior) mean: 0.02, 95% lower bound: 0.0005165564975932862, 95% upper bound: 0.07251926366427738, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is aggressive or a wumpus is a shumpus. Fae is a wumpus. Prove: Fae is dull or a shumpus.
+A: Fae is a wumpus. Fae is aggressive or a wumpus. Everything that is aggressive or a wumpus is a shumpus. Fae is a shumpus. Fae is dull or a shumpus.
+
+Q: Everything that is liquid or a numpus is a lorpus. Rex is a numpus. Prove: Rex is fruity or a lorpus.
+A: Rex is a numpus. Rex is liquid or a numpus. Everything that is liquid or a numpus is a lorpus. Rex is a lorpus. Rex is fruity or a lorpus.
+
+Q: Everything that is temperate or a sterpus is a lempus. Fae is a sterpus. Prove: Fae is happy or a lempus.
+A: Fae is a sterpus. Fae is temperate or a sterpus. Everything that is temperate or a sterpus is a lempus. Fae is a lempus. Fae is happy or a lempus.
+
+Q: Everything that is shy or a tumpus is a grimpus. Max is a tumpus. Prove: Max is small or a grimpus.
+A:
+
+Predicted answer: Max is a tumpus. Max is shy or a tumpus. Everything that is shy or a tumpus is a grimpus. Max is a grimpus. Max is small or a grimpus.
+
+
+
+Expected answer: Max is a tumpus. Max is shy or a tumpus. Everything that is shy or a tumpus is a grimpus. Max is a grimpus. Max is small or a grimpus.
+n: 49, (beta prior) mean: 0.0196078431372549, 95% lower bound: 0.0005062279830408291, 95% upper bound: 0.07112173646419764, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is large or a wumpus is a grimpus. Wren is a wumpus. Prove: Wren is temperate or a grimpus.
+A: Wren is a wumpus. Wren is large or a wumpus. Everything that is large or a wumpus is a grimpus. Wren is a grimpus. Wren is temperate or a grimpus.
+
+Q: Everything that is dull or a yumpus is a jompus. Rex is a yumpus. Prove: Rex is red or a jompus.
+A: Rex is a yumpus. Rex is dull or a yumpus. Everything that is dull or a yumpus is a jompus. Rex is a jompus. Rex is red or a jompus.
+
+Q: Everything that is loud or a brimpus is a numpus. Sam is a brimpus. Prove: Sam is brown or a numpus.
+A: Sam is a brimpus. Sam is loud or a brimpus. Everything that is loud or a brimpus is a numpus. Sam is a numpus. Sam is brown or a numpus.
+
+Q: Everything that is temperate or a yumpus is a vumpus. Stella is a yumpus. Prove: Stella is loud or a vumpus.
+A:
+
+Predicted answer: Stella is a yumpus. Stella is temperate or a yumpus. Everything that is temperate or a yumpus is a vumpus. Stella is a vumpus. Stella is loud or a vumpus.
+
+
+
+Expected answer: Stella is a yumpus. Stella is temperate or a yumpus. Everything that is temperate or a yumpus is a vumpus. Stella is a vumpus. Stella is loud or a vumpus.
+n: 50, (beta prior) mean: 0.019230769230769232, 95% lower bound: 0.000496304407737771, 95% upper bound: 0.06977703074953864, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is happy or a lorpus is a shumpus. Alex is a lorpus. Prove: Alex is small or a shumpus.
+A: Alex is a lorpus. Alex is happy or a lorpus. Everything that is happy or a lorpus is a shumpus. Alex is a shumpus. Alex is small or a shumpus.
+
+Q: Everything that is mean or a yumpus is a gorpus. Rex is a yumpus. Prove: Rex is large or a gorpus.
+A: Rex is a yumpus. Rex is mean or a yumpus. Everything that is mean or a yumpus is a gorpus. Rex is a gorpus. Rex is large or a gorpus.
+
+Q: Everything that is shy or a rompus is a jompus. Max is a rompus. Prove: Max is dull or a jompus.
+A: Max is a rompus. Max is shy or a rompus. Everything that is shy or a rompus is a jompus. Max is a jompus. Max is dull or a jompus.
+
+Q: Everything that is transparent or a yumpus is a vumpus. Stella is a yumpus. Prove: Stella is bitter or a vumpus.
+A:
+
+Predicted answer: Stella is a yumpus. Stella is transparent or a yumpus. Everything that is transparent or a yumpus is a vumpus. Stella is a vumpus. Stella is bitter or a vumpus.
+
+
+
+Expected answer: Stella is a yumpus. Stella is transparent or a yumpus. Everything that is transparent or a yumpus is a vumpus. Stella is a vumpus. Stella is bitter or a vumpus.
+n: 51, (beta prior) mean: 0.018867924528301886, 95% lower bound: 0.000486762415492083, 95% upper bound: 0.06848220870331956, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is bright or a lempus is a zumpus. Fae is a lempus. Prove: Fae is luminous or a zumpus.
+A: Fae is a lempus. Fae is bright or a lempus. Everything that is bright or a lempus is a zumpus. Fae is a zumpus. Fae is luminous or a zumpus.
+
+Q: Everything that is nervous or a grimpus is an impus. Alex is a grimpus. Prove: Alex is floral or an impus.
+A: Alex is a grimpus. Alex is nervous or a grimpus. Everything that is nervous or a grimpus is an impus. Alex is an impus. Alex is floral or an impus.
+
+Q: Everything that is liquid or a lorpus is a shumpus. Sally is a lorpus. Prove: Sally is nervous or a shumpus.
+A: Sally is a lorpus. Sally is liquid or a lorpus. Everything that is liquid or a lorpus is a shumpus. Sally is a shumpus. Sally is nervous or a shumpus.
+
+Q: Everything that is earthy or a jompus is a tumpus. Alex is a jompus. Prove: Alex is amenable or a tumpus.
+A:
+
+Predicted answer: Alex is a jompus. Alex is earthy or a jompus. Everything that is earthy or a jompus is a tumpus. Alex is a tumpus. Alex is amenable or a tumpus.
+
+
+Expected answer: Alex is a jompus. Alex is earthy or a jompus. Everything that is earthy or a jompus is a tumpus. Alex is a tumpus. Alex is amenable or a tumpus.
+n: 52, (beta prior) mean: 0.018518518518518517, 95% lower bound: 0.00047758041242211286, 95% upper bound: 0.06723454630630114, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is earthy or a dumpus is an impus. Wren is a dumpus. Prove: Wren is luminous or an impus.
+A: Wren is a dumpus. Wren is earthy or a dumpus. Everything that is earthy or a dumpus is an impus. Wren is an impus. Wren is luminous or an impus.
+
+Q: Everything that is transparent or an impus is a rompus. Sam is an impus. Prove: Sam is liquid or a rompus.
+A: Sam is an impus. Sam is transparent or an impus. Everything that is transparent or an impus is a rompus. Sam is a rompus. Sam is liquid or a rompus.
+
+Q: Everything that is bitter or a shumpus is a wumpus. Max is a shumpus. Prove: Max is liquid or a wumpus.
+A: Max is a shumpus. Max is bitter or a shumpus. Everything that is bitter or a shumpus is a wumpus. Max is a wumpus. Max is liquid or a wumpus.
+
+Q: Everything that is floral or a grimpus is a dumpus. Fae is a grimpus. Prove: Fae is moderate or a dumpus.
+A:
+
+Predicted answer: Fae is a grimpus. Fae is floral or a grimpus. Everything that is floral or a grimpus is a dumpus. Fae is a dumpus.
+
+
+Expected answer: Fae is a grimpus. Fae is floral or a grimpus. Everything that is floral or a grimpus is a dumpus. Fae is a dumpus. Fae is moderate or a dumpus.
+n: 53, (beta prior) mean: 0.01818181818181818, 95% lower bound: 0.0004687384038179604, 95% upper bound: 0.06603151424442182, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is fast or a numpus is a tumpus. Stella is a numpus. Prove: Stella is sour or a tumpus.
+A: Stella is a numpus. Stella is fast or a numpus. Everything that is fast or a numpus is a tumpus. Stella is a tumpus. Stella is sour or a tumpus.
+
+Q: Everything that is transparent or a lempus is a gorpus. Wren is a lempus. Prove: Wren is metallic or a gorpus.
+A: Wren is a lempus. Wren is transparent or a lempus. Everything that is transparent or a lempus is a gorpus. Wren is a gorpus. Wren is metallic or a gorpus.
+
+Q: Everything that is liquid or a dumpus is a gorpus. Polly is a dumpus. Prove: Polly is mean or a gorpus.
+A: Polly is a dumpus. Polly is liquid or a dumpus. Everything that is liquid or a dumpus is a gorpus. Polly is a gorpus. Polly is mean or a gorpus.
+
+Q: Everything that is sunny or a grimpus is a rompus. Rex is a grimpus. Prove: Rex is red or a rompus.
+A:
+
+Predicted answer: Rex is a grimpus. Rex is sunny or a grimpus. Everything that is sunny or a grimpus is a rompus. Rex is a rompus. Rex is red or a rompus.
+
+
+
+Expected answer: Rex is a grimpus. Rex is sunny or a grimpus. Everything that is sunny or a grimpus is a rompus. Rex is a rompus. Rex is red or a rompus.
+n: 54, (beta prior) mean: 0.017857142857142856, 95% lower bound: 0.0004602178487956972, 95% upper bound: 0.06487076082542459, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is shy or a grimpus is a gorpus. Sam is a grimpus. Prove: Sam is melodic or a gorpus.
+A: Sam is a grimpus. Sam is shy or a grimpus. Everything that is shy or a grimpus is a gorpus. Sam is a gorpus. Sam is melodic or a gorpus.
+
+Q: Everything that is temperate or a lempus is a sterpus. Stella is a lempus. Prove: Stella is feisty or a sterpus.
+A: Stella is a lempus. Stella is temperate or a lempus. Everything that is temperate or a lempus is a sterpus. Stella is a sterpus. Stella is feisty or a sterpus.
+
+Q: Everything that is overcast or a zumpus is a vumpus. Stella is a zumpus. Prove: Stella is sour or a vumpus.
+A: Stella is a zumpus. Stella is overcast or a zumpus. Everything that is overcast or a zumpus is a vumpus. Stella is a vumpus. Stella is sour or a vumpus.
+
+Q: Everything that is large or a zumpus is a gorpus. Stella is a zumpus. Prove: Stella is discordant or a gorpus.
+A:
+
+Predicted answer: Stella is a zumpus. Stella is large or a zumpus. Everything that is large or a zumpus is a gorpus. Stella is a gorpus. Stella is discordant or a gorpus.
+
+
+
+Expected answer: Stella is a zumpus. Stella is large or a zumpus. Everything that is large or a zumpus is a gorpus. Stella is a gorpus. Stella is discordant or a gorpus.
+n: 55, (beta prior) mean: 0.017543859649122806, 95% lower bound: 0.00045200153052082546, 95% upper bound: 0.06375009666236217, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is melodic or an impus is a lorpus. Stella is an impus. Prove: Stella is orange or a lorpus.
+A: Stella is an impus. Stella is melodic or an impus. Everything that is melodic or an impus is a lorpus. Stella is a lorpus. Stella is orange or a lorpus.
+
+Q: Everything that is hot or a numpus is a lempus. Sam is a numpus. Prove: Sam is moderate or a lempus.
+A: Sam is a numpus. Sam is hot or a numpus. Everything that is hot or a numpus is a lempus. Sam is a lempus. Sam is moderate or a lempus.
+
+Q: Everything that is hot or a rompus is a brimpus. Rex is a rompus. Prove: Rex is moderate or a brimpus.
+A: Rex is a rompus. Rex is hot or a rompus. Everything that is hot or a rompus is a brimpus. Rex is a brimpus. Rex is moderate or a brimpus.
+
+Q: Everything that is slow or a brimpus is a jompus. Stella is a brimpus. Prove: Stella is windy or a jompus.
+A:
+
+Predicted answer: Stella is a brimpus. Stella is slow or a brimpus. Everything that is slow or a brimpus is a jompus. Stella is a jompus. Stella is windy or a jompus.
+
+
+
+Expected answer: Stella is a brimpus. Stella is slow or a brimpus. Everything that is slow or a brimpus is a jompus. Stella is a jompus. Stella is windy or a jompus.
+n: 56, (beta prior) mean: 0.017241379310344827, 95% lower bound: 0.00044407344008939235, 95% upper bound: 0.06266748091448493, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is hot or a yumpus is a shumpus. Alex is a yumpus. Prove: Alex is bright or a shumpus.
+A: Alex is a yumpus. Alex is hot or a yumpus. Everything that is hot or a yumpus is a shumpus. Alex is a shumpus. Alex is bright or a shumpus.
+
+Q: Everything that is red or a rompus is a sterpus. Stella is a rompus. Prove: Stella is melodic or a sterpus.
+A: Stella is a rompus. Stella is red or a rompus. Everything that is red or a rompus is a sterpus. Stella is a sterpus. Stella is melodic or a sterpus.
+
+Q: Everything that is fruity or an impus is a lempus. Rex is an impus. Prove: Rex is shy or a lempus.
+A: Rex is an impus. Rex is fruity or an impus. Everything that is fruity or an impus is a lempus. Rex is a lempus. Rex is shy or a lempus.
+
+Q: Everything that is orange or a vumpus is a rompus. Sam is a vumpus. Prove: Sam is sunny or a rompus.
+A:
+
+Predicted answer: Sam is a vumpus. Sam is orange or a vumpus. Everything that is orange or a vumpus is a rompus. Sam is a rompus. Sam is sunny or a rompus.
+
+
+
+Expected answer: Sam is a vumpus. Sam is orange or a vumpus. Everything that is orange or a vumpus is a rompus. Sam is a rompus. Sam is sunny or a rompus.
+n: 57, (beta prior) mean: 0.01694915254237288, 95% lower bound: 0.0004364186724187789, 95% upper bound: 0.061621008903919826, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is small or a sterpus is a gorpus. Stella is a sterpus. Prove: Stella is brown or a gorpus.
+A: Stella is a sterpus. Stella is small or a sterpus. Everything that is small or a sterpus is a gorpus. Stella is a gorpus. Stella is brown or a gorpus.
+
+Q: Everything that is blue or a lempus is a wumpus. Polly is a lempus. Prove: Polly is slow or a wumpus.
+A: Polly is a lempus. Polly is blue or a lempus. Everything that is blue or a lempus is a wumpus. Polly is a wumpus. Polly is slow or a wumpus.
+
+Q: Everything that is cold or a sterpus is a lorpus. Max is a sterpus. Prove: Max is moderate or a lorpus.
+A: Max is a sterpus. Max is cold or a sterpus. Everything that is cold or a sterpus is a lorpus. Max is a lorpus. Max is moderate or a lorpus.
+
+Q: Everything that is opaque or a zumpus is a wumpus. Polly is a zumpus. Prove: Polly is small or a wumpus.
+A:
+
+Predicted answer: Polly is a zumpus. Polly is opaque or a zumpus. Everything that is opaque or a zumpus is a wumpus. Polly is a wumpus. Polly is small or a wumpus.
+
+
+
+Expected answer: Polly is a zumpus. Polly is opaque or a zumpus. Everything that is opaque or a zumpus is a wumpus. Polly is a wumpus. Polly is small or a wumpus.
+n: 58, (beta prior) mean: 0.016666666666666666, 95% lower bound: 0.0004290233327235946, 95% upper bound: 0.060608900950339835, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is temperate or a numpus is a brimpus. Polly is a numpus. Prove: Polly is dull or a brimpus.
+A: Polly is a numpus. Polly is temperate or a numpus. Everything that is temperate or a numpus is a brimpus. Polly is a brimpus. Polly is dull or a brimpus.
+
+Q: Everything that is opaque or a jompus is a shumpus. Wren is a jompus. Prove: Wren is shy or a shumpus.
+A: Wren is a jompus. Wren is opaque or a jompus. Everything that is opaque or a jompus is a shumpus. Wren is a shumpus. Wren is shy or a shumpus.
+
+Q: Everything that is opaque or a shumpus is a grimpus. Fae is a shumpus. Prove: Fae is spicy or a grimpus.
+A: Fae is a shumpus. Fae is opaque or a shumpus. Everything that is opaque or a shumpus is a grimpus. Fae is a grimpus. Fae is spicy or a grimpus.
+
+Q: Everything that is opaque or a shumpus is a sterpus. Alex is a shumpus. Prove: Alex is sour or a sterpus.
+A:
+
+Predicted answer: Alex is a shumpus. Alex is opaque or a shumpus. Everything that is opaque or a shumpus is a sterpus. Alex is a sterpus. Alex is sour or a sterpus.
+
+
+
+Expected answer: Alex is a shumpus. Alex is opaque or a shumpus. Everything that is opaque or a shumpus is a sterpus. Alex is a sterpus. Alex is sour or a sterpus.
+n: 59, (beta prior) mean: 0.01639344262295082, 95% lower bound: 0.00042187445234200883, 95% upper bound: 0.059629492286166916, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is floral or an impus is a numpus. Wren is an impus. Prove: Wren is red or a numpus.
+A: Wren is an impus. Wren is floral or an impus. Everything that is floral or an impus is a numpus. Wren is a numpus. Wren is red or a numpus.
+
+Q: Everything that is aggressive or a dumpus is a gorpus. Fae is a dumpus. Prove: Fae is temperate or a gorpus.
+A: Fae is a dumpus. Fae is aggressive or a dumpus. Everything that is aggressive or a dumpus is a gorpus. Fae is a gorpus. Fae is temperate or a gorpus.
+
+Q: Everything that is nervous or a shumpus is a tumpus. Rex is a shumpus. Prove: Rex is blue or a tumpus.
+A: Rex is a shumpus. Rex is nervous or a shumpus. Everything that is nervous or a shumpus is a tumpus. Rex is a tumpus. Rex is blue or a tumpus.
+
+Q: Everything that is melodic or a dumpus is a rompus. Max is a dumpus. Prove: Max is windy or a rompus.
+A:
+
+Predicted answer: Max is a dumpus. Max is melodic or a dumpus. Everything that is melodic or a dumpus is a rompus. Max is a rompus. Max is windy or a rompus.
+
+
+
+Expected answer: Max is a dumpus. Max is melodic or a dumpus. Everything that is melodic or a dumpus is a rompus. Max is a rompus. Max is windy or a rompus.
+n: 60, (beta prior) mean: 0.016129032258064516, 95% lower bound: 0.00041495991283974033, 95% upper bound: 0.05868122393229261, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is moderate or a rompus is a numpus. Wren is a rompus. Prove: Wren is cold or a numpus.
+A: Wren is a rompus. Wren is moderate or a rompus. Everything that is moderate or a rompus is a numpus. Wren is a numpus. Wren is cold or a numpus.
+
+Q: Everything that is liquid or a rompus is a lempus. Max is a rompus. Prove: Max is melodic or a lempus.
+A: Max is a rompus. Max is liquid or a rompus. Everything that is liquid or a rompus is a lempus. Max is a lempus. Max is melodic or a lempus.
+
+Q: Everything that is transparent or a tumpus is a lorpus. Polly is a tumpus. Prove: Polly is nervous or a lorpus.
+A: Polly is a tumpus. Polly is transparent or a tumpus. Everything that is transparent or a tumpus is a lorpus. Polly is a lorpus. Polly is nervous or a lorpus.
+
+Q: Everything that is blue or a vumpus is a sterpus. Sam is a vumpus. Prove: Sam is kind or a sterpus.
+A:
+
+Predicted answer: Sam is a vumpus. Sam is blue or a vumpus. Everything that is blue or a vumpus is a sterpus. Sam is a sterpus. Sam is kind or a sterpus.
+
+
+
+Expected answer: Sam is a vumpus. Sam is blue or a vumpus. Everything that is blue or a vumpus is a sterpus. Sam is a sterpus. Sam is kind or a sterpus.
+n: 61, (beta prior) mean: 0.015873015873015872, 95% lower bound: 0.00040826837745732233, 95% upper bound: 0.05776263442929093, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is blue or a wumpus is a vumpus. Sally is a wumpus. Prove: Sally is mean or a vumpus.
+A: Sally is a wumpus. Sally is blue or a wumpus. Everything that is blue or a wumpus is a vumpus. Sally is a vumpus. Sally is mean or a vumpus.
+
+Q: Everything that is orange or a gorpus is a zumpus. Rex is a gorpus. Prove: Rex is discordant or a zumpus.
+A: Rex is a gorpus. Rex is orange or a gorpus. Everything that is orange or a gorpus is a zumpus. Rex is a zumpus. Rex is discordant or a zumpus.
+
+Q: Everything that is bright or a lempus is a grimpus. Max is a lempus. Prove: Max is spicy or a grimpus.
+A: Max is a lempus. Max is bright or a lempus. Everything that is bright or a lempus is a grimpus. Max is a grimpus. Max is spicy or a grimpus.
+
+Q: Everything that is melodic or a yumpus is a wumpus. Wren is a yumpus. Prove: Wren is large or a wumpus.
+A:
+
+Predicted answer: Wren is a yumpus. Wren is melodic or a yumpus. Everything that is melodic or a yumpus is a wumpus. Wren is a wumpus. Wren is large or a wumpus.
+
+
+
+Expected answer: Wren is a yumpus. Wren is melodic or a yumpus. Everything that is melodic or a yumpus is a wumpus. Wren is a wumpus. Wren is large or a wumpus.
+n: 62, (beta prior) mean: 0.015625, 95% lower bound: 0.00040178922908488707, 95% upper bound: 0.05687235233201624, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is snowy or a dumpus is a tumpus. Rex is a dumpus. Prove: Rex is temperate or a tumpus.
+A: Rex is a dumpus. Rex is snowy or a dumpus. Everything that is snowy or a dumpus is a tumpus. Rex is a tumpus. Rex is temperate or a tumpus.
+
+Q: Everything that is bright or a lempus is a jompus. Polly is a lempus. Prove: Polly is fruity or a jompus.
+A: Polly is a lempus. Polly is bright or a lempus. Everything that is bright or a lempus is a jompus. Polly is a jompus. Polly is fruity or a jompus.
+
+Q: Everything that is metallic or a dumpus is a numpus. Wren is a dumpus. Prove: Wren is aggressive or a numpus.
+A: Wren is a dumpus. Wren is metallic or a dumpus. Everything that is metallic or a dumpus is a numpus. Wren is a numpus. Wren is aggressive or a numpus.
+
+Q: Everything that is feisty or a rompus is an impus. Fae is a rompus. Prove: Fae is bitter or an impus.
+A:
+
+Predicted answer: Fae is a rompus. Fae is feisty or a rompus. Everything that is feisty or a rompus is an impus. Fae is an impus. Fae is bitter or an impus.
+
+
+
+Expected answer: Fae is a rompus. Fae is feisty or a rompus. Everything that is feisty or a rompus is an impus. Fae is an impus. Fae is bitter or an impus.
+n: 63, (beta prior) mean: 0.015384615384615385, 95% lower bound: 0.00039551251405066395, 95% upper bound: 0.05600908938663656, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is brown or a dumpus is a brimpus. Wren is a dumpus. Prove: Wren is fast or a brimpus.
+A: Wren is a dumpus. Wren is brown or a dumpus. Everything that is brown or a dumpus is a brimpus. Wren is a brimpus. Wren is fast or a brimpus.
+
+Q: Everything that is nervous or a dumpus is a zumpus. Wren is a dumpus. Prove: Wren is sunny or a zumpus.
+A: Wren is a dumpus. Wren is nervous or a dumpus. Everything that is nervous or a dumpus is a zumpus. Wren is a zumpus. Wren is sunny or a zumpus.
+
+Q: Everything that is bright or a jompus is a gorpus. Max is a jompus. Prove: Max is liquid or a gorpus.
+A: Max is a jompus. Max is bright or a jompus. Everything that is bright or a jompus is a gorpus. Max is a gorpus. Max is liquid or a gorpus.
+
+Q: Everything that is amenable or a tumpus is a dumpus. Sally is a tumpus. Prove: Sally is moderate or a dumpus.
+A:
+
+Predicted answer: Sally is a tumpus. Sally is amenable or a tumpus. Everything that is amenable or a tumpus is a dumpus. Sally is a dumpus.
+
+
+Expected answer: Sally is a tumpus. Sally is amenable or a tumpus. Everything that is amenable or a tumpus is a dumpus. Sally is a dumpus. Sally is moderate or a dumpus.
+n: 64, (beta prior) mean: 0.015151515151515152, 95% lower bound: 0.0003894288910972206, 95% upper bound: 0.055171634318813376, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is blue or a numpus is a vumpus. Rex is a numpus. Prove: Rex is slow or a vumpus.
+A: Rex is a numpus. Rex is blue or a numpus. Everything that is blue or a numpus is a vumpus. Rex is a vumpus. Rex is slow or a vumpus.
+
+Q: Everything that is discordant or a tumpus is a vumpus. Sally is a tumpus. Prove: Sally is dull or a vumpus.
+A: Sally is a tumpus. Sally is discordant or a tumpus. Everything that is discordant or a tumpus is a vumpus. Sally is a vumpus. Sally is dull or a vumpus.
+
+Q: Everything that is temperate or a rompus is a gorpus. Polly is a rompus. Prove: Polly is wooden or a gorpus.
+A: Polly is a rompus. Polly is temperate or a rompus. Everything that is temperate or a rompus is a gorpus. Polly is a gorpus. Polly is wooden or a gorpus.
+
+Q: Everything that is dull or an impus is a shumpus. Alex is an impus. Prove: Alex is orange or a shumpus.
+A:
+
+Predicted answer: Alex is an impus. Alex is dull or an impus. Everything that is dull or an impus is a shumpus. Alex is a shumpus. Alex is orange or a shumpus.
+
+
+
+Expected answer: Alex is an impus. Alex is dull or an impus. Everything that is dull or an impus is a shumpus. Alex is a shumpus. Alex is orange or a shumpus.
+n: 65, (beta prior) mean: 0.014925373134328358, 95% lower bound: 0.00038352958499533773, 95% upper bound: 0.054358847170121974, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is aggressive or a rompus is a jompus. Sally is a rompus. Prove: Sally is bright or a jompus.
+A: Sally is a rompus. Sally is aggressive or a rompus. Everything that is aggressive or a rompus is a jompus. Sally is a jompus. Sally is bright or a jompus.
+
+Q: Everything that is temperate or a numpus is a jompus. Alex is a numpus. Prove: Alex is metallic or a jompus.
+A: Alex is a numpus. Alex is temperate or a numpus. Everything that is temperate or a numpus is a jompus. Alex is a jompus. Alex is metallic or a jompus.
+
+Q: Everything that is slow or a gorpus is a jompus. Rex is a gorpus. Prove: Rex is opaque or a jompus.
+A: Rex is a gorpus. Rex is slow or a gorpus. Everything that is slow or a gorpus is a jompus. Rex is a jompus. Rex is opaque or a jompus.
+
+Q: Everything that is temperate or a brimpus is a yumpus. Rex is a brimpus. Prove: Rex is slow or a yumpus.
+A:
+
+Predicted answer: Rex is a brimpus. Rex is temperate or a brimpus. Everything that is temperate or a brimpus is a yumpus. Rex is a yumpus. Rex is slow or a yumpus.
+
+
+
+Expected answer: Rex is a brimpus. Rex is temperate or a brimpus. Everything that is temperate or a brimpus is a yumpus. Rex is a yumpus. Rex is slow or a yumpus.
+n: 66, (beta prior) mean: 0.014705882352941176, 95% lower bound: 0.00037780634431108036, 95% upper bound: 0.053569654127096765, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is sunny or a numpus is a yumpus. Alex is a numpus. Prove: Alex is small or a yumpus.
+A: Alex is a numpus. Alex is sunny or a numpus. Everything that is sunny or a numpus is a yumpus. Alex is a yumpus. Alex is small or a yumpus.
+
+Q: Everything that is sunny or a lorpus is a lempus. Fae is a lorpus. Prove: Fae is slow or a lempus.
+A: Fae is a lorpus. Fae is sunny or a lorpus. Everything that is sunny or a lorpus is a lempus. Fae is a lempus. Fae is slow or a lempus.
+
+Q: Everything that is large or a sterpus is a grimpus. Sally is a sterpus. Prove: Sally is muffled or a grimpus.
+A: Sally is a sterpus. Sally is large or a sterpus. Everything that is large or a sterpus is a grimpus. Sally is a grimpus. Sally is muffled or a grimpus.
+
+Q: Everything that is fast or a zumpus is a wumpus. Stella is a zumpus. Prove: Stella is overcast or a wumpus.
+A:
+
+Predicted answer: Stella is a zumpus. Stella is fast or a zumpus. Everything that is fast or a zumpus is a wumpus. Stella is a wumpus. Stella is muffled or a wumpus.
+
+
+
+Expected answer: Stella is a zumpus. Stella is fast or a zumpus. Everything that is fast or a zumpus is a wumpus. Stella is a wumpus. Stella is overcast or a wumpus.
+n: 67, (beta prior) mean: 0.014492753623188406, 95% lower bound: 0.00037225140289861013, 95% upper bound: 0.05280304279363979, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is orange or a gorpus is a jompus. Stella is a gorpus. Prove: Stella is slow or a jompus.
+A: Stella is a gorpus. Stella is orange or a gorpus. Everything that is orange or a gorpus is a jompus. Stella is a jompus. Stella is slow or a jompus.
+
+Q: Everything that is feisty or a rompus is a dumpus. Fae is a rompus. Prove: Fae is blue or a dumpus.
+A: Fae is a rompus. Fae is feisty or a rompus. Everything that is feisty or a rompus is a dumpus. Fae is a dumpus. Fae is blue or a dumpus.
+
+Q: Everything that is hot or a rompus is a tumpus. Wren is a rompus. Prove: Wren is large or a tumpus.
+A: Wren is a rompus. Wren is hot or a rompus. Everything that is hot or a rompus is a tumpus. Wren is a tumpus. Wren is large or a tumpus.
+
+Q: Everything that is muffled or a yumpus is a shumpus. Fae is a yumpus. Prove: Fae is feisty or a shumpus.
+A:
+
+Predicted answer: Fae is a yumpus. Fae is muffled or a yumpus. Everything that is muffled or a yumpus is a shumpus. Fae is a shumpus. Fae is feisty or a shumpus.
+
+
+
+Expected answer: Fae is a yumpus. Fae is muffled or a yumpus. Everything that is muffled or a yumpus is a shumpus. Fae is a shumpus. Fae is feisty or a shumpus.
+n: 68, (beta prior) mean: 0.014285714285714285, 95% lower bound: 0.00036685744474083384, 95% upper bound: 0.05205805786307967, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is sunny or a grimpus is a jompus. Max is a grimpus. Prove: Max is brown or a jompus.
+A: Max is a grimpus. Max is sunny or a grimpus. Everything that is sunny or a grimpus is a jompus. Max is a jompus. Max is brown or a jompus.
+
+Q: Everything that is hot or a lorpus is a grimpus. Fae is a lorpus. Prove: Fae is slow or a grimpus.
+A: Fae is a lorpus. Fae is hot or a lorpus. Everything that is hot or a lorpus is a grimpus. Fae is a grimpus. Fae is slow or a grimpus.
+
+Q: Everything that is floral or a tumpus is a brimpus. Max is a tumpus. Prove: Max is aggressive or a brimpus.
+A: Max is a tumpus. Max is floral or a tumpus. Everything that is floral or a tumpus is a brimpus. Max is a brimpus. Max is aggressive or a brimpus.
+
+Q: Everything that is rainy or a lorpus is a rompus. Polly is a lorpus. Prove: Polly is cold or a rompus.
+A:
+
+Predicted answer: Polly is a lorpus. Polly is rainy or a lorpus. Everything that is rainy or a lorpus is a rompus. Polly is a rompus. Polly is cold or a rompus.
+
+
+
+Expected answer: Polly is a lorpus. Polly is rainy or a lorpus. Everything that is rainy or a lorpus is a rompus. Polly is a rompus. Polly is cold or a rompus.
+n: 69, (beta prior) mean: 0.014084507042253521, 95% lower bound: 0.00036161757180316575, 95% upper bound: 0.05133379715102374, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is moderate or a tumpus is a zumpus. Rex is a tumpus. Prove: Rex is red or a zumpus.
+A: Rex is a tumpus. Rex is moderate or a tumpus. Everything that is moderate or a tumpus is a zumpus. Rex is a zumpus. Rex is red or a zumpus.
+
+Q: Everything that is amenable or a lempus is a dumpus. Sally is a lempus. Prove: Sally is metallic or a dumpus.
+A: Sally is a lempus. Sally is amenable or a lempus. Everything that is amenable or a lempus is a dumpus. Sally is a dumpus. Sally is metallic or a dumpus.
+
+Q: Everything that is aggressive or a tumpus is a sterpus. Sally is a tumpus. Prove: Sally is opaque or a sterpus.
+A: Sally is a tumpus. Sally is aggressive or a tumpus. Everything that is aggressive or a tumpus is a sterpus. Sally is a sterpus. Sally is opaque or a sterpus.
+
+Q: Everything that is sweet or a gorpus is a vumpus. Stella is a gorpus. Prove: Stella is slow or a vumpus.
+A:
+
+Predicted answer: Stella is a gorpus. Stella is sweet or a gorpus. Everything that is sweet or a gorpus is a vumpus. Stella is a vumpus. Stella is slow or a vumpus.
+
+
+
+Expected answer: Stella is a gorpus. Stella is sweet or a gorpus. Everything that is sweet or a gorpus is a vumpus. Stella is a vumpus. Stella is slow or a vumpus.
+n: 70, (beta prior) mean: 0.013888888888888888, 95% lower bound: 0.0003565252746033891, 95% upper bound: 0.050629407954403696, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is angry or a sterpus is a numpus. Alex is a sterpus. Prove: Alex is sweet or a numpus.
+A: Alex is a sterpus. Alex is angry or a sterpus. Everything that is angry or a sterpus is a numpus. Alex is a numpus. Alex is sweet or a numpus.
+
+Q: Everything that is luminous or a vumpus is a rompus. Wren is a vumpus. Prove: Wren is nervous or a rompus.
+A: Wren is a vumpus. Wren is luminous or a vumpus. Everything that is luminous or a vumpus is a rompus. Wren is a rompus. Wren is nervous or a rompus.
+
+Q: Everything that is amenable or a tumpus is an impus. Wren is a tumpus. Prove: Wren is spicy or an impus.
+A: Wren is a tumpus. Wren is amenable or a tumpus. Everything that is amenable or a tumpus is an impus. Wren is an impus. Wren is spicy or an impus.
+
+Q: Everything that is muffled or a shumpus is a dumpus. Rex is a shumpus. Prove: Rex is moderate or a dumpus.
+A:
+
+Predicted answer: Rex is a shumpus. Rex is muffled or a shumpus. Everything that is muffled or a shumpus is an impus. Rex is an impus. Rex is moderate or a dumpus.
+
+
+
+Expected answer: Rex is a shumpus. Rex is muffled or a shumpus. Everything that is muffled or a shumpus is a dumpus. Rex is a dumpus. Rex is moderate or a dumpus.
+n: 71, (beta prior) mean: 0.0136986301369863, 95% lower bound: 0.0003515744052335976, 95% upper bound: 0.049944083705854674, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is small or an impus is a tumpus. Stella is an impus. Prove: Stella is transparent or a tumpus.
+A: Stella is an impus. Stella is small or an impus. Everything that is small or an impus is a tumpus. Stella is a tumpus. Stella is transparent or a tumpus.
+
+Q: Everything that is floral or a lorpus is a wumpus. Sally is a lorpus. Prove: Sally is dull or a wumpus.
+A: Sally is a lorpus. Sally is floral or a lorpus. Everything that is floral or a lorpus is a wumpus. Sally is a wumpus. Sally is dull or a wumpus.
+
+Q: Everything that is temperate or a dumpus is a shumpus. Wren is a dumpus. Prove: Wren is amenable or a shumpus.
+A: Wren is a dumpus. Wren is temperate or a dumpus. Everything that is temperate or a dumpus is a shumpus. Wren is a shumpus. Wren is amenable or a shumpus.
+
+Q: Everything that is slow or a rompus is a jompus. Stella is a rompus. Prove: Stella is bitter or a jompus.
+A:
+
+Predicted answer: Stella is a rompus. Stella is slow or a rompus. Everything that is slow or a rompus is a jompus. Stella is a jompus. Stella is bitter or a jompus.
+
+
+
+Expected answer: Stella is a rompus. Stella is slow or a rompus. Everything that is slow or a rompus is a jompus. Stella is a jompus. Stella is bitter or a jompus.
+n: 72, (beta prior) mean: 0.013513513513513514, 95% lower bound: 0.00034675915259912694, 95% upper bound: 0.04927706089585928, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is cold or a sterpus is a gorpus. Polly is a sterpus. Prove: Polly is large or a gorpus.
+A: Polly is a sterpus. Polly is cold or a sterpus. Everything that is cold or a sterpus is a gorpus. Polly is a gorpus. Polly is large or a gorpus.
+
+Q: Everything that is liquid or a jompus is a numpus. Wren is a jompus. Prove: Wren is sweet or a numpus.
+A: Wren is a jompus. Wren is liquid or a jompus. Everything that is liquid or a jompus is a numpus. Wren is a numpus. Wren is sweet or a numpus.
+
+Q: Everything that is red or a sterpus is a lorpus. Rex is a sterpus. Prove: Rex is discordant or a lorpus.
+A: Rex is a sterpus. Rex is red or a sterpus. Everything that is red or a sterpus is a lorpus. Rex is a lorpus. Rex is discordant or a lorpus.
+
+Q: Everything that is slow or a yumpus is a jompus. Rex is a yumpus. Prove: Rex is happy or a jompus.
+A:
+
+Predicted answer: Rex is a yumpus. Rex is slow or a yumpus. Everything that is slow or a yumpus is a jompus. Rex is a jompus. Rex is happy or a jompus.
+
+
+
+Expected answer: Rex is a yumpus. Rex is slow or a yumpus. Everything that is slow or a yumpus is a jompus. Rex is a jompus. Rex is happy or a jompus.
+n: 73, (beta prior) mean: 0.013333333333333334, 95% lower bound: 0.0003420740196647972, 95% upper bound: 0.04862761623798952, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is happy or a tumpus is a lempus. Rex is a tumpus. Prove: Rex is dull or a lempus.
+A: Rex is a tumpus. Rex is happy or a tumpus. Everything that is happy or a tumpus is a lempus. Rex is a lempus. Rex is dull or a lempus.
+
+Q: Everything that is cold or a yumpus is a numpus. Stella is a yumpus. Prove: Stella is rainy or a numpus.
+A: Stella is a yumpus. Stella is cold or a yumpus. Everything that is cold or a yumpus is a numpus. Stella is a numpus. Stella is rainy or a numpus.
+
+Q: Everything that is overcast or a sterpus is a lorpus. Alex is a sterpus. Prove: Alex is slow or a lorpus.
+A: Alex is a sterpus. Alex is overcast or a sterpus. Everything that is overcast or a sterpus is a lorpus. Alex is a lorpus. Alex is slow or a lorpus.
+
+Q: Everything that is temperate or a tumpus is a wumpus. Alex is a tumpus. Prove: Alex is discordant or a wumpus.
+A:
+
+Predicted answer: Alex is a tumpus. Alex is temperate or a tumpus. Everything that is temperate or a tumpus is a wumpus. Alex is a wumpus. Alex is discordant or a wumpus.
+
+
+
+Expected answer: Alex is a tumpus. Alex is temperate or a tumpus. Everything that is temperate or a tumpus is a wumpus. Alex is a wumpus. Alex is discordant or a wumpus.
+n: 74, (beta prior) mean: 0.013157894736842105, 95% lower bound: 0.00033751380252114845, 95% upper bound: 0.047995064055142256, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is sour or a numpus is a rompus. Rex is a numpus. Prove: Rex is melodic or a rompus.
+A: Rex is a numpus. Rex is sour or a numpus. Everything that is sour or a numpus is a rompus. Rex is a rompus. Rex is melodic or a rompus.
+
+Q: Everything that is overcast or a lorpus is a gorpus. Max is a lorpus. Prove: Max is red or a gorpus.
+A: Max is a lorpus. Max is overcast or a lorpus. Everything that is overcast or a lorpus is a gorpus. Max is a gorpus. Max is red or a gorpus.
+
+Q: Everything that is large or a brimpus is an impus. Sam is a brimpus. Prove: Sam is bright or an impus.
+A: Sam is a brimpus. Sam is large or a brimpus. Everything that is large or a brimpus is an impus. Sam is an impus. Sam is bright or an impus.
+
+Q: Everything that is blue or a lorpus is a zumpus. Polly is a lorpus. Prove: Polly is fruity or a zumpus.
+A:
+
+Predicted answer: Polly is a lorpus. Polly is blue or a lorpus. Everything that is blue or a lorpus is a zumpus. Polly is a zumpus. Polly is fruity or a zumpus.
+
+
+
+Expected answer: Polly is a lorpus. Polly is blue or a lorpus. Everything that is blue or a lorpus is a zumpus. Polly is a zumpus. Polly is fruity or a zumpus.
+n: 75, (beta prior) mean: 0.012987012987012988, 95% lower bound: 0.0003330735711030665, 95% upper bound: 0.047378753866930745, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is temperate or a vumpus is an impus. Max is a vumpus. Prove: Max is orange or an impus.
+A: Max is a vumpus. Max is temperate or a vumpus. Everything that is temperate or a vumpus is an impus. Max is an impus. Max is orange or an impus.
+
+Q: Everything that is transparent or a sterpus is a grimpus. Max is a sterpus. Prove: Max is cold or a grimpus.
+A: Max is a sterpus. Max is transparent or a sterpus. Everything that is transparent or a sterpus is a grimpus. Max is a grimpus. Max is cold or a grimpus.
+
+Q: Everything that is fast or a rompus is a brimpus. Wren is a rompus. Prove: Wren is aggressive or a brimpus.
+A: Wren is a rompus. Wren is fast or a rompus. Everything that is fast or a rompus is a brimpus. Wren is a brimpus. Wren is aggressive or a brimpus.
+
+Q: Everything that is moderate or a lempus is a tumpus. Alex is a lempus. Prove: Alex is nervous or a tumpus.
+A:
+
+Predicted answer: Alex is a lempus. Alex is moderate or a lempus. Everything that is moderate or a lempus is a tumpus. Alex is a tumpus. Alex is nervous or a tumpus.
+
+
+
+Expected answer: Alex is a lempus. Alex is moderate or a lempus. Everything that is moderate or a lempus is a tumpus. Alex is a tumpus. Alex is nervous or a tumpus.
+n: 76, (beta prior) mean: 0.01282051282051282, 95% lower bound: 0.0003287486514106065, 95% upper bound: 0.046778068160404106, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is earthy or a tumpus is a wumpus. Sally is a tumpus. Prove: Sally is dull or a wumpus.
+A: Sally is a tumpus. Sally is earthy or a tumpus. Everything that is earthy or a tumpus is a wumpus. Sally is a wumpus. Sally is dull or a wumpus.
+
+Q: Everything that is bright or a numpus is a rompus. Polly is a numpus. Prove: Polly is floral or a rompus.
+A: Polly is a numpus. Polly is bright or a numpus. Everything that is bright or a numpus is a rompus. Polly is a rompus. Polly is floral or a rompus.
+
+Q: Everything that is slow or a jompus is a dumpus. Alex is a jompus. Prove: Alex is nervous or a dumpus.
+A: Alex is a jompus. Alex is slow or a jompus. Everything that is slow or a jompus is a dumpus. Alex is a dumpus. Alex is nervous or a dumpus.
+
+Q: Everything that is moderate or a dumpus is a lorpus. Rex is a dumpus. Prove: Rex is small or a lorpus.
+A:
+
+Predicted answer: Rex is a dumpus. Rex is moderate or a dumpus. Everything that is moderate or a dumpus is a lorpus. Rex is a lorpus. Rex is small or a lorpus.
+
+
+
+Expected answer: Rex is a dumpus. Rex is moderate or a dumpus. Everything that is moderate or a dumpus is a lorpus. Rex is a lorpus. Rex is small or a lorpus.
+n: 77, (beta prior) mean: 0.012658227848101266, 95% lower bound: 0.0003245346090972235, 95% upper bound: 0.04619242032804872, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is muffled or a vumpus is a wumpus. Fae is a vumpus. Prove: Fae is nervous or a wumpus.
+A: Fae is a vumpus. Fae is muffled or a vumpus. Everything that is muffled or a vumpus is a wumpus. Fae is a wumpus. Fae is nervous or a wumpus.
+
+Q: Everything that is bright or an impus is a tumpus. Sam is an impus. Prove: Sam is transparent or a tumpus.
+A: Sam is an impus. Sam is bright or an impus. Everything that is bright or an impus is a tumpus. Sam is a tumpus. Sam is transparent or a tumpus.
+
+Q: Everything that is small or a dumpus is a gorpus. Sam is a dumpus. Prove: Sam is slow or a gorpus.
+A: Sam is a dumpus. Sam is small or a dumpus. Everything that is small or a dumpus is a gorpus. Sam is a gorpus. Sam is slow or a gorpus.
+
+Q: Everything that is muffled or a shumpus is a rompus. Wren is a shumpus. Prove: Wren is cold or a rompus.
+A:
+
+Predicted answer: Wren is a shumpus. Wren is muffled or a shumpus. Everything that is muffled or a shumpus is a rompus. Wren is a rompus. Wren is cold or a rompus.
+
+
+
+Expected answer: Wren is a shumpus. Wren is muffled or a shumpus. Everything that is muffled or a shumpus is a rompus. Wren is a rompus. Wren is cold or a rompus.
+n: 78, (beta prior) mean: 0.0125, 95% lower bound: 0.0003204272343042667, 95% upper bound: 0.045621252758611106, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is discordant or a dumpus is a yumpus. Polly is a dumpus. Prove: Polly is sour or a yumpus.
+A: Polly is a dumpus. Polly is discordant or a dumpus. Everything that is discordant or a dumpus is a yumpus. Polly is a yumpus. Polly is sour or a yumpus.
+
+Q: Everything that is loud or an impus is a gorpus. Stella is an impus. Prove: Stella is dull or a gorpus.
+A: Stella is an impus. Stella is loud or an impus. Everything that is loud or an impus is a gorpus. Stella is a gorpus. Stella is dull or a gorpus.
+
+Q: Everything that is spicy or a zumpus is a dumpus. Max is a zumpus. Prove: Max is dull or a dumpus.
+A: Max is a zumpus. Max is spicy or a zumpus. Everything that is spicy or a zumpus is a dumpus. Max is a dumpus. Max is dull or a dumpus.
+
+Q: Everything that is sour or a rompus is a dumpus. Sam is a rompus. Prove: Sam is small or a dumpus.
+A:
+
+Predicted answer: Sam is a rompus. Sam is sour or a rompus. Everything that is sour or a rompus is a dumpus. Sam is a dumpus. Sam is small or a dumpus.
+
+
+
+Expected answer: Sam is a rompus. Sam is sour or a rompus. Everything that is sour or a rompus is a dumpus. Sam is a dumpus. Sam is small or a dumpus.
+n: 79, (beta prior) mean: 0.012345679012345678, 95% lower bound: 0.00031642252763270626, 95% upper bound: 0.045064035067692285, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is small or a wumpus is a dumpus. Stella is a wumpus. Prove: Stella is dull or a dumpus.
+A: Stella is a wumpus. Stella is small or a wumpus. Everything that is small or a wumpus is a dumpus. Stella is a dumpus. Stella is dull or a dumpus.
+
+Q: Everything that is luminous or a lorpus is a jompus. Max is a lorpus. Prove: Max is melodic or a jompus.
+A: Max is a lorpus. Max is luminous or a lorpus. Everything that is luminous or a lorpus is a jompus. Max is a jompus. Max is melodic or a jompus.
+
+Q: Everything that is snowy or a vumpus is a grimpus. Stella is a vumpus. Prove: Stella is transparent or a grimpus.
+A: Stella is a vumpus. Stella is snowy or a vumpus. Everything that is snowy or a vumpus is a grimpus. Stella is a grimpus. Stella is transparent or a grimpus.
+
+Q: Everything that is temperate or a vumpus is a dumpus. Stella is a vumpus. Prove: Stella is moderate or a dumpus.
+A:
+
+Predicted answer: Stella is a vumpus. Stella is temperate or a vumpus. Everything that is temperate or a vumpus is a dumpus. Stella is a dumpus. Stella is moderate or a dumpus.
+
+
+
+Expected answer: Stella is a vumpus. Stella is temperate or a vumpus. Everything that is temperate or a vumpus is a dumpus. Stella is a dumpus. Stella is moderate or a dumpus.
+n: 80, (beta prior) mean: 0.012195121951219513, 95% lower bound: 0.00031251668715382954, 95% upper bound: 0.044520262456321735, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is bright or a jompus is a vumpus. Fae is a jompus. Prove: Fae is floral or a vumpus.
+A: Fae is a jompus. Fae is bright or a jompus. Everything that is bright or a jompus is a vumpus. Fae is a vumpus. Fae is floral or a vumpus.
+
+Q: Everything that is loud or a rompus is a shumpus. Fae is a rompus. Prove: Fae is feisty or a shumpus.
+A: Fae is a rompus. Fae is loud or a rompus. Everything that is loud or a rompus is a shumpus. Fae is a shumpus. Fae is feisty or a shumpus.
+
+Q: Everything that is fast or a shumpus is a vumpus. Sam is a shumpus. Prove: Sam is small or a vumpus.
+A: Sam is a shumpus. Sam is fast or a shumpus. Everything that is fast or a shumpus is a vumpus. Sam is a vumpus. Sam is small or a vumpus.
+
+Q: Everything that is large or a tumpus is an impus. Wren is a tumpus. Prove: Wren is bright or an impus.
+A:
+
+Predicted answer: Wren is a tumpus. Wren is large or a tumpus. Everything that is large or a tumpus is an impus. Wren is an impus. Wren is bright or an impus.
+
+
+Expected answer: Wren is a tumpus. Wren is large or a tumpus. Everything that is large or a tumpus is an impus. Wren is an impus. Wren is bright or an impus.
+n: 81, (beta prior) mean: 0.012048192771084338, 95% lower bound: 0.0003087060963702275, 95% upper bound: 0.04398945418684236, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is melodic or a zumpus is a shumpus. Max is a zumpus. Prove: Max is fast or a shumpus.
+A: Max is a zumpus. Max is melodic or a zumpus. Everything that is melodic or a zumpus is a shumpus. Max is a shumpus. Max is fast or a shumpus.
+
+Q: Everything that is bright or a zumpus is a vumpus. Rex is a zumpus. Prove: Rex is opaque or a vumpus.
+A: Rex is a zumpus. Rex is bright or a zumpus. Everything that is bright or a zumpus is a vumpus. Rex is a vumpus. Rex is opaque or a vumpus.
+
+Q: Everything that is floral or a lorpus is a yumpus. Wren is a lorpus. Prove: Wren is mean or a yumpus.
+A: Wren is a lorpus. Wren is floral or a lorpus. Everything that is floral or a lorpus is a yumpus. Wren is a yumpus. Wren is mean or a yumpus.
+
+Q: Everything that is snowy or a dumpus is a brimpus. Rex is a dumpus. Prove: Rex is slow or a brimpus.
+A:
+
+Predicted answer: Rex is a dumpus. Rex is snowy or a dumpus. Everything that is snowy or a dumpus is a brimpus. Rex is a brimpus. Rex is slow or a brimpus.
+
+
+
+Expected answer: Rex is a dumpus. Rex is snowy or a dumpus. Everything that is snowy or a dumpus is a brimpus. Rex is a brimpus. Rex is slow or a brimpus.
+n: 82, (beta prior) mean: 0.011904761904761904, 95% lower bound: 0.0003049873130469377, 95% upper bound: 0.0434711521664418, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is opaque or a tumpus is a wumpus. Rex is a tumpus. Prove: Rex is orange or a wumpus.
+A: Rex is a tumpus. Rex is opaque or a tumpus. Everything that is opaque or a tumpus is a wumpus. Rex is a wumpus. Rex is orange or a wumpus.
+
+Q: Everything that is nervous or a jompus is a lempus. Wren is a jompus. Prove: Wren is fruity or a lempus.
+A: Wren is a jompus. Wren is nervous or a jompus. Everything that is nervous or a jompus is a lempus. Wren is a lempus. Wren is fruity or a lempus.
+
+Q: Everything that is moderate or a lorpus is a rompus. Alex is a lorpus. Prove: Alex is sweet or a rompus.
+A: Alex is a lorpus. Alex is moderate or a lorpus. Everything that is moderate or a lorpus is a rompus. Alex is a rompus. Alex is sweet or a rompus.
+
+Q: Everything that is muffled or a tumpus is a zumpus. Fae is a tumpus. Prove: Fae is orange or a zumpus.
+A:
+
+Predicted answer: Fae is a tumpus. Fae is muffled or a tumpus. Everything that is muffled or a tumpus is a zumpus. Fae is a zumpus. Fae is orange or a zumpus.
+
+
+Expected answer: Fae is a tumpus. Fae is muffled or a tumpus. Everything that is muffled or a tumpus is a zumpus. Fae is a zumpus. Fae is orange or a zumpus.
+n: 83, (beta prior) mean: 0.011764705882352941, 95% lower bound: 0.0003013570588402435, 95% upper bound: 0.04296491962956506, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is small or a brimpus is a lorpus. Rex is a brimpus. Prove: Rex is hot or a lorpus.
+A: Rex is a brimpus. Rex is small or a brimpus. Everything that is small or a brimpus is a lorpus. Rex is a lorpus. Rex is hot or a lorpus.
+
+Q: Everything that is shy or a wumpus is a grimpus. Stella is a wumpus. Prove: Stella is small or a grimpus.
+A: Stella is a wumpus. Stella is shy or a wumpus. Everything that is shy or a wumpus is a grimpus. Stella is a grimpus. Stella is small or a grimpus.
+
+Q: Everything that is small or a yumpus is a jompus. Sally is a yumpus. Prove: Sally is fruity or a jompus.
+A: Sally is a yumpus. Sally is small or a yumpus. Everything that is small or a yumpus is a jompus. Sally is a jompus. Sally is fruity or a jompus.
+
+Q: Everything that is sour or a numpus is a gorpus. Polly is a numpus. Prove: Polly is large or a gorpus.
+A:
+
+Predicted answer: Polly is a numpus. Polly is sour or a numpus. Everything that is sour or a numpus is a gorpus. Polly is a gorpus. Polly is large or a gorpus.
+
+
+
+Expected answer: Polly is a numpus. Polly is sour or a numpus. Everything that is sour or a numpus is a gorpus. Polly is a gorpus. Polly is large or a gorpus.
+n: 84, (beta prior) mean: 0.011627906976744186, 95% lower bound: 0.0002978122096584482, 95% upper bound: 0.04247033991124916, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is bright or a brimpus is a gorpus. Sam is a brimpus. Prove: Sam is earthy or a gorpus.
+A: Sam is a brimpus. Sam is bright or a brimpus. Everything that is bright or a brimpus is a gorpus. Sam is a gorpus. Sam is earthy or a gorpus.
+
+Q: Everything that is rainy or a tumpus is a yumpus. Sally is a tumpus. Prove: Sally is discordant or a yumpus.
+A: Sally is a tumpus. Sally is rainy or a tumpus. Everything that is rainy or a tumpus is a yumpus. Sally is a yumpus. Sally is discordant or a yumpus.
+
+Q: Everything that is amenable or a numpus is a lorpus. Wren is a numpus. Prove: Wren is overcast or a lorpus.
+A: Wren is a numpus. Wren is amenable or a numpus. Everything that is amenable or a numpus is a lorpus. Wren is a lorpus. Wren is overcast or a lorpus.
+
+Q: Everything that is cold or a tumpus is a gorpus. Rex is a tumpus. Prove: Rex is moderate or a gorpus.
+A:
+
+Predicted answer: Rex is a tumpus. Rex is cold or a tumpus. Everything that is cold or a tumpus is a gorpus. Rex is a gorpus. Rex is moderate or a gorpus.
+
+
+
+Expected answer: Rex is a tumpus. Rex is cold or a tumpus. Everything that is cold or a tumpus is a gorpus. Rex is a gorpus. Rex is moderate or a gorpus.
+n: 85, (beta prior) mean: 0.011494252873563218, 95% lower bound: 0.0002943497866950549, 95% upper bound: 0.04198701530414447, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is cold or a wumpus is a sterpus. Max is a wumpus. Prove: Max is transparent or a sterpus.
+A: Max is a wumpus. Max is cold or a wumpus. Everything that is cold or a wumpus is a sterpus. Max is a sterpus. Max is transparent or a sterpus.
+
+Q: Everything that is large or a yumpus is a lempus. Fae is a yumpus. Prove: Fae is dull or a lempus.
+A: Fae is a yumpus. Fae is large or a yumpus. Everything that is large or a yumpus is a lempus. Fae is a lempus. Fae is dull or a lempus.
+
+Q: Everything that is fruity or a shumpus is a wumpus. Alex is a shumpus. Prove: Alex is snowy or a wumpus.
+A: Alex is a shumpus. Alex is fruity or a shumpus. Everything that is fruity or a shumpus is a wumpus. Alex is a wumpus. Alex is snowy or a wumpus.
+
+Q: Everything that is moderate or a yumpus is a dumpus. Stella is a yumpus. Prove: Stella is wooden or a dumpus.
+A:
+
+Predicted answer: Stella is a yumpus. Stella is moderate or a yumpus. Everything that is moderate or a yumpus is a dumpus. Stella is a dumpus. Stella is wooden or a dumpus.
+
+
+
+Expected answer: Stella is a yumpus. Stella is moderate or a yumpus. Everything that is moderate or a yumpus is a dumpus. Stella is a dumpus. Stella is wooden or a dumpus.
+n: 86, (beta prior) mean: 0.011363636363636364, 95% lower bound: 0.00029096694808025735, 95% upper bound: 0.041514565992637815, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is aggressive or an impus is a gorpus. Wren is an impus. Prove: Wren is melodic or a gorpus.
+A: Wren is an impus. Wren is aggressive or an impus. Everything that is aggressive or an impus is a gorpus. Wren is a gorpus. Wren is melodic or a gorpus.
+
+Q: Everything that is blue or a tumpus is a gorpus. Wren is a tumpus. Prove: Wren is transparent or a gorpus.
+A: Wren is a tumpus. Wren is blue or a tumpus. Everything that is blue or a tumpus is a gorpus. Wren is a gorpus. Wren is transparent or a gorpus.
+
+Q: Everything that is moderate or a tumpus is a zumpus. Stella is a tumpus. Prove: Stella is cold or a zumpus.
+A: Stella is a tumpus. Stella is moderate or a tumpus. Everything that is moderate or a tumpus is a zumpus. Stella is a zumpus. Stella is cold or a zumpus.
+
+Q: Everything that is windy or a lempus is a sterpus. Max is a lempus. Prove: Max is feisty or a sterpus.
+A:
+
+Predicted answer: Max is a lempus. Max is windy or a lempus. Everything that is windy or a lempus is a sterpus. Max is a sterpus. Max is feisty or a sterpus.
+
+
+
+Expected answer: Max is a lempus. Max is windy or a lempus. Everything that is windy or a lempus is a sterpus. Max is a sterpus. Max is feisty or a sterpus.
+n: 87, (beta prior) mean: 0.011235955056179775, 95% lower bound: 0.0002876609811015656, 95% upper bound: 0.04105262905807801, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is muffled or a zumpus is a shumpus. Rex is a zumpus. Prove: Rex is liquid or a shumpus.
+A: Rex is a zumpus. Rex is muffled or a zumpus. Everything that is muffled or a zumpus is a shumpus. Rex is a shumpus. Rex is liquid or a shumpus.
+
+Q: Everything that is bright or a lorpus is a grimpus. Stella is a lorpus. Prove: Stella is small or a grimpus.
+A: Stella is a lorpus. Stella is bright or a lorpus. Everything that is bright or a lorpus is a grimpus. Stella is a grimpus. Stella is small or a grimpus.
+
+Q: Everything that is angry or a dumpus is a brimpus. Wren is a dumpus. Prove: Wren is transparent or a brimpus.
+A: Wren is a dumpus. Wren is angry or a dumpus. Everything that is angry or a dumpus is a brimpus. Wren is a brimpus. Wren is transparent or a brimpus.
+
+Q: Everything that is opaque or a rompus is a brimpus. Sam is a rompus. Prove: Sam is fruity or a brimpus.
+A:
+
+Predicted answer: Sam is a rompus. Sam is opaque or a rompus. Everything that is opaque or a rompus is a brimpus. Sam is a brimpus. Sam is fruity or a brimpus.
+
+
+
+Expected answer: Sam is a rompus. Sam is opaque or a rompus. Everything that is opaque or a rompus is a brimpus. Sam is a brimpus. Sam is fruity or a brimpus.
+n: 88, (beta prior) mean: 0.011111111111111112, 95% lower bound: 0.0002844292949488092, 95% upper bound: 0.04060085754963182, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is rainy or a yumpus is a tumpus. Sam is a yumpus. Prove: Sam is large or a tumpus.
+A: Sam is a yumpus. Sam is rainy or a yumpus. Everything that is rainy or a yumpus is a tumpus. Sam is a tumpus. Sam is large or a tumpus.
+
+Q: Everything that is liquid or a sterpus is a dumpus. Fae is a sterpus. Prove: Fae is shy or a dumpus.
+A: Fae is a sterpus. Fae is liquid or a sterpus. Everything that is liquid or a sterpus is a dumpus. Fae is a dumpus. Fae is shy or a dumpus.
+
+Q: Everything that is bright or a jompus is a lempus. Rex is a jompus. Prove: Rex is muffled or a lempus.
+A: Rex is a jompus. Rex is bright or a jompus. Everything that is bright or a jompus is a lempus. Rex is a lempus. Rex is muffled or a lempus.
+
+Q: Everything that is large or a dumpus is a grimpus. Alex is a dumpus. Prove: Alex is metallic or a grimpus.
+A:
+
+Predicted answer: Alex is a dumpus. Alex is large or a dumpus. Everything that is large or a dumpus is a grimpus. Alex is a grimpus. Alex is metallic or a grimpus.
+
+
+
+Expected answer: Alex is a dumpus. Alex is large or a dumpus. Everything that is large or a dumpus is a grimpus. Alex is a grimpus. Alex is metallic or a grimpus.
+n: 89, (beta prior) mean: 0.01098901098901099, 95% lower bound: 0.0002812694139427387, 95% upper bound: 0.040158919615774634, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is muffled or a zumpus is a yumpus. Stella is a zumpus. Prove: Stella is large or a yumpus.
+A: Stella is a zumpus. Stella is muffled or a zumpus. Everything that is muffled or a zumpus is a yumpus. Stella is a yumpus. Stella is large or a yumpus.
+
+Q: Everything that is metallic or a brimpus is a lorpus. Polly is a brimpus. Prove: Polly is rainy or a lorpus.
+A: Polly is a brimpus. Polly is metallic or a brimpus. Everything that is metallic or a brimpus is a lorpus. Polly is a lorpus. Polly is rainy or a lorpus.
+
+Q: Everything that is temperate or a rompus is a lorpus. Wren is a rompus. Prove: Wren is dull or a lorpus.
+A: Wren is a rompus. Wren is temperate or a rompus. Everything that is temperate or a rompus is a lorpus. Wren is a lorpus. Wren is dull or a lorpus.
+
+Q: Everything that is red or a rompus is a vumpus. Sally is a rompus. Prove: Sally is sunny or a vumpus.
+A:
+
+Predicted answer: Sally is a rompus. Sally is red or a rompus. Everything that is red or a rompus is a vumpus. Sally is a vumpus. Sally is sunny or a vumpus.
+
+
+
+Expected answer: Sally is a rompus. Sally is red or a rompus. Everything that is red or a rompus is a vumpus. Sally is a vumpus. Sally is sunny or a vumpus.
+n: 90, (beta prior) mean: 0.010869565217391304, 95% lower bound: 0.0002781789712100313, 95% upper bound: 0.039726497691849584, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is amenable or a brimpus is a zumpus. Polly is a brimpus. Prove: Polly is loud or a zumpus.
+A: Polly is a brimpus. Polly is amenable or a brimpus. Everything that is amenable or a brimpus is a zumpus. Polly is a zumpus. Polly is loud or a zumpus.
+
+Q: Everything that is small or a shumpus is a dumpus. Sally is a shumpus. Prove: Sally is shy or a dumpus.
+A: Sally is a shumpus. Sally is small or a shumpus. Everything that is small or a shumpus is a dumpus. Sally is a dumpus. Sally is shy or a dumpus.
+
+Q: Everything that is wooden or a lempus is a lorpus. Rex is a lempus. Prove: Rex is dull or a lorpus.
+A: Rex is a lempus. Rex is wooden or a lempus. Everything that is wooden or a lempus is a lorpus. Rex is a lorpus. Rex is dull or a lorpus.
+
+Q: Everything that is sunny or a sterpus is a gorpus. Wren is a sterpus. Prove: Wren is small or a gorpus.
+A:
+
+Predicted answer: Wren is a sterpus. Wren is sunny or a sterpus. Everything that is sunny or a sterpus is a gorpus. Wren is a gorpus. Wren is small or a gorpus.
+
+
+Expected answer: Wren is a sterpus. Wren is sunny or a sterpus. Everything that is sunny or a sterpus is a gorpus. Wren is a gorpus. Wren is small or a gorpus.
+n: 91, (beta prior) mean: 0.010752688172043012, 95% lower bound: 0.0002751557027707387, 95% upper bound: 0.039303287739518036, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is red or a gorpus is a lempus. Rex is a gorpus. Prove: Rex is dull or a lempus.
+A: Rex is a gorpus. Rex is red or a gorpus. Everything that is red or a gorpus is a lempus. Rex is a lempus. Rex is dull or a lempus.
+
+Q: Everything that is small or a grimpus is a tumpus. Fae is a grimpus. Prove: Fae is luminous or a tumpus.
+A: Fae is a grimpus. Fae is small or a grimpus. Everything that is small or a grimpus is a tumpus. Fae is a tumpus. Fae is luminous or a tumpus.
+
+Q: Everything that is angry or a lorpus is a jompus. Stella is a lorpus. Prove: Stella is windy or a jompus.
+A: Stella is a lorpus. Stella is angry or a lorpus. Everything that is angry or a lorpus is a jompus. Stella is a jompus. Stella is windy or a jompus.
+
+Q: Everything that is moderate or a yumpus is a numpus. Fae is a yumpus. Prove: Fae is kind or a numpus.
+A:
+
+Predicted answer: Fae is a yumpus. Fae is moderate or a yumpus. Everything that is moderate or a yumpus is a numpus. Fae is a numpus. Fae is windy or a numpus.
+
+
+
+Expected answer: Fae is a yumpus. Fae is moderate or a yumpus. Everything that is moderate or a yumpus is a numpus. Fae is a numpus. Fae is kind or a numpus.
+n: 92, (beta prior) mean: 0.010638297872340425, 95% lower bound: 0.00027219744200713874, 95% upper bound: 0.0388889985342758, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is brown or a jompus is a rompus. Alex is a jompus. Prove: Alex is loud or a rompus.
+A: Alex is a jompus. Alex is brown or a jompus. Everything that is brown or a jompus is a rompus. Alex is a rompus. Alex is loud or a rompus.
+
+Q: Everything that is spicy or a tumpus is a lempus. Polly is a tumpus. Prove: Polly is liquid or a lempus.
+A: Polly is a tumpus. Polly is spicy or a tumpus. Everything that is spicy or a tumpus is a lempus. Polly is a lempus. Polly is liquid or a lempus.
+
+Q: Everything that is moderate or a wumpus is a vumpus. Wren is a wumpus. Prove: Wren is transparent or a vumpus.
+A: Wren is a wumpus. Wren is moderate or a wumpus. Everything that is moderate or a wumpus is a vumpus. Wren is a vumpus. Wren is transparent or a vumpus.
+
+Q: Everything that is hot or a tumpus is a dumpus. Rex is a tumpus. Prove: Rex is melodic or a dumpus.
+A:
+
+Predicted answer: Rex is a tumpus. Rex is hot or a tumpus. Everything that is hot or a tumpus is a dumpus. Rex is a dumpus. Rex is melodic or a dumpus.
+
+
+
+Expected answer: Rex is a tumpus. Rex is hot or a tumpus. Everything that is hot or a tumpus is a dumpus. Rex is a dumpus. Rex is melodic or a dumpus.
+n: 93, (beta prior) mean: 0.010526315789473684, 95% lower bound: 0.00026930211448559046, 95% upper bound: 0.03848335099752879, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is metallic or a vumpus is a tumpus. Alex is a vumpus. Prove: Alex is moderate or a tumpus.
+A: Alex is a vumpus. Alex is metallic or a vumpus. Everything that is metallic or a vumpus is a tumpus. Alex is a tumpus. Alex is moderate or a tumpus.
+
+Q: Everything that is nervous or a wumpus is a jompus. Rex is a wumpus. Prove: Rex is snowy or a jompus.
+A: Rex is a wumpus. Rex is nervous or a wumpus. Everything that is nervous or a wumpus is a jompus. Rex is a jompus. Rex is snowy or a jompus.
+
+Q: Everything that is small or a numpus is a gorpus. Fae is a numpus. Prove: Fae is shy or a gorpus.
+A: Fae is a numpus. Fae is small or a numpus. Everything that is small or a numpus is a gorpus. Fae is a gorpus. Fae is shy or a gorpus.
+
+Q: Everything that is small or a yumpus is a gorpus. Wren is a yumpus. Prove: Wren is muffled or a gorpus.
+A:
+
+Predicted answer: Wren is a yumpus. Wren is small or a yumpus. Everything that is small or a yumpus is a gorpus. Wren is a gorpus. Wren is muffled or a gorpus.
+
+
+
+Expected answer: Wren is a yumpus. Wren is small or a yumpus. Everything that is small or a yumpus is a gorpus. Wren is a gorpus. Wren is muffled or a gorpus.
+n: 94, (beta prior) mean: 0.010416666666666666, 95% lower bound: 0.00026646773310538775, 95% upper bound: 0.03808607757001057, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is wooden or a grimpus is a wumpus. Wren is a grimpus. Prove: Wren is sweet or a wumpus.
+A: Wren is a grimpus. Wren is wooden or a grimpus. Everything that is wooden or a grimpus is a wumpus. Wren is a wumpus. Wren is sweet or a wumpus.
+
+Q: Everything that is red or an impus is a yumpus. Sam is an impus. Prove: Sam is small or a yumpus.
+A: Sam is an impus. Sam is red or an impus. Everything that is red or an impus is a yumpus. Sam is a yumpus. Sam is small or a yumpus.
+
+Q: Everything that is feisty or a tumpus is a wumpus. Sally is a tumpus. Prove: Sally is temperate or a wumpus.
+A: Sally is a tumpus. Sally is feisty or a tumpus. Everything that is feisty or a tumpus is a wumpus. Sally is a wumpus. Sally is temperate or a wumpus.
+
+Q: Everything that is floral or a sterpus is a lempus. Stella is a sterpus. Prove: Stella is muffled or a lempus.
+A:
+
+Predicted answer: Stella is a sterpus. Stella is floral or a sterpus. Everything that is floral or a sterpus is a lempus. Stella is a lempus. Stella is muffled or a lempus.
+
+
+
+Expected answer: Stella is a sterpus. Stella is floral or a sterpus. Everything that is floral or a sterpus is a lempus. Stella is a lempus. Stella is muffled or a lempus.
+n: 95, (beta prior) mean: 0.010309278350515464, 95% lower bound: 0.00026369239355076825, 95% upper bound: 0.03769692162358756, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is discordant or a zumpus is a lempus. Max is a zumpus. Prove: Max is opaque or a lempus.
+A: Max is a zumpus. Max is discordant or a zumpus. Everything that is discordant or a zumpus is a lempus. Max is a lempus. Max is opaque or a lempus.
+
+Q: Everything that is happy or a yumpus is a lorpus. Stella is a yumpus. Prove: Stella is melodic or a lorpus.
+A: Stella is a yumpus. Stella is happy or a yumpus. Everything that is happy or a yumpus is a lorpus. Stella is a lorpus. Stella is melodic or a lorpus.
+
+Q: Everything that is fruity or a numpus is a tumpus. Max is a numpus. Prove: Max is transparent or a tumpus.
+A: Max is a numpus. Max is fruity or a numpus. Everything that is fruity or a numpus is a tumpus. Max is a tumpus. Max is transparent or a tumpus.
+
+Q: Everything that is hot or a yumpus is a lempus. Sam is a yumpus. Prove: Sam is wooden or a lempus.
+A:
+
+Predicted answer: Sam is a yumpus. Sam is hot or a yumpus. Everything that is hot or a yumpus is a lempus. Sam is a lempus. Sam is wooden or a lempus.
+
+
+
+Expected answer: Sam is a yumpus. Sam is hot or a yumpus. Everything that is hot or a yumpus is a lempus. Sam is a lempus. Sam is wooden or a lempus.
+n: 96, (beta prior) mean: 0.01020408163265306, 95% lower bound: 0.0002609742700242055, 95% upper bound: 0.03731563690873607, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is cold or a brimpus is a numpus. Rex is a brimpus. Prove: Rex is muffled or a numpus.
+A: Rex is a brimpus. Rex is cold or a brimpus. Everything that is cold or a brimpus is a numpus. Rex is a numpus. Rex is muffled or a numpus.
+
+Q: Everything that is moderate or a dumpus is a zumpus. Polly is a dumpus. Prove: Polly is windy or a zumpus.
+A: Polly is a dumpus. Polly is moderate or a dumpus. Everything that is moderate or a dumpus is a zumpus. Polly is a zumpus. Polly is windy or a zumpus.
+
+Q: Everything that is melodic or a lempus is a grimpus. Sally is a lempus. Prove: Sally is opaque or a grimpus.
+A: Sally is a lempus. Sally is melodic or a lempus. Everything that is melodic or a lempus is a grimpus. Sally is a grimpus. Sally is opaque or a grimpus.
+
+Q: Everything that is small or a gorpus is a grimpus. Sam is a gorpus. Prove: Sam is temperate or a grimpus.
+A:
+
+Predicted answer: Sam is a gorpus. Sam is small or a gorpus. Everything that is small or a gorpus is a grimpus. Sam is a grimpus. Sam is temperate or a grimpus.
+
+
+
+Expected answer: Sam is a gorpus. Sam is small or a gorpus. Everything that is small or a gorpus is a grimpus. Sam is a grimpus. Sam is temperate or a grimpus.
+n: 97, (beta prior) mean: 0.010101010101010102, 95% lower bound: 0.000258311611240894, 95% upper bound: 0.03694198703519287, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is spicy or a lempus is a vumpus. Alex is a lempus. Prove: Alex is nervous or a vumpus.
+A: Alex is a lempus. Alex is spicy or a lempus. Everything that is spicy or a lempus is a vumpus. Alex is a vumpus. Alex is nervous or a vumpus.
+
+Q: Everything that is earthy or a yumpus is a gorpus. Sally is a yumpus. Prove: Sally is small or a gorpus.
+A: Sally is a yumpus. Sally is earthy or a yumpus. Everything that is earthy or a yumpus is a gorpus. Sally is a gorpus. Sally is small or a gorpus.
+
+Q: Everything that is rainy or a dumpus is a vumpus. Stella is a dumpus. Prove: Stella is dull or a vumpus.
+A: Stella is a dumpus. Stella is rainy or a dumpus. Everything that is rainy or a dumpus is a vumpus. Stella is a vumpus. Stella is dull or a vumpus.
+
+Q: Everything that is fruity or an impus is a tumpus. Sally is an impus. Prove: Sally is large or a tumpus.
+A:
+
+Predicted answer: Sally is an impus. Sally is fruity or an impus. Everything that is fruity or an impus is a tumpus. Sally is a tumpus. Sally is large or a tumpus.
+
+
+
+Expected answer: Sally is an impus. Sally is fruity or an impus. Everything that is fruity or an impus is a tumpus. Sally is a tumpus. Sally is large or a tumpus.
+n: 98, (beta prior) mean: 0.01, 95% lower bound: 0.00025570273666596153, 95% upper bound: 0.03657574498347894, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is rainy or a grimpus is a jompus. Rex is a grimpus. Prove: Rex is shy or a jompus.
+A: Rex is a grimpus. Rex is rainy or a grimpus. Everything that is rainy or a grimpus is a jompus. Rex is a jompus. Rex is shy or a jompus.
+
+Q: Everything that is sour or a rompus is a shumpus. Sam is a rompus. Prove: Sam is dull or a shumpus.
+A: Sam is a rompus. Sam is sour or a rompus. Everything that is sour or a rompus is a shumpus. Sam is a shumpus. Sam is dull or a shumpus.
+
+Q: Everything that is mean or a gorpus is a yumpus. Max is a gorpus. Prove: Max is opaque or a yumpus.
+A: Max is a gorpus. Max is mean or a gorpus. Everything that is mean or a gorpus is a yumpus. Max is a yumpus. Max is opaque or a yumpus.
+
+Q: Everything that is bright or a zumpus is a numpus. Rex is a zumpus. Prove: Rex is luminous or a numpus.
+A:
+
+Predicted answer: Rex is a zumpus. Rex is bright or a zumpus. Everything that is bright or a zumpus is a numpus. Rex is a numpus. Rex is luminous or a numpus.
+
+
+
+Expected answer: Rex is a zumpus. Rex is bright or a zumpus. Everything that is bright or a zumpus is a numpus. Rex is a numpus. Rex is luminous or a numpus.
+n: 99, (beta prior) mean: 0.009900990099009901, 95% lower bound: 0.00025314603297742064, 95% upper bound: 0.03621669264517641, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
+Q: Everything that is temperate or a rompus is a gorpus. Alex is a rompus. Prove: Alex is happy or a gorpus.
+A: Alex is a rompus. Alex is temperate or a rompus. Everything that is temperate or a rompus is a gorpus. Alex is a gorpus. Alex is happy or a gorpus.
+
+Q: Everything that is opaque or a wumpus is a lorpus. Wren is a wumpus. Prove: Wren is dull or a lorpus.
+A: Wren is a wumpus. Wren is opaque or a wumpus. Everything that is opaque or a wumpus is a lorpus. Wren is a lorpus. Wren is dull or a lorpus.
+
+Q: Everything that is slow or a zumpus is a lorpus. Rex is a zumpus. Prove: Rex is bitter or a lorpus.
+A: Rex is a zumpus. Rex is slow or a zumpus. Everything that is slow or a zumpus is a lorpus. Rex is a lorpus. Rex is bitter or a lorpus.
+
+Q: Everything that is discordant or a gorpus is a tumpus. Alex is a gorpus. Prove: Alex is metallic or a tumpus.
+A:
+
+Predicted answer: Alex is a gorpus. Alex is discordant or a gorpus. Everything that is discordant or a gorpus is a tumpus. Alex is a tumpus. Alex is metallic or a tumpus.
+
+
+
+Expected answer: Alex is a gorpus. Alex is discordant or a gorpus. Everything that is discordant or a gorpus is a tumpus. Alex is a tumpus. Alex is metallic or a tumpus.
+n: 100, (beta prior) mean: 0.00980392156862745, 95% lower bound: 0.0002506399507392151, 95% upper bound: 0.03586462039000372, logprobs: null
+  (normal approximation) mean: 0.0, 95% lower bound: 0.0, 95% upper bound: 0.0
+
